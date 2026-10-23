@@ -300,7 +300,7 @@ html_content = f"""<!DOCTYPE html>
     <div id="tab-breakouts" class="tab-content space-y-4">
       <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-3">
         <div class="text-xs text-slate-400">
-          创建不超过 14 天、日均涨星 > 200 或单日暴涨 > 400 的 GitHub 开源仓库
+          监控近 14 天新建、日均涨星 &gt; 200 的突围仓库。<span class="text-amber-400">⚡ 首次达标</span> 表示今日首次突破阈值进榜（项目实际诞生时长见“诞生天数”）。
         </div>
         <input type="text" id="breakout-search" oninput="filterBreakouts()" placeholder="搜索仓库、作者或描述..." class="bg-slate-900 border border-slate-700 rounded-lg px-3 py-1.5 text-xs text-slate-200 focus:outline-none focus:border-cyan-500 w-full sm:w-64">
       </div>
@@ -312,7 +312,7 @@ html_content = f"""<!DOCTYPE html>
               <th class="p-3">仓库名称</th>
               <th class="p-3">总 Stars</th>
               <th class="p-3">日均涨星 (Velocity)</th>
-              <th class="p-3">较昨日</th>
+              <th class="p-3">较昨日增量</th>
               <th class="p-3">诞生天数</th>
               <th class="p-3">项目描述</th>
               <th class="p-3 text-right">操作</th>
@@ -325,12 +325,25 @@ for r in breakout_repos:
     repo_name = r.get("repo", "")
     stars = r.get("stars", 0)
     vel = r.get("velocity", 0)
-    delta = r.get("delta", 0)
+    delta_val = r.get("delta")
     age = r.get("age_days", 0)
     desc = r.get("description", "")
     is_new = r.get("new", False)
 
-    new_badge = '<span class="ml-1.5 px-1.5 py-0.5 text-[10px] bg-red-950 text-red-400 border border-red-800 rounded">🆕首日</span>' if is_new else ""
+    # Clean delta string
+    if delta_val is not None:
+        delta_str = f"+{delta_val}"
+    else:
+        delta_str = '<span class="text-slate-500 text-[11px]" title="首次扫描入库，明日起展示对比">初始收录</span>'
+
+    # Clear, unambiguous badges
+    if age <= 2.0:
+        new_badge = '<span class="ml-1.5 px-1.5 py-0.5 text-[10px] bg-red-950 text-red-300 border border-red-800 rounded" title="近48小时内刚创建的全新项目">🔥 48h新项目</span>'
+    elif is_new:
+        new_badge = '<span class="ml-1.5 px-1.5 py-0.5 text-[10px] bg-amber-950 text-amber-300 border border-amber-800 rounded" title="今日首次达到日增200星爆发阈值">⚡ 首次达标</span>'
+    else:
+        new_badge = '<span class="ml-1.5 px-1.5 py-0.5 text-[10px] bg-slate-800 text-slate-400 border border-slate-700 rounded">持续在榜</span>'
+
     html_content += f"""
             <tr class="hover:bg-slate-800/40 transition breakout-row" data-search="{repo_name.lower()} {desc.lower()}">
               <td class="p-3 font-medium text-white flex items-center">
@@ -341,7 +354,7 @@ for r in breakout_repos:
               </td>
               <td class="p-3 font-mono font-bold text-amber-400">★ {stars}</td>
               <td class="p-3 font-mono text-emerald-400">+{vel}/天</td>
-              <td class="p-3 font-mono text-slate-300">+{delta}</td>
+              <td class="p-3 font-mono text-slate-300">{delta_str}</td>
               <td class="p-3 text-slate-400 font-mono">{age} 天</td>
               <td class="p-3 text-slate-300 max-w-md truncate" title="{desc}">{desc or '（暂无描述）'}</td>
               <td class="p-3 text-right">
