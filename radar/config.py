@@ -44,7 +44,7 @@ DEFAULTS = {
 def load(path: Path) -> dict:
     if not path.exists():
         raise SystemExit(f"{path} not found: copy config.example.json to {path.name} and edit it")
-    raw = json.loads(path.read_text())
+    raw = json.loads(path.read_text(encoding='utf-8'))
     cfg = {}
     for k, default in DEFAULTS.items():
         v = raw.get(k, default)

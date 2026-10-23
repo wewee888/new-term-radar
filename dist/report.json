@@ -1,0 +1,211 @@
+{
+ "leads": [],
+ "x": {
+  "skipped": true
+ },
+ "hf": {
+  "skipped": true
+ },
+ "breakout": {
+  "searched": 200,
+  "first_run": false,
+  "repos": [
+   {
+    "repo": "Gathin23/cleanyourtv",
+    "owner": "Gathin23",
+    "name": "cleanyourtv",
+    "stars": 23211,
+    "velocity": 4281,
+    "delta": 2,
+    "age_days": 5.4,
+    "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+    "new": false
+   },
+   {
+    "repo": "deepseek-ai/DeepInfer",
+    "owner": "deepseek-ai",
+    "name": "DeepInfer",
+    "stars": 19725,
+    "velocity": 3063,
+    "delta": 0,
+    "age_days": 6.4,
+    "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+    "new": false
+   },
+   {
+    "repo": "pengchujin/aerial-tv",
+    "owner": "pengchujin",
+    "name": "aerial-tv",
+    "stars": 3010,
+    "velocity": 1265,
+    "delta": 0,
+    "age_days": 2.4,
+    "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+    "new": false
+   },
+   {
+    "repo": "simbasjungles/free-my-tv",
+    "owner": "simbasjungles",
+    "name": "free-my-tv",
+    "stars": 3211,
+    "velocity": 1088,
+    "delta": 1,
+    "age_days": 3.0,
+    "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+    "new": false
+   },
+   {
+    "repo": "ikow/php2shell-poc",
+    "owner": "ikow",
+    "name": "php2shell-poc",
+    "stars": 1458,
+    "velocity": 1017,
+    "delta": 0,
+    "age_days": 1.4,
+    "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-",
+    "new": false
+   },
+   {
+    "repo": "ly05010419/MacNativeGames",
+    "owner": "ly05010419",
+    "name": "MacNativeGames",
+    "stars": 4403,
+    "velocity": 892,
+    "delta": 1,
+    "age_days": 4.9,
+    "description": "",
+    "new": false
+   },
+   {
+    "repo": "9bie/php2shell-bypass-aslr-exp",
+    "owner": "9bie",
+    "name": "php2shell-bypass-aslr-exp",
+    "stars": 927,
+    "velocity": 715,
+    "delta": 0,
+    "age_days": 1.3,
+    "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit",
+    "new": false
+   },
+   {
+    "repo": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+    "owner": "eness",
+    "name": "php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+    "stars": 858,
+    "velocity": 609,
+    "delta": 1,
+    "age_days": 1.4,
+    "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in",
+    "new": false
+   },
+   {
+    "repo": "tek-sys-hub/Rubix-lang",
+    "owner": "tek-sys-hub",
+    "name": "Rubix-lang",
+    "stars": 1902,
+    "velocity": 539,
+    "delta": 0,
+    "age_days": 3.5,
+    "description": "The 100% Pure x86-64 Assembly Systems Language",
+    "new": false
+   },
+   {
+    "repo": "JoasASantos/REA-Prompts",
+    "owner": "JoasASantos",
+    "name": "REA-Prompts",
+    "stars": 1458,
+    "velocity": 515,
+    "delta": 0,
+    "age_days": 2.8,
+    "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any progr",
+    "new": false
+   },
+   {
+    "repo": "xiaoyang111222/cn-math-taxonomy",
+    "owner": "xiaoyang111222",
+    "name": "cn-math-taxonomy",
+    "stars": 2183,
+    "velocity": 498,
+    "delta": 0,
+    "age_days": 4.4,
+    "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+    "new": false
+   },
+   {
+    "repo": "Acelogic/Snapintosh",
+    "owner": "Acelogic",
+    "name": "Snapintosh",
+    "stars": 491,
+    "velocity": 491,
+    "delta": 1,
+    "age_days": 1.0,
+    "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
+    "new": false
+   },
+   {
+    "repo": "openai/php2shell-checker",
+    "owner": "openai",
+    "name": "php2shell-checker",
+    "stars": 771,
+    "velocity": 442,
+    "delta": 2,
+    "age_days": 1.7,
+    "description": "",
+    "new": false
+   },
+   {
+    "repo": "jhaizhou-ops/d2r-mobile",
+    "owner": "jhaizhou-ops",
+    "name": "d2r-mobile",
+    "stars": 4392,
+    "velocity": 422,
+    "delta": 0,
+    "age_days": 10.4,
+    "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs you",
+    "new": false
+   },
+   {
+    "repo": "HeyPuter/everything",
+    "owner": "HeyPuter",
+    "name": "everything",
+    "stars": 3564,
+    "velocity": 392,
+    "delta": 0,
+    "age_days": 9.1,
+    "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+    "new": false
+   }
+  ],
+  "terms": [],
+  "window_days": 14
+ },
+ "sitemap": {
+  "skipped": true
+ },
+ "newsite": {
+  "skipped": true
+ },
+ "revenue": {
+  "skipped": true
+ },
+ "ask": {
+  "skipped": true
+ },
+ "seller": {
+  "skipped": true
+ },
+ "gsc": {
+  "off": true
+ },
+ "review": {
+  "skipped": true
+ },
+ "summary": {
+  "by_signal": {},
+  "pending": 15,
+  "window_days": 60
+ },
+ "keywords": {
+  "skipped": true
+ }
+}

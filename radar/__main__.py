@@ -60,7 +60,7 @@ def run(fn, skip: bool = False) -> dict:
 
 def _finish(args, text: str, subject: str) -> None:
     if args.out:
-        Path(args.out).write_text(text)
+        Path(args.out).write_text(text, encoding='utf-8')
     print(text)
     if args.mail:
         print(notify.send(subject, text))
@@ -116,7 +116,7 @@ def cmd_daily(args, cfg: dict, state: Path) -> int:
     text = report.daily(cfg, lead, blocks, found, rev, summ, extra)
     if args.out:
         Path(args.out).with_suffix(".json").write_text(json.dumps(
-            {"leads": lead, **blocks, "gsc": found, "review": rev, "summary": summ, "keywords": extra["usecases"]}, ensure_ascii=False, indent=1, default=str))
+            {"leads": lead, **blocks, "gsc": found, "review": rev, "summary": summ, "keywords": extra["usecases"]}, ensure_ascii=False, indent=1, default=str), encoding='utf-8')
     _finish(args, text, f"New-term radar {date.today()}")
     return 0
 
@@ -137,7 +137,7 @@ def cmd_keywords(args, cfg: dict, state: Path) -> int:
     uc, text = keyword_table(cfg, state, args.names, repos)
     out = json.dumps(uc, ensure_ascii=False, indent=1, default=str) if args.json else text
     if args.out:
-        Path(args.out).write_text(out)
+        Path(args.out).write_text(out, encoding='utf-8')
     print(out)
     return 0
 
@@ -149,7 +149,7 @@ def cmd_pains(args, cfg: dict) -> int:
     result = pains.run(cfg, keyword, args.extension)
     out = json.dumps(result, ensure_ascii=False, indent=1, default=str) if args.json else report.pains(result)
     if args.out:
-        Path(args.out).write_text(out)
+        Path(args.out).write_text(out, encoding='utf-8')
     print(out)
     return 0
 
@@ -198,6 +198,10 @@ def serve_mcp() -> int:
 
 
 def main(argv: list[str] | None = None) -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    if hasattr(sys.stderr, "reconfigure"):
+        sys.stderr.reconfigure(encoding="utf-8", errors="replace")
     if (sys.argv[1:] if argv is None else argv)[:1] == ["mcp"]:
         return serve_mcp()
     prog = "python -m radar" if __package__ == "radar" else "new-term-radar"  # installed, the package has another name

@@ -1,96 +1,120 @@
-name: New-term radar
-
-# Two schedules, one state:
-#   sources  every 8 hours: X and Hugging Face, where a name is said first. Posts a
-#            report only when there is a new name.
-#   daily    once a day: everything else, the review of leads from 14 days ago, and the
-#            source leads of the last day.
-#
-# Off until you opt in: set the repository variable RADAR_ENABLED to "true"
-# (Settings > Secrets and variables > Actions > Variables), add the secret AISA_API_KEY,
-# and commit your config.json (remove it from .gitignore first; it holds no secrets).
-# Optional secrets: GOANYAPI_API_KEY (related queries in the keyword table),
-# RESEND_API_KEY, EMAIL_FROM, RADAR_EMAIL_TO (mail the reports),
-# GSC_TOKEN_JSON (the Search Console signal).
-#
-# State (state/radar.db and the snapshots) lives in the Actions cache: one entry per
-# run, restored by prefix, so the repository does not grow. A missing cache only means
-# the next run builds new snapshots and reports nothing that day; the leads database
-# would start over, so download the "radar-state" artifact now and then if you care
-# about the review's history.
+name: Daily Radar & Cloudflare Pages Automation
 
 on:
   schedule:
-    - cron: "0 0,8,16 * * *"   # sources
-    - cron: "30 1 * * *"       # daily
+    # 每天 UTC 01:00 (北京时间早晨 09:00) 与 UTC 13:00 (北京时间晚上 21:00) 自动扫描
+    - cron: "0 1,13 * * *"
   workflow_dispatch:
     inputs:
-      command:
-        description: "daily or sources"
-        default: "daily"
+      full_scan:
+        description: "是否尝试全量信源扫描 (需配置 AISA_API_KEY)"
+        type: boolean
+        default: true
 
 concurrency:
-  group: radar
+  group: radar-deploy
   cancel-in-progress: false
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  radar:
-    if: vars.RADAR_ENABLED == 'true'
+  radar-pipeline:
     runs-on: ubuntu-latest
     timeout-minutes: 30
-    env:
-      COMMAND: ${{ github.event.inputs.command || (github.event.schedule == '30 1 * * *' && 'daily' || 'sources') }}
+
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
+      - name: 检出代码 (Checkout)
+        uses: actions/checkout@v4
         with:
-          python-version: "3.12"
+          fetch-depth: 1
 
-      - run: pip install -r requirements.txt
+      - name: 设置 Python 运行环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-      - name: Restore the state
+      - name: 设置 Node.js 环境 (供 Wrangler 部署使用)
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 安装 Python 依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install markdown
+          pip install -e .
+
+      - name: 恢复雷达状态历史缓存 (Restore Radar State)
         uses: actions/cache/restore@v4
         with:
           path: state
           key: radar-state-${{ github.run_id }}
           restore-keys: radar-state-
 
-      - name: Run the radar
+      - name: 运行新词雷达扫描 (Execute Radar Scan)
         env:
           AISA_API_KEY: ${{ secrets.AISA_API_KEY }}
           GOANYAPI_API_KEY: ${{ secrets.GOANYAPI_API_KEY }}
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN || github.token }}
           GSC_TOKEN_JSON: ${{ secrets.GSC_TOKEN_JSON }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           RADAR_EMAIL_TO: ${{ secrets.RADAR_EMAIL_TO }}
         run: |
-          if [ "$COMMAND" = "daily" ]; then
+          echo "=========================================="
+          echo "开始运行新词雷达扫描..."
+          echo "=========================================="
+          if [ -n "$AISA_API_KEY" ]; then
+            echo "检测到 AISA_API_KEY，执行全量多源扫描..."
             python -m radar daily --skip x,hf --out report.md ${RADAR_EMAIL_TO:+--mail}
           else
-            python -m radar sources --out report.md ${RADAR_EMAIL_TO:+--mail}
+            echo "未配置 AISA_API_KEY，执行免费爆发信号与模型扫描..."
+            python -m radar daily --skip x,newsites,revenue,asks,sellers,review,judge,usecases,sitemaps --out report.md
           fi
-          if [ -f report.md ]; then cat report.md >> "$GITHUB_STEP_SUMMARY"; fi
+          echo "雷达扫描完成！"
 
-      - name: Save the state
+      - name: 构建静态网页仪表盘 (Build Web Dashboard)
+        run: |
+          python scripts/build_dist.py
+
+      - name: 保存雷达状态缓存 (Save Radar State)
         if: always()
         uses: actions/cache/save@v4
         with:
           path: state
           key: radar-state-${{ github.run_id }}
 
-      - name: Keep the report and the state
+      - name: 注入 GitHub Step Summary 报告预览
         if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: radar-${{ env.COMMAND }}-${{ github.run_id }}
-          path: |
-            report.md
-            report.json
-            state/radar.db
-          if-no-files-found: ignore
-          retention-days: 30
+        run: |
+          if [ -f report.md ]; then
+            cat report.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: 部署至 Cloudflare Pages (Deploy to Cloudflare)
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID || '514556cd08e5edb572a5b17e3f46eaf8' }}
+        run: |
+          if [ -n "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "检测到 CLOUDFLARE_API_TOKEN，正在使用 Wrangler 部署..."
+            npx wrangler pages deploy dist --project-name new-term-radar --branch main --commit-dirty=true
+          else
+            echo "提示: 未检测到 CLOUDFLARE_API_TOKEN 密钥。"
+            echo "若 Cloudflare Pages 已直接关联 GitHub 仓库，随后的 git push 将自动触发 Cloudflare 构建部署；"
+            echo "若使用 Direct Upload，可在 GitHub 仓库 Secrets 中添加 CLOUDFLARE_API_TOKEN 启用自动部署。"
+          fi
+
+      - name: 提交并推送最新数据回仓库 (Commit & Push Updated Reports)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add report.md report.json dist/ config.json
+          if git diff --staged --quiet; then
+            echo "数据未发生变化，无需提交。"
+          else
+            git commit -m "chore(radar): 自动更新每日雷达报告与静态网页 [skip ci]"
+            git push origin main
+          fi
