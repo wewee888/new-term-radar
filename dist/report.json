@@ -1,11 +1,40 @@
 {
- "leads": [],
+ "leads": [
+  {
+   "term": "mistral large 4 1t",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face: new at #16"
+   ],
+   "examples": [
+    "mistralai/Mistral-Large-4-1T-A52B (image-text-to-text, ♥1164)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "image",
+   "one_click": null
+  }
+ ],
  "x": {
   "skipped": true
  },
  "hf": {
   "first_run": false,
-  "terms": [],
+  "terms": [
+   {
+    "term": "mistral large 4 1t",
+    "rank": 16,
+    "copies": 1,
+    "examples": [
+     "mistralai/Mistral-Large-4-1T-A52B (image-text-to-text, ♥1164)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face: new at #16"
+   }
+  ],
   "models": 100,
   "spaces": 100
  },
@@ -17,10 +46,10 @@
     "repo": "Gathin23/cleanyourtv",
     "owner": "Gathin23",
     "name": "cleanyourtv",
-    "stars": 44244,
-    "velocity": 3705,
-    "delta": 86,
-    "age_days": 11.9,
+    "stars": 45166,
+    "velocity": 3630,
+    "delta": 922,
+    "age_days": 12.4,
     "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
     "new": false
    },
@@ -28,10 +57,10 @@
     "repo": "deepseek-ai/DeepInfer",
     "owner": "deepseek-ai",
     "name": "DeepInfer",
-    "stars": 24049,
-    "velocity": 1856,
-    "delta": 32,
-    "age_days": 13.0,
+    "stars": 24211,
+    "velocity": 1799,
+    "delta": 162,
+    "age_days": 13.5,
     "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
     "new": false
    },
@@ -39,10 +68,10 @@
     "repo": "anhao/ai-pose-gallery-zh",
     "owner": "anhao",
     "name": "ai-pose-gallery-zh",
-    "stars": 2258,
-    "velocity": 1278,
-    "delta": 78,
-    "age_days": 1.8,
+    "stars": 3042,
+    "velocity": 1341,
+    "delta": 784,
+    "age_days": 2.3,
     "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
    },
@@ -50,10 +79,10 @@
     "repo": "Zagitta/gpu-unlock",
     "owner": "Zagitta",
     "name": "gpu-unlock",
-    "stars": 12556,
-    "velocity": 1119,
-    "delta": 32,
-    "age_days": 11.2,
+    "stars": 12950,
+    "velocity": 1105,
+    "delta": 394,
+    "age_days": 11.7,
     "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughp",
     "new": false
    },
@@ -61,10 +90,10 @@
     "repo": "unclebob/ub-mode",
     "owner": "unclebob",
     "name": "ub-mode",
-    "stars": 4016,
-    "velocity": 1111,
-    "delta": 57,
-    "age_days": 3.6,
+    "stars": 4525,
+    "velocity": 1100,
+    "delta": 509,
+    "age_days": 4.1,
     "description": "",
     "new": false
    },
@@ -72,21 +101,32 @@
     "repo": "rddmwmddr/android-ad-cleaner",
     "owner": "rddmwmddr",
     "name": "android-ad-cleaner",
-    "stars": 4480,
-    "velocity": 887,
-    "delta": 37,
-    "age_days": 5.1,
+    "stars": 4699,
+    "velocity": 846,
+    "delta": 219,
+    "age_days": 5.6,
     "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+    "new": false
+   },
+   {
+    "repo": "interplains/Zero-Breach-Toolkit",
+    "owner": "interplains",
+    "name": "Zero-Breach-Toolkit",
+    "stars": 3443,
+    "velocity": 825,
+    "delta": 478,
+    "age_days": 4.2,
+    "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phon",
     "new": false
    },
    {
     "repo": "pengchujin/aerial-tv",
     "owner": "pengchujin",
     "name": "aerial-tv",
-    "stars": 7528,
-    "velocity": 846,
-    "delta": 26,
-    "age_days": 8.9,
+    "stars": 7718,
+    "velocity": 821,
+    "delta": 190,
+    "age_days": 9.4,
     "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
     "new": false
    },
@@ -94,32 +134,21 @@
     "repo": "JustAResearcher/gpu-unlock-ada",
     "owner": "JustAResearcher",
     "name": "gpu-unlock-ada",
-    "stars": 4449,
-    "velocity": 823,
-    "delta": 6,
-    "age_days": 5.4,
+    "stars": 4493,
+    "velocity": 760,
+    "delta": 44,
+    "age_days": 5.9,
     "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
-    "new": false
-   },
-   {
-    "repo": "interplains/Zero-Breach-Toolkit",
-    "owner": "interplains",
-    "name": "Zero-Breach-Toolkit",
-    "stars": 2965,
-    "velocity": 807,
-    "delta": 35,
-    "age_days": 3.7,
-    "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phon",
     "new": false
    },
    {
     "repo": "designfuchen/word-atlas",
     "owner": "designfuchen",
     "name": "word-atlas",
-    "stars": 3127,
-    "velocity": 795,
-    "delta": 20,
-    "age_days": 3.9,
+    "stars": 3218,
+    "velocity": 726,
+    "delta": 91,
+    "age_days": 4.4,
     "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.",
     "new": false
    },
@@ -127,10 +156,10 @@
     "repo": "smithjohn78390/tongjiang-lab",
     "owner": "smithjohn78390",
     "name": "tongjiang-lab",
-    "stars": 672,
-    "velocity": 612,
-    "delta": 39,
-    "age_days": 1.1,
+    "stars": 894,
+    "velocity": 560,
+    "delta": 222,
+    "age_days": 1.6,
     "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
     "new": false
    },
@@ -138,10 +167,10 @@
     "repo": "simbasjungles/free-my-tv",
     "owner": "simbasjungles",
     "name": "free-my-tv",
-    "stars": 5271,
-    "velocity": 556,
-    "delta": 3,
-    "age_days": 9.5,
+    "stars": 5364,
+    "velocity": 538,
+    "delta": 93,
+    "age_days": 10.0,
     "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
     "new": false
    },
@@ -149,10 +178,10 @@
     "repo": "ly05010419/MacNativeGames",
     "owner": "ly05010419",
     "name": "MacNativeGames",
-    "stars": 6339,
-    "velocity": 553,
-    "delta": 19,
-    "age_days": 11.5,
+    "stars": 6424,
+    "velocity": 537,
+    "delta": 85,
+    "age_days": 12.0,
     "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulato",
     "new": false
    },
@@ -160,10 +189,10 @@
     "repo": "xiaoyang111222/cn-math-taxonomy",
     "owner": "xiaoyang111222",
     "name": "cn-math-taxonomy",
-    "stars": 4979,
-    "velocity": 457,
-    "delta": 27,
-    "age_days": 10.9,
+    "stars": 5175,
+    "velocity": 454,
+    "delta": 196,
+    "age_days": 11.4,
     "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
     "new": false
    },
@@ -171,10 +200,10 @@
     "repo": "t3dotgg/tstack",
     "owner": "t3dotgg",
     "name": "tstack",
-    "stars": 2296,
-    "velocity": 452,
-    "delta": 6,
-    "age_days": 5.1,
+    "stars": 2366,
+    "velocity": 424,
+    "delta": 70,
+    "age_days": 5.6,
     "description": "The agent skills I use every day. Works with Claude Code and Codex.",
     "new": false
    }
@@ -205,7 +234,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 41,
+  "pending": 42,
   "window_days": 60
  },
  "keywords": {
