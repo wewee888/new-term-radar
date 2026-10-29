@@ -1,326 +1,22 @@
 {
  "leads": [
   {
-   "term": "3d model anything",
+   "term": "tongjiang lab",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout wesbos/3d-model-anything ★817 (459/day)"
+    "GitHub breakout smithjohn78390/tongjiang-lab ★633 (605/day, +210 in a day)"
    ],
    "examples": [
-    "wesbos/3d-model-anything: Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser."
+    "smithjohn78390/tongjiang-lab: Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app"
    ],
    "variants": [
-    "3d model anything",
-    "wesbos 3d model anything",
-    "wes 3d model anything"
+    "tongjiang lab",
+    "smithjohn78390 tongjiang lab"
    ],
    "posts": [],
-   "repo": "wesbos/3d-model-anything",
-   "known": "",
-   "format": "image",
-   "one_click": null
-  },
-  {
-   "term": "cleanyourtv",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout Gathin23/cleanyourtv ★26654 (4260/day)"
-   ],
-   "examples": [
-    "Gathin23/cleanyourtv: Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home."
-   ],
-   "variants": [
-    "cleanyourtv",
-    "gathin23 cleanyourtv",
-    "gathin cleanyourtv"
-   ],
-   "posts": [],
-   "repo": "Gathin23/cleanyourtv",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "deepinfer",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout deepseek-ai/DeepInfer ★20702 (2846/day)"
-   ],
-   "examples": [
-    "deepseek-ai/DeepInfer: DeepInfer: High-performance, large-scale inference framework for DeepSeek models"
-   ],
-   "variants": [
-    "deepinfer",
-    "deepseek-ai deepinfer",
-    "deepseek deepinfer"
-   ],
-   "posts": [],
-   "repo": "deepseek-ai/DeepInfer",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "aerial tv",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout pengchujin/aerial-tv ★3679 (1144/day)"
-   ],
-   "examples": [
-    "pengchujin/aerial-tv: 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
-   ],
-   "variants": [
-    "aerial tv",
-    "pengchujin aerial tv"
-   ],
-   "posts": [],
-   "repo": "pengchujin/aerial-tv",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "free my tv",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout simbasjungles/free-my-tv ★3745 (989/day)"
-   ],
-   "examples": [
-    "simbasjungles/free-my-tv: A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo."
-   ],
-   "variants": [
-    "free my tv",
-    "simbasjungles free my tv",
-    "simba free my tv"
-   ],
-   "posts": [],
-   "repo": "simbasjungles/free-my-tv",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "macnativegames",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout ly05010419/MacNativeGames ★4769 (826/day)"
-   ],
-   "examples": [
-    "ly05010419/MacNativeGames: "
-   ],
-   "variants": [
-    "macnativegames",
-    "ly05010419 macnativegames",
-    "yong macnativegames"
-   ],
-   "posts": [],
-   "repo": "ly05010419/MacNativeGames",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "php2shell poc",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout ikow/php2shell-poc ★1641 (723/day)"
-   ],
-   "examples": [
-    "ikow/php2shell-poc: CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-"
-   ],
-   "variants": [
-    "php2shell poc",
-    "ikow php2shell poc",
-    "qi php2shell poc"
-   ],
-   "posts": [],
-   "repo": "ikow/php2shell-poc",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "hackios xnu kernel",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout oosexgang/hackios-xnu-kernel ★910 (682/day)"
-   ],
-   "examples": [
-    "oosexgang/hackios-xnu-kernel: "
-   ],
-   "variants": [
-    "hackios xnu kernel",
-    "oosexgang hackios xnu kernel"
-   ],
-   "posts": [],
-   "repo": "oosexgang/hackios-xnu-kernel",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "php2shell bypass aslr exp",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout 9bie/php2shell-bypass-aslr-exp ★1102 (517/day)"
-   ],
-   "examples": [
-    "9bie/php2shell-bypass-aslr-exp: A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit"
-   ],
-   "variants": [
-    "php2shell bypass aslr exp",
-    "9bie php2shell bypass aslr exp"
-   ],
-   "posts": [],
-   "repo": "9bie/php2shell-bypass-aslr-exp",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "cn math taxonomy",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout xiaoyang111222/cn-math-taxonomy ★2652 (508/day)"
-   ],
-   "examples": [
-    "xiaoyang111222/cn-math-taxonomy: 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
-   ],
-   "variants": [
-    "cn math taxonomy",
-    "xiaoyang111222 cn math taxonomy",
-    "aifeng cn math taxonomy"
-   ],
-   "posts": [],
-   "repo": "xiaoyang111222/cn-math-taxonomy",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "snapintosh",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout Snapintosh/Snapintosh ★697 (456/day)"
-   ],
-   "examples": [
-    "Snapintosh/Snapintosh: EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack"
-   ],
-   "variants": [
-    "snapintosh",
-    "snapintosh snapintosh"
-   ],
-   "posts": [],
-   "repo": "Snapintosh/Snapintosh",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "rubix lang",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout tek-sys-hub/Rubix-lang ★1914 (438/day)"
-   ],
-   "examples": [
-    "tek-sys-hub/Rubix-lang: The 100% Pure x86-64 Assembly Systems Language"
-   ],
-   "variants": [
-    "rubix lang",
-    "tek-sys-hub rubix lang",
-    "tek rubix lang"
-   ],
-   "posts": [],
-   "repo": "tek-sys-hub/Rubix-lang",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "rea prompts",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout JoasASantos/REA-Prompts ★1602 (437/day)"
-   ],
-   "examples": [
-    "JoasASantos/REA-Prompts: REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any progr"
-   ],
-   "variants": [
-    "rea prompts",
-    "joasasantos rea prompts",
-    "joas rea prompts"
-   ],
-   "posts": [],
-   "repo": "JoasASantos/REA-Prompts",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "php2shell cve 2026 109618 cve 2026 109619 poc",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC ★943 (420/day)"
-   ],
-   "examples": [
-    "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC: Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in"
-   ],
-   "variants": [
-    "php2shell cve 2026 109618 cve 2026 109619 poc",
-    "eness php2shell cve 2026 109618 cve 2026 109619 poc",
-    "enes php2shell cve 2026 109618 cve 2026 109619 poc"
-   ],
-   "posts": [],
-   "repo": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "d2r mobile",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout jhaizhou-ops/d2r-mobile ★4460 (397/day)"
-   ],
-   "examples": [
-    "jhaizhou-ops/d2r-mobile: Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch"
-   ],
-   "variants": [
-    "d2r mobile",
-    "jhaizhou-ops d2r mobile"
-   ],
-   "posts": [],
-   "repo": "jhaizhou-ops/d2r-mobile",
+   "repo": "smithjohn78390/tongjiang-lab",
    "known": "",
    "format": "text",
    "one_click": null
@@ -330,455 +26,197 @@
   "skipped": true
  },
  "hf": {
-  "first_run": true,
+  "first_run": false,
   "terms": [],
   "models": 100,
   "spaces": 100
  },
  "breakout": {
   "searched": 200,
-  "first_run": true,
+  "first_run": false,
   "repos": [
    {
     "repo": "Gathin23/cleanyourtv",
     "owner": "Gathin23",
     "name": "cleanyourtv",
-    "stars": 26654,
-    "velocity": 4260,
-    "delta": null,
-    "age_days": 6.3,
+    "stars": 44158,
+    "velocity": 3713,
+    "delta": 678,
+    "age_days": 11.9,
     "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-    "new": true,
-    "variants": [
-     "cleanyourtv",
-     "gathin23 cleanyourtv",
-     "gathin cleanyourtv"
-    ]
+    "new": false
    },
    {
     "repo": "deepseek-ai/DeepInfer",
     "owner": "deepseek-ai",
     "name": "DeepInfer",
-    "stars": 20702,
-    "velocity": 2846,
-    "delta": null,
-    "age_days": 7.3,
+    "stars": 24017,
+    "velocity": 1860,
+    "delta": 162,
+    "age_days": 12.9,
     "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-    "new": true,
-    "variants": [
-     "deepinfer",
-     "deepseek-ai deepinfer",
-     "deepseek deepinfer"
-    ]
+    "new": false
+   },
+   {
+    "repo": "anhao/ai-pose-gallery-zh",
+    "owner": "anhao",
+    "name": "ai-pose-gallery-zh",
+    "stars": 2180,
+    "velocity": 1270,
+    "delta": 408,
+    "age_days": 1.7,
+    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+    "new": false
+   },
+   {
+    "repo": "Zagitta/gpu-unlock",
+    "owner": "Zagitta",
+    "name": "gpu-unlock",
+    "stars": 12524,
+    "velocity": 1121,
+    "delta": 328,
+    "age_days": 11.2,
+    "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughp",
+    "new": false
+   },
+   {
+    "repo": "unclebob/ub-mode",
+    "owner": "unclebob",
+    "name": "ub-mode",
+    "stars": 3959,
+    "velocity": 1111,
+    "delta": 346,
+    "age_days": 3.6,
+    "description": "",
+    "new": false
+   },
+   {
+    "repo": "rddmwmddr/android-ad-cleaner",
+    "owner": "rddmwmddr",
+    "name": "android-ad-cleaner",
+    "stars": 4443,
+    "velocity": 888,
+    "delta": 201,
+    "age_days": 5.0,
+    "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+    "new": false
    },
    {
     "repo": "pengchujin/aerial-tv",
     "owner": "pengchujin",
     "name": "aerial-tv",
-    "stars": 3679,
-    "velocity": 1144,
-    "delta": null,
-    "age_days": 3.2,
+    "stars": 7502,
+    "velocity": 848,
+    "delta": 148,
+    "age_days": 8.8,
     "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+    "new": false
+   },
+   {
+    "repo": "JustAResearcher/gpu-unlock-ada",
+    "owner": "JustAResearcher",
+    "name": "gpu-unlock-ada",
+    "stars": 4443,
+    "velocity": 829,
+    "delta": 46,
+    "age_days": 5.4,
+    "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+    "new": false
+   },
+   {
+    "repo": "interplains/Zero-Breach-Toolkit",
+    "owner": "interplains",
+    "name": "Zero-Breach-Toolkit",
+    "stars": 2930,
+    "velocity": 809,
+    "delta": 531,
+    "age_days": 3.6,
+    "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phon",
+    "new": false
+   },
+   {
+    "repo": "designfuchen/word-atlas",
+    "owner": "designfuchen",
+    "name": "word-atlas",
+    "stars": 3107,
+    "velocity": 800,
+    "delta": 79,
+    "age_days": 3.9,
+    "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.",
+    "new": false
+   },
+   {
+    "repo": "smithjohn78390/tongjiang-lab",
+    "owner": "smithjohn78390",
+    "name": "tongjiang-lab",
+    "stars": 633,
+    "velocity": 605,
+    "delta": 210,
+    "age_days": 1.0,
+    "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
     "new": true,
     "variants": [
-     "aerial tv",
-     "pengchujin aerial tv"
+     "tongjiang lab",
+     "smithjohn78390 tongjiang lab"
     ]
    },
    {
     "repo": "simbasjungles/free-my-tv",
     "owner": "simbasjungles",
     "name": "free-my-tv",
-    "stars": 3745,
-    "velocity": 989,
-    "delta": null,
-    "age_days": 3.8,
+    "stars": 5268,
+    "velocity": 559,
+    "delta": 80,
+    "age_days": 9.4,
     "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-    "new": true,
-    "variants": [
-     "free my tv",
-     "simbasjungles free my tv",
-     "simba free my tv"
-    ]
+    "new": false
    },
    {
     "repo": "ly05010419/MacNativeGames",
     "owner": "ly05010419",
     "name": "MacNativeGames",
-    "stars": 4769,
-    "velocity": 826,
-    "delta": null,
-    "age_days": 5.8,
-    "description": "",
-    "new": true,
-    "variants": [
-     "macnativegames",
-     "ly05010419 macnativegames",
-     "yong macnativegames"
-    ]
-   },
-   {
-    "repo": "ikow/php2shell-poc",
-    "owner": "ikow",
-    "name": "php2shell-poc",
-    "stars": 1641,
-    "velocity": 723,
-    "delta": null,
-    "age_days": 2.3,
-    "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-",
-    "new": true,
-    "variants": [
-     "php2shell poc",
-     "ikow php2shell poc",
-     "qi php2shell poc"
-    ]
-   },
-   {
-    "repo": "oosexgang/hackios-xnu-kernel",
-    "owner": "oosexgang",
-    "name": "hackios-xnu-kernel",
-    "stars": 910,
-    "velocity": 682,
-    "delta": null,
-    "age_days": 1.3,
-    "description": "",
-    "new": true,
-    "variants": [
-     "hackios xnu kernel",
-     "oosexgang hackios xnu kernel"
-    ]
-   },
-   {
-    "repo": "9bie/php2shell-bypass-aslr-exp",
-    "owner": "9bie",
-    "name": "php2shell-bypass-aslr-exp",
-    "stars": 1102,
-    "velocity": 517,
-    "delta": null,
-    "age_days": 2.1,
-    "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit",
-    "new": true,
-    "variants": [
-     "php2shell bypass aslr exp",
-     "9bie php2shell bypass aslr exp"
-    ]
+    "stars": 6320,
+    "velocity": 554,
+    "delta": 86,
+    "age_days": 11.4,
+    "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulato",
+    "new": false
    },
    {
     "repo": "xiaoyang111222/cn-math-taxonomy",
     "owner": "xiaoyang111222",
     "name": "cn-math-taxonomy",
-    "stars": 2652,
-    "velocity": 508,
-    "delta": null,
-    "age_days": 5.2,
-    "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
-    "new": true,
-    "variants": [
-     "cn math taxonomy",
-     "xiaoyang111222 cn math taxonomy",
-     "aifeng cn math taxonomy"
-    ]
-   },
-   {
-    "repo": "wesbos/3d-model-anything",
-    "owner": "wesbos",
-    "name": "3d-model-anything",
-    "stars": 817,
-    "velocity": 459,
-    "delta": null,
-    "age_days": 1.8,
-    "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
-    "new": true,
-    "variants": [
-     "3d model anything",
-     "wesbos 3d model anything",
-     "wes 3d model anything"
-    ]
-   },
-   {
-    "repo": "Snapintosh/Snapintosh",
-    "owner": "Snapintosh",
-    "name": "Snapintosh",
-    "stars": 697,
+    "stars": 4952,
     "velocity": 456,
-    "delta": null,
-    "age_days": 1.5,
-    "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-    "new": true,
-    "variants": [
-     "snapintosh",
-     "snapintosh snapintosh"
-    ]
+    "delta": 175,
+    "age_days": 10.9,
+    "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+    "new": false
    },
    {
-    "repo": "tek-sys-hub/Rubix-lang",
-    "owner": "tek-sys-hub",
-    "name": "Rubix-lang",
-    "stars": 1914,
-    "velocity": 438,
-    "delta": null,
-    "age_days": 4.4,
-    "description": "The 100% Pure x86-64 Assembly Systems Language",
-    "new": true,
-    "variants": [
-     "rubix lang",
-     "tek-sys-hub rubix lang",
-     "tek rubix lang"
-    ]
-   },
-   {
-    "repo": "JoasASantos/REA-Prompts",
-    "owner": "JoasASantos",
-    "name": "REA-Prompts",
-    "stars": 1602,
-    "velocity": 437,
-    "delta": null,
-    "age_days": 3.7,
-    "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any progr",
-    "new": true,
-    "variants": [
-     "rea prompts",
-     "joasasantos rea prompts",
-     "joas rea prompts"
-    ]
-   },
-   {
-    "repo": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-    "owner": "eness",
-    "name": "php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-    "stars": 943,
-    "velocity": 420,
-    "delta": null,
-    "age_days": 2.2,
-    "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in",
-    "new": true,
-    "variants": [
-     "php2shell cve 2026 109618 cve 2026 109619 poc",
-     "eness php2shell cve 2026 109618 cve 2026 109619 poc",
-     "enes php2shell cve 2026 109618 cve 2026 109619 poc"
-    ]
-   },
-   {
-    "repo": "jhaizhou-ops/d2r-mobile",
-    "owner": "jhaizhou-ops",
-    "name": "d2r-mobile",
-    "stars": 4460,
-    "velocity": 397,
-    "delta": null,
-    "age_days": 11.2,
-    "description": "Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch",
-    "new": true,
-    "variants": [
-     "d2r mobile",
-     "jhaizhou-ops d2r mobile"
-    ]
+    "repo": "t3dotgg/tstack",
+    "owner": "t3dotgg",
+    "name": "tstack",
+    "stars": 2290,
+    "velocity": 456,
+    "delta": 75,
+    "age_days": 5.0,
+    "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+    "new": false
    }
   ],
   "terms": [
    {
-    "term": "cleanyourtv",
+    "term": "tongjiang lab",
     "recent": 1,
     "variants": [
-     "cleanyourtv",
-     "gathin23 cleanyourtv",
-     "gathin cleanyourtv"
+     "tongjiang lab",
+     "smithjohn78390 tongjiang lab"
     ],
-    "repo": "Gathin23/cleanyourtv",
-    "note": "GitHub breakout Gathin23/cleanyourtv ★26654 (4260/day)",
+    "repo": "smithjohn78390/tongjiang-lab",
+    "note": "GitHub breakout smithjohn78390/tongjiang-lab ★633 (605/day, +210 in a day)",
     "examples": [
-     "Gathin23/cleanyourtv: Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home."
-    ]
-   },
-   {
-    "term": "deepinfer",
-    "recent": 1,
-    "variants": [
-     "deepinfer",
-     "deepseek-ai deepinfer",
-     "deepseek deepinfer"
-    ],
-    "repo": "deepseek-ai/DeepInfer",
-    "note": "GitHub breakout deepseek-ai/DeepInfer ★20702 (2846/day)",
-    "examples": [
-     "deepseek-ai/DeepInfer: DeepInfer: High-performance, large-scale inference framework for DeepSeek models"
-    ]
-   },
-   {
-    "term": "aerial tv",
-    "recent": 1,
-    "variants": [
-     "aerial tv",
-     "pengchujin aerial tv"
-    ],
-    "repo": "pengchujin/aerial-tv",
-    "note": "GitHub breakout pengchujin/aerial-tv ★3679 (1144/day)",
-    "examples": [
-     "pengchujin/aerial-tv: 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
-    ]
-   },
-   {
-    "term": "free my tv",
-    "recent": 1,
-    "variants": [
-     "free my tv",
-     "simbasjungles free my tv",
-     "simba free my tv"
-    ],
-    "repo": "simbasjungles/free-my-tv",
-    "note": "GitHub breakout simbasjungles/free-my-tv ★3745 (989/day)",
-    "examples": [
-     "simbasjungles/free-my-tv: A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo."
-    ]
-   },
-   {
-    "term": "macnativegames",
-    "recent": 1,
-    "variants": [
-     "macnativegames",
-     "ly05010419 macnativegames",
-     "yong macnativegames"
-    ],
-    "repo": "ly05010419/MacNativeGames",
-    "note": "GitHub breakout ly05010419/MacNativeGames ★4769 (826/day)",
-    "examples": [
-     "ly05010419/MacNativeGames: "
-    ]
-   },
-   {
-    "term": "php2shell poc",
-    "recent": 1,
-    "variants": [
-     "php2shell poc",
-     "ikow php2shell poc",
-     "qi php2shell poc"
-    ],
-    "repo": "ikow/php2shell-poc",
-    "note": "GitHub breakout ikow/php2shell-poc ★1641 (723/day)",
-    "examples": [
-     "ikow/php2shell-poc: CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-"
-    ]
-   },
-   {
-    "term": "hackios xnu kernel",
-    "recent": 1,
-    "variants": [
-     "hackios xnu kernel",
-     "oosexgang hackios xnu kernel"
-    ],
-    "repo": "oosexgang/hackios-xnu-kernel",
-    "note": "GitHub breakout oosexgang/hackios-xnu-kernel ★910 (682/day)",
-    "examples": [
-     "oosexgang/hackios-xnu-kernel: "
-    ]
-   },
-   {
-    "term": "php2shell bypass aslr exp",
-    "recent": 1,
-    "variants": [
-     "php2shell bypass aslr exp",
-     "9bie php2shell bypass aslr exp"
-    ],
-    "repo": "9bie/php2shell-bypass-aslr-exp",
-    "note": "GitHub breakout 9bie/php2shell-bypass-aslr-exp ★1102 (517/day)",
-    "examples": [
-     "9bie/php2shell-bypass-aslr-exp: A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit"
-    ]
-   },
-   {
-    "term": "cn math taxonomy",
-    "recent": 1,
-    "variants": [
-     "cn math taxonomy",
-     "xiaoyang111222 cn math taxonomy",
-     "aifeng cn math taxonomy"
-    ],
-    "repo": "xiaoyang111222/cn-math-taxonomy",
-    "note": "GitHub breakout xiaoyang111222/cn-math-taxonomy ★2652 (508/day)",
-    "examples": [
-     "xiaoyang111222/cn-math-taxonomy: 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
-    ]
-   },
-   {
-    "term": "3d model anything",
-    "recent": 1,
-    "variants": [
-     "3d model anything",
-     "wesbos 3d model anything",
-     "wes 3d model anything"
-    ],
-    "repo": "wesbos/3d-model-anything",
-    "note": "GitHub breakout wesbos/3d-model-anything ★817 (459/day)",
-    "examples": [
-     "wesbos/3d-model-anything: Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser."
-    ]
-   },
-   {
-    "term": "snapintosh",
-    "recent": 1,
-    "variants": [
-     "snapintosh",
-     "snapintosh snapintosh"
-    ],
-    "repo": "Snapintosh/Snapintosh",
-    "note": "GitHub breakout Snapintosh/Snapintosh ★697 (456/day)",
-    "examples": [
-     "Snapintosh/Snapintosh: EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack"
-    ]
-   },
-   {
-    "term": "rubix lang",
-    "recent": 1,
-    "variants": [
-     "rubix lang",
-     "tek-sys-hub rubix lang",
-     "tek rubix lang"
-    ],
-    "repo": "tek-sys-hub/Rubix-lang",
-    "note": "GitHub breakout tek-sys-hub/Rubix-lang ★1914 (438/day)",
-    "examples": [
-     "tek-sys-hub/Rubix-lang: The 100% Pure x86-64 Assembly Systems Language"
-    ]
-   },
-   {
-    "term": "rea prompts",
-    "recent": 1,
-    "variants": [
-     "rea prompts",
-     "joasasantos rea prompts",
-     "joas rea prompts"
-    ],
-    "repo": "JoasASantos/REA-Prompts",
-    "note": "GitHub breakout JoasASantos/REA-Prompts ★1602 (437/day)",
-    "examples": [
-     "JoasASantos/REA-Prompts: REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any progr"
-    ]
-   },
-   {
-    "term": "php2shell cve 2026 109618 cve 2026 109619 poc",
-    "recent": 1,
-    "variants": [
-     "php2shell cve 2026 109618 cve 2026 109619 poc",
-     "eness php2shell cve 2026 109618 cve 2026 109619 poc",
-     "enes php2shell cve 2026 109618 cve 2026 109619 poc"
-    ],
-    "repo": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-    "note": "GitHub breakout eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC ★943 (420/day)",
-    "examples": [
-     "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC: Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in"
-    ]
-   },
-   {
-    "term": "d2r mobile",
-    "recent": 1,
-    "variants": [
-     "d2r mobile",
-     "jhaizhou-ops d2r mobile"
-    ],
-    "repo": "jhaizhou-ops/d2r-mobile",
-    "note": "GitHub breakout jhaizhou-ops/d2r-mobile ★4460 (397/day)",
-    "examples": [
-     "jhaizhou-ops/d2r-mobile: Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch"
+     "smithjohn78390/tongjiang-lab: Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app"
     ]
    }
   ],
@@ -807,7 +245,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 15,
+  "pending": 41,
   "window_days": 60
  },
  "keywords": {
