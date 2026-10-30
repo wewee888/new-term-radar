@@ -1,40 +1,134 @@
 {
  "leads": [
   {
-   "term": "pika h3 flex",
+   "term": "idol",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #32"
+    "Hugging Face: new at #36"
    ],
    "examples": [
-    "Pika-Labs/Pika-H3-Flex (image-to-video, ♥133)"
+    "speridlabs/idol (image-to-3d, ♥128)"
    ],
    "variants": [],
    "posts": [],
    "known": "",
-   "format": "video",
+   "format": "image",
    "one_click": null
   },
   {
-   "term": "totk pc recomp",
+   "term": "protectbirds",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face Spaces: new at #14"
+   ],
+   "examples": [
+    "AimeeBingmouQu/ProtectBirds (docker, ♥1244)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "harness lens",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face Spaces: new at #43"
+   ],
+   "examples": [
+    "harness-hub/harness-lens (docker, ♥41)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "lfm3 omni",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face Spaces: new at #49"
+   ],
+   "examples": [
+    "LiquidAI/LFM3-Omni-2B-WebGPU (static, ♥17)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "nvzhuang",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout valentderah/totk-pc-recomp ★756 (756/day)"
+    "GitHub breakout paipiange/nvzhuang ★1104 (730/day, +676 in a day)"
    ],
    "examples": [
-    "valentderah/totk-pc-recomp: Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game"
+    "paipiange/nvzhuang: 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang"
    ],
    "variants": [
-    "totk pc recomp",
-    "valentderah totk pc recomp",
-    "valiantsin totk pc recomp"
+    "nvzhuang",
+    "paipiange nvzhuang"
    ],
    "posts": [],
-   "repo": "valentderah/totk-pc-recomp",
+   "repo": "paipiange/nvzhuang",
+   "known": "",
+   "format": "image",
+   "one_click": null
+  },
+  {
+   "term": "mika",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout wangzan101/Mika ★1003 (863/day)"
+   ],
+   "examples": [
+    "wangzan101/Mika: Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things don"
+   ],
+   "variants": [
+    "mika",
+    "wangzan101 mika",
+    "wangzan mika"
+   ],
+   "posts": [],
+   "repo": "wangzan101/Mika",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "unslop",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout heydamir/unslop ★756 (678/day)"
+   ],
+   "examples": [
+    "heydamir/unslop: A Claude skill that turns vibecoded, AI-looking UI into a designed interface"
+   ],
+   "variants": [
+    "unslop",
+    "heydamir unslop",
+    "damir unslop"
+   ],
+   "posts": [],
+   "repo": "heydamir/unslop",
    "known": "",
    "format": "text",
    "one_click": null
@@ -47,14 +141,44 @@
   "first_run": false,
   "terms": [
    {
-    "term": "pika h3 flex",
-    "rank": 32,
+    "term": "idol",
+    "rank": 36,
     "copies": 1,
     "examples": [
-     "Pika-Labs/Pika-H3-Flex (image-to-video, ♥133)"
+     "speridlabs/idol (image-to-3d, ♥128)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #32"
+    "note": "Hugging Face: new at #36"
+   },
+   {
+    "term": "protectbirds",
+    "rank": 14,
+    "copies": 1,
+    "examples": [
+     "AimeeBingmouQu/ProtectBirds (docker, ♥1244)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face Spaces: new at #14"
+   },
+   {
+    "term": "harness lens",
+    "rank": 43,
+    "copies": 1,
+    "examples": [
+     "harness-hub/harness-lens (docker, ♥41)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face Spaces: new at #43"
+   },
+   {
+    "term": "lfm3 omni",
+    "rank": 49,
+    "copies": 1,
+    "examples": [
+     "LiquidAI/LFM3-Omni-2B-WebGPU (static, ♥17)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face Spaces: new at #49"
    }
   ],
   "models": 100,
@@ -68,10 +192,10 @@
     "repo": "Gathin23/cleanyourtv",
     "owner": "Gathin23",
     "name": "cleanyourtv",
-    "stars": 45781,
-    "velocity": 3537,
-    "delta": 615,
-    "age_days": 12.9,
+    "stars": 46473,
+    "velocity": 3461,
+    "delta": 692,
+    "age_days": 13.4,
     "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
     "new": false
    },
@@ -79,10 +203,10 @@
     "repo": "deepseek-ai/DeepInfer",
     "owner": "deepseek-ai",
     "name": "DeepInfer",
-    "stars": 24349,
-    "velocity": 1744,
-    "delta": 138,
-    "age_days": 14.0,
+    "stars": 24470,
+    "velocity": 1694,
+    "delta": 121,
+    "age_days": 14.4,
     "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
     "new": false
    },
@@ -90,10 +214,10 @@
     "repo": "anhao/ai-pose-gallery-zh",
     "owner": "anhao",
     "name": "ai-pose-gallery-zh",
-    "stars": 3459,
-    "velocity": 1249,
-    "delta": 417,
-    "age_days": 2.8,
+    "stars": 3909,
+    "velocity": 1202,
+    "delta": 450,
+    "age_days": 3.3,
     "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
    },
@@ -101,10 +225,10 @@
     "repo": "Zagitta/gpu-unlock",
     "owner": "Zagitta",
     "name": "gpu-unlock",
-    "stars": 13201,
-    "velocity": 1080,
-    "delta": 251,
-    "age_days": 12.2,
+    "stars": 13420,
+    "velocity": 1056,
+    "delta": 219,
+    "age_days": 12.7,
     "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughp",
     "new": false
    },
@@ -112,70 +236,112 @@
     "repo": "unclebob/ub-mode",
     "owner": "unclebob",
     "name": "ub-mode",
-    "stars": 4942,
-    "velocity": 1070,
-    "delta": 417,
-    "age_days": 4.6,
+    "stars": 5303,
+    "velocity": 1040,
+    "delta": 361,
+    "age_days": 5.1,
     "description": "",
-    "new": false
-   },
-   {
-    "repo": "rddmwmddr/android-ad-cleaner",
-    "owner": "rddmwmddr",
-    "name": "android-ad-cleaner",
-    "stars": 4848,
-    "velocity": 801,
-    "delta": 149,
-    "age_days": 6.1,
-    "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-    "new": false
-   },
-   {
-    "repo": "pengchujin/aerial-tv",
-    "owner": "pengchujin",
-    "name": "aerial-tv",
-    "stars": 7870,
-    "velocity": 795,
-    "delta": 152,
-    "age_days": 9.9,
-    "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-    "new": false
-   },
-   {
-    "repo": "interplains/Zero-Breach-Toolkit",
-    "owner": "interplains",
-    "name": "Zero-Breach-Toolkit",
-    "stars": 3677,
-    "velocity": 787,
-    "delta": 234,
-    "age_days": 4.7,
-    "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phon",
     "new": false
    },
    {
     "repo": "valentderah/totk-pc-recomp",
     "owner": "valentderah",
     "name": "totk-pc-recomp",
-    "stars": 756,
-    "velocity": 756,
-    "delta": null,
-    "age_days": 1.0,
+    "stars": 1284,
+    "velocity": 1030,
+    "delta": 528,
+    "age_days": 1.2,
     "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game",
+    "new": false
+   },
+   {
+    "repo": "wangzan101/Mika",
+    "owner": "wangzan101",
+    "name": "Mika",
+    "stars": 1003,
+    "velocity": 863,
+    "delta": null,
+    "age_days": 1.2,
+    "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things don",
     "new": true,
     "variants": [
-     "totk pc recomp",
-     "valentderah totk pc recomp",
-     "valiantsin totk pc recomp"
+     "mika",
+     "wangzan101 mika",
+     "wangzan mika"
+    ]
+   },
+   {
+    "repo": "pengchujin/aerial-tv",
+    "owner": "pengchujin",
+    "name": "aerial-tv",
+    "stars": 8030,
+    "velocity": 773,
+    "delta": 160,
+    "age_days": 10.4,
+    "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+    "new": false
+   },
+   {
+    "repo": "rddmwmddr/android-ad-cleaner",
+    "owner": "rddmwmddr",
+    "name": "android-ad-cleaner",
+    "stars": 5030,
+    "velocity": 770,
+    "delta": 182,
+    "age_days": 6.5,
+    "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+    "new": false
+   },
+   {
+    "repo": "interplains/Zero-Breach-Toolkit",
+    "owner": "interplains",
+    "name": "Zero-Breach-Toolkit",
+    "stars": 3818,
+    "velocity": 740,
+    "delta": 141,
+    "age_days": 5.2,
+    "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phon",
+    "new": false
+   },
+   {
+    "repo": "paipiange/nvzhuang",
+    "owner": "paipiange",
+    "name": "nvzhuang",
+    "stars": 1104,
+    "velocity": 730,
+    "delta": 676,
+    "age_days": 1.5,
+    "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+    "new": true,
+    "variants": [
+     "nvzhuang",
+     "paipiange nvzhuang"
+    ]
+   },
+   {
+    "repo": "heydamir/unslop",
+    "owner": "heydamir",
+    "name": "unslop",
+    "stars": 756,
+    "velocity": 678,
+    "delta": null,
+    "age_days": 1.1,
+    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+    "new": true,
+    "variants": [
+     "unslop",
+     "heydamir unslop",
+     "damir unslop"
     ]
    },
    {
     "repo": "JustAResearcher/gpu-unlock-ada",
     "owner": "JustAResearcher",
     "name": "gpu-unlock-ada",
-    "stars": 4539,
-    "velocity": 708,
-    "delta": 46,
-    "age_days": 6.4,
+    "stars": 4570,
+    "velocity": 663,
+    "delta": 31,
+    "age_days": 6.9,
     "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
     "new": false
    },
@@ -183,10 +349,10 @@
     "repo": "designfuchen/word-atlas",
     "owner": "designfuchen",
     "name": "word-atlas",
-    "stars": 3279,
-    "velocity": 664,
-    "delta": 61,
-    "age_days": 4.9,
+    "stars": 3351,
+    "velocity": 619,
+    "delta": 72,
+    "age_days": 5.4,
     "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.",
     "new": false
    },
@@ -194,60 +360,54 @@
     "repo": "ly05010419/MacNativeGames",
     "owner": "ly05010419",
     "name": "MacNativeGames",
-    "stars": 6488,
-    "velocity": 521,
-    "delta": 64,
-    "age_days": 12.5,
+    "stars": 6570,
+    "velocity": 508,
+    "delta": 82,
+    "age_days": 12.9,
     "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulato",
-    "new": false
-   },
-   {
-    "repo": "simbasjungles/free-my-tv",
-    "owner": "simbasjungles",
-    "name": "free-my-tv",
-    "stars": 5414,
-    "velocity": 517,
-    "delta": 50,
-    "age_days": 10.5,
-    "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-    "new": false
-   },
-   {
-    "repo": "smithjohn78390/tongjiang-lab",
-    "owner": "smithjohn78390",
-    "name": "tongjiang-lab",
-    "stars": 1023,
-    "velocity": 487,
-    "delta": 129,
-    "age_days": 2.1,
-    "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
-    "new": false
-   },
-   {
-    "repo": "xiaoyang111222/cn-math-taxonomy",
-    "owner": "xiaoyang111222",
-    "name": "cn-math-taxonomy",
-    "stars": 5336,
-    "velocity": 448,
-    "delta": 161,
-    "age_days": 11.9,
-    "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
     "new": false
    }
   ],
   "terms": [
    {
-    "term": "totk pc recomp",
+    "term": "mika",
     "recent": 1,
     "variants": [
-     "totk pc recomp",
-     "valentderah totk pc recomp",
-     "valiantsin totk pc recomp"
+     "mika",
+     "wangzan101 mika",
+     "wangzan mika"
     ],
-    "repo": "valentderah/totk-pc-recomp",
-    "note": "GitHub breakout valentderah/totk-pc-recomp ★756 (756/day)",
+    "repo": "wangzan101/Mika",
+    "note": "GitHub breakout wangzan101/Mika ★1003 (863/day)",
     "examples": [
-     "valentderah/totk-pc-recomp: Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game"
+     "wangzan101/Mika: Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things don"
+    ]
+   },
+   {
+    "term": "nvzhuang",
+    "recent": 1,
+    "variants": [
+     "nvzhuang",
+     "paipiange nvzhuang"
+    ],
+    "repo": "paipiange/nvzhuang",
+    "note": "GitHub breakout paipiange/nvzhuang ★1104 (730/day, +676 in a day)",
+    "examples": [
+     "paipiange/nvzhuang: 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang"
+    ]
+   },
+   {
+    "term": "unslop",
+    "recent": 1,
+    "variants": [
+     "unslop",
+     "heydamir unslop",
+     "damir unslop"
+    ],
+    "repo": "heydamir/unslop",
+    "note": "GitHub breakout heydamir/unslop ★756 (678/day)",
+    "examples": [
+     "heydamir/unslop: A Claude skill that turns vibecoded, AI-looking UI into a designed interface"
     ]
    }
   ],
@@ -276,7 +436,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 44,
+  "pending": 51,
   "window_days": 60
  },
  "keywords": {
