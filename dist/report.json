@@ -1,20 +1,42 @@
 {
  "leads": [
   {
-   "term": "mistral large 4 1t",
+   "term": "pika h3 flex",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #16"
+    "Hugging Face: new at #32"
    ],
    "examples": [
-    "mistralai/Mistral-Large-4-1T-A52B (image-text-to-text, ♥1164)"
+    "Pika-Labs/Pika-H3-Flex (image-to-video, ♥133)"
    ],
    "variants": [],
    "posts": [],
    "known": "",
-   "format": "image",
+   "format": "video",
+   "one_click": null
+  },
+  {
+   "term": "totk pc recomp",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout valentderah/totk-pc-recomp ★756 (756/day)"
+   ],
+   "examples": [
+    "valentderah/totk-pc-recomp: Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game"
+   ],
+   "variants": [
+    "totk pc recomp",
+    "valentderah totk pc recomp",
+    "valiantsin totk pc recomp"
+   ],
+   "posts": [],
+   "repo": "valentderah/totk-pc-recomp",
+   "known": "",
+   "format": "text",
    "one_click": null
   }
  ],
@@ -25,14 +47,14 @@
   "first_run": false,
   "terms": [
    {
-    "term": "mistral large 4 1t",
-    "rank": 16,
+    "term": "pika h3 flex",
+    "rank": 32,
     "copies": 1,
     "examples": [
-     "mistralai/Mistral-Large-4-1T-A52B (image-text-to-text, ♥1164)"
+     "Pika-Labs/Pika-H3-Flex (image-to-video, ♥133)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #16"
+    "note": "Hugging Face: new at #32"
    }
   ],
   "models": 100,
@@ -46,10 +68,10 @@
     "repo": "Gathin23/cleanyourtv",
     "owner": "Gathin23",
     "name": "cleanyourtv",
-    "stars": 45166,
-    "velocity": 3630,
-    "delta": 922,
-    "age_days": 12.4,
+    "stars": 45781,
+    "velocity": 3537,
+    "delta": 615,
+    "age_days": 12.9,
     "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
     "new": false
    },
@@ -57,10 +79,10 @@
     "repo": "deepseek-ai/DeepInfer",
     "owner": "deepseek-ai",
     "name": "DeepInfer",
-    "stars": 24211,
-    "velocity": 1799,
-    "delta": 162,
-    "age_days": 13.5,
+    "stars": 24349,
+    "velocity": 1744,
+    "delta": 138,
+    "age_days": 14.0,
     "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
     "new": false
    },
@@ -68,10 +90,10 @@
     "repo": "anhao/ai-pose-gallery-zh",
     "owner": "anhao",
     "name": "ai-pose-gallery-zh",
-    "stars": 3042,
-    "velocity": 1341,
-    "delta": 784,
-    "age_days": 2.3,
+    "stars": 3459,
+    "velocity": 1249,
+    "delta": 417,
+    "age_days": 2.8,
     "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
    },
@@ -79,10 +101,10 @@
     "repo": "Zagitta/gpu-unlock",
     "owner": "Zagitta",
     "name": "gpu-unlock",
-    "stars": 12950,
-    "velocity": 1105,
-    "delta": 394,
-    "age_days": 11.7,
+    "stars": 13201,
+    "velocity": 1080,
+    "delta": 251,
+    "age_days": 12.2,
     "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughp",
     "new": false
    },
@@ -90,10 +112,10 @@
     "repo": "unclebob/ub-mode",
     "owner": "unclebob",
     "name": "ub-mode",
-    "stars": 4525,
-    "velocity": 1100,
-    "delta": 509,
-    "age_days": 4.1,
+    "stars": 4942,
+    "velocity": 1070,
+    "delta": 417,
+    "age_days": 4.6,
     "description": "",
     "new": false
    },
@@ -101,43 +123,59 @@
     "repo": "rddmwmddr/android-ad-cleaner",
     "owner": "rddmwmddr",
     "name": "android-ad-cleaner",
-    "stars": 4699,
-    "velocity": 846,
-    "delta": 219,
-    "age_days": 5.6,
+    "stars": 4848,
+    "velocity": 801,
+    "delta": 149,
+    "age_days": 6.1,
     "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-    "new": false
-   },
-   {
-    "repo": "interplains/Zero-Breach-Toolkit",
-    "owner": "interplains",
-    "name": "Zero-Breach-Toolkit",
-    "stars": 3443,
-    "velocity": 825,
-    "delta": 478,
-    "age_days": 4.2,
-    "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phon",
     "new": false
    },
    {
     "repo": "pengchujin/aerial-tv",
     "owner": "pengchujin",
     "name": "aerial-tv",
-    "stars": 7718,
-    "velocity": 821,
-    "delta": 190,
-    "age_days": 9.4,
+    "stars": 7870,
+    "velocity": 795,
+    "delta": 152,
+    "age_days": 9.9,
     "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
     "new": false
+   },
+   {
+    "repo": "interplains/Zero-Breach-Toolkit",
+    "owner": "interplains",
+    "name": "Zero-Breach-Toolkit",
+    "stars": 3677,
+    "velocity": 787,
+    "delta": 234,
+    "age_days": 4.7,
+    "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phon",
+    "new": false
+   },
+   {
+    "repo": "valentderah/totk-pc-recomp",
+    "owner": "valentderah",
+    "name": "totk-pc-recomp",
+    "stars": 756,
+    "velocity": 756,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game",
+    "new": true,
+    "variants": [
+     "totk pc recomp",
+     "valentderah totk pc recomp",
+     "valiantsin totk pc recomp"
+    ]
    },
    {
     "repo": "JustAResearcher/gpu-unlock-ada",
     "owner": "JustAResearcher",
     "name": "gpu-unlock-ada",
-    "stars": 4493,
-    "velocity": 760,
-    "delta": 44,
-    "age_days": 5.9,
+    "stars": 4539,
+    "velocity": 708,
+    "delta": 46,
+    "age_days": 6.4,
     "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
     "new": false
    },
@@ -145,70 +183,74 @@
     "repo": "designfuchen/word-atlas",
     "owner": "designfuchen",
     "name": "word-atlas",
-    "stars": 3218,
-    "velocity": 726,
-    "delta": 91,
-    "age_days": 4.4,
+    "stars": 3279,
+    "velocity": 664,
+    "delta": 61,
+    "age_days": 4.9,
     "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.",
-    "new": false
-   },
-   {
-    "repo": "smithjohn78390/tongjiang-lab",
-    "owner": "smithjohn78390",
-    "name": "tongjiang-lab",
-    "stars": 894,
-    "velocity": 560,
-    "delta": 222,
-    "age_days": 1.6,
-    "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
-    "new": false
-   },
-   {
-    "repo": "simbasjungles/free-my-tv",
-    "owner": "simbasjungles",
-    "name": "free-my-tv",
-    "stars": 5364,
-    "velocity": 538,
-    "delta": 93,
-    "age_days": 10.0,
-    "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
     "new": false
    },
    {
     "repo": "ly05010419/MacNativeGames",
     "owner": "ly05010419",
     "name": "MacNativeGames",
-    "stars": 6424,
-    "velocity": 537,
-    "delta": 85,
-    "age_days": 12.0,
+    "stars": 6488,
+    "velocity": 521,
+    "delta": 64,
+    "age_days": 12.5,
     "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulato",
+    "new": false
+   },
+   {
+    "repo": "simbasjungles/free-my-tv",
+    "owner": "simbasjungles",
+    "name": "free-my-tv",
+    "stars": 5414,
+    "velocity": 517,
+    "delta": 50,
+    "age_days": 10.5,
+    "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+    "new": false
+   },
+   {
+    "repo": "smithjohn78390/tongjiang-lab",
+    "owner": "smithjohn78390",
+    "name": "tongjiang-lab",
+    "stars": 1023,
+    "velocity": 487,
+    "delta": 129,
+    "age_days": 2.1,
+    "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
     "new": false
    },
    {
     "repo": "xiaoyang111222/cn-math-taxonomy",
     "owner": "xiaoyang111222",
     "name": "cn-math-taxonomy",
-    "stars": 5175,
-    "velocity": 454,
-    "delta": 196,
-    "age_days": 11.4,
+    "stars": 5336,
+    "velocity": 448,
+    "delta": 161,
+    "age_days": 11.9,
     "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
-    "new": false
-   },
-   {
-    "repo": "t3dotgg/tstack",
-    "owner": "t3dotgg",
-    "name": "tstack",
-    "stars": 2366,
-    "velocity": 424,
-    "delta": 70,
-    "age_days": 5.6,
-    "description": "The agent skills I use every day. Works with Claude Code and Codex.",
     "new": false
    }
   ],
-  "terms": [],
+  "terms": [
+   {
+    "term": "totk pc recomp",
+    "recent": 1,
+    "variants": [
+     "totk pc recomp",
+     "valentderah totk pc recomp",
+     "valiantsin totk pc recomp"
+    ],
+    "repo": "valentderah/totk-pc-recomp",
+    "note": "GitHub breakout valentderah/totk-pc-recomp ★756 (756/day)",
+    "examples": [
+     "valentderah/totk-pc-recomp: Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game"
+    ]
+   }
+  ],
   "window_days": 14
  },
  "sitemap": {
@@ -234,7 +276,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 42,
+  "pending": 44,
   "window_days": 60
  },
  "keywords": {
