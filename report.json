@@ -1,134 +1,45 @@
 {
  "leads": [
   {
-   "term": "idol",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face: new at #36"
-   ],
-   "examples": [
-    "speridlabs/idol (image-to-3d, ♥128)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "image",
-   "one_click": null
-  },
-  {
-   "term": "protectbirds",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face Spaces: new at #14"
-   ],
-   "examples": [
-    "AimeeBingmouQu/ProtectBirds (docker, ♥1244)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "harness lens",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face Spaces: new at #43"
-   ],
-   "examples": [
-    "harness-hub/harness-lens (docker, ♥41)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "lfm3 omni",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face Spaces: new at #49"
-   ],
-   "examples": [
-    "LiquidAI/LFM3-Omni-2B-WebGPU (static, ♥17)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "nvzhuang",
+   "term": "florilegium",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout paipiange/nvzhuang ★1104 (730/day, +676 in a day)"
+    "GitHub breakout kevinraymond/florilegium ★765 (765/day)"
    ],
    "examples": [
-    "paipiange/nvzhuang: 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang"
+    "kevinraymond/florilegium: Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua"
    ],
    "variants": [
-    "nvzhuang",
-    "paipiange nvzhuang"
+    "florilegium",
+    "kevinraymond florilegium",
+    "kevin florilegium"
    ],
    "posts": [],
-   "repo": "paipiange/nvzhuang",
-   "known": "",
-   "format": "image",
-   "one_click": null
-  },
-  {
-   "term": "mika",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout wangzan101/Mika ★1003 (863/day)"
-   ],
-   "examples": [
-    "wangzan101/Mika: Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things don"
-   ],
-   "variants": [
-    "mika",
-    "wangzan101 mika",
-    "wangzan mika"
-   ],
-   "posts": [],
-   "repo": "wangzan101/Mika",
+   "repo": "kevinraymond/florilegium",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "unslop",
+   "term": "dsh go",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout heydamir/unslop ★756 (678/day)"
+    "GitHub breakout ccch1mneyyy/dsh-Go ★2884 (485/day, +570 in a day)"
    ],
    "examples": [
-    "heydamir/unslop: A Claude skill that turns vibecoded, AI-looking UI into a designed interface"
+    "ccch1mneyyy/dsh-Go: dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
    ],
    "variants": [
-    "unslop",
-    "heydamir unslop",
-    "damir unslop"
+    "dsh go",
+    "ccch1mneyyy dsh go",
+    "chimney dsh go"
    ],
    "posts": [],
-   "repo": "heydamir/unslop",
+   "repo": "ccch1mneyyy/dsh-Go",
    "known": "",
    "format": "text",
    "one_click": null
@@ -139,48 +50,7 @@
  },
  "hf": {
   "first_run": false,
-  "terms": [
-   {
-    "term": "idol",
-    "rank": 36,
-    "copies": 1,
-    "examples": [
-     "speridlabs/idol (image-to-3d, ♥128)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face: new at #36"
-   },
-   {
-    "term": "protectbirds",
-    "rank": 14,
-    "copies": 1,
-    "examples": [
-     "AimeeBingmouQu/ProtectBirds (docker, ♥1244)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face Spaces: new at #14"
-   },
-   {
-    "term": "harness lens",
-    "rank": 43,
-    "copies": 1,
-    "examples": [
-     "harness-hub/harness-lens (docker, ♥41)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face Spaces: new at #43"
-   },
-   {
-    "term": "lfm3 omni",
-    "rank": 49,
-    "copies": 1,
-    "examples": [
-     "LiquidAI/LFM3-Omni-2B-WebGPU (static, ♥17)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face Spaces: new at #49"
-   }
-  ],
+  "terms": [],
   "models": 100,
   "spaces": 100
  },
@@ -192,92 +62,103 @@
     "repo": "Gathin23/cleanyourtv",
     "owner": "Gathin23",
     "name": "cleanyourtv",
-    "stars": 46473,
-    "velocity": 3461,
-    "delta": 692,
-    "age_days": 13.4,
+    "stars": 47031,
+    "velocity": 3374,
+    "delta": 558,
+    "age_days": 13.9,
     "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-    "new": false
-   },
-   {
-    "repo": "deepseek-ai/DeepInfer",
-    "owner": "deepseek-ai",
-    "name": "DeepInfer",
-    "stars": 24470,
-    "velocity": 1694,
-    "delta": 121,
-    "age_days": 14.4,
-    "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
     "new": false
    },
    {
     "repo": "anhao/ai-pose-gallery-zh",
     "owner": "anhao",
     "name": "ai-pose-gallery-zh",
-    "stars": 3909,
-    "velocity": 1202,
-    "delta": 450,
-    "age_days": 3.3,
+    "stars": 4165,
+    "velocity": 1106,
+    "delta": 256,
+    "age_days": 3.8,
     "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-    "new": false
-   },
-   {
-    "repo": "Zagitta/gpu-unlock",
-    "owner": "Zagitta",
-    "name": "gpu-unlock",
-    "stars": 13420,
-    "velocity": 1056,
-    "delta": 219,
-    "age_days": 12.7,
-    "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughp",
-    "new": false
-   },
-   {
-    "repo": "unclebob/ub-mode",
-    "owner": "unclebob",
-    "name": "ub-mode",
-    "stars": 5303,
-    "velocity": 1040,
-    "delta": 361,
-    "age_days": 5.1,
-    "description": "",
-    "new": false
-   },
-   {
-    "repo": "valentderah/totk-pc-recomp",
-    "owner": "valentderah",
-    "name": "totk-pc-recomp",
-    "stars": 1284,
-    "velocity": 1030,
-    "delta": 528,
-    "age_days": 1.2,
-    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game",
     "new": false
    },
    {
     "repo": "wangzan101/Mika",
     "owner": "wangzan101",
     "name": "Mika",
-    "stars": 1003,
-    "velocity": 863,
-    "delta": null,
-    "age_days": 1.2,
+    "stars": 1790,
+    "velocity": 1069,
+    "delta": 787,
+    "age_days": 1.7,
     "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things don",
+    "new": false
+   },
+   {
+    "repo": "valentderah/totk-pc-recomp",
+    "owner": "valentderah",
+    "name": "totk-pc-recomp",
+    "stars": 1867,
+    "velocity": 1061,
+    "delta": 583,
+    "age_days": 1.8,
+    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game",
+    "new": false
+   },
+   {
+    "repo": "Zagitta/gpu-unlock",
+    "owner": "Zagitta",
+    "name": "gpu-unlock",
+    "stars": 13548,
+    "velocity": 1025,
+    "delta": 128,
+    "age_days": 13.2,
+    "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughp",
+    "new": false
+   },
+   {
+    "repo": "heydamir/unslop",
+    "owner": "heydamir",
+    "name": "unslop",
+    "stars": 1631,
+    "velocity": 1002,
+    "delta": 875,
+    "age_days": 1.6,
+    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+    "new": false
+   },
+   {
+    "repo": "unclebob/ub-mode",
+    "owner": "unclebob",
+    "name": "ub-mode",
+    "stars": 5461,
+    "velocity": 973,
+    "delta": 158,
+    "age_days": 5.6,
+    "description": "",
+    "new": false
+   },
+   {
+    "repo": "kevinraymond/florilegium",
+    "owner": "kevinraymond",
+    "name": "florilegium",
+    "stars": 765,
+    "velocity": 765,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
     "new": true,
     "variants": [
-     "mika",
-     "wangzan101 mika",
-     "wangzan mika"
+     "florilegium",
+     "kevinraymond florilegium",
+     "kevin florilegium"
     ]
    },
    {
     "repo": "pengchujin/aerial-tv",
     "owner": "pengchujin",
     "name": "aerial-tv",
-    "stars": 8030,
-    "velocity": 773,
-    "delta": 160,
-    "age_days": 10.4,
+    "stars": 8141,
+    "velocity": 747,
+    "delta": 111,
+    "age_days": 10.9,
     "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
     "new": false
    },
@@ -285,10 +166,10 @@
     "repo": "rddmwmddr/android-ad-cleaner",
     "owner": "rddmwmddr",
     "name": "android-ad-cleaner",
-    "stars": 5030,
-    "velocity": 770,
-    "delta": 182,
-    "age_days": 6.5,
+    "stars": 5183,
+    "velocity": 735,
+    "delta": 153,
+    "age_days": 7.0,
     "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
     "new": false
    },
@@ -296,10 +177,10 @@
     "repo": "interplains/Zero-Breach-Toolkit",
     "owner": "interplains",
     "name": "Zero-Breach-Toolkit",
-    "stars": 3818,
-    "velocity": 740,
-    "delta": 141,
-    "age_days": 5.2,
+    "stars": 3908,
+    "velocity": 689,
+    "delta": 90,
+    "age_days": 5.7,
     "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phon",
     "new": false
    },
@@ -307,41 +188,21 @@
     "repo": "paipiange/nvzhuang",
     "owner": "paipiange",
     "name": "nvzhuang",
-    "stars": 1104,
-    "velocity": 730,
-    "delta": 676,
-    "age_days": 1.5,
+    "stars": 1386,
+    "velocity": 684,
+    "delta": 282,
+    "age_days": 2.0,
     "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-    "new": true,
-    "variants": [
-     "nvzhuang",
-     "paipiange nvzhuang"
-    ]
-   },
-   {
-    "repo": "heydamir/unslop",
-    "owner": "heydamir",
-    "name": "unslop",
-    "stars": 756,
-    "velocity": 678,
-    "delta": null,
-    "age_days": 1.1,
-    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-    "new": true,
-    "variants": [
-     "unslop",
-     "heydamir unslop",
-     "damir unslop"
-    ]
+    "new": false
    },
    {
     "repo": "JustAResearcher/gpu-unlock-ada",
     "owner": "JustAResearcher",
     "name": "gpu-unlock-ada",
-    "stars": 4570,
-    "velocity": 663,
-    "delta": 31,
-    "age_days": 6.9,
+    "stars": 4593,
+    "velocity": 620,
+    "delta": 23,
+    "age_days": 7.4,
     "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
     "new": false
    },
@@ -349,65 +210,57 @@
     "repo": "designfuchen/word-atlas",
     "owner": "designfuchen",
     "name": "word-atlas",
-    "stars": 3351,
-    "velocity": 619,
-    "delta": 72,
-    "age_days": 5.4,
+    "stars": 3425,
+    "velocity": 578,
+    "delta": 74,
+    "age_days": 5.9,
     "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.",
     "new": false
    },
    {
-    "repo": "ly05010419/MacNativeGames",
-    "owner": "ly05010419",
-    "name": "MacNativeGames",
-    "stars": 6570,
-    "velocity": 508,
-    "delta": 82,
-    "age_days": 12.9,
-    "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulato",
-    "new": false
+    "repo": "ccch1mneyyy/dsh-Go",
+    "owner": "ccch1mneyyy",
+    "name": "dsh-Go",
+    "stars": 2884,
+    "velocity": 485,
+    "delta": 570,
+    "age_days": 5.9,
+    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+    "new": true,
+    "variants": [
+     "dsh go",
+     "ccch1mneyyy dsh go",
+     "chimney dsh go"
+    ]
    }
   ],
   "terms": [
    {
-    "term": "mika",
+    "term": "florilegium",
     "recent": 1,
     "variants": [
-     "mika",
-     "wangzan101 mika",
-     "wangzan mika"
+     "florilegium",
+     "kevinraymond florilegium",
+     "kevin florilegium"
     ],
-    "repo": "wangzan101/Mika",
-    "note": "GitHub breakout wangzan101/Mika ★1003 (863/day)",
+    "repo": "kevinraymond/florilegium",
+    "note": "GitHub breakout kevinraymond/florilegium ★765 (765/day)",
     "examples": [
-     "wangzan101/Mika: Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things don"
+     "kevinraymond/florilegium: Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua"
     ]
    },
    {
-    "term": "nvzhuang",
+    "term": "dsh go",
     "recent": 1,
     "variants": [
-     "nvzhuang",
-     "paipiange nvzhuang"
+     "dsh go",
+     "ccch1mneyyy dsh go",
+     "chimney dsh go"
     ],
-    "repo": "paipiange/nvzhuang",
-    "note": "GitHub breakout paipiange/nvzhuang ★1104 (730/day, +676 in a day)",
+    "repo": "ccch1mneyyy/dsh-Go",
+    "note": "GitHub breakout ccch1mneyyy/dsh-Go ★2884 (485/day, +570 in a day)",
     "examples": [
-     "paipiange/nvzhuang: 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang"
-    ]
-   },
-   {
-    "term": "unslop",
-    "recent": 1,
-    "variants": [
-     "unslop",
-     "heydamir unslop",
-     "damir unslop"
-    ],
-    "repo": "heydamir/unslop",
-    "note": "GitHub breakout heydamir/unslop ★756 (678/day)",
-    "examples": [
-     "heydamir/unslop: A Claude skill that turns vibecoded, AI-looking UI into a designed interface"
+     "ccch1mneyyy/dsh-Go: dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
     ]
    }
   ],
@@ -436,7 +289,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 51,
+  "pending": 53,
   "window_days": 60
  },
  "keywords": {
