@@ -1,45 +1,45 @@
 {
  "leads": [
   {
-   "term": "florilegium",
+   "term": "pixelfx",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout kevinraymond/florilegium ★765 (765/day)"
+    "GitHub breakout patch-gg/pixelfx ★1166 (803/day, +712 in a day)"
    ],
    "examples": [
-    "kevinraymond/florilegium: Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua"
+    "patch-gg/pixelfx: 232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own."
    ],
    "variants": [
-    "florilegium",
-    "kevinraymond florilegium",
-    "kevin florilegium"
+    "pixelfx",
+    "patch-gg pixelfx",
+    "patch pixelfx"
    ],
    "posts": [],
-   "repo": "kevinraymond/florilegium",
+   "repo": "patch-gg/pixelfx",
    "known": "",
-   "format": "text",
+   "format": "image",
    "one_click": null
   },
   {
-   "term": "dsh go",
+   "term": "dsh superagent prototype",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout ccch1mneyyy/dsh-Go ★2884 (485/day, +570 in a day)"
+    "GitHub breakout deepseek-ai/dsh-superagent-prototype ★1572 (1572/day)"
    ],
    "examples": [
-    "ccch1mneyyy/dsh-Go: dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+    "deepseek-ai/dsh-superagent-prototype: Towards a More Autonomous Agent System"
    ],
    "variants": [
-    "dsh go",
-    "ccch1mneyyy dsh go",
-    "chimney dsh go"
+    "dsh superagent prototype",
+    "deepseek-ai dsh superagent prototype",
+    "deepseek dsh superagent prototype"
    ],
    "posts": [],
-   "repo": "ccch1mneyyy/dsh-Go",
+   "repo": "deepseek-ai/dsh-superagent-prototype",
    "known": "",
    "format": "text",
    "one_click": null
@@ -62,43 +62,70 @@
     "repo": "Gathin23/cleanyourtv",
     "owner": "Gathin23",
     "name": "cleanyourtv",
-    "stars": 47031,
-    "velocity": 3374,
-    "delta": 558,
-    "age_days": 13.9,
+    "stars": 47644,
+    "velocity": 3311,
+    "delta": 613,
+    "age_days": 14.4,
     "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
     "new": false
    },
    {
-    "repo": "anhao/ai-pose-gallery-zh",
-    "owner": "anhao",
-    "name": "ai-pose-gallery-zh",
-    "stars": 4165,
-    "velocity": 1106,
-    "delta": 256,
-    "age_days": 3.8,
-    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+    "repo": "deepseek-ai/dsh-superagent-prototype",
+    "owner": "deepseek-ai",
+    "name": "dsh-superagent-prototype",
+    "stars": 1572,
+    "velocity": 1572,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "Towards a More Autonomous Agent System",
+    "new": true,
+    "variants": [
+     "dsh superagent prototype",
+     "deepseek-ai dsh superagent prototype",
+     "deepseek dsh superagent prototype"
+    ]
+   },
+   {
+    "repo": "heydamir/unslop",
+    "owner": "heydamir",
+    "name": "unslop",
+    "stars": 3003,
+    "velocity": 1445,
+    "delta": 1372,
+    "age_days": 2.1,
+    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "new": false
    },
    {
     "repo": "wangzan101/Mika",
     "owner": "wangzan101",
     "name": "Mika",
-    "stars": 1790,
-    "velocity": 1069,
-    "delta": 787,
-    "age_days": 1.7,
+    "stars": 2535,
+    "velocity": 1193,
+    "delta": 745,
+    "age_days": 2.1,
     "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things don",
+    "new": false
+   },
+   {
+    "repo": "anhao/ai-pose-gallery-zh",
+    "owner": "anhao",
+    "name": "ai-pose-gallery-zh",
+    "stars": 4596,
+    "velocity": 1091,
+    "delta": 431,
+    "age_days": 4.2,
+    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
    },
    {
     "repo": "valentderah/totk-pc-recomp",
     "owner": "valentderah",
     "name": "totk-pc-recomp",
-    "stars": 1867,
-    "velocity": 1061,
-    "delta": 583,
-    "age_days": 1.8,
+    "stars": 2376,
+    "velocity": 1076,
+    "delta": 509,
+    "age_days": 2.2,
     "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game",
     "new": false
    },
@@ -106,59 +133,59 @@
     "repo": "Zagitta/gpu-unlock",
     "owner": "Zagitta",
     "name": "gpu-unlock",
-    "stars": 13548,
-    "velocity": 1025,
-    "delta": 128,
-    "age_days": 13.2,
+    "stars": 13745,
+    "velocity": 1005,
+    "delta": 197,
+    "age_days": 13.7,
     "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughp",
-    "new": false
-   },
-   {
-    "repo": "heydamir/unslop",
-    "owner": "heydamir",
-    "name": "unslop",
-    "stars": 1631,
-    "velocity": 1002,
-    "delta": 875,
-    "age_days": 1.6,
-    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "new": false
    },
    {
     "repo": "unclebob/ub-mode",
     "owner": "unclebob",
     "name": "ub-mode",
-    "stars": 5461,
-    "velocity": 973,
-    "delta": 158,
-    "age_days": 5.6,
+    "stars": 5606,
+    "velocity": 925,
+    "delta": 145,
+    "age_days": 6.1,
     "description": "",
     "new": false
+   },
+   {
+    "repo": "patch-gg/pixelfx",
+    "owner": "patch-gg",
+    "name": "pixelfx",
+    "stars": 1166,
+    "velocity": 803,
+    "delta": 712,
+    "age_days": 1.5,
+    "description": "232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "new": true,
+    "variants": [
+     "pixelfx",
+     "patch-gg pixelfx",
+     "patch pixelfx"
+    ]
    },
    {
     "repo": "kevinraymond/florilegium",
     "owner": "kevinraymond",
     "name": "florilegium",
-    "stars": 765,
-    "velocity": 765,
-    "delta": null,
-    "age_days": 1.0,
+    "stars": 1092,
+    "velocity": 777,
+    "delta": 327,
+    "age_days": 1.4,
     "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
-    "new": true,
-    "variants": [
-     "florilegium",
-     "kevinraymond florilegium",
-     "kevin florilegium"
-    ]
+    "new": false
    },
    {
     "repo": "pengchujin/aerial-tv",
     "owner": "pengchujin",
     "name": "aerial-tv",
-    "stars": 8141,
-    "velocity": 747,
-    "delta": 111,
-    "age_days": 10.9,
+    "stars": 8300,
+    "velocity": 731,
+    "delta": 159,
+    "age_days": 11.3,
     "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
     "new": false
    },
@@ -166,101 +193,74 @@
     "repo": "rddmwmddr/android-ad-cleaner",
     "owner": "rddmwmddr",
     "name": "android-ad-cleaner",
-    "stars": 5183,
-    "velocity": 735,
+    "stars": 5336,
+    "velocity": 712,
     "delta": 153,
-    "age_days": 7.0,
+    "age_days": 7.5,
     "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-    "new": false
-   },
-   {
-    "repo": "interplains/Zero-Breach-Toolkit",
-    "owner": "interplains",
-    "name": "Zero-Breach-Toolkit",
-    "stars": 3908,
-    "velocity": 689,
-    "delta": 90,
-    "age_days": 5.7,
-    "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phon",
     "new": false
    },
    {
     "repo": "paipiange/nvzhuang",
     "owner": "paipiange",
     "name": "nvzhuang",
-    "stars": 1386,
-    "velocity": 684,
-    "delta": 282,
-    "age_days": 2.0,
+    "stars": 1669,
+    "velocity": 674,
+    "delta": 283,
+    "age_days": 2.5,
     "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+    "new": false
+   },
+   {
+    "repo": "interplains/Zero-Breach-Toolkit",
+    "owner": "interplains",
+    "name": "Zero-Breach-Toolkit",
+    "stars": 3977,
+    "velocity": 650,
+    "delta": 69,
+    "age_days": 6.1,
+    "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phon",
     "new": false
    },
    {
     "repo": "JustAResearcher/gpu-unlock-ada",
     "owner": "JustAResearcher",
     "name": "gpu-unlock-ada",
-    "stars": 4593,
-    "velocity": 620,
-    "delta": 23,
-    "age_days": 7.4,
+    "stars": 4619,
+    "velocity": 588,
+    "delta": 26,
+    "age_days": 7.9,
     "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
     "new": false
-   },
-   {
-    "repo": "designfuchen/word-atlas",
-    "owner": "designfuchen",
-    "name": "word-atlas",
-    "stars": 3425,
-    "velocity": 578,
-    "delta": 74,
-    "age_days": 5.9,
-    "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.",
-    "new": false
-   },
-   {
-    "repo": "ccch1mneyyy/dsh-Go",
-    "owner": "ccch1mneyyy",
-    "name": "dsh-Go",
-    "stars": 2884,
-    "velocity": 485,
-    "delta": 570,
-    "age_days": 5.9,
-    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-    "new": true,
-    "variants": [
-     "dsh go",
-     "ccch1mneyyy dsh go",
-     "chimney dsh go"
-    ]
    }
   ],
   "terms": [
    {
-    "term": "florilegium",
+    "term": "dsh superagent prototype",
     "recent": 1,
     "variants": [
-     "florilegium",
-     "kevinraymond florilegium",
-     "kevin florilegium"
+     "dsh superagent prototype",
+     "deepseek-ai dsh superagent prototype",
+     "deepseek dsh superagent prototype"
     ],
-    "repo": "kevinraymond/florilegium",
-    "note": "GitHub breakout kevinraymond/florilegium ★765 (765/day)",
+    "repo": "deepseek-ai/dsh-superagent-prototype",
+    "note": "GitHub breakout deepseek-ai/dsh-superagent-prototype ★1572 (1572/day)",
     "examples": [
-     "kevinraymond/florilegium: Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua"
+     "deepseek-ai/dsh-superagent-prototype: Towards a More Autonomous Agent System"
     ]
    },
    {
-    "term": "dsh go",
+    "term": "pixelfx",
     "recent": 1,
     "variants": [
-     "dsh go",
-     "ccch1mneyyy dsh go",
-     "chimney dsh go"
+     "pixelfx",
+     "patch-gg pixelfx",
+     "patch pixelfx"
     ],
-    "repo": "ccch1mneyyy/dsh-Go",
-    "note": "GitHub breakout ccch1mneyyy/dsh-Go ★2884 (485/day, +570 in a day)",
+    "repo": "patch-gg/pixelfx",
+    "note": "GitHub breakout patch-gg/pixelfx ★1166 (803/day, +712 in a day)",
     "examples": [
-     "ccch1mneyyy/dsh-Go: dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。"
+     "patch-gg/pixelfx: 232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own."
     ]
    }
   ],
@@ -289,7 +289,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 53,
+  "pending": 55,
   "window_days": 60
  },
  "keywords": {
