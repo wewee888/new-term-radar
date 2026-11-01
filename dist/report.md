@@ -4,7 +4,10 @@
 
 | Term | Signals | Name score | Known | Search variants | Examples |
 |---|---|---|---|---|---|
-| **hop** | GitHub breakout Arjun-Ingole/hop ★844 (570/day, +333 in a day) | — | none | arjun-ingole hop, arjun hop | Arjun-Ingole/hop: Install Linux next to Windows wi |
+| **numbat** | Hugging Face: new at #44 | — | none | — | burner22/numbat (?, ♥118) |
+| **deepseek v4.1 flash 1017 obliterated** | Hugging Face: new at #45 | — | none | — | OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated ( |
+| **openidea** | GitHub breakout l0ng-ai/openidea ★3096 (275/day, +1191 in a day) | — | none | l0ng-ai openidea | l0ng-ai/openidea: The IDE you know, rebuilt in Rus |
+| **craft anything** | GitHub breakout storytold/craft-anything ★620 (542/day) | — | none | storytold craft anything, artcraft craft anything | storytold/craft-anything: Craft Anything: understa |
 
 ### Topic: AI video
 
@@ -14,21 +17,21 @@ Nothing new on this topic today
 
 | Repo | ★ | Per day | Since yesterday | Age (days) | About |
 |---|---|---|---|---|---|
-| [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | 4080 | 4080 | +2508 | 1.0 | Towards a More Autonomous Agent System |
-| [heydamir/unslop](https://github.com/heydamir/unslop) | 3827 | 1446 | +824 | 2.6 | A Claude skill that turns vibecoded, AI-looking UI into a de |
-| [wangzan101/Mika](https://github.com/wangzan101/Mika) | 3049 | 1132 | +514 | 2.7 | An on-device AI agent for Android that operates apps and the |
-| [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | 4871 | 1018 | +275 | 4.8 | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 |
-| [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | 2759 | 993 | +383 | 2.8 | Static recompilation of The Legend of Zelda: Tears of the Ki |
-| [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | 13924 | 978 | +179 | 14.2 | Your GeForce runs AI at half speed. This fixes it for 20/30/ |
-| [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | 5925 | 894 | +319 | 6.6 |  |
-| [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 1749 | 866 | +583 | 2.0 | 244 pixel art effects, every one a small piece of code. Plus |
-| [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 8421 | 707 | +121 | 11.9 | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS- |
-| [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 5453 | 676 | +117 | 8.1 | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
-| [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) | 4023 | 602 | +46 | 6.7 | Free, open-source, offline checks for traces of known mercen |
-| [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | 1181 | 598 | +89 | 2.0 | Procedurally generated Delft-blue floral page margins for Lu |
-| [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) | 1793 | 589 | +124 | 3.0 | 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自 |
-| 🆕 [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop) | 844 | 570 | +333 | 1.5 | Install Linux next to Windows without a USB stick |
-| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 3881 | 558 | +409 | 7.0 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 |
+| [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | 6658 | 4879 | +2578 | 1.4 | Towards a More Autonomous Agent System |
+| [heydamir/unslop](https://github.com/heydamir/unslop) | 4612 | 1484 | +785 | 3.1 | A Claude skill that turns vibecoded, AI-looking UI into a de |
+| 🆕 [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) | 3096 | 275 | +1191 | 11.2 | The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keyma |
+| [wangzan101/Mika](https://github.com/wangzan101/Mika) | 3698 | 1172 | +649 | 3.2 | An on-device AI agent for Android that operates apps and the |
+| [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | 5108 | 974 | +237 | 5.2 | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 |
+| [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 2404 | 969 | +655 | 2.5 | 244 pixel art effects, every one a small piece of code. Plus |
+| [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | 14081 | 958 | +157 | 14.7 | Your GeForce runs AI at half speed. This fixes it for 20/30/ |
+| [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | 3045 | 940 | +286 | 3.2 | Static recompilation of The Legend of Zelda: Tears of the Ki |
+| [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | 6188 | 872 | +263 | 7.1 |  |
+| [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 8649 | 699 | +228 | 12.4 | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS- |
+| [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 5617 | 659 | +164 | 8.5 | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
+| [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | 4533 | 611 | +652 | 7.4 | dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 |
+| [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop) | 1115 | 574 | +271 | 1.9 | Install Linux next to Windows without a USB stick |
+| [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) | 4091 | 572 | +68 | 7.2 | Free, open-source check for traces of mercenary spyware (Peg |
+| 🆕 [storytold/craft-anything](https://github.com/storytold/craft-anything) | 620 | 542 | — | 1.1 | Craft Anything: understand how any software works, and craft |
 
 ### ⑤ Review (terms reported 14 days ago: did they rise in Google Trends?)
 

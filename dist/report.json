@@ -1,23 +1,78 @@
 {
  "leads": [
   {
-   "term": "hop",
+   "term": "numbat",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face: new at #44"
+   ],
+   "examples": [
+    "burner22/numbat (?, ♥118)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "deepseek v4.1 flash 1017 obliterated",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face: new at #45"
+   ],
+   "examples": [
+    "OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated (text-generation, ♥118)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "openidea",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout Arjun-Ingole/hop ★844 (570/day, +333 in a day)"
+    "GitHub breakout l0ng-ai/openidea ★3096 (275/day, +1191 in a day)"
    ],
    "examples": [
-    "Arjun-Ingole/hop: Install Linux next to Windows without a USB stick"
+    "l0ng-ai/openidea: The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: "
    ],
    "variants": [
-    "hop",
-    "arjun-ingole hop",
-    "arjun hop"
+    "openidea",
+    "l0ng-ai openidea"
    ],
    "posts": [],
-   "repo": "Arjun-Ingole/hop",
+   "repo": "l0ng-ai/openidea",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "craft anything",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout storytold/craft-anything ★620 (542/day)"
+   ],
+   "examples": [
+    "storytold/craft-anything: Craft Anything: understand how any software works, and craft your own."
+   ],
+   "variants": [
+    "craft anything",
+    "storytold craft anything",
+    "artcraft craft anything"
+   ],
+   "posts": [],
+   "repo": "storytold/craft-anything",
    "known": "",
    "format": "text",
    "one_click": null
@@ -28,7 +83,28 @@
  },
  "hf": {
   "first_run": false,
-  "terms": [],
+  "terms": [
+   {
+    "term": "numbat",
+    "rank": 44,
+    "copies": 1,
+    "examples": [
+     "burner22/numbat (?, ♥118)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face: new at #44"
+   },
+   {
+    "term": "deepseek v4.1 flash 1017 obliterated",
+    "rank": 45,
+    "copies": 1,
+    "examples": [
+     "OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated (text-generation, ♥118)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face: new at #45"
+   }
+  ],
   "models": 100,
   "spaces": 100
  },
@@ -40,10 +116,10 @@
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 4080,
-    "velocity": 4080,
-    "delta": 2508,
-    "age_days": 1.0,
+    "stars": 6658,
+    "velocity": 4879,
+    "delta": 2578,
+    "age_days": 1.4,
     "description": "Towards a More Autonomous Agent System",
     "new": false
    },
@@ -51,21 +127,36 @@
     "repo": "heydamir/unslop",
     "owner": "heydamir",
     "name": "unslop",
-    "stars": 3827,
-    "velocity": 1446,
-    "delta": 824,
-    "age_days": 2.6,
+    "stars": 4612,
+    "velocity": 1484,
+    "delta": 785,
+    "age_days": 3.1,
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "new": false
+   },
+   {
+    "repo": "l0ng-ai/openidea",
+    "owner": "l0ng-ai",
+    "name": "openidea",
+    "stars": 3096,
+    "velocity": 275,
+    "delta": 1191,
+    "age_days": 11.2,
+    "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: ",
+    "new": true,
+    "variants": [
+     "openidea",
+     "l0ng-ai openidea"
+    ]
    },
    {
     "repo": "wangzan101/Mika",
     "owner": "wangzan101",
     "name": "Mika",
-    "stars": 3049,
-    "velocity": 1132,
-    "delta": 514,
-    "age_days": 2.7,
+    "stars": 3698,
+    "velocity": 1172,
+    "delta": 649,
+    "age_days": 3.2,
     "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
     "new": false
    },
@@ -73,65 +164,65 @@
     "repo": "anhao/ai-pose-gallery-zh",
     "owner": "anhao",
     "name": "ai-pose-gallery-zh",
-    "stars": 4871,
-    "velocity": 1018,
-    "delta": 275,
-    "age_days": 4.8,
+    "stars": 5108,
+    "velocity": 974,
+    "delta": 237,
+    "age_days": 5.2,
     "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-    "new": false
-   },
-   {
-    "repo": "valentderah/totk-pc-recomp",
-    "owner": "valentderah",
-    "name": "totk-pc-recomp",
-    "stars": 2759,
-    "velocity": 993,
-    "delta": 383,
-    "age_days": 2.8,
-    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game",
-    "new": false
-   },
-   {
-    "repo": "Zagitta/gpu-unlock",
-    "owner": "Zagitta",
-    "name": "gpu-unlock",
-    "stars": 13924,
-    "velocity": 978,
-    "delta": 179,
-    "age_days": 14.2,
-    "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughp",
-    "new": false
-   },
-   {
-    "repo": "unclebob/ub-mode",
-    "owner": "unclebob",
-    "name": "ub-mode",
-    "stars": 5925,
-    "velocity": 894,
-    "delta": 319,
-    "age_days": 6.6,
-    "description": "",
     "new": false
    },
    {
     "repo": "patch-gg/pixelfx",
     "owner": "patch-gg",
     "name": "pixelfx",
-    "stars": 1749,
-    "velocity": 866,
-    "delta": 583,
-    "age_days": 2.0,
+    "stars": 2404,
+    "velocity": 969,
+    "delta": 655,
+    "age_days": 2.5,
     "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "new": false
+   },
+   {
+    "repo": "Zagitta/gpu-unlock",
+    "owner": "Zagitta",
+    "name": "gpu-unlock",
+    "stars": 14081,
+    "velocity": 958,
+    "delta": 157,
+    "age_days": 14.7,
+    "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughp",
+    "new": false
+   },
+   {
+    "repo": "valentderah/totk-pc-recomp",
+    "owner": "valentderah",
+    "name": "totk-pc-recomp",
+    "stars": 3045,
+    "velocity": 940,
+    "delta": 286,
+    "age_days": 3.2,
+    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game",
+    "new": false
+   },
+   {
+    "repo": "unclebob/ub-mode",
+    "owner": "unclebob",
+    "name": "ub-mode",
+    "stars": 6188,
+    "velocity": 872,
+    "delta": 263,
+    "age_days": 7.1,
+    "description": "",
     "new": false
    },
    {
     "repo": "pengchujin/aerial-tv",
     "owner": "pengchujin",
     "name": "aerial-tv",
-    "stars": 8421,
-    "velocity": 707,
-    "delta": 121,
-    "age_days": 11.9,
+    "stars": 8649,
+    "velocity": 699,
+    "delta": 228,
+    "age_days": 12.4,
     "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
     "new": false
    },
@@ -139,87 +230,89 @@
     "repo": "rddmwmddr/android-ad-cleaner",
     "owner": "rddmwmddr",
     "name": "android-ad-cleaner",
-    "stars": 5453,
-    "velocity": 676,
-    "delta": 117,
-    "age_days": 8.1,
+    "stars": 5617,
+    "velocity": 659,
+    "delta": 164,
+    "age_days": 8.5,
     "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
     "new": false
    },
    {
-    "repo": "interplains/Zero-Breach-Toolkit",
-    "owner": "interplains",
-    "name": "Zero-Breach-Toolkit",
-    "stars": 4023,
-    "velocity": 602,
-    "delta": 46,
-    "age_days": 6.7,
-    "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phon",
-    "new": false
-   },
-   {
-    "repo": "kevinraymond/florilegium",
-    "owner": "kevinraymond",
-    "name": "florilegium",
-    "stars": 1181,
-    "velocity": 598,
-    "delta": 89,
-    "age_days": 2.0,
-    "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
-    "new": false
-   },
-   {
-    "repo": "paipiange/nvzhuang",
-    "owner": "paipiange",
-    "name": "nvzhuang",
-    "stars": 1793,
-    "velocity": 589,
-    "delta": 124,
-    "age_days": 3.0,
-    "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+    "repo": "ccch1mneyyy/dsh-Go",
+    "owner": "ccch1mneyyy",
+    "name": "dsh-Go",
+    "stars": 4533,
+    "velocity": 611,
+    "delta": 652,
+    "age_days": 7.4,
+    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
     "new": false
    },
    {
     "repo": "Arjun-Ingole/hop",
     "owner": "Arjun-Ingole",
     "name": "hop",
-    "stars": 844,
-    "velocity": 570,
-    "delta": 333,
-    "age_days": 1.5,
+    "stars": 1115,
+    "velocity": 574,
+    "delta": 271,
+    "age_days": 1.9,
     "description": "Install Linux next to Windows without a USB stick",
-    "new": true,
-    "variants": [
-     "hop",
-     "arjun-ingole hop",
-     "arjun hop"
-    ]
+    "new": false
    },
    {
-    "repo": "ccch1mneyyy/dsh-Go",
-    "owner": "ccch1mneyyy",
-    "name": "dsh-Go",
-    "stars": 3881,
-    "velocity": 558,
-    "delta": 409,
-    "age_days": 7.0,
-    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+    "repo": "interplains/Zero-Breach-Toolkit",
+    "owner": "interplains",
+    "name": "Zero-Breach-Toolkit",
+    "stars": 4091,
+    "velocity": 572,
+    "delta": 68,
+    "age_days": 7.2,
+    "description": "Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, An",
     "new": false
+   },
+   {
+    "repo": "storytold/craft-anything",
+    "owner": "storytold",
+    "name": "craft-anything",
+    "stars": 620,
+    "velocity": 542,
+    "delta": null,
+    "age_days": 1.1,
+    "description": "Craft Anything: understand how any software works, and craft your own.",
+    "new": true,
+    "variants": [
+     "craft anything",
+     "storytold craft anything",
+     "artcraft craft anything"
+    ]
    }
   ],
   "terms": [
    {
-    "term": "hop",
+    "term": "openidea",
     "recent": 1,
     "variants": [
-     "hop",
-     "arjun-ingole hop",
-     "arjun hop"
+     "openidea",
+     "l0ng-ai openidea"
     ],
-    "repo": "Arjun-Ingole/hop",
-    "note": "GitHub breakout Arjun-Ingole/hop ★844 (570/day, +333 in a day)",
+    "repo": "l0ng-ai/openidea",
+    "note": "GitHub breakout l0ng-ai/openidea ★3096 (275/day, +1191 in a day)",
     "examples": [
-     "Arjun-Ingole/hop: Install Linux next to Windows without a USB stick"
+     "l0ng-ai/openidea: The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: "
+    ]
+   },
+   {
+    "term": "craft anything",
+    "recent": 1,
+    "variants": [
+     "craft anything",
+     "storytold craft anything",
+     "artcraft craft anything"
+    ],
+    "repo": "storytold/craft-anything",
+    "note": "GitHub breakout storytold/craft-anything ★620 (542/day)",
+    "examples": [
+     "storytold/craft-anything: Craft Anything: understand how any software works, and craft your own."
     ]
    }
   ],
@@ -248,7 +341,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 56,
+  "pending": 60,
   "window_days": 60
  },
  "keywords": {
