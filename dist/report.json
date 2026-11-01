@@ -1,45 +1,23 @@
 {
  "leads": [
   {
-   "term": "pixelfx",
+   "term": "hop",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout patch-gg/pixelfx ★1166 (803/day, +712 in a day)"
+    "GitHub breakout Arjun-Ingole/hop ★844 (570/day, +333 in a day)"
    ],
    "examples": [
-    "patch-gg/pixelfx: 232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own."
+    "Arjun-Ingole/hop: Install Linux next to Windows without a USB stick"
    ],
    "variants": [
-    "pixelfx",
-    "patch-gg pixelfx",
-    "patch pixelfx"
+    "hop",
+    "arjun-ingole hop",
+    "arjun hop"
    ],
    "posts": [],
-   "repo": "patch-gg/pixelfx",
-   "known": "",
-   "format": "image",
-   "one_click": null
-  },
-  {
-   "term": "dsh superagent prototype",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout deepseek-ai/dsh-superagent-prototype ★1572 (1572/day)"
-   ],
-   "examples": [
-    "deepseek-ai/dsh-superagent-prototype: Towards a More Autonomous Agent System"
-   ],
-   "variants": [
-    "dsh superagent prototype",
-    "deepseek-ai dsh superagent prototype",
-    "deepseek dsh superagent prototype"
-   ],
-   "posts": [],
-   "repo": "deepseek-ai/dsh-superagent-prototype",
+   "repo": "Arjun-Ingole/hop",
    "known": "",
    "format": "text",
    "one_click": null
@@ -59,40 +37,24 @@
   "first_run": false,
   "repos": [
    {
-    "repo": "Gathin23/cleanyourtv",
-    "owner": "Gathin23",
-    "name": "cleanyourtv",
-    "stars": 47644,
-    "velocity": 3311,
-    "delta": 613,
-    "age_days": 14.4,
-    "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-    "new": false
-   },
-   {
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 1572,
-    "velocity": 1572,
-    "delta": null,
+    "stars": 4080,
+    "velocity": 4080,
+    "delta": 2508,
     "age_days": 1.0,
     "description": "Towards a More Autonomous Agent System",
-    "new": true,
-    "variants": [
-     "dsh superagent prototype",
-     "deepseek-ai dsh superagent prototype",
-     "deepseek dsh superagent prototype"
-    ]
+    "new": false
    },
    {
     "repo": "heydamir/unslop",
     "owner": "heydamir",
     "name": "unslop",
-    "stars": 3003,
-    "velocity": 1445,
-    "delta": 1372,
-    "age_days": 2.1,
+    "stars": 3827,
+    "velocity": 1446,
+    "delta": 824,
+    "age_days": 2.6,
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "new": false
    },
@@ -100,21 +62,21 @@
     "repo": "wangzan101/Mika",
     "owner": "wangzan101",
     "name": "Mika",
-    "stars": 2535,
-    "velocity": 1193,
-    "delta": 745,
-    "age_days": 2.1,
-    "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things don",
+    "stars": 3049,
+    "velocity": 1132,
+    "delta": 514,
+    "age_days": 2.7,
+    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
     "new": false
    },
    {
     "repo": "anhao/ai-pose-gallery-zh",
     "owner": "anhao",
     "name": "ai-pose-gallery-zh",
-    "stars": 4596,
-    "velocity": 1091,
-    "delta": 431,
-    "age_days": 4.2,
+    "stars": 4871,
+    "velocity": 1018,
+    "delta": 275,
+    "age_days": 4.8,
     "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
    },
@@ -122,10 +84,10 @@
     "repo": "valentderah/totk-pc-recomp",
     "owner": "valentderah",
     "name": "totk-pc-recomp",
-    "stars": 2376,
-    "velocity": 1076,
-    "delta": 509,
-    "age_days": 2.2,
+    "stars": 2759,
+    "velocity": 993,
+    "delta": 383,
+    "age_days": 2.8,
     "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game",
     "new": false
    },
@@ -133,10 +95,10 @@
     "repo": "Zagitta/gpu-unlock",
     "owner": "Zagitta",
     "name": "gpu-unlock",
-    "stars": 13745,
-    "velocity": 1005,
-    "delta": 197,
-    "age_days": 13.7,
+    "stars": 13924,
+    "velocity": 978,
+    "delta": 179,
+    "age_days": 14.2,
     "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughp",
     "new": false
    },
@@ -144,10 +106,10 @@
     "repo": "unclebob/ub-mode",
     "owner": "unclebob",
     "name": "ub-mode",
-    "stars": 5606,
-    "velocity": 925,
-    "delta": 145,
-    "age_days": 6.1,
+    "stars": 5925,
+    "velocity": 894,
+    "delta": 319,
+    "age_days": 6.6,
     "description": "",
     "new": false
    },
@@ -155,37 +117,21 @@
     "repo": "patch-gg/pixelfx",
     "owner": "patch-gg",
     "name": "pixelfx",
-    "stars": 1166,
-    "velocity": 803,
-    "delta": 712,
-    "age_days": 1.5,
-    "description": "232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-    "new": true,
-    "variants": [
-     "pixelfx",
-     "patch-gg pixelfx",
-     "patch pixelfx"
-    ]
-   },
-   {
-    "repo": "kevinraymond/florilegium",
-    "owner": "kevinraymond",
-    "name": "florilegium",
-    "stars": 1092,
-    "velocity": 777,
-    "delta": 327,
-    "age_days": 1.4,
-    "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+    "stars": 1749,
+    "velocity": 866,
+    "delta": 583,
+    "age_days": 2.0,
+    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
     "new": false
    },
    {
     "repo": "pengchujin/aerial-tv",
     "owner": "pengchujin",
     "name": "aerial-tv",
-    "stars": 8300,
-    "velocity": 731,
-    "delta": 159,
-    "age_days": 11.3,
+    "stars": 8421,
+    "velocity": 707,
+    "delta": 121,
+    "age_days": 11.9,
     "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
     "new": false
    },
@@ -193,74 +139,87 @@
     "repo": "rddmwmddr/android-ad-cleaner",
     "owner": "rddmwmddr",
     "name": "android-ad-cleaner",
-    "stars": 5336,
-    "velocity": 712,
-    "delta": 153,
-    "age_days": 7.5,
+    "stars": 5453,
+    "velocity": 676,
+    "delta": 117,
+    "age_days": 8.1,
     "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-    "new": false
-   },
-   {
-    "repo": "paipiange/nvzhuang",
-    "owner": "paipiange",
-    "name": "nvzhuang",
-    "stars": 1669,
-    "velocity": 674,
-    "delta": 283,
-    "age_days": 2.5,
-    "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
     "new": false
    },
    {
     "repo": "interplains/Zero-Breach-Toolkit",
     "owner": "interplains",
     "name": "Zero-Breach-Toolkit",
-    "stars": 3977,
-    "velocity": 650,
-    "delta": 69,
-    "age_days": 6.1,
+    "stars": 4023,
+    "velocity": 602,
+    "delta": 46,
+    "age_days": 6.7,
     "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phon",
     "new": false
    },
    {
-    "repo": "JustAResearcher/gpu-unlock-ada",
-    "owner": "JustAResearcher",
-    "name": "gpu-unlock-ada",
-    "stars": 4619,
-    "velocity": 588,
-    "delta": 26,
-    "age_days": 7.9,
-    "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+    "repo": "kevinraymond/florilegium",
+    "owner": "kevinraymond",
+    "name": "florilegium",
+    "stars": 1181,
+    "velocity": 598,
+    "delta": 89,
+    "age_days": 2.0,
+    "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+    "new": false
+   },
+   {
+    "repo": "paipiange/nvzhuang",
+    "owner": "paipiange",
+    "name": "nvzhuang",
+    "stars": 1793,
+    "velocity": 589,
+    "delta": 124,
+    "age_days": 3.0,
+    "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+    "new": false
+   },
+   {
+    "repo": "Arjun-Ingole/hop",
+    "owner": "Arjun-Ingole",
+    "name": "hop",
+    "stars": 844,
+    "velocity": 570,
+    "delta": 333,
+    "age_days": 1.5,
+    "description": "Install Linux next to Windows without a USB stick",
+    "new": true,
+    "variants": [
+     "hop",
+     "arjun-ingole hop",
+     "arjun hop"
+    ]
+   },
+   {
+    "repo": "ccch1mneyyy/dsh-Go",
+    "owner": "ccch1mneyyy",
+    "name": "dsh-Go",
+    "stars": 3881,
+    "velocity": 558,
+    "delta": 409,
+    "age_days": 7.0,
+    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
     "new": false
    }
   ],
   "terms": [
    {
-    "term": "dsh superagent prototype",
+    "term": "hop",
     "recent": 1,
     "variants": [
-     "dsh superagent prototype",
-     "deepseek-ai dsh superagent prototype",
-     "deepseek dsh superagent prototype"
+     "hop",
+     "arjun-ingole hop",
+     "arjun hop"
     ],
-    "repo": "deepseek-ai/dsh-superagent-prototype",
-    "note": "GitHub breakout deepseek-ai/dsh-superagent-prototype ★1572 (1572/day)",
+    "repo": "Arjun-Ingole/hop",
+    "note": "GitHub breakout Arjun-Ingole/hop ★844 (570/day, +333 in a day)",
     "examples": [
-     "deepseek-ai/dsh-superagent-prototype: Towards a More Autonomous Agent System"
-    ]
-   },
-   {
-    "term": "pixelfx",
-    "recent": 1,
-    "variants": [
-     "pixelfx",
-     "patch-gg pixelfx",
-     "patch pixelfx"
-    ],
-    "repo": "patch-gg/pixelfx",
-    "note": "GitHub breakout patch-gg/pixelfx ★1166 (803/day, +712 in a day)",
-    "examples": [
-     "patch-gg/pixelfx: 232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own."
+     "Arjun-Ingole/hop: Install Linux next to Windows without a USB stick"
     ]
    }
   ],
@@ -289,7 +248,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 55,
+  "pending": 56,
   "window_days": 60
  },
  "keywords": {
