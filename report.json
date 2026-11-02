@@ -1,15 +1,15 @@
 {
  "leads": [
   {
-   "term": "numbat",
+   "term": "sulphur 3",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #44"
+    "Hugging Face: new at #42"
    ],
    "examples": [
-    "burner22/numbat (?, ♥118)"
+    "FusionCow/Sulphur-3 (?, ♥128)"
    ],
    "variants": [],
    "posts": [],
@@ -18,15 +18,15 @@
    "one_click": null
   },
   {
-   "term": "deepseek v4.1 flash 1017 obliterated",
+   "term": "ava",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #45"
+    "Hugging Face Spaces: new at #41"
    ],
    "examples": [
-    "OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated (text-generation, ♥118)"
+    "townbox/ava (static, ♥19)"
    ],
    "variants": [],
    "posts": [],
@@ -35,44 +35,61 @@
    "one_click": null
   },
   {
-   "term": "openidea",
+   "term": "h3",
    "kinds": [
-    "breakout"
+    "hf"
    ],
    "signals": [
-    "GitHub breakout l0ng-ai/openidea ★3096 (275/day, +1191 in a day)"
+    "Hugging Face Spaces: new at #50"
    ],
    "examples": [
-    "l0ng-ai/openidea: The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: "
+    "ppxxyy/H3-Turbo-Lora (gradio, ♥31)"
    ],
-   "variants": [
-    "openidea",
-    "l0ng-ai openidea"
-   ],
+   "variants": [],
    "posts": [],
-   "repo": "l0ng-ai/openidea",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "craft anything",
+   "term": "stack diagram",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout storytold/craft-anything ★620 (542/day)"
+    "GitHub breakout caru-ini/stack-diagram ★707 (656/day)"
    ],
    "examples": [
-    "storytold/craft-anything: Craft Anything: understand how any software works, and craft your own."
+    "caru-ini/stack-diagram: Agent skill: describe your stack in a sentence, get an architecture diagram with official logos"
    ],
    "variants": [
-    "craft anything",
-    "storytold craft anything",
-    "artcraft craft anything"
+    "stack diagram",
+    "caru-ini stack diagram"
    ],
    "posts": [],
-   "repo": "storytold/craft-anything",
+   "repo": "caru-ini/stack-diagram",
+   "known": "",
+   "format": "image",
+   "one_click": null
+  },
+  {
+   "term": "floorplan",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout haydenschmitty/floorplan ★1928 (332/day, +525 in a day)"
+   ],
+   "examples": [
+    "haydenschmitty/floorplan: See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex."
+   ],
+   "variants": [
+    "floorplan",
+    "haydenschmitty floorplan",
+    "hayden floorplan"
+   ],
+   "posts": [],
+   "repo": "haydenschmitty/floorplan",
    "known": "",
    "format": "text",
    "one_click": null
@@ -85,24 +102,34 @@
   "first_run": false,
   "terms": [
    {
-    "term": "numbat",
-    "rank": 44,
+    "term": "sulphur 3",
+    "rank": 42,
     "copies": 1,
     "examples": [
-     "burner22/numbat (?, ♥118)"
+     "FusionCow/Sulphur-3 (?, ♥128)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #44"
+    "note": "Hugging Face: new at #42"
    },
    {
-    "term": "deepseek v4.1 flash 1017 obliterated",
-    "rank": 45,
+    "term": "ava",
+    "rank": 41,
     "copies": 1,
     "examples": [
-     "OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated (text-generation, ♥118)"
+     "townbox/ava (static, ♥19)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #45"
+    "note": "Hugging Face Spaces: new at #41"
+   },
+   {
+    "term": "h3",
+    "rank": 50,
+    "copies": 1,
+    "examples": [
+     "ppxxyy/H3-Turbo-Lora (gradio, ♥31)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face Spaces: new at #50"
    }
   ],
   "models": 100,
@@ -116,10 +143,10 @@
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 6658,
-    "velocity": 4879,
-    "delta": 2578,
-    "age_days": 1.4,
+    "stars": 9970,
+    "velocity": 5213,
+    "delta": 3312,
+    "age_days": 1.9,
     "description": "Towards a More Autonomous Agent System",
     "new": false
    },
@@ -127,80 +154,76 @@
     "repo": "heydamir/unslop",
     "owner": "heydamir",
     "name": "unslop",
-    "stars": 4612,
-    "velocity": 1484,
-    "delta": 785,
-    "age_days": 3.1,
+    "stars": 5196,
+    "velocity": 1421,
+    "delta": 584,
+    "age_days": 3.7,
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+    "new": false
+   },
+   {
+    "repo": "wangzan101/Mika",
+    "owner": "wangzan101",
+    "name": "Mika",
+    "stars": 4462,
+    "velocity": 1205,
+    "delta": 764,
+    "age_days": 3.7,
+    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+    "new": false
+   },
+   {
+    "repo": "storytold/craft-anything",
+    "owner": "storytold",
+    "name": "craft-anything",
+    "stars": 1780,
+    "velocity": 1052,
+    "delta": 1160,
+    "age_days": 1.7,
+    "description": "Craft Anything: understand how any software works, and craft your own.",
     "new": false
    },
    {
     "repo": "l0ng-ai/openidea",
     "owner": "l0ng-ai",
     "name": "openidea",
-    "stars": 3096,
-    "velocity": 275,
-    "delta": 1191,
-    "age_days": 11.2,
+    "stars": 4136,
+    "velocity": 351,
+    "delta": 1040,
+    "age_days": 11.8,
     "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: ",
-    "new": true,
-    "variants": [
-     "openidea",
-     "l0ng-ai openidea"
-    ]
-   },
-   {
-    "repo": "wangzan101/Mika",
-    "owner": "wangzan101",
-    "name": "Mika",
-    "stars": 3698,
-    "velocity": 1172,
-    "delta": 649,
-    "age_days": 3.2,
-    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-    "new": false
-   },
-   {
-    "repo": "anhao/ai-pose-gallery-zh",
-    "owner": "anhao",
-    "name": "ai-pose-gallery-zh",
-    "stars": 5108,
-    "velocity": 974,
-    "delta": 237,
-    "age_days": 5.2,
-    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
    },
    {
     "repo": "patch-gg/pixelfx",
     "owner": "patch-gg",
     "name": "pixelfx",
-    "stars": 2404,
-    "velocity": 969,
-    "delta": 655,
-    "age_days": 2.5,
+    "stars": 2982,
+    "velocity": 984,
+    "delta": 578,
+    "age_days": 3.0,
     "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
     "new": false
    },
    {
-    "repo": "Zagitta/gpu-unlock",
-    "owner": "Zagitta",
-    "name": "gpu-unlock",
-    "stars": 14081,
-    "velocity": 958,
-    "delta": 157,
-    "age_days": 14.7,
-    "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughp",
+    "repo": "anhao/ai-pose-gallery-zh",
+    "owner": "anhao",
+    "name": "ai-pose-gallery-zh",
+    "stars": 5292,
+    "velocity": 914,
+    "delta": 184,
+    "age_days": 5.8,
+    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
    },
    {
     "repo": "valentderah/totk-pc-recomp",
     "owner": "valentderah",
     "name": "totk-pc-recomp",
-    "stars": 3045,
-    "velocity": 940,
-    "delta": 286,
-    "age_days": 3.2,
+    "stars": 3404,
+    "velocity": 899,
+    "delta": 359,
+    "age_days": 3.8,
     "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game",
     "new": false
    },
@@ -208,10 +231,10 @@
     "repo": "unclebob/ub-mode",
     "owner": "unclebob",
     "name": "ub-mode",
-    "stars": 6188,
-    "velocity": 872,
-    "delta": 263,
-    "age_days": 7.1,
+    "stars": 6365,
+    "velocity": 833,
+    "delta": 177,
+    "age_days": 7.6,
     "description": "",
     "new": false
    },
@@ -219,100 +242,104 @@
     "repo": "pengchujin/aerial-tv",
     "owner": "pengchujin",
     "name": "aerial-tv",
-    "stars": 8649,
-    "velocity": 699,
-    "delta": 228,
-    "age_days": 12.4,
+    "stars": 8819,
+    "velocity": 682,
+    "delta": 170,
+    "age_days": 12.9,
     "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+    "new": false
+   },
+   {
+    "repo": "caru-ini/stack-diagram",
+    "owner": "caru-ini",
+    "name": "stack-diagram",
+    "stars": 707,
+    "velocity": 656,
+    "delta": null,
+    "age_days": 1.1,
+    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+    "new": true,
+    "variants": [
+     "stack diagram",
+     "caru-ini stack diagram"
+    ]
+   },
+   {
+    "repo": "ccch1mneyyy/dsh-Go",
+    "owner": "ccch1mneyyy",
+    "name": "dsh-Go",
+    "stars": 5159,
+    "velocity": 647,
+    "delta": 626,
+    "age_days": 8.0,
+    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
     "new": false
    },
    {
     "repo": "rddmwmddr/android-ad-cleaner",
     "owner": "rddmwmddr",
     "name": "android-ad-cleaner",
-    "stars": 5617,
-    "velocity": 659,
-    "delta": 164,
-    "age_days": 8.5,
+    "stars": 5754,
+    "velocity": 634,
+    "delta": 137,
+    "age_days": 9.1,
     "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-    "new": false
-   },
-   {
-    "repo": "ccch1mneyyy/dsh-Go",
-    "owner": "ccch1mneyyy",
-    "name": "dsh-Go",
-    "stars": 4533,
-    "velocity": 611,
-    "delta": 652,
-    "age_days": 7.4,
-    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-    "new": false
-   },
-   {
-    "repo": "Arjun-Ingole/hop",
-    "owner": "Arjun-Ingole",
-    "name": "hop",
-    "stars": 1115,
-    "velocity": 574,
-    "delta": 271,
-    "age_days": 1.9,
-    "description": "Install Linux next to Windows without a USB stick",
     "new": false
    },
    {
     "repo": "interplains/Zero-Breach-Toolkit",
     "owner": "interplains",
     "name": "Zero-Breach-Toolkit",
-    "stars": 4091,
-    "velocity": 572,
-    "delta": 68,
-    "age_days": 7.2,
+    "stars": 4190,
+    "velocity": 544,
+    "delta": 99,
+    "age_days": 7.7,
     "description": "Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, An",
     "new": false
    },
    {
-    "repo": "storytold/craft-anything",
-    "owner": "storytold",
-    "name": "craft-anything",
-    "stars": 620,
-    "velocity": 542,
-    "delta": null,
-    "age_days": 1.1,
-    "description": "Craft Anything: understand how any software works, and craft your own.",
+    "repo": "haydenschmitty/floorplan",
+    "owner": "haydenschmitty",
+    "name": "floorplan",
+    "stars": 1928,
+    "velocity": 332,
+    "delta": 525,
+    "age_days": 5.8,
+    "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
     "new": true,
     "variants": [
-     "craft anything",
-     "storytold craft anything",
-     "artcraft craft anything"
+     "floorplan",
+     "haydenschmitty floorplan",
+     "hayden floorplan"
     ]
    }
   ],
   "terms": [
    {
-    "term": "openidea",
+    "term": "stack diagram",
     "recent": 1,
     "variants": [
-     "openidea",
-     "l0ng-ai openidea"
+     "stack diagram",
+     "caru-ini stack diagram"
     ],
-    "repo": "l0ng-ai/openidea",
-    "note": "GitHub breakout l0ng-ai/openidea ★3096 (275/day, +1191 in a day)",
+    "repo": "caru-ini/stack-diagram",
+    "note": "GitHub breakout caru-ini/stack-diagram ★707 (656/day)",
     "examples": [
-     "l0ng-ai/openidea: The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: "
+     "caru-ini/stack-diagram: Agent skill: describe your stack in a sentence, get an architecture diagram with official logos"
     ]
    },
    {
-    "term": "craft anything",
+    "term": "floorplan",
     "recent": 1,
     "variants": [
-     "craft anything",
-     "storytold craft anything",
-     "artcraft craft anything"
+     "floorplan",
+     "haydenschmitty floorplan",
+     "hayden floorplan"
     ],
-    "repo": "storytold/craft-anything",
-    "note": "GitHub breakout storytold/craft-anything ★620 (542/day)",
+    "repo": "haydenschmitty/floorplan",
+    "note": "GitHub breakout haydenschmitty/floorplan ★1928 (332/day, +525 in a day)",
     "examples": [
-     "storytold/craft-anything: Craft Anything: understand how any software works, and craft your own."
+     "haydenschmitty/floorplan: See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex."
     ]
    }
   ],
@@ -341,7 +368,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 60,
+  "pending": 65,
   "window_days": 60
  },
  "keywords": {
