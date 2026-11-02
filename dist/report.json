@@ -1,95 +1,61 @@
 {
  "leads": [
   {
-   "term": "sulphur 3",
+   "term": "audio8 tts realistic air",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #42"
+    "Hugging Face: new at #16"
    ],
    "examples": [
-    "FusionCow/Sulphur-3 (?, ♥128)"
+    "Edge0/Audio8-TTS-Realistic-Air (text-to-speech, ♥242)",
+    "Edge0/Audio8-TTS-Realistic-Air (gradio, ♥18)"
    ],
    "variants": [],
    "posts": [],
    "known": "",
-   "format": "text",
+   "format": "voice",
    "one_click": null
   },
   {
-   "term": "ava",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face Spaces: new at #41"
-   ],
-   "examples": [
-    "townbox/ava (static, ♥19)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "h3",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face Spaces: new at #50"
-   ],
-   "examples": [
-    "ppxxyy/H3-Turbo-Lora (gradio, ♥31)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "stack diagram",
+   "term": "noir",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout caru-ini/stack-diagram ★707 (656/day)"
+    "GitHub breakout Verlintas/NOIR ★1239 (611/day, +750 in a day)"
    ],
    "examples": [
-    "caru-ini/stack-diagram: Agent skill: describe your stack in a sentence, get an architecture diagram with official logos"
+    "Verlintas/NOIR: 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, revers"
    ],
    "variants": [
-    "stack diagram",
-    "caru-ini stack diagram"
+    "noir",
+    "verlintas noir"
    ],
    "posts": [],
-   "repo": "caru-ini/stack-diagram",
+   "repo": "Verlintas/NOIR",
    "known": "",
-   "format": "image",
+   "format": "text",
    "one_click": null
   },
   {
-   "term": "floorplan",
+   "term": "steam stash value report card",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout haydenschmitty/floorplan ★1928 (332/day, +525 in a day)"
+    "GitHub breakout AssassinCreator/steam-stash-value-report-card ★586 (586/day)"
    ],
    "examples": [
-    "haydenschmitty/floorplan: See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex."
+    "AssassinCreator/steam-stash-value-report-card: Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One "
    ],
    "variants": [
-    "floorplan",
-    "haydenschmitty floorplan",
-    "hayden floorplan"
+    "steam stash value report card",
+    "assassincreator steam stash value report card"
    ],
    "posts": [],
-   "repo": "haydenschmitty/floorplan",
+   "repo": "AssassinCreator/steam-stash-value-report-card",
    "known": "",
    "format": "text",
    "one_click": null
@@ -102,34 +68,15 @@
   "first_run": false,
   "terms": [
    {
-    "term": "sulphur 3",
-    "rank": 42,
+    "term": "audio8 tts realistic air",
+    "rank": 16,
     "copies": 1,
     "examples": [
-     "FusionCow/Sulphur-3 (?, ♥128)"
+     "Edge0/Audio8-TTS-Realistic-Air (text-to-speech, ♥242)",
+     "Edge0/Audio8-TTS-Realistic-Air (gradio, ♥18)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #42"
-   },
-   {
-    "term": "ava",
-    "rank": 41,
-    "copies": 1,
-    "examples": [
-     "townbox/ava (static, ♥19)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face Spaces: new at #41"
-   },
-   {
-    "term": "h3",
-    "rank": 50,
-    "copies": 1,
-    "examples": [
-     "ppxxyy/H3-Turbo-Lora (gradio, ♥31)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face Spaces: new at #50"
+    "note": "Hugging Face: new at #16"
    }
   ],
   "models": 100,
@@ -143,21 +90,32 @@
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 9970,
-    "velocity": 5213,
-    "delta": 3312,
-    "age_days": 1.9,
+    "stars": 12928,
+    "velocity": 5113,
+    "delta": 2958,
+    "age_days": 2.5,
     "description": "Towards a More Autonomous Agent System",
+    "new": false
+   },
+   {
+    "repo": "storytold/craft-anything",
+    "owner": "storytold",
+    "name": "craft-anything",
+    "stars": 3797,
+    "velocity": 1645,
+    "delta": 2017,
+    "age_days": 2.3,
+    "description": "Craft Anything: understand how any software works, and craft your own.",
     "new": false
    },
    {
     "repo": "heydamir/unslop",
     "owner": "heydamir",
     "name": "unslop",
-    "stars": 5196,
-    "velocity": 1421,
-    "delta": 584,
-    "age_days": 3.7,
+    "stars": 6147,
+    "velocity": 1439,
+    "delta": 951,
+    "age_days": 4.3,
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "new": false
    },
@@ -165,87 +123,102 @@
     "repo": "wangzan101/Mika",
     "owner": "wangzan101",
     "name": "Mika",
-    "stars": 4462,
-    "velocity": 1205,
-    "delta": 764,
-    "age_days": 3.7,
+    "stars": 5232,
+    "velocity": 1211,
+    "delta": 770,
+    "age_days": 4.3,
     "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-    "new": false
-   },
-   {
-    "repo": "storytold/craft-anything",
-    "owner": "storytold",
-    "name": "craft-anything",
-    "stars": 1780,
-    "velocity": 1052,
-    "delta": 1160,
-    "age_days": 1.7,
-    "description": "Craft Anything: understand how any software works, and craft your own.",
-    "new": false
-   },
-   {
-    "repo": "l0ng-ai/openidea",
-    "owner": "l0ng-ai",
-    "name": "openidea",
-    "stars": 4136,
-    "velocity": 351,
-    "delta": 1040,
-    "age_days": 11.8,
-    "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: ",
     "new": false
    },
    {
     "repo": "patch-gg/pixelfx",
     "owner": "patch-gg",
     "name": "pixelfx",
-    "stars": 2982,
-    "velocity": 984,
-    "delta": 578,
-    "age_days": 3.0,
+    "stars": 3448,
+    "velocity": 946,
+    "delta": 466,
+    "age_days": 3.6,
     "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-    "new": false
-   },
-   {
-    "repo": "anhao/ai-pose-gallery-zh",
-    "owner": "anhao",
-    "name": "ai-pose-gallery-zh",
-    "stars": 5292,
-    "velocity": 914,
-    "delta": 184,
-    "age_days": 5.8,
-    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
    },
    {
     "repo": "valentderah/totk-pc-recomp",
     "owner": "valentderah",
     "name": "totk-pc-recomp",
-    "stars": 3404,
-    "velocity": 899,
-    "delta": 359,
-    "age_days": 3.8,
-    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game",
+    "stars": 3941,
+    "velocity": 895,
+    "delta": 537,
+    "age_days": 4.4,
+    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan rend",
+    "new": false
+   },
+   {
+    "repo": "anhao/ai-pose-gallery-zh",
+    "owner": "anhao",
+    "name": "ai-pose-gallery-zh",
+    "stars": 5478,
+    "velocity": 855,
+    "delta": 186,
+    "age_days": 6.4,
+    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
    },
    {
     "repo": "unclebob/ub-mode",
     "owner": "unclebob",
     "name": "ub-mode",
-    "stars": 6365,
-    "velocity": 833,
-    "delta": 177,
-    "age_days": 7.6,
+    "stars": 6530,
+    "velocity": 791,
+    "delta": 165,
+    "age_days": 8.3,
     "description": "",
+    "new": false
+   },
+   {
+    "repo": "l0ng-ai/openidea",
+    "owner": "l0ng-ai",
+    "name": "openidea",
+    "stars": 4916,
+    "velocity": 396,
+    "delta": 780,
+    "age_days": 12.4,
+    "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: ",
+    "new": false
+   },
+   {
+    "repo": "Verlintas/NOIR",
+    "owner": "Verlintas",
+    "name": "NOIR",
+    "stars": 1239,
+    "velocity": 611,
+    "delta": 750,
+    "age_days": 2.0,
+    "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, revers",
+    "new": true,
+    "variants": [
+     "noir",
+     "verlintas noir"
+    ]
+   },
+   {
+    "repo": "ccch1mneyyy/dsh-Go",
+    "owner": "ccch1mneyyy",
+    "name": "dsh-Go",
+    "stars": 5797,
+    "velocity": 675,
+    "delta": 638,
+    "age_days": 8.6,
+    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
     "new": false
    },
    {
     "repo": "pengchujin/aerial-tv",
     "owner": "pengchujin",
     "name": "aerial-tv",
-    "stars": 8819,
-    "velocity": 682,
-    "delta": 170,
-    "age_days": 12.9,
+    "stars": 9000,
+    "velocity": 665,
+    "delta": 181,
+    "age_days": 13.5,
     "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
     "new": false
    },
@@ -253,93 +226,65 @@
     "repo": "caru-ini/stack-diagram",
     "owner": "caru-ini",
     "name": "stack-diagram",
-    "stars": 707,
-    "velocity": 656,
-    "delta": null,
-    "age_days": 1.1,
+    "stars": 1117,
+    "velocity": 660,
+    "delta": 410,
+    "age_days": 1.7,
     "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-    "new": true,
-    "variants": [
-     "stack diagram",
-     "caru-ini stack diagram"
-    ]
-   },
-   {
-    "repo": "ccch1mneyyy/dsh-Go",
-    "owner": "ccch1mneyyy",
-    "name": "dsh-Go",
-    "stars": 5159,
-    "velocity": 647,
-    "delta": 626,
-    "age_days": 8.0,
-    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
     "new": false
    },
    {
     "repo": "rddmwmddr/android-ad-cleaner",
     "owner": "rddmwmddr",
     "name": "android-ad-cleaner",
-    "stars": 5754,
-    "velocity": 634,
+    "stars": 5891,
+    "velocity": 608,
     "delta": 137,
-    "age_days": 9.1,
+    "age_days": 9.7,
     "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
     "new": false
    },
    {
-    "repo": "interplains/Zero-Breach-Toolkit",
-    "owner": "interplains",
-    "name": "Zero-Breach-Toolkit",
-    "stars": 4190,
-    "velocity": 544,
-    "delta": 99,
-    "age_days": 7.7,
-    "description": "Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, An",
-    "new": false
-   },
-   {
-    "repo": "haydenschmitty/floorplan",
-    "owner": "haydenschmitty",
-    "name": "floorplan",
-    "stars": 1928,
-    "velocity": 332,
-    "delta": 525,
-    "age_days": 5.8,
-    "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+    "repo": "AssassinCreator/steam-stash-value-report-card",
+    "owner": "AssassinCreator",
+    "name": "steam-stash-value-report-card",
+    "stars": 586,
+    "velocity": 586,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One ",
     "new": true,
     "variants": [
-     "floorplan",
-     "haydenschmitty floorplan",
-     "hayden floorplan"
+     "steam stash value report card",
+     "assassincreator steam stash value report card"
     ]
    }
   ],
   "terms": [
    {
-    "term": "stack diagram",
+    "term": "noir",
     "recent": 1,
     "variants": [
-     "stack diagram",
-     "caru-ini stack diagram"
+     "noir",
+     "verlintas noir"
     ],
-    "repo": "caru-ini/stack-diagram",
-    "note": "GitHub breakout caru-ini/stack-diagram ★707 (656/day)",
+    "repo": "Verlintas/NOIR",
+    "note": "GitHub breakout Verlintas/NOIR ★1239 (611/day, +750 in a day)",
     "examples": [
-     "caru-ini/stack-diagram: Agent skill: describe your stack in a sentence, get an architecture diagram with official logos"
+     "Verlintas/NOIR: 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, revers"
     ]
    },
    {
-    "term": "floorplan",
+    "term": "steam stash value report card",
     "recent": 1,
     "variants": [
-     "floorplan",
-     "haydenschmitty floorplan",
-     "hayden floorplan"
+     "steam stash value report card",
+     "assassincreator steam stash value report card"
     ],
-    "repo": "haydenschmitty/floorplan",
-    "note": "GitHub breakout haydenschmitty/floorplan ★1928 (332/day, +525 in a day)",
+    "repo": "AssassinCreator/steam-stash-value-report-card",
+    "note": "GitHub breakout AssassinCreator/steam-stash-value-report-card ★586 (586/day)",
     "examples": [
-     "haydenschmitty/floorplan: See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex."
+     "AssassinCreator/steam-stash-value-report-card: Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One "
     ]
    }
   ],
@@ -368,7 +313,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 65,
+  "pending": 68,
   "window_days": 60
  },
  "keywords": {
