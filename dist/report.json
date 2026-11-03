@@ -1,61 +1,45 @@
 {
  "leads": [
   {
-   "term": "audio8 tts realistic air",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face: new at #16"
-   ],
-   "examples": [
-    "Edge0/Audio8-TTS-Realistic-Air (text-to-speech, ♥242)",
-    "Edge0/Audio8-TTS-Realistic-Air (gradio, ♥18)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "voice",
-   "one_click": null
-  },
-  {
-   "term": "noir",
+   "term": "run",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout Verlintas/NOIR ★1239 (611/day, +750 in a day)"
+    "GitHub breakout BryceYuuu/RUN ★2157 (445/day, +659 in a day)"
    ],
    "examples": [
-    "Verlintas/NOIR: 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, revers"
+    "BryceYuuu/RUN: RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）"
    ],
    "variants": [
-    "noir",
-    "verlintas noir"
+    "run",
+    "bryceyuuu run",
+    "bryce run"
    ],
    "posts": [],
-   "repo": "Verlintas/NOIR",
+   "repo": "BryceYuuu/RUN",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "steam stash value report card",
+   "term": "anymodelbot",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout AssassinCreator/steam-stash-value-report-card ★586 (586/day)"
+    "GitHub breakout modelflare-ai/AnyModelBot ★1846 (266/day, +519 in a day)"
    ],
    "examples": [
-    "AssassinCreator/steam-stash-value-report-card: Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One "
+    "modelflare-ai/AnyModelBot: 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Cla"
    ],
    "variants": [
-    "steam stash value report card",
-    "assassincreator steam stash value report card"
+    "anymodelbot",
+    "modelflare-ai anymodelbot",
+    "modelflare anymodelbot"
    ],
    "posts": [],
-   "repo": "AssassinCreator/steam-stash-value-report-card",
+   "repo": "modelflare-ai/AnyModelBot",
    "known": "",
    "format": "text",
    "one_click": null
@@ -66,19 +50,7 @@
  },
  "hf": {
   "first_run": false,
-  "terms": [
-   {
-    "term": "audio8 tts realistic air",
-    "rank": 16,
-    "copies": 1,
-    "examples": [
-     "Edge0/Audio8-TTS-Realistic-Air (text-to-speech, ♥242)",
-     "Edge0/Audio8-TTS-Realistic-Air (gradio, ♥18)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face: new at #16"
-   }
-  ],
+  "terms": [],
   "models": 100,
   "spaces": 100
  },
@@ -90,10 +62,10 @@
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 12928,
-    "velocity": 5113,
-    "delta": 2958,
-    "age_days": 2.5,
+    "stars": 14682,
+    "velocity": 5023,
+    "delta": 1754,
+    "age_days": 2.9,
     "description": "Towards a More Autonomous Agent System",
     "new": false
    },
@@ -101,10 +73,10 @@
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 3797,
-    "velocity": 1645,
-    "delta": 2017,
-    "age_days": 2.3,
+    "stars": 5356,
+    "velocity": 1982,
+    "delta": 1559,
+    "age_days": 2.7,
     "description": "Craft Anything: understand how any software works, and craft your own.",
     "new": false
    },
@@ -112,10 +84,10 @@
     "repo": "heydamir/unslop",
     "owner": "heydamir",
     "name": "unslop",
-    "stars": 6147,
-    "velocity": 1439,
-    "delta": 951,
-    "age_days": 4.3,
+    "stars": 6640,
+    "velocity": 1423,
+    "delta": 493,
+    "age_days": 4.7,
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "new": false
    },
@@ -123,10 +95,10 @@
     "repo": "wangzan101/Mika",
     "owner": "wangzan101",
     "name": "Mika",
-    "stars": 5232,
-    "velocity": 1211,
-    "delta": 770,
-    "age_days": 4.3,
+    "stars": 5682,
+    "velocity": 1205,
+    "delta": 450,
+    "age_days": 4.7,
     "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
     "new": false
    },
@@ -134,10 +106,10 @@
     "repo": "patch-gg/pixelfx",
     "owner": "patch-gg",
     "name": "pixelfx",
-    "stars": 3448,
-    "velocity": 946,
-    "delta": 466,
-    "age_days": 3.6,
+    "stars": 3710,
+    "velocity": 918,
+    "delta": 262,
+    "age_days": 4.0,
     "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
     "new": false
    },
@@ -145,10 +117,10 @@
     "repo": "valentderah/totk-pc-recomp",
     "owner": "valentderah",
     "name": "totk-pc-recomp",
-    "stars": 3941,
-    "velocity": 895,
-    "delta": 537,
-    "age_days": 4.4,
+    "stars": 4175,
+    "velocity": 870,
+    "delta": 234,
+    "age_days": 4.8,
     "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan rend",
     "new": false
    },
@@ -156,10 +128,10 @@
     "repo": "anhao/ai-pose-gallery-zh",
     "owner": "anhao",
     "name": "ai-pose-gallery-zh",
-    "stars": 5478,
-    "velocity": 855,
-    "delta": 186,
-    "age_days": 6.4,
+    "stars": 5629,
+    "velocity": 827,
+    "delta": 151,
+    "age_days": 6.8,
     "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
    },
@@ -167,69 +139,70 @@
     "repo": "unclebob/ub-mode",
     "owner": "unclebob",
     "name": "ub-mode",
-    "stars": 6530,
-    "velocity": 791,
-    "delta": 165,
-    "age_days": 8.3,
+    "stars": 6642,
+    "velocity": 768,
+    "delta": 112,
+    "age_days": 8.7,
     "description": "",
     "new": false
    },
    {
-    "repo": "l0ng-ai/openidea",
-    "owner": "l0ng-ai",
-    "name": "openidea",
-    "stars": 4916,
-    "velocity": 396,
-    "delta": 780,
-    "age_days": 12.4,
-    "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: ",
+    "repo": "ccch1mneyyy/dsh-Go",
+    "owner": "ccch1mneyyy",
+    "name": "dsh-Go",
+    "stars": 6329,
+    "velocity": 705,
+    "delta": 532,
+    "age_days": 9.0,
+    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+    "new": false
+   },
+   {
+    "repo": "BryceYuuu/RUN",
+    "owner": "BryceYuuu",
+    "name": "RUN",
+    "stars": 2157,
+    "velocity": 445,
+    "delta": 659,
+    "age_days": 4.8,
+    "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+    "new": true,
+    "variants": [
+     "run",
+     "bryceyuuu run",
+     "bryce run"
+    ]
+   },
+   {
+    "repo": "pengchujin/aerial-tv",
+    "owner": "pengchujin",
+    "name": "aerial-tv",
+    "stars": 9155,
+    "velocity": 657,
+    "delta": 155,
+    "age_days": 13.9,
+    "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
     "new": false
    },
    {
     "repo": "Verlintas/NOIR",
     "owner": "Verlintas",
     "name": "NOIR",
-    "stars": 1239,
-    "velocity": 611,
-    "delta": 750,
-    "age_days": 2.0,
+    "stars": 1534,
+    "velocity": 633,
+    "delta": 295,
+    "age_days": 2.4,
     "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, revers",
-    "new": true,
-    "variants": [
-     "noir",
-     "verlintas noir"
-    ]
-   },
-   {
-    "repo": "ccch1mneyyy/dsh-Go",
-    "owner": "ccch1mneyyy",
-    "name": "dsh-Go",
-    "stars": 5797,
-    "velocity": 675,
-    "delta": 638,
-    "age_days": 8.6,
-    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-    "new": false
-   },
-   {
-    "repo": "pengchujin/aerial-tv",
-    "owner": "pengchujin",
-    "name": "aerial-tv",
-    "stars": 9000,
-    "velocity": 665,
-    "delta": 181,
-    "age_days": 13.5,
-    "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
     "new": false
    },
    {
     "repo": "caru-ini/stack-diagram",
     "owner": "caru-ini",
     "name": "stack-diagram",
-    "stars": 1117,
-    "velocity": 660,
-    "delta": 410,
-    "age_days": 1.7,
+    "stars": 1315,
+    "velocity": 630,
+    "delta": 198,
+    "age_days": 2.1,
     "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
     "new": false
    },
@@ -237,54 +210,57 @@
     "repo": "rddmwmddr/android-ad-cleaner",
     "owner": "rddmwmddr",
     "name": "android-ad-cleaner",
-    "stars": 5891,
-    "velocity": 608,
-    "delta": 137,
-    "age_days": 9.7,
+    "stars": 5973,
+    "velocity": 592,
+    "delta": 82,
+    "age_days": 10.1,
     "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
     "new": false
    },
    {
-    "repo": "AssassinCreator/steam-stash-value-report-card",
-    "owner": "AssassinCreator",
-    "name": "steam-stash-value-report-card",
-    "stars": 586,
-    "velocity": 586,
-    "delta": null,
-    "age_days": 1.0,
-    "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One ",
+    "repo": "modelflare-ai/AnyModelBot",
+    "owner": "modelflare-ai",
+    "name": "AnyModelBot",
+    "stars": 1846,
+    "velocity": 266,
+    "delta": 519,
+    "age_days": 7.0,
+    "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Cla",
     "new": true,
     "variants": [
-     "steam stash value report card",
-     "assassincreator steam stash value report card"
+     "anymodelbot",
+     "modelflare-ai anymodelbot",
+     "modelflare anymodelbot"
     ]
    }
   ],
   "terms": [
    {
-    "term": "noir",
+    "term": "run",
     "recent": 1,
     "variants": [
-     "noir",
-     "verlintas noir"
+     "run",
+     "bryceyuuu run",
+     "bryce run"
     ],
-    "repo": "Verlintas/NOIR",
-    "note": "GitHub breakout Verlintas/NOIR ★1239 (611/day, +750 in a day)",
+    "repo": "BryceYuuu/RUN",
+    "note": "GitHub breakout BryceYuuu/RUN ★2157 (445/day, +659 in a day)",
     "examples": [
-     "Verlintas/NOIR: 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, revers"
+     "BryceYuuu/RUN: RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）"
     ]
    },
    {
-    "term": "steam stash value report card",
+    "term": "anymodelbot",
     "recent": 1,
     "variants": [
-     "steam stash value report card",
-     "assassincreator steam stash value report card"
+     "anymodelbot",
+     "modelflare-ai anymodelbot",
+     "modelflare anymodelbot"
     ],
-    "repo": "AssassinCreator/steam-stash-value-report-card",
-    "note": "GitHub breakout AssassinCreator/steam-stash-value-report-card ★586 (586/day)",
+    "repo": "modelflare-ai/AnyModelBot",
+    "note": "GitHub breakout modelflare-ai/AnyModelBot ★1846 (266/day, +519 in a day)",
     "examples": [
-     "AssassinCreator/steam-stash-value-report-card: Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One "
+     "modelflare-ai/AnyModelBot: 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Cla"
     ]
    }
   ],
@@ -313,7 +289,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 68,
+  "pending": 70,
   "window_days": 60
  },
  "keywords": {
