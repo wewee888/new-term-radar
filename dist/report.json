@@ -1,45 +1,23 @@
 {
  "leads": [
   {
-   "term": "run",
+   "term": "eglantine",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout BryceYuuu/RUN ★2157 (445/day, +659 in a day)"
+    "GitHub breakout Djihads80/Eglantine ★2948 (507/day, +289 in a day)"
    ],
    "examples": [
-    "BryceYuuu/RUN: RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）"
+    "Djihads80/Eglantine: VERY experimental Nintendo Switch 2 emulator"
    ],
    "variants": [
-    "run",
-    "bryceyuuu run",
-    "bryce run"
+    "eglantine",
+    "djihads80 eglantine",
+    "djihad eglantine"
    ],
    "posts": [],
-   "repo": "BryceYuuu/RUN",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "anymodelbot",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout modelflare-ai/AnyModelBot ★1846 (266/day, +519 in a day)"
-   ],
-   "examples": [
-    "modelflare-ai/AnyModelBot: 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Cla"
-   ],
-   "variants": [
-    "anymodelbot",
-    "modelflare-ai anymodelbot",
-    "modelflare anymodelbot"
-   ],
-   "posts": [],
-   "repo": "modelflare-ai/AnyModelBot",
+   "repo": "Djihads80/Eglantine",
    "known": "",
    "format": "text",
    "one_click": null
@@ -62,10 +40,10 @@
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 14682,
-    "velocity": 5023,
-    "delta": 1754,
-    "age_days": 2.9,
+    "stars": 16425,
+    "velocity": 4781,
+    "delta": 1743,
+    "age_days": 3.4,
     "description": "Towards a More Autonomous Agent System",
     "new": false
    },
@@ -73,10 +51,10 @@
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 5356,
-    "velocity": 1982,
-    "delta": 1559,
-    "age_days": 2.7,
+    "stars": 7778,
+    "velocity": 2419,
+    "delta": 2422,
+    "age_days": 3.2,
     "description": "Craft Anything: understand how any software works, and craft your own.",
     "new": false
    },
@@ -84,10 +62,10 @@
     "repo": "heydamir/unslop",
     "owner": "heydamir",
     "name": "unslop",
-    "stars": 6640,
-    "velocity": 1423,
-    "delta": 493,
-    "age_days": 4.7,
+    "stars": 7344,
+    "velocity": 1418,
+    "delta": 704,
+    "age_days": 5.2,
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "new": false
    },
@@ -95,21 +73,32 @@
     "repo": "wangzan101/Mika",
     "owner": "wangzan101",
     "name": "Mika",
-    "stars": 5682,
-    "velocity": 1205,
-    "delta": 450,
-    "age_days": 4.7,
+    "stars": 6013,
+    "velocity": 1151,
+    "delta": 331,
+    "age_days": 5.2,
     "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+    "new": false
+   },
+   {
+    "repo": "ccch1mneyyy/dsh-Go",
+    "owner": "ccch1mneyyy",
+    "name": "dsh-Go",
+    "stars": 7337,
+    "velocity": 773,
+    "delta": 1008,
+    "age_days": 9.5,
+    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
     "new": false
    },
    {
     "repo": "patch-gg/pixelfx",
     "owner": "patch-gg",
     "name": "pixelfx",
-    "stars": 3710,
-    "velocity": 918,
-    "delta": 262,
-    "age_days": 4.0,
+    "stars": 4059,
+    "velocity": 892,
+    "delta": 349,
+    "age_days": 4.6,
     "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
     "new": false
    },
@@ -117,21 +106,32 @@
     "repo": "valentderah/totk-pc-recomp",
     "owner": "valentderah",
     "name": "totk-pc-recomp",
-    "stars": 4175,
-    "velocity": 870,
-    "delta": 234,
-    "age_days": 4.8,
+    "stars": 4449,
+    "velocity": 838,
+    "delta": 274,
+    "age_days": 5.3,
     "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan rend",
+    "new": false
+   },
+   {
+    "repo": "BryceYuuu/RUN",
+    "owner": "BryceYuuu",
+    "name": "RUN",
+    "stars": 2971,
+    "velocity": 555,
+    "delta": 814,
+    "age_days": 5.4,
+    "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
     "new": false
    },
    {
     "repo": "anhao/ai-pose-gallery-zh",
     "owner": "anhao",
     "name": "ai-pose-gallery-zh",
-    "stars": 5629,
-    "velocity": 827,
-    "delta": 151,
-    "age_days": 6.8,
+    "stars": 5769,
+    "velocity": 789,
+    "delta": 140,
+    "age_days": 7.3,
     "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
    },
@@ -139,48 +139,21 @@
     "repo": "unclebob/ub-mode",
     "owner": "unclebob",
     "name": "ub-mode",
-    "stars": 6642,
-    "velocity": 768,
-    "delta": 112,
-    "age_days": 8.7,
+    "stars": 6761,
+    "velocity": 738,
+    "delta": 119,
+    "age_days": 9.2,
     "description": "",
     "new": false
-   },
-   {
-    "repo": "ccch1mneyyy/dsh-Go",
-    "owner": "ccch1mneyyy",
-    "name": "dsh-Go",
-    "stars": 6329,
-    "velocity": 705,
-    "delta": 532,
-    "age_days": 9.0,
-    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-    "new": false
-   },
-   {
-    "repo": "BryceYuuu/RUN",
-    "owner": "BryceYuuu",
-    "name": "RUN",
-    "stars": 2157,
-    "velocity": 445,
-    "delta": 659,
-    "age_days": 4.8,
-    "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-    "new": true,
-    "variants": [
-     "run",
-     "bryceyuuu run",
-     "bryce run"
-    ]
    },
    {
     "repo": "pengchujin/aerial-tv",
     "owner": "pengchujin",
     "name": "aerial-tv",
-    "stars": 9155,
-    "velocity": 657,
-    "delta": 155,
-    "age_days": 13.9,
+    "stars": 9325,
+    "velocity": 645,
+    "delta": 170,
+    "age_days": 14.4,
     "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
     "new": false
    },
@@ -188,79 +161,65 @@
     "repo": "Verlintas/NOIR",
     "owner": "Verlintas",
     "name": "NOIR",
-    "stars": 1534,
-    "velocity": 633,
-    "delta": 295,
-    "age_days": 2.4,
+    "stars": 1743,
+    "velocity": 594,
+    "delta": 209,
+    "age_days": 2.9,
     "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, revers",
-    "new": false
-   },
-   {
-    "repo": "caru-ini/stack-diagram",
-    "owner": "caru-ini",
-    "name": "stack-diagram",
-    "stars": 1315,
-    "velocity": 630,
-    "delta": 198,
-    "age_days": 2.1,
-    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
     "new": false
    },
    {
     "repo": "rddmwmddr/android-ad-cleaner",
     "owner": "rddmwmddr",
     "name": "android-ad-cleaner",
-    "stars": 5973,
-    "velocity": 592,
-    "delta": 82,
-    "age_days": 10.1,
+    "stars": 6061,
+    "velocity": 572,
+    "delta": 88,
+    "age_days": 10.6,
     "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
     "new": false
    },
    {
-    "repo": "modelflare-ai/AnyModelBot",
-    "owner": "modelflare-ai",
-    "name": "AnyModelBot",
-    "stars": 1846,
-    "velocity": 266,
-    "delta": 519,
-    "age_days": 7.0,
-    "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Cla",
+    "repo": "caru-ini/stack-diagram",
+    "owner": "caru-ini",
+    "name": "stack-diagram",
+    "stars": 1487,
+    "velocity": 572,
+    "delta": 172,
+    "age_days": 2.6,
+    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+    "new": false
+   },
+   {
+    "repo": "Djihads80/Eglantine",
+    "owner": "Djihads80",
+    "name": "Eglantine",
+    "stars": 2948,
+    "velocity": 507,
+    "delta": 289,
+    "age_days": 5.8,
+    "description": "VERY experimental Nintendo Switch 2 emulator",
     "new": true,
     "variants": [
-     "anymodelbot",
-     "modelflare-ai anymodelbot",
-     "modelflare anymodelbot"
+     "eglantine",
+     "djihads80 eglantine",
+     "djihad eglantine"
     ]
    }
   ],
   "terms": [
    {
-    "term": "run",
+    "term": "eglantine",
     "recent": 1,
     "variants": [
-     "run",
-     "bryceyuuu run",
-     "bryce run"
+     "eglantine",
+     "djihads80 eglantine",
+     "djihad eglantine"
     ],
-    "repo": "BryceYuuu/RUN",
-    "note": "GitHub breakout BryceYuuu/RUN ★2157 (445/day, +659 in a day)",
+    "repo": "Djihads80/Eglantine",
+    "note": "GitHub breakout Djihads80/Eglantine ★2948 (507/day, +289 in a day)",
     "examples": [
-     "BryceYuuu/RUN: RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）"
-    ]
-   },
-   {
-    "term": "anymodelbot",
-    "recent": 1,
-    "variants": [
-     "anymodelbot",
-     "modelflare-ai anymodelbot",
-     "modelflare anymodelbot"
-    ],
-    "repo": "modelflare-ai/AnyModelBot",
-    "note": "GitHub breakout modelflare-ai/AnyModelBot ★1846 (266/day, +519 in a day)",
-    "examples": [
-     "modelflare-ai/AnyModelBot: 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Cla"
+     "Djihads80/Eglantine: VERY experimental Nintendo Switch 2 emulator"
     ]
    }
   ],
@@ -289,7 +248,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 70,
+  "pending": 71,
   "window_days": 60
  },
  "keywords": {
