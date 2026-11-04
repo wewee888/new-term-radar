@@ -1,80 +1,20 @@
 {
  "leads": [
   {
-   "term": "qwen image 2.1 quantized",
+   "term": "kimi k3.1 pro",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #12"
+    "Hugging Face: new at #7"
    ],
    "examples": [
-    "abenzerps/Qwen-Image-2.1-Turbo-Quantized (text-to-image, ♥5627)"
+    "moonshotai/Kimi-K3.1-Pro (image-text-to-text, ♥396)"
    ],
    "variants": [],
    "posts": [],
    "known": "",
    "format": "image",
-   "one_click": null
-  },
-  {
-   "term": "p h3 image",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face Spaces: new at #38"
-   ],
-   "examples": [
-    "PrunaAI/P-H3-Image (gradio, ♥21)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "image",
-   "one_click": null
-  },
-  {
-   "term": "agent autoloop",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout KKKKhazix/agent-autoloop ★1389 (1389/day)"
-   ],
-   "examples": [
-    "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
-   ],
-   "variants": [
-    "agent autoloop",
-    "kkkkhazix agent autoloop",
-    "khazix agent autoloop"
-   ],
-   "posts": [],
-   "repo": "KKKKhazix/agent-autoloop",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "terminal mac",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout govijr/terminal-mac ★654 (561/day)"
-   ],
-   "examples": [
-    "govijr/terminal-mac: Entire MacOS running in your terminal."
-   ],
-   "variants": [
-    "terminal mac",
-    "govijr terminal mac"
-   ],
-   "posts": [],
-   "repo": "govijr/terminal-mac",
-   "known": "",
-   "format": "text",
    "one_click": null
   }
  ],
@@ -85,24 +25,14 @@
   "first_run": false,
   "terms": [
    {
-    "term": "qwen image 2.1 quantized",
-    "rank": 12,
+    "term": "kimi k3.1 pro",
+    "rank": 7,
     "copies": 1,
     "examples": [
-     "abenzerps/Qwen-Image-2.1-Turbo-Quantized (text-to-image, ♥5627)"
+     "moonshotai/Kimi-K3.1-Pro (image-text-to-text, ♥396)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #12"
-   },
-   {
-    "term": "p h3 image",
-    "rank": 38,
-    "copies": 1,
-    "examples": [
-     "PrunaAI/P-H3-Image (gradio, ♥21)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face Spaces: new at #38"
+    "note": "Hugging Face: new at #7"
    }
   ],
   "models": 100,
@@ -116,10 +46,10 @@
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 17622,
-    "velocity": 4509,
-    "delta": 1197,
-    "age_days": 3.9,
+    "stars": 18472,
+    "velocity": 4152,
+    "delta": 850,
+    "age_days": 4.4,
     "description": "Towards a More Autonomous Agent System",
     "new": false
    },
@@ -127,10 +57,10 @@
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 9294,
-    "velocity": 2520,
-    "delta": 1516,
-    "age_days": 3.7,
+    "stars": 11162,
+    "velocity": 2639,
+    "delta": 1868,
+    "age_days": 4.2,
     "description": "Craft Anything: understand how any software works, and craft your own.",
     "new": false
    },
@@ -138,26 +68,21 @@
     "repo": "KKKKhazix/agent-autoloop",
     "owner": "KKKKhazix",
     "name": "agent-autoloop",
-    "stars": 1389,
-    "velocity": 1389,
-    "delta": null,
-    "age_days": 1.0,
+    "stars": 2383,
+    "velocity": 1576,
+    "delta": 994,
+    "age_days": 1.5,
     "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "new": true,
-    "variants": [
-     "agent autoloop",
-     "kkkkhazix agent autoloop",
-     "khazix agent autoloop"
-    ]
+    "new": false
    },
    {
     "repo": "heydamir/unslop",
     "owner": "heydamir",
     "name": "unslop",
-    "stars": 7773,
-    "velocity": 1375,
-    "delta": 429,
-    "age_days": 5.7,
+    "stars": 8489,
+    "velocity": 1371,
+    "delta": 716,
+    "age_days": 6.2,
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "new": false
    },
@@ -165,10 +90,10 @@
     "repo": "wangzan101/Mika",
     "owner": "wangzan101",
     "name": "Mika",
-    "stars": 6219,
-    "velocity": 1091,
-    "delta": 206,
-    "age_days": 5.7,
+    "stars": 6588,
+    "velocity": 1056,
+    "delta": 369,
+    "age_days": 6.2,
     "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
     "new": false
    },
@@ -176,10 +101,10 @@
     "repo": "ccch1mneyyy/dsh-Go",
     "owner": "ccch1mneyyy",
     "name": "dsh-Go",
-    "stars": 8327,
-    "velocity": 836,
-    "delta": 990,
-    "age_days": 10.0,
+    "stars": 9347,
+    "velocity": 890,
+    "delta": 1020,
+    "age_days": 10.5,
     "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
     "new": false
    },
@@ -187,21 +112,32 @@
     "repo": "patch-gg/pixelfx",
     "owner": "patch-gg",
     "name": "pixelfx",
-    "stars": 4306,
-    "velocity": 857,
-    "delta": 247,
-    "age_days": 5.0,
+    "stars": 4652,
+    "velocity": 836,
+    "delta": 346,
+    "age_days": 5.6,
     "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "new": false
+   },
+   {
+    "repo": "govijr/terminal-mac",
+    "owner": "govijr",
+    "name": "terminal-mac",
+    "stars": 1395,
+    "velocity": 818,
+    "delta": 741,
+    "age_days": 1.7,
+    "description": "Entire MacOS running in your terminal.",
     "new": false
    },
    {
     "repo": "valentderah/totk-pc-recomp",
     "owner": "valentderah",
     "name": "totk-pc-recomp",
-    "stars": 4618,
-    "velocity": 799,
-    "delta": 169,
-    "age_days": 5.8,
+    "stars": 4800,
+    "velocity": 759,
+    "delta": 182,
+    "age_days": 6.3,
     "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan rend",
     "new": false
    },
@@ -209,10 +145,10 @@
     "repo": "anhao/ai-pose-gallery-zh",
     "owner": "anhao",
     "name": "ai-pose-gallery-zh",
-    "stars": 5842,
-    "velocity": 750,
-    "delta": 73,
-    "age_days": 7.8,
+    "stars": 5938,
+    "velocity": 713,
+    "delta": 96,
+    "age_days": 8.3,
     "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
    },
@@ -220,10 +156,10 @@
     "repo": "unclebob/ub-mode",
     "owner": "unclebob",
     "name": "ub-mode",
-    "stars": 6837,
-    "velocity": 710,
-    "delta": 76,
-    "age_days": 9.6,
+    "stars": 6962,
+    "velocity": 684,
+    "delta": 125,
+    "age_days": 10.2,
     "description": "",
     "new": false
    },
@@ -231,91 +167,48 @@
     "repo": "BryceYuuu/RUN",
     "owner": "BryceYuuu",
     "name": "RUN",
-    "stars": 3321,
-    "velocity": 570,
-    "delta": 350,
-    "age_days": 5.8,
+    "stars": 3614,
+    "velocity": 567,
+    "delta": 293,
+    "age_days": 6.4,
     "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
     "new": false
-   },
-   {
-    "repo": "govijr/terminal-mac",
-    "owner": "govijr",
-    "name": "terminal-mac",
-    "stars": 654,
-    "velocity": 561,
-    "delta": null,
-    "age_days": 1.2,
-    "description": "Entire MacOS running in your terminal.",
-    "new": true,
-    "variants": [
-     "terminal mac",
-     "govijr terminal mac"
-    ]
    },
    {
     "repo": "rddmwmddr/android-ad-cleaner",
     "owner": "rddmwmddr",
     "name": "android-ad-cleaner",
-    "stars": 6180,
-    "velocity": 558,
-    "delta": 119,
-    "age_days": 11.1,
+    "stars": 6301,
+    "velocity": 543,
+    "delta": 121,
+    "age_days": 11.6,
     "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+    "new": false
+   },
+   {
+    "repo": "Djihads80/Eglantine",
+    "owner": "Djihads80",
+    "name": "Eglantine",
+    "stars": 3543,
+    "velocity": 519,
+    "delta": 373,
+    "age_days": 6.8,
+    "description": "VERY experimental Nintendo Switch 2 emulator",
     "new": false
    },
    {
     "repo": "Verlintas/NOIR",
     "owner": "Verlintas",
     "name": "NOIR",
-    "stars": 1836,
-    "velocity": 539,
-    "delta": 93,
-    "age_days": 3.4,
+    "stars": 2000,
+    "velocity": 507,
+    "delta": 164,
+    "age_days": 3.9,
     "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, revers",
     "new": false
-   },
-   {
-    "repo": "caru-ini/stack-diagram",
-    "owner": "caru-ini",
-    "name": "stack-diagram",
-    "stars": 1643,
-    "velocity": 535,
-    "delta": 156,
-    "age_days": 3.1,
-    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-    "new": false
    }
   ],
-  "terms": [
-   {
-    "term": "agent autoloop",
-    "recent": 1,
-    "variants": [
-     "agent autoloop",
-     "kkkkhazix agent autoloop",
-     "khazix agent autoloop"
-    ],
-    "repo": "KKKKhazix/agent-autoloop",
-    "note": "GitHub breakout KKKKhazix/agent-autoloop ★1389 (1389/day)",
-    "examples": [
-     "KKKKhazix/agent-autoloop: 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
-    ]
-   },
-   {
-    "term": "terminal mac",
-    "recent": 1,
-    "variants": [
-     "terminal mac",
-     "govijr terminal mac"
-    ],
-    "repo": "govijr/terminal-mac",
-    "note": "GitHub breakout govijr/terminal-mac ★654 (561/day)",
-    "examples": [
-     "govijr/terminal-mac: Entire MacOS running in your terminal."
-    ]
-   }
-  ],
+  "terms": [],
   "window_days": 14
  },
  "sitemap": {
@@ -341,7 +234,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 75,
+  "pending": 76,
   "window_days": 60
  },
  "keywords": {
