@@ -1,20 +1,100 @@
 {
  "leads": [
   {
-   "term": "kimi k3.1 pro",
+   "term": "ripple",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #7"
+    "Hugging Face: new at #27"
    ],
    "examples": [
-    "moonshotai/Kimi-K3.1-Pro (image-text-to-text, ♥396)"
+    "ricursiveAI/Ripple-65B-Preview (?, ♥161)"
    ],
    "variants": [],
    "posts": [],
    "known": "",
-   "format": "image",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "free ai humanizer",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face Spaces: new at #5"
+   ],
+   "examples": [
+    "fendouai/free-ai-humanizer (static, ♥184)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "rea video",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout JuneYaooo/rea-video ★1488 (224/day, +678 in a day)"
+   ],
+   "examples": [
+    "JuneYaooo/rea-video: Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, c"
+   ],
+   "variants": [
+    "rea video",
+    "juneyaooo rea video"
+   ],
+   "posts": [],
+   "repo": "JuneYaooo/rea-video",
+   "known": "",
+   "format": "video",
+   "one_click": null
+  },
+  {
+   "term": "google ai pro 2year zerocost auto",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto ★1151 (1151/day)"
+   ],
+   "examples": [
+    "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto: Google_AI_Pro_2Year_ZeroCost_Auto"
+   ],
+   "variants": [
+    "google ai pro 2year zerocost auto",
+    "worldonlyu google ai pro 2year zerocost auto"
+   ],
+   "posts": [],
+   "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "hghub",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout Minireel/HGhub ★953 (548/day, +333 in a day)"
+   ],
+   "examples": [
+    "Minireel/HGhub: YellowFruit third-party client"
+   ],
+   "variants": [
+    "hghub",
+    "minireel hghub"
+   ],
+   "posts": [],
+   "repo": "Minireel/HGhub",
+   "known": "",
+   "format": "text",
    "one_click": null
   }
  ],
@@ -25,14 +105,24 @@
   "first_run": false,
   "terms": [
    {
-    "term": "kimi k3.1 pro",
-    "rank": 7,
+    "term": "ripple",
+    "rank": 27,
     "copies": 1,
     "examples": [
-     "moonshotai/Kimi-K3.1-Pro (image-text-to-text, ♥396)"
+     "ricursiveAI/Ripple-65B-Preview (?, ♥161)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #7"
+    "note": "Hugging Face: new at #27"
+   },
+   {
+    "term": "free ai humanizer",
+    "rank": 5,
+    "copies": 1,
+    "examples": [
+     "fendouai/free-ai-humanizer (static, ♥184)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face Spaces: new at #5"
    }
   ],
   "models": 100,
@@ -46,10 +136,10 @@
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 18472,
-    "velocity": 4152,
-    "delta": 850,
-    "age_days": 4.4,
+    "stars": 18961,
+    "velocity": 3849,
+    "delta": 489,
+    "age_days": 4.9,
     "description": "Towards a More Autonomous Agent System",
     "new": false
    },
@@ -57,10 +147,10 @@
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 11162,
-    "velocity": 2639,
-    "delta": 1868,
-    "age_days": 4.2,
+    "stars": 13130,
+    "velocity": 2790,
+    "delta": 1968,
+    "age_days": 4.7,
     "description": "Craft Anything: understand how any software works, and craft your own.",
     "new": false
    },
@@ -68,10 +158,10 @@
     "repo": "KKKKhazix/agent-autoloop",
     "owner": "KKKKhazix",
     "name": "agent-autoloop",
-    "stars": 2383,
-    "velocity": 1576,
-    "delta": 994,
-    "age_days": 1.5,
+    "stars": 2894,
+    "velocity": 1455,
+    "delta": 511,
+    "age_days": 2.0,
     "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
     "new": false
    },
@@ -79,21 +169,36 @@
     "repo": "heydamir/unslop",
     "owner": "heydamir",
     "name": "unslop",
-    "stars": 8489,
-    "velocity": 1371,
-    "delta": 716,
-    "age_days": 6.2,
+    "stars": 8969,
+    "velocity": 1345,
+    "delta": 480,
+    "age_days": 6.7,
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "new": false
+   },
+   {
+    "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "owner": "worldonlyu",
+    "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "stars": 1151,
+    "velocity": 1151,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "new": true,
+    "variants": [
+     "google ai pro 2year zerocost auto",
+     "worldonlyu google ai pro 2year zerocost auto"
+    ]
    },
    {
     "repo": "wangzan101/Mika",
     "owner": "wangzan101",
     "name": "Mika",
-    "stars": 6588,
-    "velocity": 1056,
-    "delta": 369,
-    "age_days": 6.2,
+    "stars": 6835,
+    "velocity": 1018,
+    "delta": 247,
+    "age_days": 6.7,
     "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
     "new": false
    },
@@ -101,10 +206,10 @@
     "repo": "ccch1mneyyy/dsh-Go",
     "owner": "ccch1mneyyy",
     "name": "dsh-Go",
-    "stars": 9347,
-    "velocity": 890,
-    "delta": 1020,
-    "age_days": 10.5,
+    "stars": 10303,
+    "velocity": 938,
+    "delta": 956,
+    "age_days": 11.0,
     "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
     "new": false
    },
@@ -112,10 +217,10 @@
     "repo": "patch-gg/pixelfx",
     "owner": "patch-gg",
     "name": "pixelfx",
-    "stars": 4652,
-    "velocity": 836,
-    "delta": 346,
-    "age_days": 5.6,
+    "stars": 4923,
+    "velocity": 814,
+    "delta": 271,
+    "age_days": 6.0,
     "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
     "new": false
    },
@@ -123,10 +228,10 @@
     "repo": "govijr/terminal-mac",
     "owner": "govijr",
     "name": "terminal-mac",
-    "stars": 1395,
-    "velocity": 818,
-    "delta": 741,
-    "age_days": 1.7,
+    "stars": 1696,
+    "velocity": 777,
+    "delta": 301,
+    "age_days": 2.2,
     "description": "Entire MacOS running in your terminal.",
     "new": false
    },
@@ -134,10 +239,10 @@
     "repo": "valentderah/totk-pc-recomp",
     "owner": "valentderah",
     "name": "totk-pc-recomp",
-    "stars": 4800,
-    "velocity": 759,
-    "delta": 182,
-    "age_days": 6.3,
+    "stars": 4940,
+    "velocity": 726,
+    "delta": 140,
+    "age_days": 6.8,
     "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan rend",
     "new": false
    },
@@ -145,21 +250,36 @@
     "repo": "anhao/ai-pose-gallery-zh",
     "owner": "anhao",
     "name": "ai-pose-gallery-zh",
-    "stars": 5938,
-    "velocity": 713,
-    "delta": 96,
-    "age_days": 8.3,
+    "stars": 6004,
+    "velocity": 682,
+    "delta": 66,
+    "age_days": 8.8,
     "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
+   },
+   {
+    "repo": "JuneYaooo/rea-video",
+    "owner": "JuneYaooo",
+    "name": "rea-video",
+    "stars": 1488,
+    "velocity": 224,
+    "delta": 678,
+    "age_days": 6.6,
+    "description": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, c",
+    "new": true,
+    "variants": [
+     "rea video",
+     "juneyaooo rea video"
+    ]
    },
    {
     "repo": "unclebob/ub-mode",
     "owner": "unclebob",
     "name": "ub-mode",
-    "stars": 6962,
-    "velocity": 684,
-    "delta": 125,
-    "age_days": 10.2,
+    "stars": 7020,
+    "velocity": 659,
+    "delta": 58,
+    "age_days": 10.7,
     "description": "",
     "new": false
    },
@@ -167,48 +287,70 @@
     "repo": "BryceYuuu/RUN",
     "owner": "BryceYuuu",
     "name": "RUN",
-    "stars": 3614,
-    "velocity": 567,
-    "delta": 293,
-    "age_days": 6.4,
+    "stars": 3813,
+    "velocity": 557,
+    "delta": 199,
+    "age_days": 6.8,
     "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
     "new": false
    },
    {
-    "repo": "rddmwmddr/android-ad-cleaner",
-    "owner": "rddmwmddr",
-    "name": "android-ad-cleaner",
-    "stars": 6301,
-    "velocity": 543,
-    "delta": 121,
-    "age_days": 11.6,
-    "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-    "new": false
-   },
-   {
-    "repo": "Djihads80/Eglantine",
-    "owner": "Djihads80",
-    "name": "Eglantine",
-    "stars": 3543,
-    "velocity": 519,
-    "delta": 373,
-    "age_days": 6.8,
-    "description": "VERY experimental Nintendo Switch 2 emulator",
-    "new": false
-   },
-   {
-    "repo": "Verlintas/NOIR",
-    "owner": "Verlintas",
-    "name": "NOIR",
-    "stars": 2000,
-    "velocity": 507,
-    "delta": 164,
-    "age_days": 3.9,
-    "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, revers",
-    "new": false
+    "repo": "Minireel/HGhub",
+    "owner": "Minireel",
+    "name": "HGhub",
+    "stars": 953,
+    "velocity": 548,
+    "delta": 333,
+    "age_days": 1.7,
+    "description": "YellowFruit third-party client",
+    "new": true,
+    "variants": [
+     "hghub",
+     "minireel hghub"
+    ]
    }
   ],
-  "terms": [],
+  "terms": [
+   {
+    "term": "google ai pro 2year zerocost auto",
+    "recent": 1,
+    "variants": [
+     "google ai pro 2year zerocost auto",
+     "worldonlyu google ai pro 2year zerocost auto"
+    ],
+    "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "note": "GitHub breakout worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto ★1151 (1151/day)",
+    "examples": [
+     "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto: Google_AI_Pro_2Year_ZeroCost_Auto"
+    ]
+   },
+   {
+    "term": "rea video",
+    "recent": 1,
+    "variants": [
+     "rea video",
+     "juneyaooo rea video"
+    ],
+    "repo": "JuneYaooo/rea-video",
+    "note": "GitHub breakout JuneYaooo/rea-video ★1488 (224/day, +678 in a day)",
+    "examples": [
+     "JuneYaooo/rea-video: Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, c"
+    ]
+   },
+   {
+    "term": "hghub",
+    "recent": 1,
+    "variants": [
+     "hghub",
+     "minireel hghub"
+    ],
+    "repo": "Minireel/HGhub",
+    "note": "GitHub breakout Minireel/HGhub ★953 (548/day, +333 in a day)",
+    "examples": [
+     "Minireel/HGhub: YellowFruit third-party client"
+    ]
+   }
+  ],
   "window_days": 14
  },
  "sitemap": {
@@ -234,7 +376,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 76,
+  "pending": 81,
   "window_days": 60
  },
  "keywords": {
