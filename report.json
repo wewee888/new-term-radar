@@ -1,98 +1,23 @@
 {
  "leads": [
   {
-   "term": "ripple",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face: new at #27"
-   ],
-   "examples": [
-    "ricursiveAI/Ripple-65B-Preview (?, ♥161)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "free ai humanizer",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face Spaces: new at #5"
-   ],
-   "examples": [
-    "fendouai/free-ai-humanizer (static, ♥184)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "rea video",
+   "term": "lichii",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout JuneYaooo/rea-video ★1488 (224/day, +678 in a day)"
+    "GitHub breakout zortos293/Lichii ★2006 (381/day, +905 in a day)"
    ],
    "examples": [
-    "JuneYaooo/rea-video: Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, c"
+    "zortos293/Lichii: VERY experimental Nintendo Switch 2 emulator"
    ],
    "variants": [
-    "rea video",
-    "juneyaooo rea video"
+    "lichii",
+    "zortos293 lichii",
+    "zortos lichii"
    ],
    "posts": [],
-   "repo": "JuneYaooo/rea-video",
-   "known": "",
-   "format": "video",
-   "one_click": null
-  },
-  {
-   "term": "google ai pro 2year zerocost auto",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto ★1151 (1151/day)"
-   ],
-   "examples": [
-    "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto: Google_AI_Pro_2Year_ZeroCost_Auto"
-   ],
-   "variants": [
-    "google ai pro 2year zerocost auto",
-    "worldonlyu google ai pro 2year zerocost auto"
-   ],
-   "posts": [],
-   "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "hghub",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout Minireel/HGhub ★953 (548/day, +333 in a day)"
-   ],
-   "examples": [
-    "Minireel/HGhub: YellowFruit third-party client"
-   ],
-   "variants": [
-    "hghub",
-    "minireel hghub"
-   ],
-   "posts": [],
-   "repo": "Minireel/HGhub",
+   "repo": "zortos293/Lichii",
    "known": "",
    "format": "text",
    "one_click": null
@@ -103,28 +28,7 @@
  },
  "hf": {
   "first_run": false,
-  "terms": [
-   {
-    "term": "ripple",
-    "rank": 27,
-    "copies": 1,
-    "examples": [
-     "ricursiveAI/Ripple-65B-Preview (?, ♥161)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face: new at #27"
-   },
-   {
-    "term": "free ai humanizer",
-    "rank": 5,
-    "copies": 1,
-    "examples": [
-     "fendouai/free-ai-humanizer (static, ♥184)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face Spaces: new at #5"
-   }
-  ],
+  "terms": [],
   "models": 100,
   "spaces": 100
  },
@@ -136,10 +40,10 @@
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 18961,
-    "velocity": 3849,
-    "delta": 489,
-    "age_days": 4.9,
+    "stars": 19418,
+    "velocity": 3559,
+    "delta": 457,
+    "age_days": 5.5,
     "description": "Towards a More Autonomous Agent System",
     "new": false
    },
@@ -147,80 +51,92 @@
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 13130,
-    "velocity": 2790,
-    "delta": 1968,
-    "age_days": 4.7,
+    "stars": 14684,
+    "velocity": 2804,
+    "delta": 1554,
+    "age_days": 5.2,
     "description": "Craft Anything: understand how any software works, and craft your own.",
-    "new": false
-   },
-   {
-    "repo": "KKKKhazix/agent-autoloop",
-    "owner": "KKKKhazix",
-    "name": "agent-autoloop",
-    "stars": 2894,
-    "velocity": 1455,
-    "delta": 511,
-    "age_days": 2.0,
-    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "new": false
-   },
-   {
-    "repo": "heydamir/unslop",
-    "owner": "heydamir",
-    "name": "unslop",
-    "stars": 8969,
-    "velocity": 1345,
-    "delta": 480,
-    "age_days": 6.7,
-    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "new": false
    },
    {
     "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
     "owner": "worldonlyu",
     "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "stars": 1151,
-    "velocity": 1151,
-    "delta": null,
-    "age_days": 1.0,
+    "stars": 2209,
+    "velocity": 1792,
+    "delta": 1058,
+    "age_days": 1.2,
     "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "new": true,
-    "variants": [
-     "google ai pro 2year zerocost auto",
-     "worldonlyu google ai pro 2year zerocost auto"
-    ]
+    "new": false
    },
    {
-    "repo": "wangzan101/Mika",
-    "owner": "wangzan101",
-    "name": "Mika",
-    "stars": 6835,
-    "velocity": 1018,
-    "delta": 247,
-    "age_days": 6.7,
-    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+    "repo": "heydamir/unslop",
+    "owner": "heydamir",
+    "name": "unslop",
+    "stars": 9668,
+    "velocity": 1343,
+    "delta": 699,
+    "age_days": 7.2,
+    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+    "new": false
+   },
+   {
+    "repo": "KKKKhazix/agent-autoloop",
+    "owner": "KKKKhazix",
+    "name": "agent-autoloop",
+    "stars": 3206,
+    "velocity": 1273,
+    "delta": 312,
+    "age_days": 2.5,
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
     "new": false
    },
    {
     "repo": "ccch1mneyyy/dsh-Go",
     "owner": "ccch1mneyyy",
     "name": "dsh-Go",
-    "stars": 10303,
-    "velocity": 938,
-    "delta": 956,
-    "age_days": 11.0,
+    "stars": 11352,
+    "velocity": 986,
+    "delta": 1049,
+    "age_days": 11.5,
     "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
     "new": false
+   },
+   {
+    "repo": "wangzan101/Mika",
+    "owner": "wangzan101",
+    "name": "Mika",
+    "stars": 7056,
+    "velocity": 974,
+    "delta": 221,
+    "age_days": 7.2,
+    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+    "new": false
+   },
+   {
+    "repo": "zortos293/Lichii",
+    "owner": "zortos293",
+    "name": "Lichii",
+    "stars": 2006,
+    "velocity": 381,
+    "delta": 905,
+    "age_days": 5.3,
+    "description": "VERY experimental Nintendo Switch 2 emulator",
+    "new": true,
+    "variants": [
+     "lichii",
+     "zortos293 lichii",
+     "zortos lichii"
+    ]
    },
    {
     "repo": "patch-gg/pixelfx",
     "owner": "patch-gg",
     "name": "pixelfx",
-    "stars": 4923,
-    "velocity": 814,
-    "delta": 271,
-    "age_days": 6.0,
+    "stars": 5234,
+    "velocity": 796,
+    "delta": 311,
+    "age_days": 6.6,
     "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
     "new": false
    },
@@ -228,10 +144,10 @@
     "repo": "govijr/terminal-mac",
     "owner": "govijr",
     "name": "terminal-mac",
-    "stars": 1696,
-    "velocity": 777,
-    "delta": 301,
-    "age_days": 2.2,
+    "stars": 1912,
+    "velocity": 705,
+    "delta": 216,
+    "age_days": 2.7,
     "description": "Entire MacOS running in your terminal.",
     "new": false
    },
@@ -239,10 +155,10 @@
     "repo": "valentderah/totk-pc-recomp",
     "owner": "valentderah",
     "name": "totk-pc-recomp",
-    "stars": 4940,
-    "velocity": 726,
-    "delta": 140,
-    "age_days": 6.8,
+    "stars": 5116,
+    "velocity": 698,
+    "delta": 176,
+    "age_days": 7.3,
     "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan rend",
     "new": false
    },
@@ -250,104 +166,60 @@
     "repo": "anhao/ai-pose-gallery-zh",
     "owner": "anhao",
     "name": "ai-pose-gallery-zh",
-    "stars": 6004,
-    "velocity": 682,
-    "delta": 66,
-    "age_days": 8.8,
+    "stars": 6076,
+    "velocity": 651,
+    "delta": 72,
+    "age_days": 9.3,
     "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
-   },
-   {
-    "repo": "JuneYaooo/rea-video",
-    "owner": "JuneYaooo",
-    "name": "rea-video",
-    "stars": 1488,
-    "velocity": 224,
-    "delta": 678,
-    "age_days": 6.6,
-    "description": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, c",
-    "new": true,
-    "variants": [
-     "rea video",
-     "juneyaooo rea video"
-    ]
    },
    {
     "repo": "unclebob/ub-mode",
     "owner": "unclebob",
     "name": "ub-mode",
-    "stars": 7020,
-    "velocity": 659,
-    "delta": 58,
-    "age_days": 10.7,
+    "stars": 7086,
+    "velocity": 634,
+    "delta": 66,
+    "age_days": 11.2,
     "description": "",
+    "new": false
+   },
+   {
+    "repo": "Djihads80/Eglantine",
+    "owner": "Djihads80",
+    "name": "Eglantine",
+    "stars": 4281,
+    "velocity": 546,
+    "delta": 354,
+    "age_days": 7.8,
+    "description": "VERY experimental Nintendo Switch 2 emulator",
     "new": false
    },
    {
     "repo": "BryceYuuu/RUN",
     "owner": "BryceYuuu",
     "name": "RUN",
-    "stars": 3813,
-    "velocity": 557,
-    "delta": 199,
-    "age_days": 6.8,
+    "stars": 3938,
+    "velocity": 534,
+    "delta": 125,
+    "age_days": 7.4,
     "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
     "new": false
-   },
-   {
-    "repo": "Minireel/HGhub",
-    "owner": "Minireel",
-    "name": "HGhub",
-    "stars": 953,
-    "velocity": 548,
-    "delta": 333,
-    "age_days": 1.7,
-    "description": "YellowFruit third-party client",
-    "new": true,
-    "variants": [
-     "hghub",
-     "minireel hghub"
-    ]
    }
   ],
   "terms": [
    {
-    "term": "google ai pro 2year zerocost auto",
+    "term": "lichii",
     "recent": 1,
     "variants": [
-     "google ai pro 2year zerocost auto",
-     "worldonlyu google ai pro 2year zerocost auto"
+     "lichii",
+     "zortos293 lichii",
+     "zortos lichii"
     ],
-    "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-    "note": "GitHub breakout worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto ★1151 (1151/day)",
+    "repo": "zortos293/Lichii",
+    "note": "GitHub breakout zortos293/Lichii ★2006 (381/day, +905 in a day)",
     "examples": [
-     "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto: Google_AI_Pro_2Year_ZeroCost_Auto"
-    ]
-   },
-   {
-    "term": "rea video",
-    "recent": 1,
-    "variants": [
-     "rea video",
-     "juneyaooo rea video"
-    ],
-    "repo": "JuneYaooo/rea-video",
-    "note": "GitHub breakout JuneYaooo/rea-video ★1488 (224/day, +678 in a day)",
-    "examples": [
-     "JuneYaooo/rea-video: Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, c"
-    ]
-   },
-   {
-    "term": "hghub",
-    "recent": 1,
-    "variants": [
-     "hghub",
-     "minireel hghub"
-    ],
-    "repo": "Minireel/HGhub",
-    "note": "GitHub breakout Minireel/HGhub ★953 (548/day, +333 in a day)",
-    "examples": [
-     "Minireel/HGhub: YellowFruit third-party client"
+     "zortos293/Lichii: VERY experimental Nintendo Switch 2 emulator"
     ]
    }
   ],
@@ -376,7 +248,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 81,
+  "pending": 82,
   "window_days": 60
  },
  "keywords": {
