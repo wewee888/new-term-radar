@@ -1,28 +1,5 @@
 {
- "leads": [
-  {
-   "term": "lichii",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout zortos293/Lichii ★2006 (381/day, +905 in a day)"
-   ],
-   "examples": [
-    "zortos293/Lichii: VERY experimental Nintendo Switch 2 emulator"
-   ],
-   "variants": [
-    "lichii",
-    "zortos293 lichii",
-    "zortos lichii"
-   ],
-   "posts": [],
-   "repo": "zortos293/Lichii",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  }
- ],
+ "leads": [],
  "x": {
   "skipped": true
  },
@@ -40,10 +17,10 @@
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 19418,
-    "velocity": 3559,
-    "delta": 457,
-    "age_days": 5.5,
+    "stars": 19827,
+    "velocity": 3346,
+    "delta": 409,
+    "age_days": 5.9,
     "description": "Towards a More Autonomous Agent System",
     "new": false
    },
@@ -51,10 +28,10 @@
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 14684,
-    "velocity": 2804,
-    "delta": 1554,
-    "age_days": 5.2,
+    "stars": 16041,
+    "velocity": 2812,
+    "delta": 1357,
+    "age_days": 5.7,
     "description": "Craft Anything: understand how any software works, and craft your own.",
     "new": false
    },
@@ -62,10 +39,10 @@
     "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
     "owner": "worldonlyu",
     "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "stars": 2209,
-    "velocity": 1792,
-    "delta": 1058,
-    "age_days": 1.2,
+    "stars": 2629,
+    "velocity": 1545,
+    "delta": 420,
+    "age_days": 1.7,
     "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
     "new": false
    },
@@ -73,10 +50,10 @@
     "repo": "heydamir/unslop",
     "owner": "heydamir",
     "name": "unslop",
-    "stars": 9668,
-    "velocity": 1343,
-    "delta": 699,
-    "age_days": 7.2,
+    "stars": 10126,
+    "velocity": 1320,
+    "delta": 458,
+    "age_days": 7.7,
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "new": false
    },
@@ -84,10 +61,10 @@
     "repo": "KKKKhazix/agent-autoloop",
     "owner": "KKKKhazix",
     "name": "agent-autoloop",
-    "stars": 3206,
-    "velocity": 1273,
-    "delta": 312,
-    "age_days": 2.5,
+    "stars": 3409,
+    "velocity": 1141,
+    "delta": 203,
+    "age_days": 3.0,
     "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
     "new": false
    },
@@ -95,10 +72,10 @@
     "repo": "ccch1mneyyy/dsh-Go",
     "owner": "ccch1mneyyy",
     "name": "dsh-Go",
-    "stars": 11352,
-    "velocity": 986,
-    "delta": 1049,
-    "age_days": 11.5,
+    "stars": 12086,
+    "velocity": 1009,
+    "delta": 734,
+    "age_days": 12.0,
     "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
     "new": false
    },
@@ -106,70 +83,65 @@
     "repo": "wangzan101/Mika",
     "owner": "wangzan101",
     "name": "Mika",
-    "stars": 7056,
-    "velocity": 974,
-    "delta": 221,
-    "age_days": 7.2,
+    "stars": 7251,
+    "velocity": 940,
+    "delta": 195,
+    "age_days": 7.7,
     "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+    "new": false
+   },
+   {
+    "repo": "patch-gg/pixelfx",
+    "owner": "patch-gg",
+    "name": "pixelfx",
+    "stars": 5407,
+    "velocity": 768,
+    "delta": 173,
+    "age_days": 7.0,
+    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
     "new": false
    },
    {
     "repo": "zortos293/Lichii",
     "owner": "zortos293",
     "name": "Lichii",
-    "stars": 2006,
-    "velocity": 381,
-    "delta": 905,
-    "age_days": 5.3,
+    "stars": 2709,
+    "velocity": 473,
+    "delta": 703,
+    "age_days": 5.7,
     "description": "VERY experimental Nintendo Switch 2 emulator",
-    "new": true,
-    "variants": [
-     "lichii",
-     "zortos293 lichii",
-     "zortos lichii"
-    ]
-   },
-   {
-    "repo": "patch-gg/pixelfx",
-    "owner": "patch-gg",
-    "name": "pixelfx",
-    "stars": 5234,
-    "velocity": 796,
-    "delta": 311,
-    "age_days": 6.6,
-    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-    "new": false
-   },
-   {
-    "repo": "govijr/terminal-mac",
-    "owner": "govijr",
-    "name": "terminal-mac",
-    "stars": 1912,
-    "velocity": 705,
-    "delta": 216,
-    "age_days": 2.7,
-    "description": "Entire MacOS running in your terminal.",
     "new": false
    },
    {
     "repo": "valentderah/totk-pc-recomp",
     "owner": "valentderah",
     "name": "totk-pc-recomp",
-    "stars": 5116,
-    "velocity": 698,
-    "delta": 176,
-    "age_days": 7.3,
+    "stars": 5229,
+    "velocity": 670,
+    "delta": 113,
+    "age_days": 7.8,
     "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan rend",
+    "new": false
+   },
+   {
+    "repo": "govijr/terminal-mac",
+    "owner": "govijr",
+    "name": "terminal-mac",
+    "stars": 2010,
+    "velocity": 632,
+    "delta": 98,
+    "age_days": 3.2,
+    "description": "Entire MacOS running in your terminal.",
     "new": false
    },
    {
     "repo": "anhao/ai-pose-gallery-zh",
     "owner": "anhao",
     "name": "ai-pose-gallery-zh",
-    "stars": 6076,
-    "velocity": 651,
-    "delta": 72,
-    "age_days": 9.3,
+    "stars": 6155,
+    "velocity": 628,
+    "delta": 79,
+    "age_days": 9.8,
     "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
    },
@@ -177,10 +149,10 @@
     "repo": "unclebob/ub-mode",
     "owner": "unclebob",
     "name": "ub-mode",
-    "stars": 7086,
-    "velocity": 634,
-    "delta": 66,
-    "age_days": 11.2,
+    "stars": 7150,
+    "velocity": 614,
+    "delta": 64,
+    "age_days": 11.7,
     "description": "",
     "new": false
    },
@@ -188,10 +160,10 @@
     "repo": "Djihads80/Eglantine",
     "owner": "Djihads80",
     "name": "Eglantine",
-    "stars": 4281,
-    "velocity": 546,
-    "delta": 354,
-    "age_days": 7.8,
+    "stars": 4569,
+    "velocity": 550,
+    "delta": 288,
+    "age_days": 8.3,
     "description": "VERY experimental Nintendo Switch 2 emulator",
     "new": false
    },
@@ -199,30 +171,15 @@
     "repo": "BryceYuuu/RUN",
     "owner": "BryceYuuu",
     "name": "RUN",
-    "stars": 3938,
-    "velocity": 534,
-    "delta": 125,
-    "age_days": 7.4,
+    "stars": 4010,
+    "velocity": 511,
+    "delta": 72,
+    "age_days": 7.8,
     "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
     "new": false
    }
   ],
-  "terms": [
-   {
-    "term": "lichii",
-    "recent": 1,
-    "variants": [
-     "lichii",
-     "zortos293 lichii",
-     "zortos lichii"
-    ],
-    "repo": "zortos293/Lichii",
-    "note": "GitHub breakout zortos293/Lichii ★2006 (381/day, +905 in a day)",
-    "examples": [
-     "zortos293/Lichii: VERY experimental Nintendo Switch 2 emulator"
-    ]
-   }
-  ],
+  "terms": [],
   "window_days": 14
  },
  "sitemap": {
