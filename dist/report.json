@@ -1,5 +1,27 @@
 {
- "leads": [],
+ "leads": [
+  {
+   "term": "google pro helper",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout mmdoctor/google-pro-helper ★813 (500/day)"
+   ],
+   "examples": [
+    "mmdoctor/google-pro-helper: "
+   ],
+   "variants": [
+    "google pro helper",
+    "mmdoctor google pro helper"
+   ],
+   "posts": [],
+   "repo": "mmdoctor/google-pro-helper",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  }
+ ],
  "x": {
   "skipped": true
  },
@@ -17,10 +39,10 @@
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 19827,
-    "velocity": 3346,
-    "delta": 409,
-    "age_days": 5.9,
+    "stars": 20200,
+    "velocity": 3141,
+    "delta": 373,
+    "age_days": 6.4,
     "description": "Towards a More Autonomous Agent System",
     "new": false
    },
@@ -28,43 +50,43 @@
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 16041,
-    "velocity": 2812,
-    "delta": 1357,
-    "age_days": 5.7,
+    "stars": 17663,
+    "velocity": 2844,
+    "delta": 1622,
+    "age_days": 6.2,
     "description": "Craft Anything: understand how any software works, and craft your own.",
-    "new": false
-   },
-   {
-    "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-    "owner": "worldonlyu",
-    "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "stars": 2629,
-    "velocity": 1545,
-    "delta": 420,
-    "age_days": 1.7,
-    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
     "new": false
    },
    {
     "repo": "heydamir/unslop",
     "owner": "heydamir",
     "name": "unslop",
-    "stars": 10126,
-    "velocity": 1320,
-    "delta": 458,
-    "age_days": 7.7,
+    "stars": 10640,
+    "velocity": 1301,
+    "delta": 514,
+    "age_days": 8.2,
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+    "new": false
+   },
+   {
+    "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "owner": "worldonlyu",
+    "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "stars": 2851,
+    "velocity": 1292,
+    "delta": 222,
+    "age_days": 2.2,
+    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
     "new": false
    },
    {
     "repo": "KKKKhazix/agent-autoloop",
     "owner": "KKKKhazix",
     "name": "agent-autoloop",
-    "stars": 3409,
-    "velocity": 1141,
-    "delta": 203,
-    "age_days": 3.0,
+    "stars": 3640,
+    "velocity": 1042,
+    "delta": 231,
+    "age_days": 3.5,
     "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
     "new": false
    },
@@ -72,21 +94,32 @@
     "repo": "ccch1mneyyy/dsh-Go",
     "owner": "ccch1mneyyy",
     "name": "dsh-Go",
-    "stars": 12086,
-    "velocity": 1009,
-    "delta": 734,
-    "age_days": 12.0,
+    "stars": 12878,
+    "velocity": 1031,
+    "delta": 792,
+    "age_days": 12.5,
     "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+    "new": false
+   },
+   {
+    "repo": "zortos293/Lichii",
+    "owner": "zortos293",
+    "name": "Lichii",
+    "stars": 3659,
+    "velocity": 587,
+    "delta": 950,
+    "age_days": 6.2,
+    "description": "VERY experimental Nintendo Switch 2 emulator",
     "new": false
    },
    {
     "repo": "wangzan101/Mika",
     "owner": "wangzan101",
     "name": "Mika",
-    "stars": 7251,
-    "velocity": 940,
-    "delta": 195,
-    "age_days": 7.7,
+    "stars": 7373,
+    "velocity": 897,
+    "delta": 122,
+    "age_days": 8.2,
     "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
     "new": false
    },
@@ -94,54 +127,32 @@
     "repo": "patch-gg/pixelfx",
     "owner": "patch-gg",
     "name": "pixelfx",
-    "stars": 5407,
-    "velocity": 768,
-    "delta": 173,
-    "age_days": 7.0,
+    "stars": 5568,
+    "velocity": 738,
+    "delta": 161,
+    "age_days": 7.5,
     "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-    "new": false
-   },
-   {
-    "repo": "zortos293/Lichii",
-    "owner": "zortos293",
-    "name": "Lichii",
-    "stars": 2709,
-    "velocity": 473,
-    "delta": 703,
-    "age_days": 5.7,
-    "description": "VERY experimental Nintendo Switch 2 emulator",
     "new": false
    },
    {
     "repo": "valentderah/totk-pc-recomp",
     "owner": "valentderah",
     "name": "totk-pc-recomp",
-    "stars": 5229,
-    "velocity": 670,
-    "delta": 113,
-    "age_days": 7.8,
+    "stars": 5354,
+    "velocity": 645,
+    "delta": 125,
+    "age_days": 8.3,
     "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan rend",
-    "new": false
-   },
-   {
-    "repo": "govijr/terminal-mac",
-    "owner": "govijr",
-    "name": "terminal-mac",
-    "stars": 2010,
-    "velocity": 632,
-    "delta": 98,
-    "age_days": 3.2,
-    "description": "Entire MacOS running in your terminal.",
     "new": false
    },
    {
     "repo": "anhao/ai-pose-gallery-zh",
     "owner": "anhao",
     "name": "ai-pose-gallery-zh",
-    "stars": 6155,
-    "velocity": 628,
-    "delta": 79,
-    "age_days": 9.8,
+    "stars": 6244,
+    "velocity": 606,
+    "delta": 89,
+    "age_days": 10.3,
     "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
    },
@@ -149,37 +160,66 @@
     "repo": "unclebob/ub-mode",
     "owner": "unclebob",
     "name": "ub-mode",
-    "stars": 7150,
-    "velocity": 614,
-    "delta": 64,
-    "age_days": 11.7,
+    "stars": 7197,
+    "velocity": 592,
+    "delta": 47,
+    "age_days": 12.2,
     "description": "",
+    "new": false
+   },
+   {
+    "repo": "govijr/terminal-mac",
+    "owner": "govijr",
+    "name": "terminal-mac",
+    "stars": 2121,
+    "velocity": 575,
+    "delta": 111,
+    "age_days": 3.7,
+    "description": "Entire MacOS running in your terminal.",
     "new": false
    },
    {
     "repo": "Djihads80/Eglantine",
     "owner": "Djihads80",
     "name": "Eglantine",
-    "stars": 4569,
-    "velocity": 550,
-    "delta": 288,
-    "age_days": 8.3,
+    "stars": 4817,
+    "velocity": 547,
+    "delta": 248,
+    "age_days": 8.8,
     "description": "VERY experimental Nintendo Switch 2 emulator",
     "new": false
    },
    {
-    "repo": "BryceYuuu/RUN",
-    "owner": "BryceYuuu",
-    "name": "RUN",
-    "stars": 4010,
-    "velocity": 511,
-    "delta": 72,
-    "age_days": 7.8,
-    "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-    "new": false
+    "repo": "mmdoctor/google-pro-helper",
+    "owner": "mmdoctor",
+    "name": "google-pro-helper",
+    "stars": 813,
+    "velocity": 500,
+    "delta": null,
+    "age_days": 1.6,
+    "description": "",
+    "new": true,
+    "variants": [
+     "google pro helper",
+     "mmdoctor google pro helper"
+    ]
    }
   ],
-  "terms": [],
+  "terms": [
+   {
+    "term": "google pro helper",
+    "recent": 1,
+    "variants": [
+     "google pro helper",
+     "mmdoctor google pro helper"
+    ],
+    "repo": "mmdoctor/google-pro-helper",
+    "note": "GitHub breakout mmdoctor/google-pro-helper ★813 (500/day)",
+    "examples": [
+     "mmdoctor/google-pro-helper: "
+    ]
+   }
+  ],
   "window_days": 14
  },
  "sitemap": {
@@ -205,7 +245,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 82,
+  "pending": 83,
   "window_days": 60
  },
  "keywords": {
