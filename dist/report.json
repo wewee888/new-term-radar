@@ -1,56 +1,43 @@
 {
  "leads": [
   {
-   "term": "deepseek v4 pro qwen3.5 heretic",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face: new at #36"
-   ],
-   "examples": [
-    "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic (text-generation, ♥143)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "arete",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face: new at #49"
-   ],
-   "examples": [
-    "NousResearch/Arete-27B (text-generation, ♥105)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "sheeridverify",
+   "term": "hookshot",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout JenkinWoo/sheeridVerify ★1139 (1139/day, +680 in a day)"
+    "GitHub breakout NotRexed/Hookshot ★1341 (600/day, +846 in a day)"
    ],
    "examples": [
-    "JenkinWoo/sheeridVerify: "
+    "NotRexed/Hookshot: A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake"
    ],
    "variants": [
-    "sheeridverify",
-    "jenkinwoo sheeridverify"
+    "hookshot",
+    "notrexed hookshot"
    ],
    "posts": [],
-   "repo": "JenkinWoo/sheeridVerify",
+   "repo": "NotRexed/Hookshot",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "ocarina recomp",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout sostenesfreitas/ocarina-recomp ★636 (636/day)"
+   ],
+   "examples": [
+    "sostenesfreitas/ocarina-recomp: Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included."
+   ],
+   "variants": [
+    "ocarina recomp",
+    "sostenesfreitas ocarina recomp"
+   ],
+   "posts": [],
+   "repo": "sostenesfreitas/ocarina-recomp",
    "known": "",
    "format": "text",
    "one_click": null
@@ -61,28 +48,7 @@
  },
  "hf": {
   "first_run": false,
-  "terms": [
-   {
-    "term": "deepseek v4 pro qwen3.5 heretic",
-    "rank": 36,
-    "copies": 1,
-    "examples": [
-     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic (text-generation, ♥143)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face: new at #36"
-   },
-   {
-    "term": "arete",
-    "rank": 49,
-    "copies": 1,
-    "examples": [
-     "NousResearch/Arete-27B (text-generation, ♥105)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face: new at #49"
-   }
-  ],
+  "terms": [],
   "models": 100,
   "spaces": 100
  },
@@ -91,35 +57,35 @@
   "first_run": false,
   "repos": [
    {
-    "repo": "deepseek-ai/dsh-superagent-prototype",
-    "owner": "deepseek-ai",
-    "name": "dsh-superagent-prototype",
-    "stars": 20422,
-    "velocity": 2964,
-    "delta": 222,
-    "age_days": 6.9,
-    "description": "Towards a More Autonomous Agent System",
-    "new": false
-   },
-   {
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 18727,
-    "velocity": 2808,
-    "delta": 1064,
-    "age_days": 6.7,
+    "stars": 20154,
+    "velocity": 2826,
+    "delta": 1427,
+    "age_days": 7.1,
     "description": "Craft Anything: understand how any software works, and craft your own.",
+    "new": false
+   },
+   {
+    "repo": "deepseek-ai/dsh-superagent-prototype",
+    "owner": "deepseek-ai",
+    "name": "dsh-superagent-prototype",
+    "stars": 20748,
+    "velocity": 2823,
+    "delta": 326,
+    "age_days": 7.4,
+    "description": "Towards a More Autonomous Agent System",
     "new": false
    },
    {
     "repo": "heydamir/unslop",
     "owner": "heydamir",
     "name": "unslop",
-    "stars": 10890,
-    "velocity": 1261,
-    "delta": 250,
-    "age_days": 8.6,
+    "stars": 11226,
+    "velocity": 1234,
+    "delta": 336,
+    "age_days": 9.1,
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "new": false
    },
@@ -127,91 +93,117 @@
     "repo": "JenkinWoo/sheeridVerify",
     "owner": "JenkinWoo",
     "name": "sheeridVerify",
-    "stars": 1139,
-    "velocity": 1139,
-    "delta": 680,
-    "age_days": 1.0,
+    "stars": 1591,
+    "velocity": 1175,
+    "delta": 452,
+    "age_days": 1.4,
     "description": "",
-    "new": true,
-    "variants": [
-     "sheeridverify",
-     "jenkinwoo sheeridverify"
-    ]
-   },
-   {
-    "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-    "owner": "worldonlyu",
-    "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "stars": 2938,
-    "velocity": 1102,
-    "delta": 87,
-    "age_days": 2.7,
-    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
     "new": false
    },
    {
     "repo": "ccch1mneyyy/dsh-Go",
     "owner": "ccch1mneyyy",
     "name": "dsh-Go",
-    "stars": 13243,
-    "velocity": 1023,
-    "delta": 365,
-    "age_days": 12.9,
+    "stars": 14138,
+    "velocity": 1054,
+    "delta": 895,
+    "age_days": 13.4,
     "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+    "new": false
+   },
+   {
+    "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "owner": "worldonlyu",
+    "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "stars": 3028,
+    "velocity": 968,
+    "delta": 90,
+    "age_days": 3.1,
+    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
     "new": false
    },
    {
     "repo": "KKKKhazix/agent-autoloop",
     "owner": "KKKKhazix",
     "name": "agent-autoloop",
-    "stars": 3770,
-    "velocity": 954,
-    "delta": 130,
-    "age_days": 4.0,
+    "stars": 3931,
+    "velocity": 891,
+    "delta": 161,
+    "age_days": 4.4,
     "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
     "new": false
+   },
+   {
+    "repo": "NotRexed/Hookshot",
+    "owner": "NotRexed",
+    "name": "Hookshot",
+    "stars": 1341,
+    "velocity": 600,
+    "delta": 846,
+    "age_days": 2.2,
+    "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+    "new": true,
+    "variants": [
+     "hookshot",
+     "notrexed hookshot"
+    ]
    },
    {
     "repo": "wangzan101/Mika",
     "owner": "wangzan101",
     "name": "Mika",
-    "stars": 7456,
-    "velocity": 859,
-    "delta": 83,
-    "age_days": 8.7,
+    "stars": 7571,
+    "velocity": 828,
+    "delta": 115,
+    "age_days": 9.1,
     "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-    "new": false
-   },
-   {
-    "repo": "patch-gg/pixelfx",
-    "owner": "patch-gg",
-    "name": "pixelfx",
-    "stars": 5668,
-    "velocity": 708,
-    "delta": 100,
-    "age_days": 8.0,
-    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
     "new": false
    },
    {
     "repo": "zortos293/Lichii",
     "owner": "zortos293",
     "name": "Lichii",
-    "stars": 4254,
-    "velocity": 636,
-    "delta": 595,
-    "age_days": 6.7,
+    "stars": 5074,
+    "velocity": 709,
+    "delta": 820,
+    "age_days": 7.2,
     "description": "VERY experimental Nintendo Switch 2 emulator",
     "new": false
+   },
+   {
+    "repo": "patch-gg/pixelfx",
+    "owner": "patch-gg",
+    "name": "pixelfx",
+    "stars": 5791,
+    "velocity": 684,
+    "delta": 123,
+    "age_days": 8.5,
+    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "new": false
+   },
+   {
+    "repo": "sostenesfreitas/ocarina-recomp",
+    "owner": "sostenesfreitas",
+    "name": "ocarina-recomp",
+    "stars": 636,
+    "velocity": 636,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+    "new": true,
+    "variants": [
+     "ocarina recomp",
+     "sostenesfreitas ocarina recomp"
+    ]
    },
    {
     "repo": "valentderah/totk-pc-recomp",
     "owner": "valentderah",
     "name": "totk-pc-recomp",
-    "stars": 5487,
-    "velocity": 626,
-    "delta": 133,
-    "age_days": 8.8,
+    "stars": 5615,
+    "velocity": 609,
+    "delta": 128,
+    "age_days": 9.2,
     "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan rend",
     "new": false
    },
@@ -219,10 +211,10 @@
     "repo": "anhao/ai-pose-gallery-zh",
     "owner": "anhao",
     "name": "ai-pose-gallery-zh",
-    "stars": 6292,
-    "velocity": 584,
-    "delta": 48,
-    "age_days": 10.8,
+    "stars": 6355,
+    "velocity": 566,
+    "delta": 63,
+    "age_days": 11.2,
     "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
    },
@@ -230,48 +222,39 @@
     "repo": "unclebob/ub-mode",
     "owner": "unclebob",
     "name": "ub-mode",
-    "stars": 7218,
-    "velocity": 572,
-    "delta": 21,
-    "age_days": 12.6,
+    "stars": 7245,
+    "velocity": 554,
+    "delta": 27,
+    "age_days": 13.1,
     "description": "",
-    "new": false
-   },
-   {
-    "repo": "Djihads80/Eglantine",
-    "owner": "Djihads80",
-    "name": "Eglantine",
-    "stars": 4959,
-    "velocity": 535,
-    "delta": 142,
-    "age_days": 9.3,
-    "description": "VERY experimental Nintendo Switch 2 emulator",
-    "new": false
-   },
-   {
-    "repo": "govijr/terminal-mac",
-    "owner": "govijr",
-    "name": "terminal-mac",
-    "stars": 2183,
-    "velocity": 527,
-    "delta": 62,
-    "age_days": 4.1,
-    "description": "Entire MacOS running in your terminal.",
     "new": false
    }
   ],
   "terms": [
    {
-    "term": "sheeridverify",
+    "term": "hookshot",
     "recent": 1,
     "variants": [
-     "sheeridverify",
-     "jenkinwoo sheeridverify"
+     "hookshot",
+     "notrexed hookshot"
     ],
-    "repo": "JenkinWoo/sheeridVerify",
-    "note": "GitHub breakout JenkinWoo/sheeridVerify ★1139 (1139/day, +680 in a day)",
+    "repo": "NotRexed/Hookshot",
+    "note": "GitHub breakout NotRexed/Hookshot ★1341 (600/day, +846 in a day)",
     "examples": [
-     "JenkinWoo/sheeridVerify: "
+     "NotRexed/Hookshot: A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake"
+    ]
+   },
+   {
+    "term": "ocarina recomp",
+    "recent": 1,
+    "variants": [
+     "ocarina recomp",
+     "sostenesfreitas ocarina recomp"
+    ],
+    "repo": "sostenesfreitas/ocarina-recomp",
+    "note": "GitHub breakout sostenesfreitas/ocarina-recomp ★636 (636/day)",
+    "examples": [
+     "sostenesfreitas/ocarina-recomp: Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included."
     ]
    }
   ],
@@ -300,7 +283,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 86,
+  "pending": 88,
   "window_days": 60
  },
  "keywords": {
