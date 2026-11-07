@@ -1,22 +1,56 @@
 {
  "leads": [
   {
-   "term": "google pro helper",
+   "term": "deepseek v4 pro qwen3.5 heretic",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face: new at #36"
+   ],
+   "examples": [
+    "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic (text-generation, ♥143)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "arete",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face: new at #49"
+   ],
+   "examples": [
+    "NousResearch/Arete-27B (text-generation, ♥105)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "sheeridverify",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout mmdoctor/google-pro-helper ★813 (500/day)"
+    "GitHub breakout JenkinWoo/sheeridVerify ★1139 (1139/day, +680 in a day)"
    ],
    "examples": [
-    "mmdoctor/google-pro-helper: "
+    "JenkinWoo/sheeridVerify: "
    ],
    "variants": [
-    "google pro helper",
-    "mmdoctor google pro helper"
+    "sheeridverify",
+    "jenkinwoo sheeridverify"
    ],
    "posts": [],
-   "repo": "mmdoctor/google-pro-helper",
+   "repo": "JenkinWoo/sheeridVerify",
    "known": "",
    "format": "text",
    "one_click": null
@@ -27,7 +61,28 @@
  },
  "hf": {
   "first_run": false,
-  "terms": [],
+  "terms": [
+   {
+    "term": "deepseek v4 pro qwen3.5 heretic",
+    "rank": 36,
+    "copies": 1,
+    "examples": [
+     "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic (text-generation, ♥143)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face: new at #36"
+   },
+   {
+    "term": "arete",
+    "rank": 49,
+    "copies": 1,
+    "examples": [
+     "NousResearch/Arete-27B (text-generation, ♥105)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face: new at #49"
+   }
+  ],
   "models": 100,
   "spaces": 100
  },
@@ -39,10 +94,10 @@
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 20200,
-    "velocity": 3141,
-    "delta": 373,
-    "age_days": 6.4,
+    "stars": 20422,
+    "velocity": 2964,
+    "delta": 222,
+    "age_days": 6.9,
     "description": "Towards a More Autonomous Agent System",
     "new": false
    },
@@ -50,10 +105,10 @@
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 17663,
-    "velocity": 2844,
-    "delta": 1622,
-    "age_days": 6.2,
+    "stars": 18727,
+    "velocity": 2808,
+    "delta": 1064,
+    "age_days": 6.7,
     "description": "Craft Anything: understand how any software works, and craft your own.",
     "new": false
    },
@@ -61,65 +116,69 @@
     "repo": "heydamir/unslop",
     "owner": "heydamir",
     "name": "unslop",
-    "stars": 10640,
-    "velocity": 1301,
-    "delta": 514,
-    "age_days": 8.2,
+    "stars": 10890,
+    "velocity": 1261,
+    "delta": 250,
+    "age_days": 8.6,
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "new": false
+   },
+   {
+    "repo": "JenkinWoo/sheeridVerify",
+    "owner": "JenkinWoo",
+    "name": "sheeridVerify",
+    "stars": 1139,
+    "velocity": 1139,
+    "delta": 680,
+    "age_days": 1.0,
+    "description": "",
+    "new": true,
+    "variants": [
+     "sheeridverify",
+     "jenkinwoo sheeridverify"
+    ]
    },
    {
     "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
     "owner": "worldonlyu",
     "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "stars": 2851,
-    "velocity": 1292,
-    "delta": 222,
-    "age_days": 2.2,
+    "stars": 2938,
+    "velocity": 1102,
+    "delta": 87,
+    "age_days": 2.7,
     "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "new": false
-   },
-   {
-    "repo": "KKKKhazix/agent-autoloop",
-    "owner": "KKKKhazix",
-    "name": "agent-autoloop",
-    "stars": 3640,
-    "velocity": 1042,
-    "delta": 231,
-    "age_days": 3.5,
-    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
     "new": false
    },
    {
     "repo": "ccch1mneyyy/dsh-Go",
     "owner": "ccch1mneyyy",
     "name": "dsh-Go",
-    "stars": 12878,
-    "velocity": 1031,
-    "delta": 792,
-    "age_days": 12.5,
+    "stars": 13243,
+    "velocity": 1023,
+    "delta": 365,
+    "age_days": 12.9,
     "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
     "new": false
    },
    {
-    "repo": "zortos293/Lichii",
-    "owner": "zortos293",
-    "name": "Lichii",
-    "stars": 3659,
-    "velocity": 587,
-    "delta": 950,
-    "age_days": 6.2,
-    "description": "VERY experimental Nintendo Switch 2 emulator",
+    "repo": "KKKKhazix/agent-autoloop",
+    "owner": "KKKKhazix",
+    "name": "agent-autoloop",
+    "stars": 3770,
+    "velocity": 954,
+    "delta": 130,
+    "age_days": 4.0,
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
     "new": false
    },
    {
     "repo": "wangzan101/Mika",
     "owner": "wangzan101",
     "name": "Mika",
-    "stars": 7373,
-    "velocity": 897,
-    "delta": 122,
-    "age_days": 8.2,
+    "stars": 7456,
+    "velocity": 859,
+    "delta": 83,
+    "age_days": 8.7,
     "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
     "new": false
    },
@@ -127,21 +186,32 @@
     "repo": "patch-gg/pixelfx",
     "owner": "patch-gg",
     "name": "pixelfx",
-    "stars": 5568,
-    "velocity": 738,
-    "delta": 161,
-    "age_days": 7.5,
+    "stars": 5668,
+    "velocity": 708,
+    "delta": 100,
+    "age_days": 8.0,
     "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "new": false
+   },
+   {
+    "repo": "zortos293/Lichii",
+    "owner": "zortos293",
+    "name": "Lichii",
+    "stars": 4254,
+    "velocity": 636,
+    "delta": 595,
+    "age_days": 6.7,
+    "description": "VERY experimental Nintendo Switch 2 emulator",
     "new": false
    },
    {
     "repo": "valentderah/totk-pc-recomp",
     "owner": "valentderah",
     "name": "totk-pc-recomp",
-    "stars": 5354,
-    "velocity": 645,
-    "delta": 125,
-    "age_days": 8.3,
+    "stars": 5487,
+    "velocity": 626,
+    "delta": 133,
+    "age_days": 8.8,
     "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan rend",
     "new": false
    },
@@ -149,10 +219,10 @@
     "repo": "anhao/ai-pose-gallery-zh",
     "owner": "anhao",
     "name": "ai-pose-gallery-zh",
-    "stars": 6244,
-    "velocity": 606,
-    "delta": 89,
-    "age_days": 10.3,
+    "stars": 6292,
+    "velocity": 584,
+    "delta": 48,
+    "age_days": 10.8,
     "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
     "new": false
    },
@@ -160,63 +230,48 @@
     "repo": "unclebob/ub-mode",
     "owner": "unclebob",
     "name": "ub-mode",
-    "stars": 7197,
-    "velocity": 592,
-    "delta": 47,
-    "age_days": 12.2,
+    "stars": 7218,
+    "velocity": 572,
+    "delta": 21,
+    "age_days": 12.6,
     "description": "",
-    "new": false
-   },
-   {
-    "repo": "govijr/terminal-mac",
-    "owner": "govijr",
-    "name": "terminal-mac",
-    "stars": 2121,
-    "velocity": 575,
-    "delta": 111,
-    "age_days": 3.7,
-    "description": "Entire MacOS running in your terminal.",
     "new": false
    },
    {
     "repo": "Djihads80/Eglantine",
     "owner": "Djihads80",
     "name": "Eglantine",
-    "stars": 4817,
-    "velocity": 547,
-    "delta": 248,
-    "age_days": 8.8,
+    "stars": 4959,
+    "velocity": 535,
+    "delta": 142,
+    "age_days": 9.3,
     "description": "VERY experimental Nintendo Switch 2 emulator",
     "new": false
    },
    {
-    "repo": "mmdoctor/google-pro-helper",
-    "owner": "mmdoctor",
-    "name": "google-pro-helper",
-    "stars": 813,
-    "velocity": 500,
-    "delta": null,
-    "age_days": 1.6,
-    "description": "",
-    "new": true,
-    "variants": [
-     "google pro helper",
-     "mmdoctor google pro helper"
-    ]
+    "repo": "govijr/terminal-mac",
+    "owner": "govijr",
+    "name": "terminal-mac",
+    "stars": 2183,
+    "velocity": 527,
+    "delta": 62,
+    "age_days": 4.1,
+    "description": "Entire MacOS running in your terminal.",
+    "new": false
    }
   ],
   "terms": [
    {
-    "term": "google pro helper",
+    "term": "sheeridverify",
     "recent": 1,
     "variants": [
-     "google pro helper",
-     "mmdoctor google pro helper"
+     "sheeridverify",
+     "jenkinwoo sheeridverify"
     ],
-    "repo": "mmdoctor/google-pro-helper",
-    "note": "GitHub breakout mmdoctor/google-pro-helper ★813 (500/day)",
+    "repo": "JenkinWoo/sheeridVerify",
+    "note": "GitHub breakout JenkinWoo/sheeridVerify ★1139 (1139/day, +680 in a day)",
     "examples": [
-     "mmdoctor/google-pro-helper: "
+     "JenkinWoo/sheeridVerify: "
     ]
    }
   ],
@@ -245,7 +300,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 83,
+  "pending": 86,
   "window_days": 60
  },
  "keywords": {
