@@ -1,15 +1,15 @@
 {
  "leads": [
   {
-   "term": "glm 5.3 slim",
+   "term": "autotrust jev v1.1",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #50"
+    "Hugging Face: new at #42"
    ],
    "examples": [
-    "Scantist/GLM-5.3-SLIM-GGUF (text-generation, ♥795)"
+    "autotrust/AutoTrust-JEV-27B-v1.1 (text-classification, ♥1359)"
    ],
    "variants": [],
    "posts": [],
@@ -18,23 +18,61 @@
    "one_click": null
   },
   {
-   "term": "satmux",
+   "term": "matterseek enables.inverse.design.of.novel.material",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face Spaces: new at #9"
+   ],
+   "examples": [
+    "YuyaoTechnology/MatterSeek-Enables.Inverse.Design.of.Novel.Material (static, ♥3155)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "nx2navi",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout Th0rgal/satmux ★609 (609/day)"
+    "GitHub breakout tangerineturtle1/NX2navi ★1028 (765/day)"
    ],
    "examples": [
-    "Th0rgal/satmux: Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)"
+    "tangerineturtle1/NX2navi: "
    ],
    "variants": [
-    "satmux",
-    "th0rgal satmux",
-    "thomas satmux"
+    "nx2navi",
+    "tangerineturtle1 nx2navi"
    ],
    "posts": [],
-   "repo": "Th0rgal/satmux",
+   "repo": "tangerineturtle1/NX2navi",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "misterdownloadmanager",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout anefzaoui/misterdownloadmanager ★1051 (98/day, +622 in a day)"
+   ],
+   "examples": [
+    "anefzaoui/misterdownloadmanager: misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windo"
+   ],
+   "variants": [
+    "misterdownloadmanager",
+    "anefzaoui misterdownloadmanager",
+    "ahmed misterdownloadmanager"
+   ],
+   "posts": [],
+   "repo": "anefzaoui/misterdownloadmanager",
    "known": "",
    "format": "text",
    "one_click": null
@@ -47,14 +85,24 @@
   "first_run": false,
   "terms": [
    {
-    "term": "glm 5.3 slim",
-    "rank": 50,
+    "term": "autotrust jev v1.1",
+    "rank": 42,
     "copies": 1,
     "examples": [
-     "Scantist/GLM-5.3-SLIM-GGUF (text-generation, ♥795)"
+     "autotrust/AutoTrust-JEV-27B-v1.1 (text-classification, ♥1359)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #50"
+    "note": "Hugging Face: new at #42"
+   },
+   {
+    "term": "matterseek enables.inverse.design.of.novel.material",
+    "rank": 9,
+    "copies": 1,
+    "examples": [
+     "YuyaoTechnology/MatterSeek-Enables.Inverse.Design.of.Novel.Material (static, ♥3155)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face Spaces: new at #9"
    }
   ],
   "models": 100,
@@ -68,10 +116,10 @@
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 21232,
-    "velocity": 2767,
-    "delta": 1078,
-    "age_days": 7.7,
+    "stars": 22304,
+    "velocity": 2739,
+    "delta": 1072,
+    "age_days": 8.1,
     "description": "Craft Anything: understand how any software works, and craft your own.",
     "new": false
    },
@@ -79,10 +127,10 @@
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 20937,
-    "velocity": 2652,
-    "delta": 189,
-    "age_days": 7.9,
+    "stars": 21149,
+    "velocity": 2529,
+    "delta": 212,
+    "age_days": 8.4,
     "description": "Towards a More Autonomous Agent System",
     "new": false
    },
@@ -90,10 +138,10 @@
     "repo": "heydamir/unslop",
     "owner": "heydamir",
     "name": "unslop",
-    "stars": 11491,
-    "velocity": 1192,
-    "delta": 265,
-    "age_days": 9.6,
+    "stars": 11818,
+    "velocity": 1169,
+    "delta": 327,
+    "age_days": 10.1,
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "new": false
    },
@@ -101,153 +149,170 @@
     "repo": "ccch1mneyyy/dsh-Go",
     "owner": "ccch1mneyyy",
     "name": "dsh-Go",
-    "stars": 14929,
-    "velocity": 1070,
-    "delta": 791,
-    "age_days": 14.0,
+    "stars": 15921,
+    "velocity": 1104,
+    "delta": 992,
+    "age_days": 14.4,
     "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-    "new": false
-   },
-   {
-    "repo": "JenkinWoo/sheeridVerify",
-    "owner": "JenkinWoo",
-    "name": "sheeridVerify",
-    "stars": 1762,
-    "velocity": 929,
-    "delta": 171,
-    "age_days": 1.9,
-    "description": "",
-    "new": false
-   },
-   {
-    "repo": "zortos293/Lichii",
-    "owner": "zortos293",
-    "name": "Lichii",
-    "stars": 5996,
-    "velocity": 779,
-    "delta": 922,
-    "age_days": 7.7,
-    "description": "VERY experimental Nintendo Switch 2 emulator",
-    "new": false
-   },
-   {
-    "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-    "owner": "worldonlyu",
-    "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "stars": 3120,
-    "velocity": 850,
-    "delta": 92,
-    "age_days": 3.7,
-    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "new": false
-   },
-   {
-    "repo": "KKKKhazix/agent-autoloop",
-    "owner": "KKKKhazix",
-    "name": "agent-autoloop",
-    "stars": 4005,
-    "velocity": 808,
-    "delta": 74,
-    "age_days": 5.0,
-    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "new": false
-   },
-   {
-    "repo": "wangzan101/Mika",
-    "owner": "wangzan101",
-    "name": "Mika",
-    "stars": 7649,
-    "velocity": 790,
-    "delta": 78,
-    "age_days": 9.7,
-    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
     "new": false
    },
    {
     "repo": "NotRexed/Hookshot",
     "owner": "NotRexed",
     "name": "Hookshot",
-    "stars": 2093,
-    "velocity": 753,
-    "delta": 752,
-    "age_days": 2.8,
+    "stars": 2659,
+    "velocity": 819,
+    "delta": 566,
+    "age_days": 3.2,
     "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-    "new": false
-   },
-   {
-    "repo": "patch-gg/pixelfx",
-    "owner": "patch-gg",
-    "name": "pixelfx",
-    "stars": 5908,
-    "velocity": 656,
-    "delta": 117,
-    "age_days": 9.0,
-    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-    "new": false
-   },
-   {
-    "repo": "sostenesfreitas/ocarina-recomp",
-    "owner": "sostenesfreitas",
-    "name": "ocarina-recomp",
-    "stars": 844,
-    "velocity": 622,
-    "delta": 208,
-    "age_days": 1.4,
-    "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
     "new": false
    },
    {
     "repo": "Th0rgal/satmux",
     "owner": "Th0rgal",
     "name": "satmux",
-    "stars": 609,
-    "velocity": 609,
-    "delta": null,
-    "age_days": 1.0,
+    "stars": 881,
+    "velocity": 810,
+    "delta": 272,
+    "age_days": 1.1,
     "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-    "new": true,
-    "variants": [
-     "satmux",
-     "th0rgal satmux",
-     "thomas satmux"
-    ]
-   },
-   {
-    "repo": "valentderah/totk-pc-recomp",
-    "owner": "valentderah",
-    "name": "totk-pc-recomp",
-    "stars": 5741,
-    "velocity": 588,
-    "delta": 126,
-    "age_days": 9.8,
-    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan rend",
     "new": false
    },
    {
-    "repo": "anhao/ai-pose-gallery-zh",
-    "owner": "anhao",
-    "name": "ai-pose-gallery-zh",
-    "stars": 6393,
-    "velocity": 543,
-    "delta": 38,
-    "age_days": 11.8,
-    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+    "repo": "zortos293/Lichii",
+    "owner": "zortos293",
+    "name": "Lichii",
+    "stars": 6587,
+    "velocity": 807,
+    "delta": 591,
+    "age_days": 8.2,
+    "description": "VERY experimental Nintendo Switch 2 emulator",
+    "new": false
+   },
+   {
+    "repo": "JenkinWoo/sheeridVerify",
+    "owner": "JenkinWoo",
+    "name": "sheeridVerify",
+    "stars": 1853,
+    "velocity": 783,
+    "delta": 91,
+    "age_days": 2.4,
+    "description": "",
+    "new": false
+   },
+   {
+    "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "owner": "worldonlyu",
+    "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "stars": 3220,
+    "velocity": 778,
+    "delta": 100,
+    "age_days": 4.1,
+    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "new": false
+   },
+   {
+    "repo": "tangerineturtle1/NX2navi",
+    "owner": "tangerineturtle1",
+    "name": "NX2navi",
+    "stars": 1028,
+    "velocity": 765,
+    "delta": null,
+    "age_days": 1.3,
+    "description": "",
+    "new": true,
+    "variants": [
+     "nx2navi",
+     "tangerineturtle1 nx2navi"
+    ]
+   },
+   {
+    "repo": "wangzan101/Mika",
+    "owner": "wangzan101",
+    "name": "Mika",
+    "stars": 7723,
+    "velocity": 761,
+    "delta": 74,
+    "age_days": 10.2,
+    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+    "new": false
+   },
+   {
+    "repo": "KKKKhazix/agent-autoloop",
+    "owner": "KKKKhazix",
+    "name": "agent-autoloop",
+    "stars": 4085,
+    "velocity": 753,
+    "delta": 80,
+    "age_days": 5.4,
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "new": false
+   },
+   {
+    "repo": "patch-gg/pixelfx",
+    "owner": "patch-gg",
+    "name": "pixelfx",
+    "stars": 6052,
+    "velocity": 638,
+    "delta": 144,
+    "age_days": 9.5,
+    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "new": false
+   },
+   {
+    "repo": "anefzaoui/misterdownloadmanager",
+    "owner": "anefzaoui",
+    "name": "misterdownloadmanager",
+    "stars": 1051,
+    "velocity": 98,
+    "delta": 622,
+    "age_days": 10.7,
+    "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windo",
+    "new": true,
+    "variants": [
+     "misterdownloadmanager",
+     "anefzaoui misterdownloadmanager",
+     "ahmed misterdownloadmanager"
+    ]
+   },
+   {
+    "repo": "Minireel/HGhub",
+    "owner": "Minireel",
+    "name": "HGhub",
+    "stars": 3105,
+    "velocity": 600,
+    "delta": 588,
+    "age_days": 5.2,
+    "description": "YellowFruit third-party client",
     "new": false
    }
   ],
   "terms": [
    {
-    "term": "satmux",
+    "term": "nx2navi",
     "recent": 1,
     "variants": [
-     "satmux",
-     "th0rgal satmux",
-     "thomas satmux"
+     "nx2navi",
+     "tangerineturtle1 nx2navi"
     ],
-    "repo": "Th0rgal/satmux",
-    "note": "GitHub breakout Th0rgal/satmux ★609 (609/day)",
+    "repo": "tangerineturtle1/NX2navi",
+    "note": "GitHub breakout tangerineturtle1/NX2navi ★1028 (765/day)",
     "examples": [
-     "Th0rgal/satmux: Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)"
+     "tangerineturtle1/NX2navi: "
+    ]
+   },
+   {
+    "term": "misterdownloadmanager",
+    "recent": 1,
+    "variants": [
+     "misterdownloadmanager",
+     "anefzaoui misterdownloadmanager",
+     "ahmed misterdownloadmanager"
+    ],
+    "repo": "anefzaoui/misterdownloadmanager",
+    "note": "GitHub breakout anefzaoui/misterdownloadmanager ★1051 (98/day, +622 in a day)",
+    "examples": [
+     "anefzaoui/misterdownloadmanager: misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windo"
     ]
    }
   ],
@@ -276,7 +341,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 90,
+  "pending": 94,
   "window_days": 60
  },
  "keywords": {
