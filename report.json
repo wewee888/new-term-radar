@@ -1,15 +1,15 @@
 {
  "leads": [
   {
-   "term": "autotrust jev v1.1",
+   "term": "matterseek",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #42"
+    "Hugging Face Spaces: new at #8"
    ],
    "examples": [
-    "autotrust/AutoTrust-JEV-27B-v1.1 (text-classification, ♥1359)"
+    "YuyaoTechnology/MatterSeek (static, ♥3155)"
    ],
    "variants": [],
    "posts": [],
@@ -18,61 +18,22 @@
    "one_click": null
   },
   {
-   "term": "matterseek enables.inverse.design.of.novel.material",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face Spaces: new at #9"
-   ],
-   "examples": [
-    "YuyaoTechnology/MatterSeek-Enables.Inverse.Design.of.Novel.Material (static, ♥3155)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "nx2navi",
+   "term": "s2arm",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout tangerineturtle1/NX2navi ★1028 (765/day)"
+    "GitHub breakout jhaizhou-ops/S2Arm ★1007 (933/day)"
    ],
    "examples": [
-    "tangerineturtle1/NX2navi: "
+    "jhaizhou-ops/S2Arm: Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one "
    ],
    "variants": [
-    "nx2navi",
-    "tangerineturtle1 nx2navi"
+    "s2arm",
+    "jhaizhou-ops s2arm"
    ],
    "posts": [],
-   "repo": "tangerineturtle1/NX2navi",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "misterdownloadmanager",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout anefzaoui/misterdownloadmanager ★1051 (98/day, +622 in a day)"
-   ],
-   "examples": [
-    "anefzaoui/misterdownloadmanager: misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windo"
-   ],
-   "variants": [
-    "misterdownloadmanager",
-    "anefzaoui misterdownloadmanager",
-    "ahmed misterdownloadmanager"
-   ],
-   "posts": [],
-   "repo": "anefzaoui/misterdownloadmanager",
+   "repo": "jhaizhou-ops/S2Arm",
    "known": "",
    "format": "text",
    "one_click": null
@@ -85,24 +46,14 @@
   "first_run": false,
   "terms": [
    {
-    "term": "autotrust jev v1.1",
-    "rank": 42,
+    "term": "matterseek",
+    "rank": 8,
     "copies": 1,
     "examples": [
-     "autotrust/AutoTrust-JEV-27B-v1.1 (text-classification, ♥1359)"
+     "YuyaoTechnology/MatterSeek (static, ♥3155)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #42"
-   },
-   {
-    "term": "matterseek enables.inverse.design.of.novel.material",
-    "rank": 9,
-    "copies": 1,
-    "examples": [
-     "YuyaoTechnology/MatterSeek-Enables.Inverse.Design.of.Novel.Material (static, ♥3155)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face Spaces: new at #9"
+    "note": "Hugging Face Spaces: new at #8"
    }
   ],
   "models": 100,
@@ -116,10 +67,10 @@
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 22304,
-    "velocity": 2739,
-    "delta": 1072,
-    "age_days": 8.1,
+    "stars": 23352,
+    "velocity": 2683,
+    "delta": 1048,
+    "age_days": 8.7,
     "description": "Craft Anything: understand how any software works, and craft your own.",
     "new": false
    },
@@ -127,192 +78,173 @@
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 21149,
-    "velocity": 2529,
-    "delta": 212,
-    "age_days": 8.4,
+    "stars": 21440,
+    "velocity": 2402,
+    "delta": 291,
+    "age_days": 8.9,
     "description": "Towards a More Autonomous Agent System",
-    "new": false
-   },
-   {
-    "repo": "heydamir/unslop",
-    "owner": "heydamir",
-    "name": "unslop",
-    "stars": 11818,
-    "velocity": 1169,
-    "delta": 327,
-    "age_days": 10.1,
-    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-    "new": false
-   },
-   {
-    "repo": "ccch1mneyyy/dsh-Go",
-    "owner": "ccch1mneyyy",
-    "name": "dsh-Go",
-    "stars": 15921,
-    "velocity": 1104,
-    "delta": 992,
-    "age_days": 14.4,
-    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-    "new": false
-   },
-   {
-    "repo": "NotRexed/Hookshot",
-    "owner": "NotRexed",
-    "name": "Hookshot",
-    "stars": 2659,
-    "velocity": 819,
-    "delta": 566,
-    "age_days": 3.2,
-    "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-    "new": false
-   },
-   {
-    "repo": "Th0rgal/satmux",
-    "owner": "Th0rgal",
-    "name": "satmux",
-    "stars": 881,
-    "velocity": 810,
-    "delta": 272,
-    "age_days": 1.1,
-    "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-    "new": false
-   },
-   {
-    "repo": "zortos293/Lichii",
-    "owner": "zortos293",
-    "name": "Lichii",
-    "stars": 6587,
-    "velocity": 807,
-    "delta": 591,
-    "age_days": 8.2,
-    "description": "VERY experimental Nintendo Switch 2 emulator",
-    "new": false
-   },
-   {
-    "repo": "JenkinWoo/sheeridVerify",
-    "owner": "JenkinWoo",
-    "name": "sheeridVerify",
-    "stars": 1853,
-    "velocity": 783,
-    "delta": 91,
-    "age_days": 2.4,
-    "description": "",
-    "new": false
-   },
-   {
-    "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-    "owner": "worldonlyu",
-    "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "stars": 3220,
-    "velocity": 778,
-    "delta": 100,
-    "age_days": 4.1,
-    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "new": false
-   },
-   {
-    "repo": "tangerineturtle1/NX2navi",
-    "owner": "tangerineturtle1",
-    "name": "NX2navi",
-    "stars": 1028,
-    "velocity": 765,
-    "delta": null,
-    "age_days": 1.3,
-    "description": "",
-    "new": true,
-    "variants": [
-     "nx2navi",
-     "tangerineturtle1 nx2navi"
-    ]
-   },
-   {
-    "repo": "wangzan101/Mika",
-    "owner": "wangzan101",
-    "name": "Mika",
-    "stars": 7723,
-    "velocity": 761,
-    "delta": 74,
-    "age_days": 10.2,
-    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-    "new": false
-   },
-   {
-    "repo": "KKKKhazix/agent-autoloop",
-    "owner": "KKKKhazix",
-    "name": "agent-autoloop",
-    "stars": 4085,
-    "velocity": 753,
-    "delta": 80,
-    "age_days": 5.4,
-    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "new": false
-   },
-   {
-    "repo": "patch-gg/pixelfx",
-    "owner": "patch-gg",
-    "name": "pixelfx",
-    "stars": 6052,
-    "velocity": 638,
-    "delta": 144,
-    "age_days": 9.5,
-    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
     "new": false
    },
    {
     "repo": "anefzaoui/misterdownloadmanager",
     "owner": "anefzaoui",
     "name": "misterdownloadmanager",
-    "stars": 1051,
-    "velocity": 98,
-    "delta": 622,
-    "age_days": 10.7,
+    "stars": 2403,
+    "velocity": 213,
+    "delta": 1352,
+    "age_days": 11.3,
     "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windo",
-    "new": true,
-    "variants": [
-     "misterdownloadmanager",
-     "anefzaoui misterdownloadmanager",
-     "ahmed misterdownloadmanager"
-    ]
+    "new": false
+   },
+   {
+    "repo": "heydamir/unslop",
+    "owner": "heydamir",
+    "name": "unslop",
+    "stars": 12219,
+    "velocity": 1145,
+    "delta": 401,
+    "age_days": 10.7,
+    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+    "new": false
    },
    {
     "repo": "Minireel/HGhub",
     "owner": "Minireel",
     "name": "HGhub",
-    "stars": 3105,
-    "velocity": 600,
-    "delta": 588,
-    "age_days": 5.2,
+    "stars": 4193,
+    "velocity": 731,
+    "delta": 1088,
+    "age_days": 5.7,
     "description": "YellowFruit third-party client",
+    "new": false
+   },
+   {
+    "repo": "jhaizhou-ops/S2Arm",
+    "owner": "jhaizhou-ops",
+    "name": "S2Arm",
+    "stars": 1007,
+    "velocity": 933,
+    "delta": null,
+    "age_days": 1.1,
+    "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
+    "new": true,
+    "variants": [
+     "s2arm",
+     "jhaizhou-ops s2arm"
+    ]
+   },
+   {
+    "repo": "NotRexed/Hookshot",
+    "owner": "NotRexed",
+    "name": "Hookshot",
+    "stars": 3447,
+    "velocity": 905,
+    "delta": 788,
+    "age_days": 3.8,
+    "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+    "new": false
+   },
+   {
+    "repo": "tangerineturtle1/NX2navi",
+    "owner": "tangerineturtle1",
+    "name": "NX2navi",
+    "stars": 1601,
+    "velocity": 841,
+    "delta": 573,
+    "age_days": 1.9,
+    "description": "",
+    "new": false
+   },
+   {
+    "repo": "zortos293/Lichii",
+    "owner": "zortos293",
+    "name": "Lichii",
+    "stars": 7067,
+    "velocity": 810,
+    "delta": 480,
+    "age_days": 8.7,
+    "description": "VERY experimental Nintendo Switch 2 emulator",
+    "new": false
+   },
+   {
+    "repo": "wangzan101/Mika",
+    "owner": "wangzan101",
+    "name": "Mika",
+    "stars": 7816,
+    "velocity": 729,
+    "delta": 93,
+    "age_days": 10.7,
+    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+    "new": false
+   },
+   {
+    "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "owner": "worldonlyu",
+    "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "stars": 3301,
+    "velocity": 702,
+    "delta": 81,
+    "age_days": 4.7,
+    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "new": false
+   },
+   {
+    "repo": "KKKKhazix/agent-autoloop",
+    "owner": "KKKKhazix",
+    "name": "agent-autoloop",
+    "stars": 4184,
+    "velocity": 699,
+    "delta": 99,
+    "age_days": 6.0,
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "new": false
+   },
+   {
+    "repo": "JenkinWoo/sheeridVerify",
+    "owner": "JenkinWoo",
+    "name": "sheeridVerify",
+    "stars": 1890,
+    "velocity": 646,
+    "delta": 37,
+    "age_days": 2.9,
+    "description": "",
+    "new": false
+   },
+   {
+    "repo": "JuneYaooo/rea-video",
+    "owner": "JuneYaooo",
+    "name": "rea-video",
+    "stars": 4873,
+    "velocity": 458,
+    "delta": 622,
+    "age_days": 10.6,
+    "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代",
+    "new": false
+   },
+   {
+    "repo": "patch-gg/pixelfx",
+    "owner": "patch-gg",
+    "name": "pixelfx",
+    "stars": 6169,
+    "velocity": 614,
+    "delta": 117,
+    "age_days": 10.0,
+    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
     "new": false
    }
   ],
   "terms": [
    {
-    "term": "nx2navi",
+    "term": "s2arm",
     "recent": 1,
     "variants": [
-     "nx2navi",
-     "tangerineturtle1 nx2navi"
+     "s2arm",
+     "jhaizhou-ops s2arm"
     ],
-    "repo": "tangerineturtle1/NX2navi",
-    "note": "GitHub breakout tangerineturtle1/NX2navi ★1028 (765/day)",
+    "repo": "jhaizhou-ops/S2Arm",
+    "note": "GitHub breakout jhaizhou-ops/S2Arm ★1007 (933/day)",
     "examples": [
-     "tangerineturtle1/NX2navi: "
-    ]
-   },
-   {
-    "term": "misterdownloadmanager",
-    "recent": 1,
-    "variants": [
-     "misterdownloadmanager",
-     "anefzaoui misterdownloadmanager",
-     "ahmed misterdownloadmanager"
-    ],
-    "repo": "anefzaoui/misterdownloadmanager",
-    "note": "GitHub breakout anefzaoui/misterdownloadmanager ★1051 (98/day, +622 in a day)",
-    "examples": [
-     "anefzaoui/misterdownloadmanager: misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windo"
+     "jhaizhou-ops/S2Arm: Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one "
     ]
    }
   ],
@@ -341,7 +273,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 94,
+  "pending": 96,
   "window_days": 60
  },
  "keywords": {
