@@ -1,39 +1,61 @@
 {
  "leads": [
   {
-   "term": "matterseek",
+   "term": "image to video",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face Spaces: new at #8"
+    "Hugging Face Spaces: new at #16"
    ],
    "examples": [
-    "YuyaoTechnology/MatterSeek (static, ♥3155)"
+    "thea2026/image-to-video (gradio, ♥73)"
    ],
    "variants": [],
    "posts": [],
+   "known": "",
+   "format": "video",
+   "one_click": null
+  },
+  {
+   "term": "gestaltx",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout huamidev/GestaltX ★1409 (1409/day)"
+   ],
+   "examples": [
+    "huamidev/GestaltX: An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages"
+   ],
+   "variants": [
+    "gestaltx",
+    "huamidev gestaltx"
+   ],
+   "posts": [],
+   "repo": "huamidev/GestaltX",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "s2arm",
+   "term": "agent skills",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout jhaizhou-ops/S2Arm ★1007 (933/day)"
+    "GitHub breakout janestreet/agent_skills ★1969 (315/day, +1196 in a day)"
    ],
    "examples": [
-    "jhaizhou-ops/S2Arm: Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one "
+    "janestreet/agent_skills: Agent skills"
    ],
    "variants": [
-    "s2arm",
-    "jhaizhou-ops s2arm"
+    "agent skills",
+    "janestreet agent skills",
+    "jane agent skills"
    ],
    "posts": [],
-   "repo": "jhaizhou-ops/S2Arm",
+   "repo": "janestreet/agent_skills",
    "known": "",
    "format": "text",
    "one_click": null
@@ -46,14 +68,14 @@
   "first_run": false,
   "terms": [
    {
-    "term": "matterseek",
-    "rank": 8,
+    "term": "image to video",
+    "rank": 16,
     "copies": 1,
     "examples": [
-     "YuyaoTechnology/MatterSeek (static, ♥3155)"
+     "thea2026/image-to-video (gradio, ♥73)"
     ],
     "recent": 1,
-    "note": "Hugging Face Spaces: new at #8"
+    "note": "Hugging Face Spaces: new at #16"
    }
   ],
   "models": 100,
@@ -67,10 +89,10 @@
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 23352,
-    "velocity": 2683,
-    "delta": 1048,
-    "age_days": 8.7,
+    "stars": 24360,
+    "velocity": 2609,
+    "delta": 1008,
+    "age_days": 9.3,
     "description": "Craft Anything: understand how any software works, and craft your own.",
     "new": false
    },
@@ -78,80 +100,107 @@
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 21440,
-    "velocity": 2402,
+    "stars": 21731,
+    "velocity": 2274,
     "delta": 291,
-    "age_days": 8.9,
+    "age_days": 9.6,
     "description": "Towards a More Autonomous Agent System",
-    "new": false
-   },
-   {
-    "repo": "anefzaoui/misterdownloadmanager",
-    "owner": "anefzaoui",
-    "name": "misterdownloadmanager",
-    "stars": 2403,
-    "velocity": 213,
-    "delta": 1352,
-    "age_days": 11.3,
-    "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windo",
-    "new": false
-   },
-   {
-    "repo": "heydamir/unslop",
-    "owner": "heydamir",
-    "name": "unslop",
-    "stars": 12219,
-    "velocity": 1145,
-    "delta": 401,
-    "age_days": 10.7,
-    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "new": false
    },
    {
     "repo": "Minireel/HGhub",
     "owner": "Minireel",
     "name": "HGhub",
-    "stars": 4193,
-    "velocity": 731,
-    "delta": 1088,
-    "age_days": 5.7,
+    "stars": 5771,
+    "velocity": 906,
+    "delta": 1578,
+    "age_days": 6.4,
     "description": "YellowFruit third-party client",
+    "new": false
+   },
+   {
+    "repo": "anefzaoui/misterdownloadmanager",
+    "owner": "anefzaoui",
+    "name": "misterdownloadmanager",
+    "stars": 3844,
+    "velocity": 323,
+    "delta": 1441,
+    "age_days": 11.9,
+    "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windo",
+    "new": false
+   },
+   {
+    "repo": "NotRexed/Hookshot",
+    "owner": "NotRexed",
+    "name": "Hookshot",
+    "stars": 4874,
+    "velocity": 1097,
+    "delta": 1427,
+    "age_days": 4.4,
+    "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+    "new": false
+   },
+   {
+    "repo": "huamidev/GestaltX",
+    "owner": "huamidev",
+    "name": "GestaltX",
+    "stars": 1409,
+    "velocity": 1409,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages",
+    "new": true,
+    "variants": [
+     "gestaltx",
+     "huamidev gestaltx"
+    ]
+   },
+   {
+    "repo": "janestreet/agent_skills",
+    "owner": "janestreet",
+    "name": "agent_skills",
+    "stars": 1969,
+    "velocity": 315,
+    "delta": 1196,
+    "age_days": 6.3,
+    "description": "Agent skills",
+    "new": true,
+    "variants": [
+     "agent skills",
+     "janestreet agent skills",
+     "jane agent skills"
+    ]
+   },
+   {
+    "repo": "heydamir/unslop",
+    "owner": "heydamir",
+    "name": "unslop",
+    "stars": 12718,
+    "velocity": 1125,
+    "delta": 499,
+    "age_days": 11.3,
+    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "new": false
    },
    {
     "repo": "jhaizhou-ops/S2Arm",
     "owner": "jhaizhou-ops",
     "name": "S2Arm",
-    "stars": 1007,
-    "velocity": 933,
-    "delta": null,
-    "age_days": 1.1,
+    "stars": 1719,
+    "velocity": 1004,
+    "delta": 712,
+    "age_days": 1.7,
     "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
-    "new": true,
-    "variants": [
-     "s2arm",
-     "jhaizhou-ops s2arm"
-    ]
-   },
-   {
-    "repo": "NotRexed/Hookshot",
-    "owner": "NotRexed",
-    "name": "Hookshot",
-    "stars": 3447,
-    "velocity": 905,
-    "delta": 788,
-    "age_days": 3.8,
-    "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
     "new": false
    },
    {
     "repo": "tangerineturtle1/NX2navi",
     "owner": "tangerineturtle1",
     "name": "NX2navi",
-    "stars": 1601,
-    "velocity": 841,
-    "delta": 573,
-    "age_days": 1.9,
+    "stars": 2323,
+    "velocity": 916,
+    "delta": 722,
+    "age_days": 2.5,
     "description": "",
     "new": false
    },
@@ -159,10 +208,10 @@
     "repo": "zortos293/Lichii",
     "owner": "zortos293",
     "name": "Lichii",
-    "stars": 7067,
-    "velocity": 810,
-    "delta": 480,
-    "age_days": 8.7,
+    "stars": 7572,
+    "velocity": 809,
+    "delta": 505,
+    "age_days": 9.4,
     "description": "VERY experimental Nintendo Switch 2 emulator",
     "new": false
    },
@@ -170,81 +219,73 @@
     "repo": "wangzan101/Mika",
     "owner": "wangzan101",
     "name": "Mika",
-    "stars": 7816,
-    "velocity": 729,
-    "delta": 93,
-    "age_days": 10.7,
+    "stars": 7903,
+    "velocity": 696,
+    "delta": 87,
+    "age_days": 11.3,
     "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-    "new": false
-   },
-   {
-    "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-    "owner": "worldonlyu",
-    "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "stars": 3301,
-    "velocity": 702,
-    "delta": 81,
-    "age_days": 4.7,
-    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
     "new": false
    },
    {
     "repo": "KKKKhazix/agent-autoloop",
     "owner": "KKKKhazix",
     "name": "agent-autoloop",
-    "stars": 4184,
-    "velocity": 699,
-    "delta": 99,
-    "age_days": 6.0,
+    "stars": 4270,
+    "velocity": 645,
+    "delta": 86,
+    "age_days": 6.6,
     "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "new": false
-   },
-   {
-    "repo": "JenkinWoo/sheeridVerify",
-    "owner": "JenkinWoo",
-    "name": "sheeridVerify",
-    "stars": 1890,
-    "velocity": 646,
-    "delta": 37,
-    "age_days": 2.9,
-    "description": "",
-    "new": false
-   },
-   {
-    "repo": "JuneYaooo/rea-video",
-    "owner": "JuneYaooo",
-    "name": "rea-video",
-    "stars": 4873,
-    "velocity": 458,
-    "delta": 622,
-    "age_days": 10.6,
-    "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代",
     "new": false
    },
    {
     "repo": "patch-gg/pixelfx",
     "owner": "patch-gg",
     "name": "pixelfx",
-    "stars": 6169,
-    "velocity": 614,
-    "delta": 117,
-    "age_days": 10.0,
+    "stars": 6313,
+    "velocity": 591,
+    "delta": 144,
+    "age_days": 10.7,
     "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "new": false
+   },
+   {
+    "repo": "JuneYaooo/rea-video",
+    "owner": "JuneYaooo",
+    "name": "rea-video",
+    "stars": 5443,
+    "velocity": 483,
+    "delta": 570,
+    "age_days": 11.3,
+    "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代",
     "new": false
    }
   ],
   "terms": [
    {
-    "term": "s2arm",
+    "term": "gestaltx",
     "recent": 1,
     "variants": [
-     "s2arm",
-     "jhaizhou-ops s2arm"
+     "gestaltx",
+     "huamidev gestaltx"
     ],
-    "repo": "jhaizhou-ops/S2Arm",
-    "note": "GitHub breakout jhaizhou-ops/S2Arm ★1007 (933/day)",
+    "repo": "huamidev/GestaltX",
+    "note": "GitHub breakout huamidev/GestaltX ★1409 (1409/day)",
     "examples": [
-     "jhaizhou-ops/S2Arm: Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one "
+     "huamidev/GestaltX: An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages"
+    ]
+   },
+   {
+    "term": "agent skills",
+    "recent": 1,
+    "variants": [
+     "agent skills",
+     "janestreet agent skills",
+     "jane agent skills"
+    ],
+    "repo": "janestreet/agent_skills",
+    "note": "GitHub breakout janestreet/agent_skills ★1969 (315/day, +1196 in a day)",
+    "examples": [
+     "janestreet/agent_skills: Agent skills"
     ]
    }
   ],
@@ -273,7 +314,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 96,
+  "pending": 99,
   "window_days": 60
  },
  "keywords": {
