@@ -1,22 +1,40 @@
 {
  "leads": [
   {
-   "term": "exact",
+   "term": "minimax h3 image",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face: new at #10, 2 versions"
+   ],
+   "examples": [
+    "MiniMaxAI/MiniMax-H3-Image (text-to-image, ♥300)",
+    "Comfy-Org/MiniMax-H3-Image (text-to-image, ♥115)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "image",
+   "one_click": null
+  },
+  {
+   "term": "erosion cn",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout expo/exact ★1382 (167/day, +665 in a day)"
+    "GitHub breakout Kianuni/Erosion-CN ★970 (970/day)"
    ],
    "examples": [
-    "expo/exact: "
+    "Kianuni/Erosion-CN: iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）"
    ],
    "variants": [
-    "exact",
-    "expo exact"
+    "erosion cn",
+    "kianuni erosion cn"
    ],
    "posts": [],
-   "repo": "expo/exact",
+   "repo": "Kianuni/Erosion-CN",
    "known": "",
    "format": "text",
    "one_click": null
@@ -27,7 +45,19 @@
  },
  "hf": {
   "first_run": false,
-  "terms": [],
+  "terms": [
+   {
+    "term": "minimax h3 image",
+    "rank": 10,
+    "copies": 2,
+    "examples": [
+     "MiniMaxAI/MiniMax-H3-Image (text-to-image, ♥300)",
+     "Comfy-Org/MiniMax-H3-Image (text-to-image, ♥115)"
+    ],
+    "recent": 2,
+    "note": "Hugging Face: new at #10, 2 versions"
+   }
+  ],
   "models": 100,
   "spaces": 100
  },
@@ -39,10 +69,10 @@
     "repo": "huamidev/GestaltX",
     "owner": "huamidev",
     "name": "GestaltX",
-    "stars": 3303,
-    "velocity": 2956,
-    "delta": 1894,
-    "age_days": 1.1,
+    "stars": 4590,
+    "velocity": 2820,
+    "delta": 1287,
+    "age_days": 1.6,
     "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages",
     "new": false
    },
@@ -50,10 +80,10 @@
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 25161,
-    "velocity": 2589,
-    "delta": 801,
-    "age_days": 9.7,
+    "stars": 26015,
+    "velocity": 2543,
+    "delta": 854,
+    "age_days": 10.2,
     "description": "Craft Anything: understand how any software works, and craft your own.",
     "new": false
    },
@@ -61,32 +91,21 @@
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 21944,
-    "velocity": 2208,
-    "delta": 213,
-    "age_days": 9.9,
+    "stars": 22155,
+    "velocity": 2120,
+    "delta": 211,
+    "age_days": 10.4,
     "description": "Towards a More Autonomous Agent System",
-    "new": false
-   },
-   {
-    "repo": "Minireel/HGhub",
-    "owner": "Minireel",
-    "name": "HGhub",
-    "stars": 7182,
-    "velocity": 1064,
-    "delta": 1411,
-    "age_days": 6.8,
-    "description": "YellowFruit third-party client",
     "new": false
    },
    {
     "repo": "NotRexed/Hookshot",
     "owner": "NotRexed",
     "name": "Hookshot",
-    "stars": 5545,
-    "velocity": 1150,
-    "delta": 671,
-    "age_days": 4.8,
+    "stars": 6335,
+    "velocity": 1188,
+    "delta": 790,
+    "age_days": 5.3,
     "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
     "new": false
    },
@@ -94,21 +113,58 @@
     "repo": "heydamir/unslop",
     "owner": "heydamir",
     "name": "unslop",
-    "stars": 13009,
-    "velocity": 1114,
-    "delta": 291,
-    "age_days": 11.7,
+    "stars": 13611,
+    "velocity": 1116,
+    "delta": 602,
+    "age_days": 12.2,
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+    "new": false
+   },
+   {
+    "repo": "Minireel/HGhub",
+    "owner": "Minireel",
+    "name": "HGhub",
+    "stars": 8078,
+    "velocity": 1113,
+    "delta": 896,
+    "age_days": 7.3,
+    "description": "YellowFruit third-party client",
+    "new": false
+   },
+   {
+    "repo": "Kianuni/Erosion-CN",
+    "owner": "Kianuni",
+    "name": "Erosion-CN",
+    "stars": 970,
+    "velocity": 970,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+    "new": true,
+    "variants": [
+     "erosion cn",
+     "kianuni erosion cn"
+    ]
+   },
+   {
+    "repo": "janestreet/agent_skills",
+    "owner": "janestreet",
+    "name": "agent_skills",
+    "stars": 3580,
+    "velocity": 501,
+    "delta": 926,
+    "age_days": 7.1,
+    "description": "Agent skills",
     "new": false
    },
    {
     "repo": "jhaizhou-ops/S2Arm",
     "owner": "jhaizhou-ops",
     "name": "S2Arm",
-    "stars": 2152,
-    "velocity": 1028,
-    "delta": 433,
-    "age_days": 2.1,
+    "stars": 2358,
+    "velocity": 905,
+    "delta": 206,
+    "age_days": 2.6,
     "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
     "new": false
    },
@@ -116,54 +172,43 @@
     "repo": "tangerineturtle1/NX2navi",
     "owner": "tangerineturtle1",
     "name": "NX2navi",
-    "stars": 2570,
-    "velocity": 880,
-    "delta": 247,
-    "age_days": 2.9,
+    "stars": 2791,
+    "velocity": 814,
+    "delta": 221,
+    "age_days": 3.4,
     "description": "",
-    "new": false
-   },
-   {
-    "repo": "anefzaoui/misterdownloadmanager",
-    "owner": "anefzaoui",
-    "name": "misterdownloadmanager",
-    "stars": 4649,
-    "velocity": 379,
-    "delta": 805,
-    "age_days": 12.3,
-    "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windo",
     "new": false
    },
    {
     "repo": "zortos293/Lichii",
     "owner": "zortos293",
     "name": "Lichii",
-    "stars": 7815,
-    "velocity": 802,
-    "delta": 243,
-    "age_days": 9.7,
+    "stars": 8109,
+    "velocity": 791,
+    "delta": 294,
+    "age_days": 10.3,
     "description": "VERY experimental Nintendo Switch 2 emulator",
     "new": false
    },
    {
-    "repo": "janestreet/agent_skills",
-    "owner": "janestreet",
-    "name": "agent_skills",
-    "stars": 2654,
-    "velocity": 400,
-    "delta": 685,
-    "age_days": 6.6,
-    "description": "Agent skills",
+    "repo": "anefzaoui/misterdownloadmanager",
+    "owner": "anefzaoui",
+    "name": "misterdownloadmanager",
+    "stars": 5402,
+    "velocity": 422,
+    "delta": 753,
+    "age_days": 12.8,
+    "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windo",
     "new": false
    },
    {
     "repo": "wangzan101/Mika",
     "owner": "wangzan101",
     "name": "Mika",
-    "stars": 7966,
-    "velocity": 679,
-    "delta": 63,
-    "age_days": 11.7,
+    "stars": 8058,
+    "velocity": 658,
+    "delta": 92,
+    "age_days": 12.2,
     "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
     "new": false
    },
@@ -171,52 +216,37 @@
     "repo": "expo/exact",
     "owner": "expo",
     "name": "exact",
-    "stars": 1382,
-    "velocity": 167,
-    "delta": 665,
-    "age_days": 8.3,
+    "stars": 1972,
+    "velocity": 224,
+    "delta": 590,
+    "age_days": 8.8,
     "description": "",
-    "new": true,
-    "variants": [
-     "exact",
-     "expo exact"
-    ]
+    "new": false
    },
    {
     "repo": "KKKKhazix/agent-autoloop",
     "owner": "KKKKhazix",
     "name": "agent-autoloop",
-    "stars": 4360,
-    "velocity": 623,
-    "delta": 90,
-    "age_days": 7.0,
+    "stars": 4419,
+    "velocity": 588,
+    "delta": 59,
+    "age_days": 7.5,
     "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "new": false
-   },
-   {
-    "repo": "patch-gg/pixelfx",
-    "owner": "patch-gg",
-    "name": "pixelfx",
-    "stars": 6475,
-    "velocity": 586,
-    "delta": 162,
-    "age_days": 11.1,
-    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
     "new": false
    }
   ],
   "terms": [
    {
-    "term": "exact",
+    "term": "erosion cn",
     "recent": 1,
     "variants": [
-     "exact",
-     "expo exact"
+     "erosion cn",
+     "kianuni erosion cn"
     ],
-    "repo": "expo/exact",
-    "note": "GitHub breakout expo/exact ★1382 (167/day, +665 in a day)",
+    "repo": "Kianuni/Erosion-CN",
+    "note": "GitHub breakout Kianuni/Erosion-CN ★970 (970/day)",
     "examples": [
-     "expo/exact: "
+     "Kianuni/Erosion-CN: iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）"
     ]
    }
   ],
@@ -245,7 +275,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 100,
+  "pending": 102,
   "window_days": 60
  },
  "keywords": {
