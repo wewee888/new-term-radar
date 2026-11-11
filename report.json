@@ -1,40 +1,124 @@
 {
  "leads": [
   {
-   "term": "minimax h3 image",
+   "term": "autotrust decider pro vision v1.1",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #10, 2 versions"
+    "Hugging Face: new at #41"
    ],
    "examples": [
-    "MiniMaxAI/MiniMax-H3-Image (text-to-image, ♥300)",
-    "Comfy-Org/MiniMax-H3-Image (text-to-image, ♥115)"
+    "autotrust/AutoTrust-Decider-Pro-Vision-27B-v1.1 (text-classification, ♥1414)"
    ],
    "variants": [],
    "posts": [],
    "known": "",
-   "format": "image",
+   "format": "text",
    "one_click": null
   },
   {
-   "term": "erosion cn",
+   "term": "ifunbox",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout Kianuni/Erosion-CN ★970 (970/day)"
+    "GitHub breakout AngleCentipede/ifunbox ★838 (838/day)"
    ],
    "examples": [
-    "Kianuni/Erosion-CN: iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）"
+    "AngleCentipede/ifunbox: Ifunbox 2026 pre-configured environment for seamless desktop software utility deployment on isolated workstation."
    ],
    "variants": [
-    "erosion cn",
-    "kianuni erosion cn"
+    "ifunbox",
+    "anglecentipede ifunbox"
    ],
    "posts": [],
-   "repo": "Kianuni/Erosion-CN",
+   "repo": "AngleCentipede/ifunbox",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "supermimic",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout HybridRobotics/supermimic ★770 (770/day)"
+   ],
+   "examples": [
+    "HybridRobotics/supermimic: Humanoid whole-body motion tracking with one differentiable world model."
+   ],
+   "variants": [
+    "supermimic",
+    "hybridrobotics supermimic",
+    "hybrid supermimic"
+   ],
+   "posts": [],
+   "repo": "HybridRobotics/supermimic",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "quant trading bot",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout chambergeneralamp/quant-trading-bot ★762 (762/day)"
+   ],
+   "examples": [
+    "chambergeneralamp/quant-trading-bot: Quant Trading Bot 2023 pre-configured environment for seamless desktop software utility deployment."
+   ],
+   "variants": [
+    "quant trading bot",
+    "chambergeneralamp quant trading bot"
+   ],
+   "posts": [],
+   "repo": "chambergeneralamp/quant-trading-bot",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "trx drainer bot",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout crewbookkeepercastle/trx-drainer-bot ★761 (761/day)"
+   ],
+   "examples": [
+    "crewbookkeepercastle/trx-drainer-bot: Trx Drainer Bot 2023 pre-configured environment for automated AI-driven transaction processing in enterprise software ca"
+   ],
+   "variants": [
+    "trx drainer bot",
+    "crewbookkeepercastle trx drainer bot"
+   ],
+   "posts": [],
+   "repo": "crewbookkeepercastle/trx-drainer-bot",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "touch copy",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout CpuMizukageFaucet/touch-copy ★759 (759/day)"
+   ],
+   "examples": [
+    "CpuMizukageFaucet/touch-copy: Touch Copy 2026 automated deployment pipeline for secure, efficient desktop software utility configuration."
+   ],
+   "variants": [
+    "touch copy",
+    "cpumizukagefaucet touch copy"
+   ],
+   "posts": [],
+   "repo": "CpuMizukageFaucet/touch-copy",
    "known": "",
    "format": "text",
    "one_click": null
@@ -47,15 +131,14 @@
   "first_run": false,
   "terms": [
    {
-    "term": "minimax h3 image",
-    "rank": 10,
-    "copies": 2,
+    "term": "autotrust decider pro vision v1.1",
+    "rank": 41,
+    "copies": 1,
     "examples": [
-     "MiniMaxAI/MiniMax-H3-Image (text-to-image, ♥300)",
-     "Comfy-Org/MiniMax-H3-Image (text-to-image, ♥115)"
+     "autotrust/AutoTrust-Decider-Pro-Vision-27B-v1.1 (text-classification, ♥1414)"
     ],
-    "recent": 2,
-    "note": "Hugging Face: new at #10, 2 versions"
+    "recent": 1,
+    "note": "Hugging Face: new at #41"
    }
   ],
   "models": 100,
@@ -69,10 +152,10 @@
     "repo": "huamidev/GestaltX",
     "owner": "huamidev",
     "name": "GestaltX",
-    "stars": 4590,
-    "velocity": 2820,
-    "delta": 1287,
-    "age_days": 1.6,
+    "stars": 5485,
+    "velocity": 2617,
+    "delta": 895,
+    "age_days": 2.1,
     "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages",
     "new": false
    },
@@ -80,10 +163,10 @@
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 26015,
-    "velocity": 2543,
-    "delta": 854,
-    "age_days": 10.2,
+    "stars": 27091,
+    "velocity": 2532,
+    "delta": 1076,
+    "age_days": 10.7,
     "description": "Craft Anything: understand how any software works, and craft your own.",
     "new": false
    },
@@ -91,10 +174,10 @@
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 22155,
-    "velocity": 2120,
-    "delta": 211,
-    "age_days": 10.4,
+    "stars": 22310,
+    "velocity": 2043,
+    "delta": 155,
+    "age_days": 10.9,
     "description": "Towards a More Autonomous Agent System",
     "new": false
    },
@@ -102,10 +185,10 @@
     "repo": "NotRexed/Hookshot",
     "owner": "NotRexed",
     "name": "Hookshot",
-    "stars": 6335,
-    "velocity": 1188,
-    "delta": 790,
-    "age_days": 5.3,
+    "stars": 6880,
+    "velocity": 1186,
+    "delta": 545,
+    "age_days": 5.8,
     "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
     "new": false
    },
@@ -113,140 +196,210 @@
     "repo": "heydamir/unslop",
     "owner": "heydamir",
     "name": "unslop",
-    "stars": 13611,
-    "velocity": 1116,
-    "delta": 602,
-    "age_days": 12.2,
+    "stars": 14026,
+    "velocity": 1108,
+    "delta": 415,
+    "age_days": 12.7,
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-    "new": false
-   },
-   {
-    "repo": "Minireel/HGhub",
-    "owner": "Minireel",
-    "name": "HGhub",
-    "stars": 8078,
-    "velocity": 1113,
-    "delta": 896,
-    "age_days": 7.3,
-    "description": "YellowFruit third-party client",
     "new": false
    },
    {
     "repo": "Kianuni/Erosion-CN",
     "owner": "Kianuni",
     "name": "Erosion-CN",
-    "stars": 970,
-    "velocity": 970,
-    "delta": null,
-    "age_days": 1.0,
+    "stars": 1291,
+    "velocity": 1070,
+    "delta": 321,
+    "age_days": 1.2,
     "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-    "new": true,
-    "variants": [
-     "erosion cn",
-     "kianuni erosion cn"
-    ]
+    "new": false
    },
    {
-    "repo": "janestreet/agent_skills",
-    "owner": "janestreet",
-    "name": "agent_skills",
-    "stars": 3580,
-    "velocity": 501,
-    "delta": 926,
-    "age_days": 7.1,
-    "description": "Agent skills",
+    "repo": "Minireel/HGhub",
+    "owner": "Minireel",
+    "name": "HGhub",
+    "stars": 8213,
+    "velocity": 1063,
+    "delta": 135,
+    "age_days": 7.7,
+    "description": "YellowFruit third-party client",
     "new": false
+   },
+   {
+    "repo": "AngleCentipede/ifunbox",
+    "owner": "AngleCentipede",
+    "name": "ifunbox",
+    "stars": 838,
+    "velocity": 838,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "Ifunbox 2026 pre-configured environment for seamless desktop software utility deployment on isolated workstation.",
+    "new": true,
+    "variants": [
+     "ifunbox",
+     "anglecentipede ifunbox"
+    ]
    },
    {
     "repo": "jhaizhou-ops/S2Arm",
     "owner": "jhaizhou-ops",
     "name": "S2Arm",
-    "stars": 2358,
-    "velocity": 905,
-    "delta": 206,
-    "age_days": 2.6,
+    "stars": 2483,
+    "velocity": 808,
+    "delta": 125,
+    "age_days": 3.1,
     "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
-    "new": false
-   },
-   {
-    "repo": "tangerineturtle1/NX2navi",
-    "owner": "tangerineturtle1",
-    "name": "NX2navi",
-    "stars": 2791,
-    "velocity": 814,
-    "delta": 221,
-    "age_days": 3.4,
-    "description": "",
     "new": false
    },
    {
     "repo": "zortos293/Lichii",
     "owner": "zortos293",
     "name": "Lichii",
-    "stars": 8109,
-    "velocity": 791,
-    "delta": 294,
-    "age_days": 10.3,
+    "stars": 8287,
+    "velocity": 773,
+    "delta": 178,
+    "age_days": 10.7,
     "description": "VERY experimental Nintendo Switch 2 emulator",
     "new": false
    },
    {
-    "repo": "anefzaoui/misterdownloadmanager",
-    "owner": "anefzaoui",
-    "name": "misterdownloadmanager",
-    "stars": 5402,
-    "velocity": 422,
-    "delta": 753,
-    "age_days": 12.8,
-    "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windo",
-    "new": false
+    "repo": "HybridRobotics/supermimic",
+    "owner": "HybridRobotics",
+    "name": "supermimic",
+    "stars": 770,
+    "velocity": 770,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+    "new": true,
+    "variants": [
+     "supermimic",
+     "hybridrobotics supermimic",
+     "hybrid supermimic"
+    ]
    },
    {
-    "repo": "wangzan101/Mika",
-    "owner": "wangzan101",
-    "name": "Mika",
-    "stars": 8058,
-    "velocity": 658,
-    "delta": 92,
-    "age_days": 12.2,
-    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-    "new": false
-   },
-   {
-    "repo": "expo/exact",
-    "owner": "expo",
-    "name": "exact",
-    "stars": 1972,
-    "velocity": 224,
-    "delta": 590,
-    "age_days": 8.8,
+    "repo": "tangerineturtle1/NX2navi",
+    "owner": "tangerineturtle1",
+    "name": "NX2navi",
+    "stars": 2977,
+    "velocity": 764,
+    "delta": 186,
+    "age_days": 3.9,
     "description": "",
     "new": false
    },
    {
-    "repo": "KKKKhazix/agent-autoloop",
-    "owner": "KKKKhazix",
-    "name": "agent-autoloop",
-    "stars": 4419,
-    "velocity": 588,
-    "delta": 59,
-    "age_days": 7.5,
-    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "new": false
+    "repo": "chambergeneralamp/quant-trading-bot",
+    "owner": "chambergeneralamp",
+    "name": "quant-trading-bot",
+    "stars": 762,
+    "velocity": 762,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "Quant Trading Bot 2023 pre-configured environment for seamless desktop software utility deployment.",
+    "new": true,
+    "variants": [
+     "quant trading bot",
+     "chambergeneralamp quant trading bot"
+    ]
+   },
+   {
+    "repo": "crewbookkeepercastle/trx-drainer-bot",
+    "owner": "crewbookkeepercastle",
+    "name": "trx-drainer-bot",
+    "stars": 761,
+    "velocity": 761,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "Trx Drainer Bot 2023 pre-configured environment for automated AI-driven transaction processing in enterprise software ca",
+    "new": true,
+    "variants": [
+     "trx drainer bot",
+     "crewbookkeepercastle trx drainer bot"
+    ]
+   },
+   {
+    "repo": "CpuMizukageFaucet/touch-copy",
+    "owner": "CpuMizukageFaucet",
+    "name": "touch-copy",
+    "stars": 759,
+    "velocity": 759,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "Touch Copy 2026 automated deployment pipeline for secure, efficient desktop software utility configuration.",
+    "new": true,
+    "variants": [
+     "touch copy",
+     "cpumizukagefaucet touch copy"
+    ]
    }
   ],
   "terms": [
    {
-    "term": "erosion cn",
+    "term": "ifunbox",
     "recent": 1,
     "variants": [
-     "erosion cn",
-     "kianuni erosion cn"
+     "ifunbox",
+     "anglecentipede ifunbox"
     ],
-    "repo": "Kianuni/Erosion-CN",
-    "note": "GitHub breakout Kianuni/Erosion-CN ★970 (970/day)",
+    "repo": "AngleCentipede/ifunbox",
+    "note": "GitHub breakout AngleCentipede/ifunbox ★838 (838/day)",
     "examples": [
-     "Kianuni/Erosion-CN: iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）"
+     "AngleCentipede/ifunbox: Ifunbox 2026 pre-configured environment for seamless desktop software utility deployment on isolated workstation."
+    ]
+   },
+   {
+    "term": "supermimic",
+    "recent": 1,
+    "variants": [
+     "supermimic",
+     "hybridrobotics supermimic",
+     "hybrid supermimic"
+    ],
+    "repo": "HybridRobotics/supermimic",
+    "note": "GitHub breakout HybridRobotics/supermimic ★770 (770/day)",
+    "examples": [
+     "HybridRobotics/supermimic: Humanoid whole-body motion tracking with one differentiable world model."
+    ]
+   },
+   {
+    "term": "quant trading bot",
+    "recent": 1,
+    "variants": [
+     "quant trading bot",
+     "chambergeneralamp quant trading bot"
+    ],
+    "repo": "chambergeneralamp/quant-trading-bot",
+    "note": "GitHub breakout chambergeneralamp/quant-trading-bot ★762 (762/day)",
+    "examples": [
+     "chambergeneralamp/quant-trading-bot: Quant Trading Bot 2023 pre-configured environment for seamless desktop software utility deployment."
+    ]
+   },
+   {
+    "term": "trx drainer bot",
+    "recent": 1,
+    "variants": [
+     "trx drainer bot",
+     "crewbookkeepercastle trx drainer bot"
+    ],
+    "repo": "crewbookkeepercastle/trx-drainer-bot",
+    "note": "GitHub breakout crewbookkeepercastle/trx-drainer-bot ★761 (761/day)",
+    "examples": [
+     "crewbookkeepercastle/trx-drainer-bot: Trx Drainer Bot 2023 pre-configured environment for automated AI-driven transaction processing in enterprise software ca"
+    ]
+   },
+   {
+    "term": "touch copy",
+    "recent": 1,
+    "variants": [
+     "touch copy",
+     "cpumizukagefaucet touch copy"
+    ],
+    "repo": "CpuMizukageFaucet/touch-copy",
+    "note": "GitHub breakout CpuMizukageFaucet/touch-copy ★759 (759/day)",
+    "examples": [
+     "CpuMizukageFaucet/touch-copy: Touch Copy 2026 automated deployment pipeline for secure, efficient desktop software utility configuration."
     ]
    }
   ],
@@ -275,7 +428,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 102,
+  "pending": 108,
   "window_days": 60
  },
  "keywords": {
