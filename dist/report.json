@@ -1,124 +1,23 @@
 {
  "leads": [
   {
-   "term": "autotrust decider pro vision v1.1",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face: new at #41"
-   ],
-   "examples": [
-    "autotrust/AutoTrust-Decider-Pro-Vision-27B-v1.1 (text-classification, ♥1414)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "ifunbox",
+   "term": "claude cage",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout AngleCentipede/ifunbox ★838 (838/day)"
+    "GitHub breakout Lee-xeo/Claude-Cage ★3081 (275/day, +1421 in a day)"
    ],
    "examples": [
-    "AngleCentipede/ifunbox: Ifunbox 2026 pre-configured environment for seamless desktop software utility deployment on isolated workstation."
+    "Lee-xeo/Claude-Cage: Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。"
    ],
    "variants": [
-    "ifunbox",
-    "anglecentipede ifunbox"
+    "claude cage",
+    "lee-xeo claude cage",
+    "shihao claude cage"
    ],
    "posts": [],
-   "repo": "AngleCentipede/ifunbox",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "supermimic",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout HybridRobotics/supermimic ★770 (770/day)"
-   ],
-   "examples": [
-    "HybridRobotics/supermimic: Humanoid whole-body motion tracking with one differentiable world model."
-   ],
-   "variants": [
-    "supermimic",
-    "hybridrobotics supermimic",
-    "hybrid supermimic"
-   ],
-   "posts": [],
-   "repo": "HybridRobotics/supermimic",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "quant trading bot",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout chambergeneralamp/quant-trading-bot ★762 (762/day)"
-   ],
-   "examples": [
-    "chambergeneralamp/quant-trading-bot: Quant Trading Bot 2023 pre-configured environment for seamless desktop software utility deployment."
-   ],
-   "variants": [
-    "quant trading bot",
-    "chambergeneralamp quant trading bot"
-   ],
-   "posts": [],
-   "repo": "chambergeneralamp/quant-trading-bot",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "trx drainer bot",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout crewbookkeepercastle/trx-drainer-bot ★761 (761/day)"
-   ],
-   "examples": [
-    "crewbookkeepercastle/trx-drainer-bot: Trx Drainer Bot 2023 pre-configured environment for automated AI-driven transaction processing in enterprise software ca"
-   ],
-   "variants": [
-    "trx drainer bot",
-    "crewbookkeepercastle trx drainer bot"
-   ],
-   "posts": [],
-   "repo": "crewbookkeepercastle/trx-drainer-bot",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "touch copy",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout CpuMizukageFaucet/touch-copy ★759 (759/day)"
-   ],
-   "examples": [
-    "CpuMizukageFaucet/touch-copy: Touch Copy 2026 automated deployment pipeline for secure, efficient desktop software utility configuration."
-   ],
-   "variants": [
-    "touch copy",
-    "cpumizukagefaucet touch copy"
-   ],
-   "posts": [],
-   "repo": "CpuMizukageFaucet/touch-copy",
+   "repo": "Lee-xeo/Claude-Cage",
    "known": "",
    "format": "text",
    "one_click": null
@@ -129,18 +28,7 @@
  },
  "hf": {
   "first_run": false,
-  "terms": [
-   {
-    "term": "autotrust decider pro vision v1.1",
-    "rank": 41,
-    "copies": 1,
-    "examples": [
-     "autotrust/AutoTrust-Decider-Pro-Vision-27B-v1.1 (text-classification, ♥1414)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face: new at #41"
-   }
-  ],
+  "terms": [],
   "models": 100,
   "spaces": 100
  },
@@ -149,46 +37,73 @@
   "first_run": false,
   "repos": [
    {
-    "repo": "huamidev/GestaltX",
-    "owner": "huamidev",
-    "name": "GestaltX",
-    "stars": 5485,
-    "velocity": 2617,
-    "delta": 895,
-    "age_days": 2.1,
-    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages",
-    "new": false
-   },
-   {
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 27091,
-    "velocity": 2532,
-    "delta": 1076,
-    "age_days": 10.7,
+    "stars": 28225,
+    "velocity": 2516,
+    "delta": 1134,
+    "age_days": 11.2,
     "description": "Craft Anything: understand how any software works, and craft your own.",
+    "new": false
+   },
+   {
+    "repo": "huamidev/GestaltX",
+    "owner": "huamidev",
+    "name": "GestaltX",
+    "stars": 6124,
+    "velocity": 2341,
+    "delta": 639,
+    "age_days": 2.6,
+    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages",
     "new": false
    },
    {
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 22310,
-    "velocity": 2043,
-    "delta": 155,
-    "age_days": 10.9,
+    "stars": 22475,
+    "velocity": 1965,
+    "delta": 165,
+    "age_days": 11.4,
     "description": "Towards a More Autonomous Agent System",
+    "new": false
+   },
+   {
+    "repo": "Lee-xeo/Claude-Cage",
+    "owner": "Lee-xeo",
+    "name": "Claude-Cage",
+    "stars": 3081,
+    "velocity": 275,
+    "delta": 1421,
+    "age_days": 11.2,
+    "description": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
+    "new": true,
+    "variants": [
+     "claude cage",
+     "lee-xeo claude cage",
+     "shihao claude cage"
+    ]
+   },
+   {
+    "repo": "janestreet/agent_skills",
+    "owner": "janestreet",
+    "name": "agent_skills",
+    "stars": 5545,
+    "velocity": 682,
+    "delta": 1278,
+    "age_days": 8.1,
+    "description": "Agent skills",
     "new": false
    },
    {
     "repo": "NotRexed/Hookshot",
     "owner": "NotRexed",
     "name": "Hookshot",
-    "stars": 6880,
-    "velocity": 1186,
-    "delta": 545,
-    "age_days": 5.8,
+    "stars": 7530,
+    "velocity": 1191,
+    "delta": 650,
+    "age_days": 6.3,
     "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
     "new": false
    },
@@ -196,210 +111,115 @@
     "repo": "heydamir/unslop",
     "owner": "heydamir",
     "name": "unslop",
-    "stars": 14026,
-    "velocity": 1108,
-    "delta": 415,
-    "age_days": 12.7,
+    "stars": 14444,
+    "velocity": 1096,
+    "delta": 418,
+    "age_days": 13.2,
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-    "new": false
-   },
-   {
-    "repo": "Kianuni/Erosion-CN",
-    "owner": "Kianuni",
-    "name": "Erosion-CN",
-    "stars": 1291,
-    "velocity": 1070,
-    "delta": 321,
-    "age_days": 1.2,
-    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
     "new": false
    },
    {
     "repo": "Minireel/HGhub",
     "owner": "Minireel",
     "name": "HGhub",
-    "stars": 8213,
-    "velocity": 1063,
-    "delta": 135,
-    "age_days": 7.7,
+    "stars": 8281,
+    "velocity": 1004,
+    "delta": 68,
+    "age_days": 8.2,
     "description": "YellowFruit third-party client",
     "new": false
    },
    {
-    "repo": "AngleCentipede/ifunbox",
-    "owner": "AngleCentipede",
-    "name": "ifunbox",
-    "stars": 838,
-    "velocity": 838,
-    "delta": null,
-    "age_days": 1.0,
-    "description": "Ifunbox 2026 pre-configured environment for seamless desktop software utility deployment on isolated workstation.",
-    "new": true,
-    "variants": [
-     "ifunbox",
-     "anglecentipede ifunbox"
-    ]
-   },
-   {
-    "repo": "jhaizhou-ops/S2Arm",
-    "owner": "jhaizhou-ops",
-    "name": "S2Arm",
-    "stars": 2483,
-    "velocity": 808,
-    "delta": 125,
-    "age_days": 3.1,
-    "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
+    "repo": "Kianuni/Erosion-CN",
+    "owner": "Kianuni",
+    "name": "Erosion-CN",
+    "stars": 1494,
+    "velocity": 866,
+    "delta": 203,
+    "age_days": 1.7,
+    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
     "new": false
    },
    {
     "repo": "zortos293/Lichii",
     "owner": "zortos293",
     "name": "Lichii",
-    "stars": 8287,
-    "velocity": 773,
-    "delta": 178,
-    "age_days": 10.7,
+    "stars": 8475,
+    "velocity": 754,
+    "delta": 188,
+    "age_days": 11.2,
     "description": "VERY experimental Nintendo Switch 2 emulator",
+    "new": false
+   },
+   {
+    "repo": "anefzaoui/misterdownloadmanager",
+    "owner": "anefzaoui",
+    "name": "misterdownloadmanager",
+    "stars": 6708,
+    "velocity": 487,
+    "delta": 744,
+    "age_days": 13.8,
+    "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windo",
     "new": false
    },
    {
     "repo": "HybridRobotics/supermimic",
     "owner": "HybridRobotics",
     "name": "supermimic",
-    "stars": 770,
-    "velocity": 770,
-    "delta": null,
-    "age_days": 1.0,
+    "stars": 1012,
+    "velocity": 730,
+    "delta": 242,
+    "age_days": 1.4,
     "description": "Humanoid whole-body motion tracking with one differentiable world model.",
-    "new": true,
-    "variants": [
-     "supermimic",
-     "hybridrobotics supermimic",
-     "hybrid supermimic"
-    ]
+    "new": false
    },
    {
     "repo": "tangerineturtle1/NX2navi",
     "owner": "tangerineturtle1",
     "name": "NX2navi",
-    "stars": 2977,
-    "velocity": 764,
-    "delta": 186,
-    "age_days": 3.9,
+    "stars": 3170,
+    "velocity": 718,
+    "delta": 193,
+    "age_days": 4.4,
     "description": "",
     "new": false
    },
    {
-    "repo": "chambergeneralamp/quant-trading-bot",
-    "owner": "chambergeneralamp",
-    "name": "quant-trading-bot",
-    "stars": 762,
-    "velocity": 762,
-    "delta": null,
-    "age_days": 1.0,
-    "description": "Quant Trading Bot 2023 pre-configured environment for seamless desktop software utility deployment.",
-    "new": true,
-    "variants": [
-     "quant trading bot",
-     "chambergeneralamp quant trading bot"
-    ]
+    "repo": "jhaizhou-ops/S2Arm",
+    "owner": "jhaizhou-ops",
+    "name": "S2Arm",
+    "stars": 2580,
+    "velocity": 718,
+    "delta": 97,
+    "age_days": 3.6,
+    "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
+    "new": false
    },
    {
-    "repo": "crewbookkeepercastle/trx-drainer-bot",
-    "owner": "crewbookkeepercastle",
-    "name": "trx-drainer-bot",
-    "stars": 761,
-    "velocity": 761,
-    "delta": null,
-    "age_days": 1.0,
-    "description": "Trx Drainer Bot 2023 pre-configured environment for automated AI-driven transaction processing in enterprise software ca",
-    "new": true,
-    "variants": [
-     "trx drainer bot",
-     "crewbookkeepercastle trx drainer bot"
-    ]
-   },
-   {
-    "repo": "CpuMizukageFaucet/touch-copy",
-    "owner": "CpuMizukageFaucet",
-    "name": "touch-copy",
-    "stars": 759,
-    "velocity": 759,
-    "delta": null,
-    "age_days": 1.0,
-    "description": "Touch Copy 2026 automated deployment pipeline for secure, efficient desktop software utility configuration.",
-    "new": true,
-    "variants": [
-     "touch copy",
-     "cpumizukagefaucet touch copy"
-    ]
+    "repo": "wangzan101/Mika",
+    "owner": "wangzan101",
+    "name": "Mika",
+    "stars": 8239,
+    "velocity": 623,
+    "delta": 108,
+    "age_days": 13.2,
+    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+    "new": false
    }
   ],
   "terms": [
    {
-    "term": "ifunbox",
+    "term": "claude cage",
     "recent": 1,
     "variants": [
-     "ifunbox",
-     "anglecentipede ifunbox"
+     "claude cage",
+     "lee-xeo claude cage",
+     "shihao claude cage"
     ],
-    "repo": "AngleCentipede/ifunbox",
-    "note": "GitHub breakout AngleCentipede/ifunbox ★838 (838/day)",
+    "repo": "Lee-xeo/Claude-Cage",
+    "note": "GitHub breakout Lee-xeo/Claude-Cage ★3081 (275/day, +1421 in a day)",
     "examples": [
-     "AngleCentipede/ifunbox: Ifunbox 2026 pre-configured environment for seamless desktop software utility deployment on isolated workstation."
-    ]
-   },
-   {
-    "term": "supermimic",
-    "recent": 1,
-    "variants": [
-     "supermimic",
-     "hybridrobotics supermimic",
-     "hybrid supermimic"
-    ],
-    "repo": "HybridRobotics/supermimic",
-    "note": "GitHub breakout HybridRobotics/supermimic ★770 (770/day)",
-    "examples": [
-     "HybridRobotics/supermimic: Humanoid whole-body motion tracking with one differentiable world model."
-    ]
-   },
-   {
-    "term": "quant trading bot",
-    "recent": 1,
-    "variants": [
-     "quant trading bot",
-     "chambergeneralamp quant trading bot"
-    ],
-    "repo": "chambergeneralamp/quant-trading-bot",
-    "note": "GitHub breakout chambergeneralamp/quant-trading-bot ★762 (762/day)",
-    "examples": [
-     "chambergeneralamp/quant-trading-bot: Quant Trading Bot 2023 pre-configured environment for seamless desktop software utility deployment."
-    ]
-   },
-   {
-    "term": "trx drainer bot",
-    "recent": 1,
-    "variants": [
-     "trx drainer bot",
-     "crewbookkeepercastle trx drainer bot"
-    ],
-    "repo": "crewbookkeepercastle/trx-drainer-bot",
-    "note": "GitHub breakout crewbookkeepercastle/trx-drainer-bot ★761 (761/day)",
-    "examples": [
-     "crewbookkeepercastle/trx-drainer-bot: Trx Drainer Bot 2023 pre-configured environment for automated AI-driven transaction processing in enterprise software ca"
-    ]
-   },
-   {
-    "term": "touch copy",
-    "recent": 1,
-    "variants": [
-     "touch copy",
-     "cpumizukagefaucet touch copy"
-    ],
-    "repo": "CpuMizukageFaucet/touch-copy",
-    "note": "GitHub breakout CpuMizukageFaucet/touch-copy ★759 (759/day)",
-    "examples": [
-     "CpuMizukageFaucet/touch-copy: Touch Copy 2026 automated deployment pipeline for secure, efficient desktop software utility configuration."
+     "Lee-xeo/Claude-Cage: Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。"
     ]
    }
   ],
@@ -428,7 +248,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 108,
+  "pending": 109,
   "window_days": 60
  },
  "keywords": {
