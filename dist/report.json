@@ -1,11 +1,40 @@
 {
- "leads": [],
+ "leads": [
+  {
+   "term": "free youtube transcript",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face Spaces: new at #27"
+   ],
+   "examples": [
+    "fendouai/free-youtube-transcript (static, ♥104)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "voice",
+   "one_click": null
+  }
+ ],
  "x": {
   "skipped": true
  },
  "hf": {
   "first_run": false,
-  "terms": [],
+  "terms": [
+   {
+    "term": "free youtube transcript",
+    "rank": 27,
+    "copies": 1,
+    "examples": [
+     "fendouai/free-youtube-transcript (static, ♥104)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face Spaces: new at #27"
+   }
+  ],
   "models": 100,
   "spaces": 100
  },
@@ -17,10 +46,10 @@
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 28966,
-    "velocity": 2472,
-    "delta": 741,
-    "age_days": 11.7,
+    "stars": 29710,
+    "velocity": 2427,
+    "delta": 744,
+    "age_days": 12.2,
     "description": "Craft Anything: understand how any software works, and craft your own.",
     "new": false
    },
@@ -28,32 +57,43 @@
     "repo": "huamidev/GestaltX",
     "owner": "huamidev",
     "name": "GestaltX",
-    "stars": 6619,
-    "velocity": 2125,
-    "delta": 495,
-    "age_days": 3.1,
-    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages",
+    "stars": 6908,
+    "velocity": 1896,
+    "delta": 289,
+    "age_days": 3.6,
+    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
     "new": false
    },
    {
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 22605,
-    "velocity": 1894,
-    "delta": 130,
-    "age_days": 11.9,
+    "stars": 22728,
+    "velocity": 1823,
+    "delta": 123,
+    "age_days": 12.5,
     "description": "Towards a More Autonomous Agent System",
+    "new": false
+   },
+   {
+    "repo": "janestreet/agent_skills",
+    "owner": "janestreet",
+    "name": "agent_skills",
+    "stars": 7639,
+    "velocity": 834,
+    "delta": 1267,
+    "age_days": 9.2,
+    "description": "Agent skills",
     "new": false
    },
    {
     "repo": "NotRexed/Hookshot",
     "owner": "NotRexed",
     "name": "Hookshot",
-    "stars": 8111,
-    "velocity": 1189,
-    "delta": 581,
-    "age_days": 6.8,
+    "stars": 8650,
+    "velocity": 1177,
+    "delta": 539,
+    "age_days": 7.3,
     "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
     "new": false
    },
@@ -61,121 +101,110 @@
     "repo": "heydamir/unslop",
     "owner": "heydamir",
     "name": "unslop",
-    "stars": 14739,
-    "velocity": 1077,
-    "delta": 295,
-    "age_days": 13.7,
+    "stars": 15056,
+    "velocity": 1060,
+    "delta": 317,
+    "age_days": 14.2,
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-    "new": false
-   },
-   {
-    "repo": "Lee-xeo/Claude-Cage",
-    "owner": "Lee-xeo",
-    "name": "Claude-Cage",
-    "stars": 4055,
-    "velocity": 346,
-    "delta": 974,
-    "age_days": 11.7,
-    "description": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
     "new": false
    },
    {
     "repo": "Minireel/HGhub",
     "owner": "Minireel",
     "name": "HGhub",
-    "stars": 8346,
-    "velocity": 954,
-    "delta": 65,
-    "age_days": 8.7,
+    "stars": 8623,
+    "velocity": 930,
+    "delta": 277,
+    "age_days": 9.3,
     "description": "YellowFruit third-party client",
-    "new": false
-   },
-   {
-    "repo": "janestreet/agent_skills",
-    "owner": "janestreet",
-    "name": "agent_skills",
-    "stars": 6372,
-    "velocity": 738,
-    "delta": 827,
-    "age_days": 8.6,
-    "description": "Agent skills",
-    "new": false
-   },
-   {
-    "repo": "Kianuni/Erosion-CN",
-    "owner": "Kianuni",
-    "name": "Erosion-CN",
-    "stars": 1649,
-    "velocity": 741,
-    "delta": 155,
-    "age_days": 2.2,
-    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
     "new": false
    },
    {
     "repo": "zortos293/Lichii",
     "owner": "zortos293",
     "name": "Lichii",
-    "stars": 8620,
-    "velocity": 734,
-    "delta": 145,
-    "age_days": 11.7,
+    "stars": 8731,
+    "velocity": 712,
+    "delta": 111,
+    "age_days": 12.3,
     "description": "VERY experimental Nintendo Switch 2 emulator",
+    "new": false
+   },
+   {
+    "repo": "Lee-xeo/Claude-Cage",
+    "owner": "Lee-xeo",
+    "name": "Claude-Cage",
+    "stars": 4730,
+    "velocity": 387,
+    "delta": 675,
+    "age_days": 12.2,
+    "description": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
     "new": false
    },
    {
     "repo": "tangerineturtle1/NX2navi",
     "owner": "tangerineturtle1",
     "name": "NX2navi",
-    "stars": 3342,
-    "velocity": 680,
-    "delta": 172,
-    "age_days": 4.9,
+    "stars": 3510,
+    "velocity": 645,
+    "delta": 168,
+    "age_days": 5.4,
     "description": "",
+    "new": false
+   },
+   {
+    "repo": "Kianuni/Erosion-CN",
+    "owner": "Kianuni",
+    "name": "Erosion-CN",
+    "stars": 1716,
+    "velocity": 623,
+    "delta": 67,
+    "age_days": 2.8,
+    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+    "new": false
+   },
+   {
+    "repo": "anefzaoui/misterdownloadmanager",
+    "owner": "anefzaoui",
+    "name": "misterdownloadmanager",
+    "stars": 7759,
+    "velocity": 524,
+    "delta": 596,
+    "age_days": 14.8,
+    "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windo",
     "new": false
    },
    {
     "repo": "jhaizhou-ops/S2Arm",
     "owner": "jhaizhou-ops",
     "name": "S2Arm",
-    "stars": 2671,
-    "velocity": 653,
-    "delta": 91,
-    "age_days": 4.1,
+    "stars": 2751,
+    "velocity": 596,
+    "delta": 80,
+    "age_days": 4.6,
     "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
-    "new": false
-   },
-   {
-    "repo": "HybridRobotics/supermimic",
-    "owner": "HybridRobotics",
-    "name": "supermimic",
-    "stars": 1168,
-    "velocity": 619,
-    "delta": 156,
-    "age_days": 1.9,
-    "description": "Humanoid whole-body motion tracking with one differentiable world model.",
     "new": false
    },
    {
     "repo": "wangzan101/Mika",
     "owner": "wangzan101",
     "name": "Mika",
-    "stars": 8303,
-    "velocity": 605,
-    "delta": 64,
-    "age_days": 13.7,
+    "stars": 8386,
+    "velocity": 588,
+    "delta": 83,
+    "age_days": 14.3,
     "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
     "new": false
    },
    {
-    "repo": "patch-gg/pixelfx",
-    "owner": "patch-gg",
-    "name": "pixelfx",
-    "stars": 7064,
-    "velocity": 541,
-    "delta": 109,
-    "age_days": 13.1,
-    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "repo": "HybridRobotics/supermimic",
+    "owner": "HybridRobotics",
+    "name": "supermimic",
+    "stars": 1296,
+    "velocity": 537,
+    "delta": 128,
+    "age_days": 2.4,
+    "description": "Humanoid whole-body motion tracking with one differentiable world model.",
     "new": false
    }
   ],
@@ -205,7 +234,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 109,
+  "pending": 110,
   "window_days": 60
  },
  "keywords": {
