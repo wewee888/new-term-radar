@@ -4,33 +4,35 @@
 
 | Term | Signals | Name score | Known | Search variants | Examples |
 |---|---|---|---|---|---|
-| **free youtube transcript** 🎙 | Hugging Face Spaces: new at #27 | — | none | — | fendouai/free-youtube-transcript (static, ♥104) |
+| **inkling 2 small** 🖼 | Hugging Face: new at #36 | — | none | — | thinkingmachines/Inkling-2-Small (image-text-to-te |
+| **anr** | GitHub breakout apex-compute/ANR ★1107 (519/day, +256 in a day) | — | none | apex-compute anr, apex anr | apex-compute/ANR: Apex Neural Rendering (ANR) by A |
+| **yogurt** | GitHub breakout FrigadeHQ/yogurt ★1052 (423/day, +185 in a day) | — | none | frigadehq yogurt, frigade yogurt | FrigadeHQ/yogurt: Private AI meeting notes. Free a |
 
 🎬 video · 🎙 voice · 🖼 image: what the thing makes, the usual order of what visitors pay for (video > voice > image > text). ⚡ = a post with 1,000+ likes walks through a manual workflow or rides a trend: a one-click tool nobody has built yet. Read the posts before acting on a tag.
 
 ### Topic: AI video
 
-Nothing new on this topic today
+- Candidate **inkling 2 small**: Hugging Face: new at #36
 
 ### ② Single-repo breakouts (created in the last 14 days, by stars a day; 🆕 = first day above the bar)
 
 | Repo | ★ | Per day | Since yesterday | Age (days) | About |
 |---|---|---|---|---|---|
-| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 29710 | 2427 | +744 | 12.2 | Craft Anything: understand how any software works, and craft |
-| [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | 6908 | 1896 | +289 | 3.6 | An MobileGestalt editor for iOS 27.x, featuring region-code  |
-| [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | 22728 | 1823 | +123 | 12.5 | Towards a More Autonomous Agent System |
-| [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | 7639 | 834 | +1267 | 9.2 | Agent skills |
-| [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | 8650 | 1177 | +539 | 7.3 | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Ti |
-| [heydamir/unslop](https://github.com/heydamir/unslop) | 15056 | 1060 | +317 | 14.2 | A Claude skill that turns vibecoded, AI-looking UI into a de |
-| [Minireel/HGhub](https://github.com/Minireel/HGhub) | 8623 | 930 | +277 | 9.3 | YellowFruit third-party client |
-| [zortos293/Lichii](https://github.com/zortos293/Lichii) | 8731 | 712 | +111 | 12.3 | VERY experimental Nintendo Switch 2 emulator |
-| [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) | 4730 | 387 | +675 | 12.2 | Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。 |
-| [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | 3510 | 645 | +168 | 5.4 |  |
-| [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | 1716 | 623 | +67 | 2.8 | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） |
-| [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager) | 7759 | 524 | +596 | 14.8 | misterdownloadmanager: The ultimate open-source, clean-room  |
-| [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | 2751 | 596 | +80 | 4.6 | Run your own Switch games natively on iPhone, iPad and Mac:  |
-| [wangzan101/Mika](https://github.com/wangzan101/Mika) | 8386 | 588 | +83 | 14.3 | An on-device AI agent for Android that operates apps and the |
-| [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) | 1296 | 537 | +128 | 2.4 | Humanoid whole-body motion tracking with one differentiable  |
+| [storytold/craft-anything](https://github.com/storytold/craft-anything) | 30514 | 2402 | +804 | 12.7 | Craft Anything: understand how any software works, and craft |
+| [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | 22872 | 1770 | +144 | 12.9 | Towards a More Autonomous Agent System |
+| [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | 7073 | 1725 | +165 | 4.1 | An MobileGestalt editor for iOS 27.x, featuring region-code  |
+| [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | 9018 | 1155 | +368 | 7.8 | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Ti |
+| [Minireel/HGhub](https://github.com/Minireel/HGhub) | 8727 | 897 | +104 | 9.7 | YellowFruit third-party client |
+| [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | 7939 | 825 | +300 | 9.6 | Agent skills |
+| [zortos293/Lichii](https://github.com/zortos293/Lichii) | 8833 | 694 | +102 | 12.7 | VERY experimental Nintendo Switch 2 emulator |
+| [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | 3651 | 619 | +141 | 5.9 |  |
+| [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | 2804 | 552 | +53 | 5.1 | Run your own Switch games natively on iPhone, iPad and Mac:  |
+| [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | 1762 | 549 | +46 | 3.2 | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） |
+| 🆕 [apex-compute/ANR](https://github.com/apex-compute/ANR) | 1107 | 519 | +256 | 2.1 | Apex Neural Rendering (ANR) by Apex Compute |
+| [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 7242 | 516 | +80 | 14.0 | 244 pixel art effects, every one a small piece of code. Plus |
+| [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 4962 | 497 | +216 | 10.0 | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 |
+| [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) | 1363 | 475 | +67 | 2.9 | Humanoid whole-body motion tracking with one differentiable  |
+| 🆕 [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 1052 | 423 | +185 | 2.5 | Private AI meeting notes. Free and open source. |
 
 ### ⑤ Review (terms reported 14 days ago: did they rise in Google Trends?)
 

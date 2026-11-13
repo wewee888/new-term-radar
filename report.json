@@ -1,20 +1,64 @@
 {
  "leads": [
   {
-   "term": "free youtube transcript",
+   "term": "inkling 2 small",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face Spaces: new at #27"
+    "Hugging Face: new at #36"
    ],
    "examples": [
-    "fendouai/free-youtube-transcript (static, ♥104)"
+    "thinkingmachines/Inkling-2-Small (image-text-to-text, ♥147)"
    ],
    "variants": [],
    "posts": [],
    "known": "",
-   "format": "voice",
+   "format": "image",
+   "one_click": null
+  },
+  {
+   "term": "anr",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout apex-compute/ANR ★1107 (519/day, +256 in a day)"
+   ],
+   "examples": [
+    "apex-compute/ANR: Apex Neural Rendering (ANR) by Apex Compute"
+   ],
+   "variants": [
+    "anr",
+    "apex-compute anr",
+    "apex anr"
+   ],
+   "posts": [],
+   "repo": "apex-compute/ANR",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "yogurt",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout FrigadeHQ/yogurt ★1052 (423/day, +185 in a day)"
+   ],
+   "examples": [
+    "FrigadeHQ/yogurt: Private AI meeting notes. Free and open source."
+   ],
+   "variants": [
+    "yogurt",
+    "frigadehq yogurt",
+    "frigade yogurt"
+   ],
+   "posts": [],
+   "repo": "FrigadeHQ/yogurt",
+   "known": "",
+   "format": "text",
    "one_click": null
   }
  ],
@@ -25,14 +69,14 @@
   "first_run": false,
   "terms": [
    {
-    "term": "free youtube transcript",
-    "rank": 27,
+    "term": "inkling 2 small",
+    "rank": 36,
     "copies": 1,
     "examples": [
-     "fendouai/free-youtube-transcript (static, ♥104)"
+     "thinkingmachines/Inkling-2-Small (image-text-to-text, ♥147)"
     ],
     "recent": 1,
-    "note": "Hugging Face Spaces: new at #27"
+    "note": "Hugging Face: new at #36"
    }
   ],
   "models": 100,
@@ -46,169 +90,208 @@
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 29710,
-    "velocity": 2427,
-    "delta": 744,
-    "age_days": 12.2,
+    "stars": 30514,
+    "velocity": 2402,
+    "delta": 804,
+    "age_days": 12.7,
     "description": "Craft Anything: understand how any software works, and craft your own.",
-    "new": false
-   },
-   {
-    "repo": "huamidev/GestaltX",
-    "owner": "huamidev",
-    "name": "GestaltX",
-    "stars": 6908,
-    "velocity": 1896,
-    "delta": 289,
-    "age_days": 3.6,
-    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
     "new": false
    },
    {
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 22728,
-    "velocity": 1823,
-    "delta": 123,
-    "age_days": 12.5,
+    "stars": 22872,
+    "velocity": 1770,
+    "delta": 144,
+    "age_days": 12.9,
     "description": "Towards a More Autonomous Agent System",
     "new": false
    },
    {
-    "repo": "janestreet/agent_skills",
-    "owner": "janestreet",
-    "name": "agent_skills",
-    "stars": 7639,
-    "velocity": 834,
-    "delta": 1267,
-    "age_days": 9.2,
-    "description": "Agent skills",
+    "repo": "huamidev/GestaltX",
+    "owner": "huamidev",
+    "name": "GestaltX",
+    "stars": 7073,
+    "velocity": 1725,
+    "delta": 165,
+    "age_days": 4.1,
+    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
     "new": false
    },
    {
     "repo": "NotRexed/Hookshot",
     "owner": "NotRexed",
     "name": "Hookshot",
-    "stars": 8650,
-    "velocity": 1177,
-    "delta": 539,
-    "age_days": 7.3,
+    "stars": 9018,
+    "velocity": 1155,
+    "delta": 368,
+    "age_days": 7.8,
     "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-    "new": false
-   },
-   {
-    "repo": "heydamir/unslop",
-    "owner": "heydamir",
-    "name": "unslop",
-    "stars": 15056,
-    "velocity": 1060,
-    "delta": 317,
-    "age_days": 14.2,
-    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "new": false
    },
    {
     "repo": "Minireel/HGhub",
     "owner": "Minireel",
     "name": "HGhub",
-    "stars": 8623,
-    "velocity": 930,
-    "delta": 277,
-    "age_days": 9.3,
+    "stars": 8727,
+    "velocity": 897,
+    "delta": 104,
+    "age_days": 9.7,
     "description": "YellowFruit third-party client",
+    "new": false
+   },
+   {
+    "repo": "janestreet/agent_skills",
+    "owner": "janestreet",
+    "name": "agent_skills",
+    "stars": 7939,
+    "velocity": 825,
+    "delta": 300,
+    "age_days": 9.6,
+    "description": "Agent skills",
     "new": false
    },
    {
     "repo": "zortos293/Lichii",
     "owner": "zortos293",
     "name": "Lichii",
-    "stars": 8731,
-    "velocity": 712,
-    "delta": 111,
-    "age_days": 12.3,
+    "stars": 8833,
+    "velocity": 694,
+    "delta": 102,
+    "age_days": 12.7,
     "description": "VERY experimental Nintendo Switch 2 emulator",
-    "new": false
-   },
-   {
-    "repo": "Lee-xeo/Claude-Cage",
-    "owner": "Lee-xeo",
-    "name": "Claude-Cage",
-    "stars": 4730,
-    "velocity": 387,
-    "delta": 675,
-    "age_days": 12.2,
-    "description": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
     "new": false
    },
    {
     "repo": "tangerineturtle1/NX2navi",
     "owner": "tangerineturtle1",
     "name": "NX2navi",
-    "stars": 3510,
-    "velocity": 645,
-    "delta": 168,
-    "age_days": 5.4,
+    "stars": 3651,
+    "velocity": 619,
+    "delta": 141,
+    "age_days": 5.9,
     "description": "",
-    "new": false
-   },
-   {
-    "repo": "Kianuni/Erosion-CN",
-    "owner": "Kianuni",
-    "name": "Erosion-CN",
-    "stars": 1716,
-    "velocity": 623,
-    "delta": 67,
-    "age_days": 2.8,
-    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-    "new": false
-   },
-   {
-    "repo": "anefzaoui/misterdownloadmanager",
-    "owner": "anefzaoui",
-    "name": "misterdownloadmanager",
-    "stars": 7759,
-    "velocity": 524,
-    "delta": 596,
-    "age_days": 14.8,
-    "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windo",
     "new": false
    },
    {
     "repo": "jhaizhou-ops/S2Arm",
     "owner": "jhaizhou-ops",
     "name": "S2Arm",
-    "stars": 2751,
-    "velocity": 596,
-    "delta": 80,
-    "age_days": 4.6,
+    "stars": 2804,
+    "velocity": 552,
+    "delta": 53,
+    "age_days": 5.1,
     "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
     "new": false
    },
    {
-    "repo": "wangzan101/Mika",
-    "owner": "wangzan101",
-    "name": "Mika",
-    "stars": 8386,
-    "velocity": 588,
-    "delta": 83,
-    "age_days": 14.3,
-    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+    "repo": "Kianuni/Erosion-CN",
+    "owner": "Kianuni",
+    "name": "Erosion-CN",
+    "stars": 1762,
+    "velocity": 549,
+    "delta": 46,
+    "age_days": 3.2,
+    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+    "new": false
+   },
+   {
+    "repo": "apex-compute/ANR",
+    "owner": "apex-compute",
+    "name": "ANR",
+    "stars": 1107,
+    "velocity": 519,
+    "delta": 256,
+    "age_days": 2.1,
+    "description": "Apex Neural Rendering (ANR) by Apex Compute",
+    "new": true,
+    "variants": [
+     "anr",
+     "apex-compute anr",
+     "apex anr"
+    ]
+   },
+   {
+    "repo": "patch-gg/pixelfx",
+    "owner": "patch-gg",
+    "name": "pixelfx",
+    "stars": 7242,
+    "velocity": 516,
+    "delta": 80,
+    "age_days": 14.0,
+    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "new": false
+   },
+   {
+    "repo": "KKKKhazix/agent-autoloop",
+    "owner": "KKKKhazix",
+    "name": "agent-autoloop",
+    "stars": 4962,
+    "velocity": 497,
+    "delta": 216,
+    "age_days": 10.0,
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
     "new": false
    },
    {
     "repo": "HybridRobotics/supermimic",
     "owner": "HybridRobotics",
     "name": "supermimic",
-    "stars": 1296,
-    "velocity": 537,
-    "delta": 128,
-    "age_days": 2.4,
+    "stars": 1363,
+    "velocity": 475,
+    "delta": 67,
+    "age_days": 2.9,
     "description": "Humanoid whole-body motion tracking with one differentiable world model.",
     "new": false
+   },
+   {
+    "repo": "FrigadeHQ/yogurt",
+    "owner": "FrigadeHQ",
+    "name": "yogurt",
+    "stars": 1052,
+    "velocity": 423,
+    "delta": 185,
+    "age_days": 2.5,
+    "description": "Private AI meeting notes. Free and open source.",
+    "new": true,
+    "variants": [
+     "yogurt",
+     "frigadehq yogurt",
+     "frigade yogurt"
+    ]
    }
   ],
-  "terms": [],
+  "terms": [
+   {
+    "term": "anr",
+    "recent": 1,
+    "variants": [
+     "anr",
+     "apex-compute anr",
+     "apex anr"
+    ],
+    "repo": "apex-compute/ANR",
+    "note": "GitHub breakout apex-compute/ANR ★1107 (519/day, +256 in a day)",
+    "examples": [
+     "apex-compute/ANR: Apex Neural Rendering (ANR) by Apex Compute"
+    ]
+   },
+   {
+    "term": "yogurt",
+    "recent": 1,
+    "variants": [
+     "yogurt",
+     "frigadehq yogurt",
+     "frigade yogurt"
+    ],
+    "repo": "FrigadeHQ/yogurt",
+    "note": "GitHub breakout FrigadeHQ/yogurt ★1052 (423/day, +185 in a day)",
+    "examples": [
+     "FrigadeHQ/yogurt: Private AI meeting notes. Free and open source."
+    ]
+   }
+  ],
   "window_days": 14
  },
  "sitemap": {
@@ -234,7 +317,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 110,
+  "pending": 113,
   "window_days": 60
  },
  "keywords": {
