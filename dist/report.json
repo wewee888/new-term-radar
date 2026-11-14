@@ -1,41 +1,47 @@
 {
  "leads": [
   {
-   "term": "wan2 2 fp8da aoti faster",
+   "term": "chat demo",
    "kinds": [
-    "hf"
+    "breakout"
    ],
    "signals": [
-    "Hugging Face Spaces: new at #41"
+    "GitHub breakout deepseek-ai/chat-demo ★1174 (595/day, +598 in a day)"
    ],
    "examples": [
-    "zerogpu-aoti/wan2-2-fp8da-aoti-faster (gradio, ♥3867)"
+    "deepseek-ai/chat-demo: Chat Demo"
    ],
-   "variants": [],
+   "variants": [
+    "chat demo",
+    "deepseek-ai chat demo",
+    "deepseek chat demo"
+   ],
    "posts": [],
+   "repo": "deepseek-ai/chat-demo",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "ffmpeg gui editor windows",
+   "term": "islandcn",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout DevedevT/FFmpeg-GUI-Editor-Windows ★541 (541/day)"
+    "GitHub breakout opencoredev/islandcn ★433 (433/day)"
    ],
    "examples": [
-    "DevedevT/FFmpeg-GUI-Editor-Windows: Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chi"
+    "opencoredev/islandcn: The open-source Dynamic Island for React, installed with shadcn."
    ],
    "variants": [
-    "ffmpeg gui editor windows",
-    "devedevt ffmpeg gui editor windows"
+    "islandcn",
+    "opencoredev islandcn",
+    "opencore islandcn"
    ],
    "posts": [],
-   "repo": "DevedevT/FFmpeg-GUI-Editor-Windows",
+   "repo": "opencoredev/islandcn",
    "known": "",
-   "format": "video",
+   "format": "text",
    "one_click": null
   }
  ],
@@ -44,18 +50,7 @@
  },
  "hf": {
   "first_run": false,
-  "terms": [
-   {
-    "term": "wan2 2 fp8da aoti faster",
-    "rank": 41,
-    "copies": 1,
-    "examples": [
-     "zerogpu-aoti/wan2-2-fp8da-aoti-faster (gradio, ♥3867)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face Spaces: new at #41"
-   }
-  ],
+  "terms": [],
   "models": 100,
   "spaces": 100
  },
@@ -67,10 +62,10 @@
     "repo": "storytold/craft-anything",
     "owner": "storytold",
     "name": "craft-anything",
-    "stars": 31327,
-    "velocity": 2368,
-    "delta": 813,
-    "age_days": 13.2,
+    "stars": 31716,
+    "velocity": 2316,
+    "delta": 389,
+    "age_days": 13.7,
     "description": "Craft Anything: understand how any software works, and craft your own.",
     "new": false
    },
@@ -78,10 +73,10 @@
     "repo": "deepseek-ai/dsh-superagent-prototype",
     "owner": "deepseek-ai",
     "name": "dsh-superagent-prototype",
-    "stars": 23015,
-    "velocity": 1711,
-    "delta": 143,
-    "age_days": 13.5,
+    "stars": 23060,
+    "velocity": 1657,
+    "delta": 45,
+    "age_days": 13.9,
     "description": "Towards a More Autonomous Agent System",
     "new": false
    },
@@ -89,10 +84,10 @@
     "repo": "huamidev/GestaltX",
     "owner": "huamidev",
     "name": "GestaltX",
-    "stars": 7267,
-    "velocity": 1569,
-    "delta": 194,
-    "age_days": 4.6,
+    "stars": 7418,
+    "velocity": 1457,
+    "delta": 151,
+    "age_days": 5.1,
     "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
     "new": false
    },
@@ -100,10 +95,10 @@
     "repo": "Minireel/HGhub",
     "owner": "Minireel",
     "name": "HGhub",
-    "stars": 8815,
-    "velocity": 859,
-    "delta": 88,
-    "age_days": 10.3,
+    "stars": 8831,
+    "velocity": 823,
+    "delta": 16,
+    "age_days": 10.7,
     "description": "YellowFruit third-party client",
     "new": false
    },
@@ -111,10 +106,10 @@
     "repo": "janestreet/agent_skills",
     "owner": "janestreet",
     "name": "agent_skills",
-    "stars": 8211,
-    "velocity": 809,
-    "delta": 272,
-    "age_days": 10.1,
+    "stars": 8364,
+    "velocity": 788,
+    "delta": 153,
+    "age_days": 10.6,
     "description": "Agent skills",
     "new": false
    },
@@ -122,47 +117,48 @@
     "repo": "zortos293/Lichii",
     "owner": "zortos293",
     "name": "Lichii",
-    "stars": 8958,
-    "velocity": 676,
-    "delta": 125,
-    "age_days": 13.3,
+    "stars": 9032,
+    "velocity": 659,
+    "delta": 74,
+    "age_days": 13.7,
     "description": "VERY experimental Nintendo Switch 2 emulator",
     "new": false
+   },
+   {
+    "repo": "deepseek-ai/chat-demo",
+    "owner": "deepseek-ai",
+    "name": "chat-demo",
+    "stars": 1174,
+    "velocity": 595,
+    "delta": 598,
+    "age_days": 2.0,
+    "description": "Chat Demo",
+    "new": true,
+    "variants": [
+     "chat demo",
+     "deepseek-ai chat demo",
+     "deepseek chat demo"
+    ]
    },
    {
     "repo": "tangerineturtle1/NX2navi",
     "owner": "tangerineturtle1",
     "name": "NX2navi",
-    "stars": 3838,
-    "velocity": 597,
-    "delta": 187,
-    "age_days": 6.4,
+    "stars": 3967,
+    "velocity": 576,
+    "delta": 129,
+    "age_days": 6.9,
     "description": "",
     "new": false
-   },
-   {
-    "repo": "DevedevT/FFmpeg-GUI-Editor-Windows",
-    "owner": "DevedevT",
-    "name": "FFmpeg-GUI-Editor-Windows",
-    "stars": 541,
-    "velocity": 541,
-    "delta": null,
-    "age_days": 1.0,
-    "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chi",
-    "new": true,
-    "variants": [
-     "ffmpeg gui editor windows",
-     "devedevt ffmpeg gui editor windows"
-    ]
    },
    {
     "repo": "apex-compute/ANR",
     "owner": "apex-compute",
     "name": "ANR",
-    "stars": 1405,
-    "velocity": 527,
-    "delta": 298,
-    "age_days": 2.7,
+    "stars": 1565,
+    "velocity": 501,
+    "delta": 160,
+    "age_days": 3.1,
     "description": "Apex Neural Rendering (ANR) by Apex Compute",
     "new": false
    },
@@ -170,81 +166,101 @@
     "repo": "jhaizhou-ops/S2Arm",
     "owner": "jhaizhou-ops",
     "name": "S2Arm",
-    "stars": 2862,
-    "velocity": 510,
-    "delta": 58,
-    "age_days": 5.6,
+    "stars": 2898,
+    "velocity": 478,
+    "delta": 36,
+    "age_days": 6.1,
     "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
-    "new": false
-   },
-   {
-    "repo": "Kianuni/Erosion-CN",
-    "owner": "Kianuni",
-    "name": "Erosion-CN",
-    "stars": 1904,
-    "velocity": 509,
-    "delta": 142,
-    "age_days": 3.7,
-    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-    "new": false
-   },
-   {
-    "repo": "patch-gg/pixelfx",
-    "owner": "patch-gg",
-    "name": "pixelfx",
-    "stars": 7317,
-    "velocity": 502,
-    "delta": 75,
-    "age_days": 14.6,
-    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
     "new": false
    },
    {
     "repo": "KKKKhazix/agent-autoloop",
     "owner": "KKKKhazix",
     "name": "agent-autoloop",
-    "stars": 5115,
-    "velocity": 486,
-    "delta": 153,
-    "age_days": 10.5,
+    "stars": 5200,
+    "velocity": 474,
+    "delta": 85,
+    "age_days": 11.0,
     "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
     "new": false
    },
    {
-    "repo": "JenkinWoo/sheeridVerify",
-    "owner": "JenkinWoo",
-    "name": "sheeridVerify",
-    "stars": 2594,
-    "velocity": 348,
-    "delta": 471,
-    "age_days": 7.5,
-    "description": "",
+    "repo": "Kianuni/Erosion-CN",
+    "owner": "Kianuni",
+    "name": "Erosion-CN",
+    "stars": 1969,
+    "velocity": 469,
+    "delta": 65,
+    "age_days": 4.2,
+    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
     "new": false
    },
    {
-    "repo": "HybridRobotics/supermimic",
-    "owner": "HybridRobotics",
-    "name": "supermimic",
-    "stars": 1428,
-    "velocity": 420,
-    "delta": 65,
-    "age_days": 3.4,
-    "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+    "repo": "opencoredev/islandcn",
+    "owner": "opencoredev",
+    "name": "islandcn",
+    "stars": 433,
+    "velocity": 433,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "The open-source Dynamic Island for React, installed with shadcn.",
+    "new": true,
+    "variants": [
+     "islandcn",
+     "opencoredev islandcn",
+     "opencore islandcn"
+    ]
+   },
+   {
+    "repo": "Lee-xeo/Claude-Cage",
+    "owner": "Lee-xeo",
+    "name": "Claude-Cage",
+    "stars": 5302,
+    "velocity": 388,
+    "delta": 80,
+    "age_days": 13.7,
+    "description": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
+    "new": false
+   },
+   {
+    "repo": "FrigadeHQ/yogurt",
+    "owner": "FrigadeHQ",
+    "name": "yogurt",
+    "stars": 1327,
+    "velocity": 382,
+    "delta": 94,
+    "age_days": 3.5,
+    "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Lin",
     "new": false
    }
   ],
   "terms": [
    {
-    "term": "ffmpeg gui editor windows",
+    "term": "chat demo",
     "recent": 1,
     "variants": [
-     "ffmpeg gui editor windows",
-     "devedevt ffmpeg gui editor windows"
+     "chat demo",
+     "deepseek-ai chat demo",
+     "deepseek chat demo"
     ],
-    "repo": "DevedevT/FFmpeg-GUI-Editor-Windows",
-    "note": "GitHub breakout DevedevT/FFmpeg-GUI-Editor-Windows ★541 (541/day)",
+    "repo": "deepseek-ai/chat-demo",
+    "note": "GitHub breakout deepseek-ai/chat-demo ★1174 (595/day, +598 in a day)",
     "examples": [
-     "DevedevT/FFmpeg-GUI-Editor-Windows: Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chi"
+     "deepseek-ai/chat-demo: Chat Demo"
+    ]
+   },
+   {
+    "term": "islandcn",
+    "recent": 1,
+    "variants": [
+     "islandcn",
+     "opencoredev islandcn",
+     "opencore islandcn"
+    ],
+    "repo": "opencoredev/islandcn",
+    "note": "GitHub breakout opencoredev/islandcn ★433 (433/day)",
+    "examples": [
+     "opencoredev/islandcn: The open-source Dynamic Island for React, installed with shadcn."
     ]
    }
   ],
@@ -273,7 +289,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 115,
+  "pending": 117,
   "window_days": 60
  },
  "keywords": {
