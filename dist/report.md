@@ -4,33 +4,34 @@
 
 | Term | Signals | Name score | Known | Search variants | Examples |
 |---|---|---|---|---|---|
-| **iptv player 2 0** | GitHub breakout WarriorRemember/IPTV_Player_2.0 ★673 (673/day); GitHub breakout TurquoiseDetective/IPTV_Player_2.0 ★669 (669/day); GitHub breakout tornadonovicewhirl40/IPTV_Player_2.0 ★669 (669/day); GitHub breakout WattBeetleLearn/IPTV_Player_2.0 ★667 (667/day); GitHub breakout Trapbraneedle/IPTV_Player_2.0 ★666 (666/day); GitHub breakout Titanlushrink/IPTV_Player_2.0 ★665 (665/day) | — | none | warriorremember iptv player 2 0, turquoisedetective iptv player 2 0, tornadonovicewhirl40 iptv player 2 0, wattbeetlelearn iptv player 2 0, trapbraneedle iptv player 2 0, titanlushrink iptv player 2 0 | WarriorRemember/IPTV_Player_2.0: 🎬 A powerful, int / TurquoiseDetective/IPTV_Player_2.0: 🎬 A powerful,  |
-| **github copilot app** | GitHub breakout trackboatwrightplan/GitHub-Copilot-app ★672 (672/day); GitHub breakout TrapAccountant/GitHub-Copilot-app ★670 (670/day); GitHub breakout trackersnailgrip/GitHub-Copilot-app ★666 (666/day) | — | none | trackboatwrightplan github copilot app, trapaccountant github copilot app, trackersnailgrip github copilot app | trackboatwrightplan/GitHub-Copilot-app: The GitHub / TrapAccountant/GitHub-Copilot-app: The GitHub Copi |
-| **ai manus2 0** | GitHub breakout Topkiflare74/ai--manus2.0 ★678 (678/day); GitHub breakout topapothecarycanal/ai--manus2.0 ★666 (666/day) | — | none | topkiflare74 ai manus2 0, topapothecarycanal ai manus2 0 | Topkiflare74/ai--manus2.0: AI Manus is a general-p / topapothecarycanal/ai--manus2.0: AI Manus is a gen |
+| **gemini config checker** | GitHub breakout WindGatorRise37/Gemini-Config-Checker- ★475 (475/day); GitHub breakout YellowLaborerMarket/Gemini-Config-Checker- ★475 (475/day); GitHub breakout WyrmClimberManacle/Gemini-Config-Checker- ★475 (475/day); GitHub breakout TurtleReside/Gemini-Config-Checker- ★475 (475/day); GitHub breakout weldbladesmithwharf/Gemini-Config-Checker- ★475 (475/day); GitHub breakout WindowStaffGate11/Gemini-Config-Checker- ★475 (475/day); GitHub breakout WerewolfEmuHub/Gemini-Config-Checker- ★475 (475/day) | — | none | windgatorrise37 gemini config checker, yellowlaborermarket gemini config checker, wyrmclimbermanacle gemini config checker, turtlereside gemini config checker, weldbladesmithwharf gemini config checker, windowstaffgate11 gemini config checker, werewolfemuhub gemini config checker | WindGatorRise37/Gemini-Config-Checker-: Chain regi / YellowLaborerMarket/Gemini-Config-Checker-: Chain  |
+| **ai image upscaler** 🖼 | Hugging Face Spaces: new at #35 | — | none | — | MegaPotatoAI/AI-Image-Upscaler (static, ♥28) |
+
+🎬 video · 🎙 voice · 🖼 image: what the thing makes, the usual order of what visitors pay for (video > voice > image > text). ⚡ = a post with 1,000+ likes walks through a manual workflow or rides a trend: a one-click tool nobody has built yet. Read the posts before acting on a tag.
 
 ### Topic: AI video
 
-Nothing new on this topic today
+- Breakout repo [DevedevT/FFmpeg-GUI-Editor-Windows](https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows) ★2339 (797/day): Lightweight portable FFmpeg GUI & lossless video trimmer for
 
 ### ② Single-repo breakouts (created in the last 14 days, by stars a day; 🆕 = first day above the bar)
 
 | Repo | ★ | Per day | Since yesterday | Age (days) | About |
 |---|---|---|---|---|---|
-| [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | 7635 | 1252 | +97 | 6.1 | An MobileGestalt editor for iOS 27.x, featuring region-code  |
-| [libracoder/kiri](https://github.com/libracoder/kiri) | 4200 | 332 | +766 | 12.6 | A small, fast container runtime for macOS, Windows and Linux |
-| [Minireel/HGhub](https://github.com/Minireel/HGhub) | 8862 | 755 | +12 | 11.7 | YellowFruit third-party client |
-| [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | 8705 | 749 | +158 | 11.6 | Agent skills |
-| 🆕 [Topkiflare74/ai--manus2.0](https://github.com/Topkiflare74/ai--manus2.0) | 678 | 678 | — | 1.0 | AI Manus is a general-purpose AI Agent system that supports  |
-| 🆕 [WarriorRemember/IPTV_Player_2.0](https://github.com/WarriorRemember/IPTV_Player_2.0) | 673 | 673 | — | 1.0 | 🎬 A powerful, intuitive IPTV streaming app supporting M3U pl |
-| 🆕 [trackboatwrightplan/GitHub-Copilot-app](https://github.com/trackboatwrightplan/GitHub-Copilot-app) | 672 | 672 | — | 1.0 | The GitHub Copilot app is an agent-native desktop experience |
-| 🆕 [TrapAccountant/GitHub-Copilot-app](https://github.com/TrapAccountant/GitHub-Copilot-app) | 670 | 670 | — | 1.0 | The GitHub Copilot app is an agent-native desktop experience |
-| 🆕 [TurquoiseDetective/IPTV_Player_2.0](https://github.com/TurquoiseDetective/IPTV_Player_2.0) | 669 | 669 | — | 1.0 | 🎬 A powerful, intuitive IPTV streaming app supporting M3U pl |
-| 🆕 [tornadonovicewhirl40/IPTV_Player_2.0](https://github.com/tornadonovicewhirl40/IPTV_Player_2.0) | 669 | 669 | — | 1.0 | 🎬 A powerful, intuitive IPTV streaming app supporting M3U pl |
-| 🆕 [WattBeetleLearn/IPTV_Player_2.0](https://github.com/WattBeetleLearn/IPTV_Player_2.0) | 667 | 667 | — | 1.0 | 🎬 A powerful, intuitive IPTV streaming app supporting M3U pl |
-| 🆕 [topapothecarycanal/ai--manus2.0](https://github.com/topapothecarycanal/ai--manus2.0) | 666 | 666 | — | 1.0 | AI Manus is a general-purpose AI Agent system that supports  |
-| 🆕 [Trapbraneedle/IPTV_Player_2.0](https://github.com/Trapbraneedle/IPTV_Player_2.0) | 666 | 666 | — | 1.0 | 🎬 A powerful, intuitive IPTV streaming app supporting M3U pl |
-| 🆕 [trackersnailgrip/GitHub-Copilot-app](https://github.com/trackersnailgrip/GitHub-Copilot-app) | 666 | 666 | — | 1.0 | The GitHub Copilot app is an agent-native desktop experience |
-| 🆕 [Titanlushrink/IPTV_Player_2.0](https://github.com/Titanlushrink/IPTV_Player_2.0) | 665 | 665 | — | 1.0 | 🎬 A powerful, intuitive IPTV streaming app supporting M3U pl |
+| [libracoder/kiri](https://github.com/libracoder/kiri) | 5805 | 442 | +1605 | 13.1 | A small, fast container runtime for macOS, Windows and Linux |
+| [DevedevT/FFmpeg-GUI-Editor-Windows](https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows) | 2339 | 797 | +1288 | 2.9 | Lightweight portable FFmpeg GUI & lossless video trimmer for |
+| [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | 7724 | 1173 | +89 | 6.6 | An MobileGestalt editor for iOS 27.x, featuring region-code  |
+| [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | 2753 | 795 | +840 | 3.5 | Chat Demo |
+| [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | 8906 | 736 | +201 | 12.1 | Agent skills |
+| [Minireel/HGhub](https://github.com/Minireel/HGhub) | 8975 | 735 | +113 | 12.2 | Plug-in media player |
+| [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | 953 | 546 | +297 | 1.7 | muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） |
+| [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | 4191 | 500 | +45 | 8.4 |  |
+| 🆕 [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-) | 475 | 475 | — | 1.0 | Chain region scanner: find proxy configs that get you into G |
+| 🆕 [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) | 475 | 475 | — | 1.0 | Chain region scanner: find proxy configs that get you into G |
+| 🆕 [WyrmClimberManacle/Gemini-Config-Checker-](https://github.com/WyrmClimberManacle/Gemini-Config-Checker-) | 475 | 475 | — | 1.0 | Chain region scanner: find proxy configs that get you into G |
+| 🆕 [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-) | 475 | 475 | — | 1.0 | Chain region scanner: find proxy configs that get you into G |
+| 🆕 [weldbladesmithwharf/Gemini-Config-Checker-](https://github.com/weldbladesmithwharf/Gemini-Config-Checker-) | 475 | 475 | — | 1.0 | Chain region scanner: find proxy configs that get you into G |
+| 🆕 [WindowStaffGate11/Gemini-Config-Checker-](https://github.com/WindowStaffGate11/Gemini-Config-Checker-) | 475 | 475 | — | 1.0 | Chain region scanner: find proxy configs that get you into G |
+| 🆕 [WerewolfEmuHub/Gemini-Config-Checker-](https://github.com/WerewolfEmuHub/Gemini-Config-Checker-) | 475 | 475 | — | 1.0 | Chain region scanner: find proxy configs that get you into G |
 
 ### ⑤ Review (terms reported 14 days ago: did they rise in Google Trends?)
 
