@@ -1,45 +1,96 @@
 {
  "leads": [
   {
-   "term": "kiri",
+   "term": "iptv player 2 0",
    "kinds": [
+    "breakout",
+    "breakout",
+    "breakout",
+    "breakout",
+    "breakout",
     "breakout"
    ],
    "signals": [
-    "GitHub breakout libracoder/kiri ★3434 (284/day, +973 in a day)"
+    "GitHub breakout WarriorRemember/IPTV_Player_2.0 ★673 (673/day)",
+    "GitHub breakout TurquoiseDetective/IPTV_Player_2.0 ★669 (669/day)",
+    "GitHub breakout tornadonovicewhirl40/IPTV_Player_2.0 ★669 (669/day)",
+    "GitHub breakout WattBeetleLearn/IPTV_Player_2.0 ★667 (667/day)",
+    "GitHub breakout Trapbraneedle/IPTV_Player_2.0 ★666 (666/day)",
+    "GitHub breakout Titanlushrink/IPTV_Player_2.0 ★665 (665/day)"
    ],
    "examples": [
-    "libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative"
+    "WarriorRemember/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+    "TurquoiseDetective/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+    "tornadonovicewhirl40/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+    "WattBeetleLearn/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+    "Trapbraneedle/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+    "Titanlushrink/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma"
    ],
    "variants": [
-    "kiri",
-    "libracoder kiri",
-    "precious kiri"
+    "iptv player 2 0",
+    "warriorremember iptv player 2 0",
+    "turquoisedetective iptv player 2 0",
+    "tornadonovicewhirl40 iptv player 2 0",
+    "wattbeetlelearn iptv player 2 0",
+    "trapbraneedle iptv player 2 0",
+    "titanlushrink iptv player 2 0"
    ],
    "posts": [],
-   "repo": "libracoder/kiri",
+   "repo": "Titanlushrink/IPTV_Player_2.0",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "muse protocol",
+   "term": "github copilot app",
    "kinds": [
+    "breakout",
+    "breakout",
     "breakout"
    ],
    "signals": [
-    "GitHub breakout duwqijlk/muse-protocol ★482 (482/day)"
+    "GitHub breakout trackboatwrightplan/GitHub-Copilot-app ★672 (672/day)",
+    "GitHub breakout TrapAccountant/GitHub-Copilot-app ★670 (670/day)",
+    "GitHub breakout trackersnailgrip/GitHub-Copilot-app ★666 (666/day)"
    ],
    "examples": [
-    "duwqijlk/muse-protocol: muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）"
+    "trackboatwrightplan/GitHub-Copilot-app: The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a",
+    "TrapAccountant/GitHub-Copilot-app: The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a",
+    "trackersnailgrip/GitHub-Copilot-app: The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a"
    ],
    "variants": [
-    "muse protocol",
-    "duwqijlk muse protocol",
-    "xcrun muse protocol"
+    "github copilot app",
+    "trackboatwrightplan github copilot app",
+    "trapaccountant github copilot app",
+    "trackersnailgrip github copilot app"
    ],
    "posts": [],
-   "repo": "duwqijlk/muse-protocol",
+   "repo": "trackersnailgrip/GitHub-Copilot-app",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "ai manus2 0",
+   "kinds": [
+    "breakout",
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout Topkiflare74/ai--manus2.0 ★678 (678/day)",
+    "GitHub breakout topapothecarycanal/ai--manus2.0 ★666 (666/day)"
+   ],
+   "examples": [
+    "Topkiflare74/ai--manus2.0: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environmen",
+    "topapothecarycanal/ai--manus2.0: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environmen"
+   ],
+   "variants": [
+    "ai manus2 0",
+    "topkiflare74 ai manus2 0",
+    "topapothecarycanal ai manus2 0"
+   ],
+   "posts": [],
+   "repo": "topapothecarycanal/ai--manus2.0",
    "known": "",
    "format": "text",
    "one_click": null
@@ -59,35 +110,13 @@
   "first_run": false,
   "repos": [
    {
-    "repo": "storytold/craft-anything",
-    "owner": "storytold",
-    "name": "craft-anything",
-    "stars": 32608,
-    "velocity": 2303,
-    "delta": 892,
-    "age_days": 14.2,
-    "description": "Craft Anything: understand how any software works, and craft your own.",
-    "new": false
-   },
-   {
-    "repo": "deepseek-ai/dsh-superagent-prototype",
-    "owner": "deepseek-ai",
-    "name": "dsh-superagent-prototype",
-    "stars": 23127,
-    "velocity": 1608,
-    "delta": 67,
-    "age_days": 14.4,
-    "description": "Towards a More Autonomous Agent System",
-    "new": false
-   },
-   {
     "repo": "huamidev/GestaltX",
     "owner": "huamidev",
     "name": "GestaltX",
-    "stars": 7538,
-    "velocity": 1356,
-    "delta": 120,
-    "age_days": 5.6,
+    "stars": 7635,
+    "velocity": 1252,
+    "delta": 97,
+    "age_days": 6.1,
     "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
     "new": false
    },
@@ -95,26 +124,21 @@
     "repo": "libracoder/kiri",
     "owner": "libracoder",
     "name": "kiri",
-    "stars": 3434,
-    "velocity": 284,
-    "delta": 973,
-    "age_days": 12.1,
+    "stars": 4200,
+    "velocity": 332,
+    "delta": 766,
+    "age_days": 12.6,
     "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
-    "new": true,
-    "variants": [
-     "kiri",
-     "libracoder kiri",
-     "precious kiri"
-    ]
+    "new": false
    },
    {
     "repo": "Minireel/HGhub",
     "owner": "Minireel",
     "name": "HGhub",
-    "stars": 8850,
-    "velocity": 791,
-    "delta": 19,
-    "age_days": 11.2,
+    "stars": 8862,
+    "velocity": 755,
+    "delta": 12,
+    "age_days": 11.7,
     "description": "YellowFruit third-party client",
     "new": false
    },
@@ -122,145 +146,321 @@
     "repo": "janestreet/agent_skills",
     "owner": "janestreet",
     "name": "agent_skills",
-    "stars": 8547,
-    "velocity": 772,
-    "delta": 183,
-    "age_days": 11.1,
+    "stars": 8705,
+    "velocity": 749,
+    "delta": 158,
+    "age_days": 11.6,
     "description": "Agent skills",
     "new": false
    },
    {
-    "repo": "deepseek-ai/chat-demo",
-    "owner": "deepseek-ai",
-    "name": "chat-demo",
-    "stars": 1668,
-    "velocity": 684,
-    "delta": 494,
-    "age_days": 2.4,
-    "description": "Chat Demo",
-    "new": false
-   },
-   {
-    "repo": "zortos293/Lichii",
-    "owner": "zortos293",
-    "name": "Lichii",
-    "stars": 9144,
-    "velocity": 645,
-    "delta": 112,
-    "age_days": 14.2,
-    "description": "VERY experimental Nintendo Switch 2 emulator",
-    "new": false
-   },
-   {
-    "repo": "tangerineturtle1/NX2navi",
-    "owner": "tangerineturtle1",
-    "name": "NX2navi",
-    "stars": 4064,
-    "velocity": 552,
-    "delta": 97,
-    "age_days": 7.4,
-    "description": "",
-    "new": false
-   },
-   {
-    "repo": "DevedevT/FFmpeg-GUI-Editor-Windows",
-    "owner": "DevedevT",
-    "name": "FFmpeg-GUI-Editor-Windows",
-    "stars": 1046,
-    "velocity": 547,
-    "delta": 505,
-    "age_days": 1.9,
-    "description": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chi",
-    "new": false
-   },
-   {
-    "repo": "opencoredev/islandcn",
-    "owner": "opencoredev",
-    "name": "islandcn",
-    "stars": 637,
-    "velocity": 496,
-    "delta": 204,
-    "age_days": 1.3,
-    "description": "The open-source Dynamic Island for React, installed with shadcn.",
-    "new": false
-   },
-   {
-    "repo": "apex-compute/ANR",
-    "owner": "apex-compute",
-    "name": "ANR",
-    "stars": 1758,
-    "velocity": 489,
-    "delta": 193,
-    "age_days": 3.6,
-    "description": "Apex Neural Rendering (ANR) by Apex Compute",
-    "new": false
-   },
-   {
-    "repo": "duwqijlk/muse-protocol",
-    "owner": "duwqijlk",
-    "name": "muse-protocol",
-    "stars": 482,
-    "velocity": 482,
+    "repo": "Topkiflare74/ai--manus2.0",
+    "owner": "Topkiflare74",
+    "name": "ai--manus2.0",
+    "stars": 678,
+    "velocity": 678,
     "delta": null,
     "age_days": 1.0,
-    "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environmen",
     "new": true,
     "variants": [
-     "muse protocol",
-     "duwqijlk muse protocol",
-     "xcrun muse protocol"
+     "ai manus2 0",
+     "topkiflare74 ai manus2 0"
     ]
    },
    {
-    "repo": "KKKKhazix/agent-autoloop",
-    "owner": "KKKKhazix",
-    "name": "agent-autoloop",
-    "stars": 5321,
-    "velocity": 465,
-    "delta": 121,
-    "age_days": 11.4,
-    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "new": false
+    "repo": "WarriorRemember/IPTV_Player_2.0",
+    "owner": "WarriorRemember",
+    "name": "IPTV_Player_2.0",
+    "stars": 673,
+    "velocity": 673,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+    "new": true,
+    "variants": [
+     "iptv player 2 0",
+     "warriorremember iptv player 2 0"
+    ]
    },
    {
-    "repo": "jhaizhou-ops/S2Arm",
-    "owner": "jhaizhou-ops",
-    "name": "S2Arm",
-    "stars": 2972,
-    "velocity": 455,
-    "delta": 74,
-    "age_days": 6.5,
-    "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
-    "new": false
+    "repo": "trackboatwrightplan/GitHub-Copilot-app",
+    "owner": "trackboatwrightplan",
+    "name": "GitHub-Copilot-app",
+    "stars": 672,
+    "velocity": 672,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a",
+    "new": true,
+    "variants": [
+     "github copilot app",
+     "trackboatwrightplan github copilot app"
+    ]
+   },
+   {
+    "repo": "TrapAccountant/GitHub-Copilot-app",
+    "owner": "TrapAccountant",
+    "name": "GitHub-Copilot-app",
+    "stars": 670,
+    "velocity": 670,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a",
+    "new": true,
+    "variants": [
+     "github copilot app",
+     "trapaccountant github copilot app"
+    ]
+   },
+   {
+    "repo": "TurquoiseDetective/IPTV_Player_2.0",
+    "owner": "TurquoiseDetective",
+    "name": "IPTV_Player_2.0",
+    "stars": 669,
+    "velocity": 669,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+    "new": true,
+    "variants": [
+     "iptv player 2 0",
+     "turquoisedetective iptv player 2 0"
+    ]
+   },
+   {
+    "repo": "tornadonovicewhirl40/IPTV_Player_2.0",
+    "owner": "tornadonovicewhirl40",
+    "name": "IPTV_Player_2.0",
+    "stars": 669,
+    "velocity": 669,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+    "new": true,
+    "variants": [
+     "iptv player 2 0",
+     "tornadonovicewhirl40 iptv player 2 0"
+    ]
+   },
+   {
+    "repo": "WattBeetleLearn/IPTV_Player_2.0",
+    "owner": "WattBeetleLearn",
+    "name": "IPTV_Player_2.0",
+    "stars": 667,
+    "velocity": 667,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+    "new": true,
+    "variants": [
+     "iptv player 2 0",
+     "wattbeetlelearn iptv player 2 0"
+    ]
+   },
+   {
+    "repo": "topapothecarycanal/ai--manus2.0",
+    "owner": "topapothecarycanal",
+    "name": "ai--manus2.0",
+    "stars": 666,
+    "velocity": 666,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environmen",
+    "new": true,
+    "variants": [
+     "ai manus2 0",
+     "topapothecarycanal ai manus2 0"
+    ]
+   },
+   {
+    "repo": "Trapbraneedle/IPTV_Player_2.0",
+    "owner": "Trapbraneedle",
+    "name": "IPTV_Player_2.0",
+    "stars": 666,
+    "velocity": 666,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+    "new": true,
+    "variants": [
+     "iptv player 2 0",
+     "trapbraneedle iptv player 2 0"
+    ]
+   },
+   {
+    "repo": "trackersnailgrip/GitHub-Copilot-app",
+    "owner": "trackersnailgrip",
+    "name": "GitHub-Copilot-app",
+    "stars": 666,
+    "velocity": 666,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a",
+    "new": true,
+    "variants": [
+     "github copilot app",
+     "trackersnailgrip github copilot app"
+    ]
+   },
+   {
+    "repo": "Titanlushrink/IPTV_Player_2.0",
+    "owner": "Titanlushrink",
+    "name": "IPTV_Player_2.0",
+    "stars": 665,
+    "velocity": 665,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma",
+    "new": true,
+    "variants": [
+     "iptv player 2 0",
+     "titanlushrink iptv player 2 0"
+    ]
    }
   ],
   "terms": [
    {
-    "term": "kiri",
+    "term": "ai manus2 0",
     "recent": 1,
     "variants": [
-     "kiri",
-     "libracoder kiri",
-     "precious kiri"
+     "ai manus2 0",
+     "topkiflare74 ai manus2 0"
     ],
-    "repo": "libracoder/kiri",
-    "note": "GitHub breakout libracoder/kiri ★3434 (284/day, +973 in a day)",
+    "repo": "Topkiflare74/ai--manus2.0",
+    "note": "GitHub breakout Topkiflare74/ai--manus2.0 ★678 (678/day)",
     "examples": [
-     "libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative"
+     "Topkiflare74/ai--manus2.0: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environmen"
     ]
    },
    {
-    "term": "muse protocol",
+    "term": "iptv player 2 0",
     "recent": 1,
     "variants": [
-     "muse protocol",
-     "duwqijlk muse protocol",
-     "xcrun muse protocol"
+     "iptv player 2 0",
+     "warriorremember iptv player 2 0"
     ],
-    "repo": "duwqijlk/muse-protocol",
-    "note": "GitHub breakout duwqijlk/muse-protocol ★482 (482/day)",
+    "repo": "WarriorRemember/IPTV_Player_2.0",
+    "note": "GitHub breakout WarriorRemember/IPTV_Player_2.0 ★673 (673/day)",
     "examples": [
-     "duwqijlk/muse-protocol: muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）"
+     "WarriorRemember/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma"
+    ]
+   },
+   {
+    "term": "github copilot app",
+    "recent": 1,
+    "variants": [
+     "github copilot app",
+     "trackboatwrightplan github copilot app"
+    ],
+    "repo": "trackboatwrightplan/GitHub-Copilot-app",
+    "note": "GitHub breakout trackboatwrightplan/GitHub-Copilot-app ★672 (672/day)",
+    "examples": [
+     "trackboatwrightplan/GitHub-Copilot-app: The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a"
+    ]
+   },
+   {
+    "term": "github copilot app",
+    "recent": 1,
+    "variants": [
+     "github copilot app",
+     "trapaccountant github copilot app"
+    ],
+    "repo": "TrapAccountant/GitHub-Copilot-app",
+    "note": "GitHub breakout TrapAccountant/GitHub-Copilot-app ★670 (670/day)",
+    "examples": [
+     "TrapAccountant/GitHub-Copilot-app: The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a"
+    ]
+   },
+   {
+    "term": "iptv player 2 0",
+    "recent": 1,
+    "variants": [
+     "iptv player 2 0",
+     "turquoisedetective iptv player 2 0"
+    ],
+    "repo": "TurquoiseDetective/IPTV_Player_2.0",
+    "note": "GitHub breakout TurquoiseDetective/IPTV_Player_2.0 ★669 (669/day)",
+    "examples": [
+     "TurquoiseDetective/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma"
+    ]
+   },
+   {
+    "term": "iptv player 2 0",
+    "recent": 1,
+    "variants": [
+     "iptv player 2 0",
+     "tornadonovicewhirl40 iptv player 2 0"
+    ],
+    "repo": "tornadonovicewhirl40/IPTV_Player_2.0",
+    "note": "GitHub breakout tornadonovicewhirl40/IPTV_Player_2.0 ★669 (669/day)",
+    "examples": [
+     "tornadonovicewhirl40/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma"
+    ]
+   },
+   {
+    "term": "iptv player 2 0",
+    "recent": 1,
+    "variants": [
+     "iptv player 2 0",
+     "wattbeetlelearn iptv player 2 0"
+    ],
+    "repo": "WattBeetleLearn/IPTV_Player_2.0",
+    "note": "GitHub breakout WattBeetleLearn/IPTV_Player_2.0 ★667 (667/day)",
+    "examples": [
+     "WattBeetleLearn/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma"
+    ]
+   },
+   {
+    "term": "ai manus2 0",
+    "recent": 1,
+    "variants": [
+     "ai manus2 0",
+     "topapothecarycanal ai manus2 0"
+    ],
+    "repo": "topapothecarycanal/ai--manus2.0",
+    "note": "GitHub breakout topapothecarycanal/ai--manus2.0 ★666 (666/day)",
+    "examples": [
+     "topapothecarycanal/ai--manus2.0: AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environmen"
+    ]
+   },
+   {
+    "term": "iptv player 2 0",
+    "recent": 1,
+    "variants": [
+     "iptv player 2 0",
+     "trapbraneedle iptv player 2 0"
+    ],
+    "repo": "Trapbraneedle/IPTV_Player_2.0",
+    "note": "GitHub breakout Trapbraneedle/IPTV_Player_2.0 ★666 (666/day)",
+    "examples": [
+     "Trapbraneedle/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma"
+    ]
+   },
+   {
+    "term": "github copilot app",
+    "recent": 1,
+    "variants": [
+     "github copilot app",
+     "trackersnailgrip github copilot app"
+    ],
+    "repo": "trackersnailgrip/GitHub-Copilot-app",
+    "note": "GitHub breakout trackersnailgrip/GitHub-Copilot-app ★666 (666/day)",
+    "examples": [
+     "trackersnailgrip/GitHub-Copilot-app: The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work a"
+    ]
+   },
+   {
+    "term": "iptv player 2 0",
+    "recent": 1,
+    "variants": [
+     "iptv player 2 0",
+     "titanlushrink iptv player 2 0"
+    ],
+    "repo": "Titanlushrink/IPTV_Player_2.0",
+    "note": "GitHub breakout Titanlushrink/IPTV_Player_2.0 ★665 (665/day)",
+    "examples": [
+     "Titanlushrink/IPTV_Player_2.0: 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, ma"
     ]
    }
   ],
@@ -289,7 +489,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 119,
+  "pending": 122,
   "window_days": 60
  },
  "keywords": {
