@@ -1,23 +1,23 @@
 {
  "leads": [
   {
-   "term": "blender ai mcp addon",
+   "term": "abyssal garden",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout hitkeeen/blender-ai-mcp-addon ★1854 (499/day, +1348 in a day)"
+    "GitHub breakout Noniv/abyssal-garden ★1660 (380/day, +396 in a day)"
    ],
    "examples": [
-    "hitkeeen/blender-ai-mcp-addon: AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude"
+    "Noniv/abyssal-garden: A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta "
    ],
    "variants": [
-    "blender ai mcp addon",
-    "hitkeeen blender ai mcp addon",
-    "hitkeen blender ai mcp addon"
+    "abyssal garden",
+    "noniv abyssal garden",
+    "maksymilian abyssal garden"
    ],
    "posts": [],
-   "repo": "hitkeeen/blender-ai-mcp-addon",
+   "repo": "Noniv/abyssal-garden",
    "known": "",
    "format": "text",
    "one_click": null
@@ -40,37 +40,21 @@
     "repo": "libracoder/kiri",
     "owner": "libracoder",
     "name": "kiri",
-    "stars": 7344,
-    "velocity": 538,
-    "delta": 1539,
-    "age_days": 13.6,
+    "stars": 8814,
+    "velocity": 617,
+    "delta": 1470,
+    "age_days": 14.3,
     "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
     "new": false
-   },
-   {
-    "repo": "hitkeeen/blender-ai-mcp-addon",
-    "owner": "hitkeeen",
-    "name": "blender-ai-mcp-addon",
-    "stars": 1854,
-    "velocity": 499,
-    "delta": 1348,
-    "age_days": 3.7,
-    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
-    "new": true,
-    "variants": [
-     "blender ai mcp addon",
-     "hitkeeen blender ai mcp addon",
-     "hitkeen blender ai mcp addon"
-    ]
    },
    {
     "repo": "huamidev/GestaltX",
     "owner": "huamidev",
     "name": "GestaltX",
-    "stars": 7790,
-    "velocity": 1097,
-    "delta": 66,
-    "age_days": 7.1,
+    "stars": 7874,
+    "velocity": 1019,
+    "delta": 84,
+    "age_days": 7.7,
     "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
     "new": false
    },
@@ -78,10 +62,10 @@
     "repo": "deepseek-ai/chat-demo",
     "owner": "deepseek-ai",
     "name": "chat-demo",
-    "stars": 3608,
-    "velocity": 906,
-    "delta": 855,
-    "age_days": 4.0,
+    "stars": 4039,
+    "velocity": 876,
+    "delta": 431,
+    "age_days": 4.6,
     "description": "Chat Demo",
     "new": false
    },
@@ -89,10 +73,10 @@
     "repo": "janestreet/agent_skills",
     "owner": "janestreet",
     "name": "agent_skills",
-    "stars": 9192,
-    "velocity": 728,
-    "delta": 286,
-    "age_days": 12.6,
+    "stars": 9564,
+    "velocity": 722,
+    "delta": 372,
+    "age_days": 13.2,
     "description": "Agent skills",
     "new": false
    },
@@ -100,21 +84,32 @@
     "repo": "Minireel/HGhub",
     "owner": "Minireel",
     "name": "HGhub",
-    "stars": 9214,
-    "velocity": 723,
-    "delta": 239,
-    "age_days": 12.7,
+    "stars": 9480,
+    "velocity": 709,
+    "delta": 266,
+    "age_days": 13.4,
     "description": "Plug-in media player",
+    "new": false
+   },
+   {
+    "repo": "hitkeeen/blender-ai-mcp-addon",
+    "owner": "hitkeeen",
+    "name": "blender-ai-mcp-addon",
+    "stars": 2159,
+    "velocity": 497,
+    "delta": 305,
+    "age_days": 4.3,
+    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
     "new": false
    },
    {
     "repo": "duwqijlk/muse-protocol",
     "owner": "duwqijlk",
     "name": "muse-protocol",
-    "stars": 1209,
-    "velocity": 534,
-    "delta": 256,
-    "age_days": 2.3,
+    "stars": 1429,
+    "velocity": 494,
+    "delta": 220,
+    "age_days": 2.9,
     "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
     "new": false
    },
@@ -122,11 +117,60 @@
     "repo": "tangerineturtle1/NX2navi",
     "owner": "tangerineturtle1",
     "name": "NX2navi",
-    "stars": 4252,
-    "velocity": 477,
-    "delta": 61,
-    "age_days": 8.9,
+    "stars": 4282,
+    "velocity": 449,
+    "delta": 30,
+    "age_days": 9.5,
     "description": "",
+    "new": false
+   },
+   {
+    "repo": "apex-compute/ANR",
+    "owner": "apex-compute",
+    "name": "ANR",
+    "stars": 2455,
+    "velocity": 426,
+    "delta": 165,
+    "age_days": 5.8,
+    "description": "Apex Neural Rendering (ANR) by Apex Compute",
+    "new": false
+   },
+   {
+    "repo": "KKKKhazix/agent-autoloop",
+    "owner": "KKKKhazix",
+    "name": "agent-autoloop",
+    "stars": 5685,
+    "velocity": 418,
+    "delta": 109,
+    "age_days": 13.6,
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "new": false
+   },
+   {
+    "repo": "Noniv/abyssal-garden",
+    "owner": "Noniv",
+    "name": "abyssal-garden",
+    "stars": 1660,
+    "velocity": 380,
+    "delta": 396,
+    "age_days": 4.4,
+    "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta ",
+    "new": true,
+    "variants": [
+     "abyssal garden",
+     "noniv abyssal garden",
+     "maksymilian abyssal garden"
+    ]
+   },
+   {
+    "repo": "jhaizhou-ops/S2Arm",
+    "owner": "jhaizhou-ops",
+    "name": "S2Arm",
+    "stars": 3361,
+    "velocity": 386,
+    "delta": 73,
+    "age_days": 8.7,
+    "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
     "new": false
    },
    {
@@ -134,9 +178,9 @@
     "owner": "YellowLaborerMarket",
     "name": "Gemini-Config-Checker-",
     "stars": 474,
-    "velocity": 474,
-    "delta": -1,
-    "age_days": 1.0,
+    "velocity": 380,
+    "delta": 0,
+    "age_days": 1.2,
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
     "new": false
    },
@@ -145,9 +189,9 @@
     "owner": "WindGatorRise37",
     "name": "Gemini-Config-Checker-",
     "stars": 473,
-    "velocity": 473,
-    "delta": -2,
-    "age_days": 1.0,
+    "velocity": 379,
+    "delta": 0,
+    "age_days": 1.2,
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
     "new": false
    },
@@ -156,70 +200,26 @@
     "owner": "WyrmClimberManacle",
     "name": "Gemini-Config-Checker-",
     "stars": 473,
-    "velocity": 473,
-    "delta": -2,
-    "age_days": 1.0,
-    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-    "new": false
-   },
-   {
-    "repo": "TurtleReside/Gemini-Config-Checker-",
-    "owner": "TurtleReside",
-    "name": "Gemini-Config-Checker-",
-    "stars": 473,
-    "velocity": 473,
-    "delta": -2,
-    "age_days": 1.0,
-    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-    "new": false
-   },
-   {
-    "repo": "weldbladesmithwharf/Gemini-Config-Checker-",
-    "owner": "weldbladesmithwharf",
-    "name": "Gemini-Config-Checker-",
-    "stars": 473,
-    "velocity": 473,
-    "delta": -2,
-    "age_days": 1.0,
-    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-    "new": false
-   },
-   {
-    "repo": "WindowStaffGate11/Gemini-Config-Checker-",
-    "owner": "WindowStaffGate11",
-    "name": "Gemini-Config-Checker-",
-    "stars": 473,
-    "velocity": 473,
-    "delta": -2,
-    "age_days": 1.0,
-    "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
-    "new": false
-   },
-   {
-    "repo": "WerewolfEmuHub/Gemini-Config-Checker-",
-    "owner": "WerewolfEmuHub",
-    "name": "Gemini-Config-Checker-",
-    "stars": 473,
-    "velocity": 473,
-    "delta": -2,
-    "age_days": 1.0,
+    "velocity": 379,
+    "delta": 0,
+    "age_days": 1.2,
     "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DP",
     "new": false
    }
   ],
   "terms": [
    {
-    "term": "blender ai mcp addon",
+    "term": "abyssal garden",
     "recent": 1,
     "variants": [
-     "blender ai mcp addon",
-     "hitkeeen blender ai mcp addon",
-     "hitkeen blender ai mcp addon"
+     "abyssal garden",
+     "noniv abyssal garden",
+     "maksymilian abyssal garden"
     ],
-    "repo": "hitkeeen/blender-ai-mcp-addon",
-    "note": "GitHub breakout hitkeeen/blender-ai-mcp-addon ★1854 (499/day, +1348 in a day)",
+    "repo": "Noniv/abyssal-garden",
+    "note": "GitHub breakout Noniv/abyssal-garden ★1660 (380/day, +396 in a day)",
     "examples": [
-     "hitkeeen/blender-ai-mcp-addon: AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude"
+     "Noniv/abyssal-garden: A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta "
     ]
    }
   ],
@@ -248,7 +248,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 125,
+  "pending": 126,
   "window_days": 60
  },
  "keywords": {
