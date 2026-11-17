@@ -1,15 +1,49 @@
 {
  "leads": [
   {
-   "term": "maxwell v1 flash",
+   "term": "sensenova loop",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #50"
+    "Hugging Face: new at #12"
    ],
    "examples": [
-    "maxwell-model/Maxwell-V1-Flash (text-generation, ♥78)"
+    "sensenova/SenseNova-Loop-9B (image-text-to-text, ♥156)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "image",
+   "one_click": null
+  },
+  {
+   "term": "rmbg 3.0",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face: new at #44"
+   ],
+   "examples": [
+    "briaai/RMBG-3.0 (image-segmentation, ♥57)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "image",
+   "one_click": null
+  },
+  {
+   "term": "qwen3.8 pi adapted",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face: new at #27"
+   ],
+   "examples": [
+    "harness-hub/Qwen3.8-27B-pi-adapted (?, ♥78)"
    ],
    "variants": [],
    "posts": [],
@@ -18,67 +52,126 @@
    "one_click": null
   },
   {
-   "term": "wireless device battery monitor",
+   "term": "nvidia nemotron 3.5 bolt e4b 4gb",
    "kinds": [
-    "breakout"
+    "hf"
    ],
    "signals": [
-    "GitHub breakout krisgfx9/Wireless-Device-Battery-Monitor ★682 (682/day)"
+    "Hugging Face: new at #34"
    ],
    "examples": [
-    "krisgfx9/Wireless-Device-Battery-Monitor: Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t"
+    "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB (text-generation, ♥483)"
    ],
-   "variants": [
-    "wireless device battery monitor",
-    "krisgfx9 wireless device battery monitor",
-    "krisgfx wireless device battery monitor"
-   ],
+   "variants": [],
    "posts": [],
-   "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "allo",
+   "term": "lastbook",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout joshpuckett/allo ★559 (341/day)"
+    "GitHub breakout Immortal-Protocols/lastbook ★1627 (332/day, +660 in a day)"
    ],
    "examples": [
-    "joshpuckett/allo: Allo is your friendly neighborhood typeface, free and open source"
+    "Immortal-Protocols/lastbook: Offline knowledge AI, maps and videos for survival and rebuilding"
    ],
    "variants": [
-    "allo",
-    "joshpuckett allo",
-    "josh allo"
+    "lastbook",
+    "immortal-protocols lastbook"
    ],
    "posts": [],
-   "repo": "joshpuckett/allo",
+   "repo": "Immortal-Protocols/lastbook",
+   "known": "",
+   "format": "video",
+   "one_click": null
+  },
+  {
+   "term": "google ultra",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout gylive/google-ultra ★1370 (1370/day)"
+   ],
+   "examples": [
+    "gylive/google-ultra: "
+   ],
+   "variants": [
+    "google ultra",
+    "gylive google ultra"
+   ],
+   "posts": [],
+   "repo": "gylive/google-ultra",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "phonebox",
+   "term": "inference optimisation skill",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout ersinkoc/phonebox ★2140 (221/day, +316 in a day)"
+    "GitHub breakout sybil-solutions/inference-optimisation-skill ★876 (782/day)"
    ],
    "examples": [
-    "ersinkoc/phonebox: Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widget"
+    "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any "
    ],
    "variants": [
-    "phonebox",
-    "ersinkoc phonebox",
-    "ersin phonebox"
+    "inference optimisation skill",
+    "sybil-solutions inference optimisation skill",
+    "sybil inference optimisation skill"
    ],
    "posts": [],
-   "repo": "ersinkoc/phonebox",
+   "repo": "sybil-solutions/inference-optimisation-skill",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "rust anything",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout erkamyaman/rust-anything ★1043 (750/day)"
+   ],
+   "examples": [
+    "erkamyaman/rust-anything: Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI"
+   ],
+   "variants": [
+    "rust anything",
+    "erkamyaman rust anything",
+    "erkam rust anything"
+   ],
+   "posts": [],
+   "repo": "erkamyaman/rust-anything",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "spaceship",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout chuanqisun/spaceship ★657 (511/day)"
+   ],
+   "examples": [
+    "chuanqisun/spaceship: Steer your ideas in realtime"
+   ],
+   "variants": [
+    "spaceship",
+    "chuanqisun spaceship",
+    "sun spaceship"
+   ],
+   "posts": [],
+   "repo": "chuanqisun/spaceship",
    "known": "",
    "format": "text",
    "one_click": null
@@ -91,14 +184,44 @@
   "first_run": false,
   "terms": [
    {
-    "term": "maxwell v1 flash",
-    "rank": 50,
+    "term": "sensenova loop",
+    "rank": 12,
     "copies": 1,
     "examples": [
-     "maxwell-model/Maxwell-V1-Flash (text-generation, ♥78)"
+     "sensenova/SenseNova-Loop-9B (image-text-to-text, ♥156)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #50"
+    "note": "Hugging Face: new at #12"
+   },
+   {
+    "term": "qwen3.8 pi adapted",
+    "rank": 27,
+    "copies": 1,
+    "examples": [
+     "harness-hub/Qwen3.8-27B-pi-adapted (?, ♥78)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face: new at #27"
+   },
+   {
+    "term": "nvidia nemotron 3.5 bolt e4b 4gb",
+    "rank": 34,
+    "copies": 1,
+    "examples": [
+     "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB (text-generation, ♥483)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face: new at #34"
+   },
+   {
+    "term": "rmbg 3.0",
+    "rank": 44,
+    "copies": 1,
+    "examples": [
+     "briaai/RMBG-3.0 (image-segmentation, ♥57)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face: new at #44"
    }
   ],
   "models": 100,
@@ -109,13 +232,39 @@
   "first_run": false,
   "repos": [
    {
+    "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
+    "owner": "krisgfx9",
+    "name": "Wireless-Device-Battery-Monitor",
+    "stars": 2463,
+    "velocity": 2266,
+    "delta": 1781,
+    "age_days": 1.1,
+    "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t",
+    "new": false
+   },
+   {
+    "repo": "gylive/google-ultra",
+    "owner": "gylive",
+    "name": "google-ultra",
+    "stars": 1370,
+    "velocity": 1370,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "",
+    "new": true,
+    "variants": [
+     "google ultra",
+     "gylive google ultra"
+    ]
+   },
+   {
     "repo": "huamidev/GestaltX",
     "owner": "huamidev",
     "name": "GestaltX",
-    "stars": 7962,
-    "velocity": 977,
-    "delta": 88,
-    "age_days": 8.2,
+    "stars": 8100,
+    "velocity": 933,
+    "delta": 138,
+    "age_days": 8.7,
     "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
     "new": false
    },
@@ -123,21 +272,53 @@
     "repo": "deepseek-ai/chat-demo",
     "owner": "deepseek-ai",
     "name": "chat-demo",
-    "stars": 4316,
-    "velocity": 858,
-    "delta": 277,
-    "age_days": 5.0,
+    "stars": 4507,
+    "velocity": 811,
+    "delta": 191,
+    "age_days": 5.6,
     "description": "Chat Demo",
     "new": false
+   },
+   {
+    "repo": "sybil-solutions/inference-optimisation-skill",
+    "owner": "sybil-solutions",
+    "name": "inference-optimisation-skill",
+    "stars": 876,
+    "velocity": 782,
+    "delta": null,
+    "age_days": 1.1,
+    "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any ",
+    "new": true,
+    "variants": [
+     "inference optimisation skill",
+     "sybil-solutions inference optimisation skill",
+     "sybil inference optimisation skill"
+    ]
+   },
+   {
+    "repo": "erkamyaman/rust-anything",
+    "owner": "erkamyaman",
+    "name": "rust-anything",
+    "stars": 1043,
+    "velocity": 750,
+    "delta": null,
+    "age_days": 1.4,
+    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
+    "new": true,
+    "variants": [
+     "rust anything",
+     "erkamyaman rust anything",
+     "erkam rust anything"
+    ]
    },
    {
     "repo": "janestreet/agent_skills",
     "owner": "janestreet",
     "name": "agent_skills",
-    "stars": 9710,
-    "velocity": 710,
-    "delta": 146,
-    "age_days": 13.7,
+    "stars": 9858,
+    "velocity": 694,
+    "delta": 148,
+    "age_days": 14.2,
     "description": "Agent skills",
     "new": false
    },
@@ -145,48 +326,63 @@
     "repo": "Minireel/HGhub",
     "owner": "Minireel",
     "name": "HGhub",
-    "stars": 9671,
-    "velocity": 702,
-    "delta": 191,
-    "age_days": 13.8,
+    "stars": 9823,
+    "velocity": 686,
+    "delta": 152,
+    "age_days": 14.3,
     "description": "Plug-in media player",
     "new": false
    },
    {
-    "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
-    "owner": "krisgfx9",
-    "name": "Wireless-Device-Battery-Monitor",
-    "stars": 682,
-    "velocity": 682,
-    "delta": null,
-    "age_days": 1.0,
-    "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t",
+    "repo": "Immortal-Protocols/lastbook",
+    "owner": "Immortal-Protocols",
+    "name": "lastbook",
+    "stars": 1627,
+    "velocity": 332,
+    "delta": 660,
+    "age_days": 4.9,
+    "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
     "new": true,
     "variants": [
-     "wireless device battery monitor",
-     "krisgfx9 wireless device battery monitor",
-     "krisgfx wireless device battery monitor"
+     "lastbook",
+     "immortal-protocols lastbook"
     ]
    },
    {
-    "repo": "hitkeeen/blender-ai-mcp-addon",
-    "owner": "hitkeeen",
-    "name": "blender-ai-mcp-addon",
-    "stars": 2332,
-    "velocity": 489,
-    "delta": 173,
-    "age_days": 4.8,
-    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
+    "repo": "chuanqisun/spaceship",
+    "owner": "chuanqisun",
+    "name": "spaceship",
+    "stars": 657,
+    "velocity": 511,
+    "delta": null,
+    "age_days": 1.3,
+    "description": "Steer your ideas in realtime",
+    "new": true,
+    "variants": [
+     "spaceship",
+     "chuanqisun spaceship",
+     "sun spaceship"
+    ]
+   },
+   {
+    "repo": "ersinkoc/phonebox",
+    "owner": "ersinkoc",
+    "name": "phonebox",
+    "stars": 2579,
+    "velocity": 253,
+    "delta": 439,
+    "age_days": 10.2,
+    "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widget",
     "new": false
    },
    {
     "repo": "duwqijlk/muse-protocol",
     "owner": "duwqijlk",
     "name": "muse-protocol",
-    "stars": 1524,
-    "velocity": 460,
-    "delta": 95,
-    "age_days": 3.3,
+    "stars": 1578,
+    "velocity": 411,
+    "delta": 54,
+    "age_days": 3.8,
     "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
     "new": false
    },
@@ -194,142 +390,103 @@
     "repo": "tangerineturtle1/NX2navi",
     "owner": "tangerineturtle1",
     "name": "NX2navi",
-    "stars": 4293,
-    "velocity": 431,
-    "delta": 11,
-    "age_days": 10.0,
+    "stars": 4295,
+    "velocity": 410,
+    "delta": 2,
+    "age_days": 10.5,
     "description": "",
-    "new": false
-   },
-   {
-    "repo": "KKKKhazix/agent-autoloop",
-    "owner": "KKKKhazix",
-    "name": "agent-autoloop",
-    "stars": 5742,
-    "velocity": 409,
-    "delta": 57,
-    "age_days": 14.0,
-    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "new": false
-   },
-   {
-    "repo": "apex-compute/ANR",
-    "owner": "apex-compute",
-    "name": "ANR",
-    "stars": 2519,
-    "velocity": 407,
-    "delta": 64,
-    "age_days": 6.2,
-    "description": "Apex Neural Rendering (ANR) by Apex Compute",
     "new": false
    },
    {
     "repo": "Noniv/abyssal-garden",
     "owner": "Noniv",
     "name": "abyssal-garden",
-    "stars": 1896,
-    "velocity": 396,
-    "delta": 236,
-    "age_days": 4.8,
+    "stars": 2123,
+    "velocity": 399,
+    "delta": 227,
+    "age_days": 5.3,
     "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta ",
     "new": false
    },
    {
-    "repo": "jhaizhou-ops/S2Arm",
-    "owner": "jhaizhou-ops",
-    "name": "S2Arm",
-    "stars": 3414,
-    "velocity": 374,
-    "delta": 53,
-    "age_days": 9.1,
-    "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
-    "new": false
-   },
-   {
-    "repo": "joshpuckett/allo",
-    "owner": "joshpuckett",
-    "name": "allo",
-    "stars": 559,
-    "velocity": 341,
-    "delta": null,
-    "age_days": 1.6,
-    "description": "Allo is your friendly neighborhood typeface, free and open source",
-    "new": true,
-    "variants": [
-     "allo",
-     "joshpuckett allo",
-     "josh allo"
-    ]
-   },
-   {
-    "repo": "ersinkoc/phonebox",
-    "owner": "ersinkoc",
-    "name": "phonebox",
-    "stars": 2140,
-    "velocity": 221,
-    "delta": 316,
-    "age_days": 9.7,
-    "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widget",
-    "new": true,
-    "variants": [
-     "phonebox",
-     "ersinkoc phonebox",
-     "ersin phonebox"
-    ]
-   },
-   {
-    "repo": "JenkinWoo/sheeridVerify",
-    "owner": "JenkinWoo",
-    "name": "sheeridVerify",
-    "stars": 3391,
-    "velocity": 309,
-    "delta": 40,
-    "age_days": 11.0,
-    "description": "",
+    "repo": "KKKKhazix/agent-autoloop",
+    "owner": "KKKKhazix",
+    "name": "agent-autoloop",
+    "stars": 5796,
+    "velocity": 398,
+    "delta": 54,
+    "age_days": 14.6,
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
     "new": false
    }
   ],
   "terms": [
    {
-    "term": "wireless device battery monitor",
+    "term": "google ultra",
     "recent": 1,
     "variants": [
-     "wireless device battery monitor",
-     "krisgfx9 wireless device battery monitor",
-     "krisgfx wireless device battery monitor"
+     "google ultra",
+     "gylive google ultra"
     ],
-    "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
-    "note": "GitHub breakout krisgfx9/Wireless-Device-Battery-Monitor ★682 (682/day)",
+    "repo": "gylive/google-ultra",
+    "note": "GitHub breakout gylive/google-ultra ★1370 (1370/day)",
     "examples": [
-     "krisgfx9/Wireless-Device-Battery-Monitor: Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t"
+     "gylive/google-ultra: "
     ]
    },
    {
-    "term": "allo",
+    "term": "inference optimisation skill",
     "recent": 1,
     "variants": [
-     "allo",
-     "joshpuckett allo",
-     "josh allo"
+     "inference optimisation skill",
+     "sybil-solutions inference optimisation skill",
+     "sybil inference optimisation skill"
     ],
-    "repo": "joshpuckett/allo",
-    "note": "GitHub breakout joshpuckett/allo ★559 (341/day)",
+    "repo": "sybil-solutions/inference-optimisation-skill",
+    "note": "GitHub breakout sybil-solutions/inference-optimisation-skill ★876 (782/day)",
     "examples": [
-     "joshpuckett/allo: Allo is your friendly neighborhood typeface, free and open source"
+     "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any "
     ]
    },
    {
-    "term": "phonebox",
+    "term": "rust anything",
     "recent": 1,
     "variants": [
-     "phonebox",
-     "ersinkoc phonebox",
-     "ersin phonebox"
+     "rust anything",
+     "erkamyaman rust anything",
+     "erkam rust anything"
     ],
-    "repo": "ersinkoc/phonebox",
-    "note": "GitHub breakout ersinkoc/phonebox ★2140 (221/day, +316 in a day)",
+    "repo": "erkamyaman/rust-anything",
+    "note": "GitHub breakout erkamyaman/rust-anything ★1043 (750/day)",
     "examples": [
-     "ersinkoc/phonebox: Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widget"
+     "erkamyaman/rust-anything: Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI"
+    ]
+   },
+   {
+    "term": "lastbook",
+    "recent": 1,
+    "variants": [
+     "lastbook",
+     "immortal-protocols lastbook"
+    ],
+    "repo": "Immortal-Protocols/lastbook",
+    "note": "GitHub breakout Immortal-Protocols/lastbook ★1627 (332/day, +660 in a day)",
+    "examples": [
+     "Immortal-Protocols/lastbook: Offline knowledge AI, maps and videos for survival and rebuilding"
+    ]
+   },
+   {
+    "term": "spaceship",
+    "recent": 1,
+    "variants": [
+     "spaceship",
+     "chuanqisun spaceship",
+     "sun spaceship"
+    ],
+    "repo": "chuanqisun/spaceship",
+    "note": "GitHub breakout chuanqisun/spaceship ★657 (511/day)",
+    "examples": [
+     "chuanqisun/spaceship: Steer your ideas in realtime"
     ]
    }
   ],
@@ -358,7 +515,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 130,
+  "pending": 139,
   "window_days": 60
  },
  "keywords": {
