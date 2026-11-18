@@ -1,177 +1,112 @@
 {
  "leads": [
   {
-   "term": "sensenova loop",
+   "term": "fastframes l",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #12"
+    "Hugging Face: new at #21"
    ],
    "examples": [
-    "sensenova/SenseNova-Loop-9B (image-text-to-text, ♥156)"
+    "apple/FastFrames-L (text-to-video, ♥114)"
    ],
    "variants": [],
    "posts": [],
-   "known": "",
-   "format": "image",
-   "one_click": null
-  },
-  {
-   "term": "rmbg 3.0",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face: new at #44"
-   ],
-   "examples": [
-    "briaai/RMBG-3.0 (image-segmentation, ♥57)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "image",
-   "one_click": null
-  },
-  {
-   "term": "qwen3.8 pi adapted",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face: new at #27"
-   ],
-   "examples": [
-    "harness-hub/Qwen3.8-27B-pi-adapted (?, ♥78)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "nvidia nemotron 3.5 bolt e4b 4gb",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face: new at #34"
-   ],
-   "examples": [
-    "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB (text-generation, ♥483)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "lastbook",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout Immortal-Protocols/lastbook ★1627 (332/day, +660 in a day)"
-   ],
-   "examples": [
-    "Immortal-Protocols/lastbook: Offline knowledge AI, maps and videos for survival and rebuilding"
-   ],
-   "variants": [
-    "lastbook",
-    "immortal-protocols lastbook"
-   ],
-   "posts": [],
-   "repo": "Immortal-Protocols/lastbook",
    "known": "",
    "format": "video",
    "one_click": null
   },
   {
-   "term": "google ultra",
+   "term": "hy4 flash",
    "kinds": [
-    "breakout"
+    "hf"
    ],
    "signals": [
-    "GitHub breakout gylive/google-ultra ★1370 (1370/day)"
+    "Hugging Face: new at #24"
    ],
    "examples": [
-    "gylive/google-ultra: "
+    "tencent/Hy4-flash (image-text-to-text, ♥113)"
    ],
-   "variants": [
-    "google ultra",
-    "gylive google ultra"
-   ],
+   "variants": [],
    "posts": [],
-   "repo": "gylive/google-ultra",
+   "known": "",
+   "format": "image",
+   "one_click": null
+  },
+  {
+   "term": "openthai2.1 ocr text 20261118",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face: new at #49"
+   ],
+   "examples": [
+    "iapp/OpenThai2.1-OCR-Text-20261118 (image-to-text, ♥94)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "image",
+   "one_click": null
+  },
+  {
+   "term": "slack moji",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face Spaces: new at #20"
+   ],
+   "examples": [
+    "cfahlgren1/slack-moji (static, ♥27)"
+   ],
+   "variants": [],
+   "posts": [],
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "inference optimisation skill",
+   "term": "gestaltx",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout sybil-solutions/inference-optimisation-skill ★876 (782/day)"
+    "GitHub breakout huami-dev/GestaltX ★8212 (900/day)"
    ],
    "examples": [
-    "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any "
+    "huami-dev/GestaltX: An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups."
    ],
    "variants": [
-    "inference optimisation skill",
-    "sybil-solutions inference optimisation skill",
-    "sybil inference optimisation skill"
+    "gestaltx",
+    "huami-dev gestaltx",
+    "huamidev gestaltx"
    ],
    "posts": [],
-   "repo": "sybil-solutions/inference-optimisation-skill",
+   "repo": "huami-dev/GestaltX",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "rust anything",
+   "term": "boring marketing skills",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout erkamyaman/rust-anything ★1043 (750/day)"
+    "GitHub breakout boringmarketer/boring-marketing-skills ★589 (344/day, +86 in a day)"
    ],
    "examples": [
-    "erkamyaman/rust-anything: Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI"
+    "boringmarketer/boring-marketing-skills: 32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, "
    ],
    "variants": [
-    "rust anything",
-    "erkamyaman rust anything",
-    "erkam rust anything"
+    "boring marketing skills",
+    "boringmarketer boring marketing skills"
    ],
    "posts": [],
-   "repo": "erkamyaman/rust-anything",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "spaceship",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout chuanqisun/spaceship ★657 (511/day)"
-   ],
-   "examples": [
-    "chuanqisun/spaceship: Steer your ideas in realtime"
-   ],
-   "variants": [
-    "spaceship",
-    "chuanqisun spaceship",
-    "sun spaceship"
-   ],
-   "posts": [],
-   "repo": "chuanqisun/spaceship",
+   "repo": "boringmarketer/boring-marketing-skills",
    "known": "",
    "format": "text",
    "one_click": null
@@ -184,44 +119,44 @@
   "first_run": false,
   "terms": [
    {
-    "term": "sensenova loop",
-    "rank": 12,
+    "term": "fastframes l",
+    "rank": 21,
     "copies": 1,
     "examples": [
-     "sensenova/SenseNova-Loop-9B (image-text-to-text, ♥156)"
+     "apple/FastFrames-L (text-to-video, ♥114)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #12"
+    "note": "Hugging Face: new at #21"
    },
    {
-    "term": "qwen3.8 pi adapted",
-    "rank": 27,
+    "term": "hy4 flash",
+    "rank": 24,
     "copies": 1,
     "examples": [
-     "harness-hub/Qwen3.8-27B-pi-adapted (?, ♥78)"
+     "tencent/Hy4-flash (image-text-to-text, ♥113)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #27"
+    "note": "Hugging Face: new at #24"
    },
    {
-    "term": "nvidia nemotron 3.5 bolt e4b 4gb",
-    "rank": 34,
+    "term": "openthai2.1 ocr text 20261118",
+    "rank": 49,
     "copies": 1,
     "examples": [
-     "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB (text-generation, ♥483)"
+     "iapp/OpenThai2.1-OCR-Text-20261118 (image-to-text, ♥94)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #34"
+    "note": "Hugging Face: new at #49"
    },
    {
-    "term": "rmbg 3.0",
-    "rank": 44,
+    "term": "slack moji",
+    "rank": 20,
     "copies": 1,
     "examples": [
-     "briaai/RMBG-3.0 (image-segmentation, ♥57)"
+     "cfahlgren1/slack-moji (static, ♥27)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #44"
+    "note": "Hugging Face Spaces: new at #20"
    }
   ],
   "models": 100,
@@ -232,50 +167,62 @@
   "first_run": false,
   "repos": [
    {
+    "repo": "gylive/google-ultra",
+    "owner": "gylive",
+    "name": "google-ultra",
+    "stars": 2267,
+    "velocity": 2267,
+    "delta": 897,
+    "age_days": 1.0,
+    "description": "",
+    "new": false
+   },
+   {
     "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
     "owner": "krisgfx9",
     "name": "Wireless-Device-Battery-Monitor",
-    "stars": 2463,
-    "velocity": 2266,
-    "delta": 1781,
-    "age_days": 1.1,
+    "stars": 3236,
+    "velocity": 2108,
+    "delta": 773,
+    "age_days": 1.5,
     "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t",
     "new": false
    },
    {
-    "repo": "gylive/google-ultra",
-    "owner": "gylive",
-    "name": "google-ultra",
-    "stars": 1370,
-    "velocity": 1370,
-    "delta": null,
-    "age_days": 1.0,
-    "description": "",
-    "new": true,
-    "variants": [
-     "google ultra",
-     "gylive google ultra"
-    ]
+    "repo": "erkamyaman/rust-anything",
+    "owner": "erkamyaman",
+    "name": "rust-anything",
+    "stars": 2010,
+    "velocity": 1093,
+    "delta": 967,
+    "age_days": 1.8,
+    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
+    "new": false
    },
    {
-    "repo": "huamidev/GestaltX",
-    "owner": "huamidev",
+    "repo": "huami-dev/GestaltX",
+    "owner": "huami-dev",
     "name": "GestaltX",
-    "stars": 8100,
-    "velocity": 933,
-    "delta": 138,
-    "age_days": 8.7,
+    "stars": 8212,
+    "velocity": 900,
+    "delta": null,
+    "age_days": 9.1,
     "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
-    "new": false
+    "new": true,
+    "variants": [
+     "gestaltx",
+     "huami-dev gestaltx",
+     "huamidev gestaltx"
+    ]
    },
    {
     "repo": "deepseek-ai/chat-demo",
     "owner": "deepseek-ai",
     "name": "chat-demo",
-    "stars": 4507,
-    "velocity": 811,
-    "delta": 191,
-    "age_days": 5.6,
+    "stars": 4649,
+    "velocity": 774,
+    "delta": 142,
+    "age_days": 6.0,
     "description": "Chat Demo",
     "new": false
    },
@@ -283,117 +230,32 @@
     "repo": "sybil-solutions/inference-optimisation-skill",
     "owner": "sybil-solutions",
     "name": "inference-optimisation-skill",
-    "stars": 876,
-    "velocity": 782,
-    "delta": null,
-    "age_days": 1.1,
+    "stars": 991,
+    "velocity": 632,
+    "delta": 115,
+    "age_days": 1.6,
     "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any ",
-    "new": true,
-    "variants": [
-     "inference optimisation skill",
-     "sybil-solutions inference optimisation skill",
-     "sybil inference optimisation skill"
-    ]
-   },
-   {
-    "repo": "erkamyaman/rust-anything",
-    "owner": "erkamyaman",
-    "name": "rust-anything",
-    "stars": 1043,
-    "velocity": 750,
-    "delta": null,
-    "age_days": 1.4,
-    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
-    "new": true,
-    "variants": [
-     "rust anything",
-     "erkamyaman rust anything",
-     "erkam rust anything"
-    ]
-   },
-   {
-    "repo": "janestreet/agent_skills",
-    "owner": "janestreet",
-    "name": "agent_skills",
-    "stars": 9858,
-    "velocity": 694,
-    "delta": 148,
-    "age_days": 14.2,
-    "description": "Agent skills",
     "new": false
-   },
-   {
-    "repo": "Minireel/HGhub",
-    "owner": "Minireel",
-    "name": "HGhub",
-    "stars": 9823,
-    "velocity": 686,
-    "delta": 152,
-    "age_days": 14.3,
-    "description": "Plug-in media player",
-    "new": false
-   },
-   {
-    "repo": "Immortal-Protocols/lastbook",
-    "owner": "Immortal-Protocols",
-    "name": "lastbook",
-    "stars": 1627,
-    "velocity": 332,
-    "delta": 660,
-    "age_days": 4.9,
-    "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
-    "new": true,
-    "variants": [
-     "lastbook",
-     "immortal-protocols lastbook"
-    ]
    },
    {
     "repo": "chuanqisun/spaceship",
     "owner": "chuanqisun",
     "name": "spaceship",
-    "stars": 657,
-    "velocity": 511,
-    "delta": null,
-    "age_days": 1.3,
+    "stars": 781,
+    "velocity": 451,
+    "delta": 124,
+    "age_days": 1.7,
     "description": "Steer your ideas in realtime",
-    "new": true,
-    "variants": [
-     "spaceship",
-     "chuanqisun spaceship",
-     "sun spaceship"
-    ]
-   },
-   {
-    "repo": "ersinkoc/phonebox",
-    "owner": "ersinkoc",
-    "name": "phonebox",
-    "stars": 2579,
-    "velocity": 253,
-    "delta": 439,
-    "age_days": 10.2,
-    "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widget",
-    "new": false
-   },
-   {
-    "repo": "duwqijlk/muse-protocol",
-    "owner": "duwqijlk",
-    "name": "muse-protocol",
-    "stars": 1578,
-    "velocity": 411,
-    "delta": 54,
-    "age_days": 3.8,
-    "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
     "new": false
    },
    {
     "repo": "tangerineturtle1/NX2navi",
     "owner": "tangerineturtle1",
     "name": "NX2navi",
-    "stars": 4295,
-    "velocity": 410,
-    "delta": 2,
-    "age_days": 10.5,
+    "stars": 4310,
+    "velocity": 394,
+    "delta": 15,
+    "age_days": 10.9,
     "description": "",
     "new": false
    },
@@ -401,92 +263,110 @@
     "repo": "Noniv/abyssal-garden",
     "owner": "Noniv",
     "name": "abyssal-garden",
-    "stars": 2123,
-    "velocity": 399,
-    "delta": 227,
-    "age_days": 5.3,
+    "stars": 2255,
+    "velocity": 391,
+    "delta": 132,
+    "age_days": 5.8,
     "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta ",
     "new": false
    },
    {
-    "repo": "KKKKhazix/agent-autoloop",
-    "owner": "KKKKhazix",
-    "name": "agent-autoloop",
-    "stars": 5796,
-    "velocity": 398,
-    "delta": 54,
-    "age_days": 14.6,
-    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "repo": "duwqijlk/muse-protocol",
+    "owner": "duwqijlk",
+    "name": "muse-protocol",
+    "stars": 1609,
+    "velocity": 375,
+    "delta": 31,
+    "age_days": 4.3,
+    "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
     "new": false
+   },
+   {
+    "repo": "apex-compute/ANR",
+    "owner": "apex-compute",
+    "name": "ANR",
+    "stars": 2614,
+    "velocity": 365,
+    "delta": 35,
+    "age_days": 7.2,
+    "description": "Apex Neural Rendering (ANR) by Apex Compute",
+    "new": false
+   },
+   {
+    "repo": "joshpuckett/allo",
+    "owner": "joshpuckett",
+    "name": "allo",
+    "stars": 949,
+    "velocity": 363,
+    "delta": 98,
+    "age_days": 2.6,
+    "description": "Allo is your friendly neighborhood typeface, free and open source",
+    "new": false
+   },
+   {
+    "repo": "Immortal-Protocols/lastbook",
+    "owner": "Immortal-Protocols",
+    "name": "lastbook",
+    "stars": 1923,
+    "velocity": 359,
+    "delta": 296,
+    "age_days": 5.4,
+    "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+    "new": false
+   },
+   {
+    "repo": "jhaizhou-ops/S2Arm",
+    "owner": "jhaizhou-ops",
+    "name": "S2Arm",
+    "stars": 3542,
+    "velocity": 351,
+    "delta": 71,
+    "age_days": 10.1,
+    "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
+    "new": false
+   },
+   {
+    "repo": "boringmarketer/boring-marketing-skills",
+    "owner": "boringmarketer",
+    "name": "boring-marketing-skills",
+    "stars": 589,
+    "velocity": 344,
+    "delta": 86,
+    "age_days": 1.7,
+    "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, ",
+    "new": true,
+    "variants": [
+     "boring marketing skills",
+     "boringmarketer boring marketing skills"
+    ]
    }
   ],
   "terms": [
    {
-    "term": "google ultra",
+    "term": "gestaltx",
     "recent": 1,
     "variants": [
-     "google ultra",
-     "gylive google ultra"
+     "gestaltx",
+     "huami-dev gestaltx",
+     "huamidev gestaltx"
     ],
-    "repo": "gylive/google-ultra",
-    "note": "GitHub breakout gylive/google-ultra ★1370 (1370/day)",
+    "repo": "huami-dev/GestaltX",
+    "note": "GitHub breakout huami-dev/GestaltX ★8212 (900/day)",
     "examples": [
-     "gylive/google-ultra: "
+     "huami-dev/GestaltX: An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups."
     ]
    },
    {
-    "term": "inference optimisation skill",
+    "term": "boring marketing skills",
     "recent": 1,
     "variants": [
-     "inference optimisation skill",
-     "sybil-solutions inference optimisation skill",
-     "sybil inference optimisation skill"
+     "boring marketing skills",
+     "boringmarketer boring marketing skills"
     ],
-    "repo": "sybil-solutions/inference-optimisation-skill",
-    "note": "GitHub breakout sybil-solutions/inference-optimisation-skill ★876 (782/day)",
+    "repo": "boringmarketer/boring-marketing-skills",
+    "note": "GitHub breakout boringmarketer/boring-marketing-skills ★589 (344/day, +86 in a day)",
     "examples": [
-     "sybil-solutions/inference-optimisation-skill: Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any "
-    ]
-   },
-   {
-    "term": "rust anything",
-    "recent": 1,
-    "variants": [
-     "rust anything",
-     "erkamyaman rust anything",
-     "erkam rust anything"
-    ],
-    "repo": "erkamyaman/rust-anything",
-    "note": "GitHub breakout erkamyaman/rust-anything ★1043 (750/day)",
-    "examples": [
-     "erkamyaman/rust-anything: Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI"
-    ]
-   },
-   {
-    "term": "lastbook",
-    "recent": 1,
-    "variants": [
-     "lastbook",
-     "immortal-protocols lastbook"
-    ],
-    "repo": "Immortal-Protocols/lastbook",
-    "note": "GitHub breakout Immortal-Protocols/lastbook ★1627 (332/day, +660 in a day)",
-    "examples": [
-     "Immortal-Protocols/lastbook: Offline knowledge AI, maps and videos for survival and rebuilding"
-    ]
-   },
-   {
-    "term": "spaceship",
-    "recent": 1,
-    "variants": [
-     "spaceship",
-     "chuanqisun spaceship",
-     "sun spaceship"
-    ],
-    "repo": "chuanqisun/spaceship",
-    "note": "GitHub breakout chuanqisun/spaceship ★657 (511/day)",
-    "examples": [
-     "chuanqisun/spaceship: Steer your ideas in realtime"
+     "boringmarketer/boring-marketing-skills: 32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, "
     ]
    }
   ],
@@ -515,7 +395,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 139,
+  "pending": 144,
   "window_days": 60
  },
  "keywords": {
