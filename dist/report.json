@@ -1,37 +1,145 @@
 {
  "leads": [
   {
-   "term": "voice isolator",
+   "term": "clairic",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #18"
+    "Hugging Face: new at #41"
    ],
    "examples": [
-    "inworld/voice-isolator (audio-to-audio, ♥128)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "voice",
-   "one_click": null
-  },
-  {
-   "term": "daisyrose",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face: new at #32"
-   ],
-   "examples": [
-    "RadixArk/DaisyRose-27B (image-text-to-text, ♥105)"
+    "Cloudflare/clairic (image-text-to-text, ♥71)"
    ],
    "variants": [],
    "posts": [],
    "known": "",
    "format": "image",
+   "one_click": null
+  },
+  {
+   "term": "p image oss",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face Spaces: new at #7"
+   ],
+   "examples": [
+    "PrunaAI/P-Image-OSS (gradio, ♥188)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "image",
+   "one_click": null
+  },
+  {
+   "term": "gtavi claudecode",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout Bodila51/gtavi-claudecode ★749 (658/day)"
+   ],
+   "examples": [
+    "Bodila51/gtavi-claudecode: Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:1"
+   ],
+   "variants": [
+    "gtavi claudecode",
+    "bodila51 gtavi claudecode",
+    "codila gtavi claudecode"
+   ],
+   "posts": [],
+   "repo": "Bodila51/gtavi-claudecode",
+   "known": "",
+   "format": "video",
+   "one_click": null
+  },
+  {
+   "term": "vividframe gpu",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout sourmitocand1987/VividFrame-GPU ★639 (522/day)"
+   ],
+   "examples": [
+    "sourmitocand1987/VividFrame-GPU: Any source. One real-time GPU enhancement pipeline. · video enhancer · gpu video · real-time video enhancement · hdr · s"
+   ],
+   "variants": [
+    "vividframe gpu",
+    "sourmitocand1987 vividframe gpu"
+   ],
+   "posts": [],
+   "repo": "sourmitocand1987/VividFrame-GPU",
+   "known": "",
+   "format": "video",
+   "one_click": null
+  },
+  {
+   "term": "linger",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout simplexai-labs/linger ★1386 (143/day, +540 in a day)"
+   ],
+   "examples": [
+    "simplexai-labs/linger: Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing p"
+   ],
+   "variants": [
+    "linger",
+    "simplexai-labs linger",
+    "simplexai linger"
+   ],
+   "posts": [],
+   "repo": "simplexai-labs/linger",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "frameglide",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout bothaggsigym1988/frameglide ★603 (489/day)"
+   ],
+   "examples": [
+    "bothaggsigym1988/frameglide: From a 30 fps console stream to 60–120 fps on your PC. · frame-interpolation · frame-generation · nvidia · windows · dls"
+   ],
+   "variants": [
+    "frameglide",
+    "bothaggsigym1988 frameglide"
+   ],
+   "posts": [],
+   "repo": "bothaggsigym1988/frameglide",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "gta6recomp",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout 0marContreras/gta6recomp ★542 (458/day)"
+   ],
+   "examples": [
+    "0marContreras/gta6recomp: A GTA VI PC Port"
+   ],
+   "variants": [
+    "gta6recomp",
+    "0marcontreras gta6recomp",
+    "omar gta6recomp"
+   ],
+   "posts": [],
+   "repo": "0marContreras/gta6recomp",
+   "known": "",
+   "format": "text",
    "one_click": null
   }
  ],
@@ -42,24 +150,24 @@
   "first_run": false,
   "terms": [
    {
-    "term": "voice isolator",
-    "rank": 18,
+    "term": "clairic",
+    "rank": 41,
     "copies": 1,
     "examples": [
-     "inworld/voice-isolator (audio-to-audio, ♥128)"
+     "Cloudflare/clairic (image-text-to-text, ♥71)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #18"
+    "note": "Hugging Face: new at #41"
    },
    {
-    "term": "daisyrose",
-    "rank": 32,
+    "term": "p image oss",
+    "rank": 7,
     "copies": 1,
     "examples": [
-     "RadixArk/DaisyRose-27B (image-text-to-text, ♥105)"
+     "PrunaAI/P-Image-OSS (gradio, ♥188)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #32"
+    "note": "Hugging Face Spaces: new at #7"
    }
   ],
   "models": 100,
@@ -73,10 +181,10 @@
     "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
     "owner": "krisgfx9",
     "name": "Wireless-Device-Battery-Monitor",
-    "stars": 4209,
-    "velocity": 1655,
-    "delta": 399,
-    "age_days": 2.5,
+    "stars": 4605,
+    "velocity": 1498,
+    "delta": 396,
+    "age_days": 3.1,
     "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t",
     "new": false
    },
@@ -84,21 +192,32 @@
     "repo": "erkamyaman/rust-anything",
     "owner": "erkamyaman",
     "name": "rust-anything",
-    "stars": 3927,
-    "velocity": 1379,
-    "delta": 759,
-    "age_days": 2.8,
+    "stars": 5022,
+    "velocity": 1487,
+    "delta": 1095,
+    "age_days": 3.4,
     "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
+    "new": false
+   },
+   {
+    "repo": "gylive/google-ultra",
+    "owner": "gylive",
+    "name": "google-ultra",
+    "stars": 2438,
+    "velocity": 994,
+    "delta": null,
+    "age_days": 2.5,
+    "description": "",
     "new": false
    },
    {
     "repo": "huami1314/GestaltX",
     "owner": "huami1314",
     "name": "GestaltX",
-    "stars": 8441,
-    "velocity": 833,
-    "delta": 84,
-    "age_days": 10.1,
+    "stars": 8529,
+    "velocity": 800,
+    "delta": 88,
+    "age_days": 10.7,
     "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
     "new": false
    },
@@ -106,21 +225,110 @@
     "repo": "deepseek-ai/chat-demo",
     "owner": "deepseek-ai",
     "name": "chat-demo",
-    "stars": 4933,
-    "velocity": 703,
-    "delta": 126,
-    "age_days": 7.0,
+    "stars": 5020,
+    "velocity": 665,
+    "delta": 87,
+    "age_days": 7.5,
     "description": "Chat Demo",
+    "new": false
+   },
+   {
+    "repo": "Bodila51/gtavi-claudecode",
+    "owner": "Bodila51",
+    "name": "gtavi-claudecode",
+    "stars": 749,
+    "velocity": 658,
+    "delta": null,
+    "age_days": 1.1,
+    "description": "Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:1",
+    "new": true,
+    "variants": [
+     "gtavi claudecode",
+     "bodila51 gtavi claudecode",
+     "codila gtavi claudecode"
+    ]
+   },
+   {
+    "repo": "simplexai-labs/linger",
+    "owner": "simplexai-labs",
+    "name": "linger",
+    "stars": 1386,
+    "velocity": 143,
+    "delta": 540,
+    "age_days": 9.7,
+    "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing p",
+    "new": true,
+    "variants": [
+     "linger",
+     "simplexai-labs linger",
+     "simplexai linger"
+    ]
+   },
+   {
+    "repo": "sourmitocand1987/VividFrame-GPU",
+    "owner": "sourmitocand1987",
+    "name": "VividFrame-GPU",
+    "stars": 639,
+    "velocity": 522,
+    "delta": null,
+    "age_days": 1.2,
+    "description": "Any source. One real-time GPU enhancement pipeline. · video enhancer · gpu video · real-time video enhancement · hdr · s",
+    "new": true,
+    "variants": [
+     "vividframe gpu",
+     "sourmitocand1987 vividframe gpu"
+    ]
+   },
+   {
+    "repo": "bothaggsigym1988/frameglide",
+    "owner": "bothaggsigym1988",
+    "name": "frameglide",
+    "stars": 603,
+    "velocity": 489,
+    "delta": null,
+    "age_days": 1.2,
+    "description": "From a 30 fps console stream to 60–120 fps on your PC. · frame-interpolation · frame-generation · nvidia · windows · dls",
+    "new": true,
+    "variants": [
+     "frameglide",
+     "bothaggsigym1988 frameglide"
+    ]
+   },
+   {
+    "repo": "0marContreras/gta6recomp",
+    "owner": "0marContreras",
+    "name": "gta6recomp",
+    "stars": 542,
+    "velocity": 458,
+    "delta": null,
+    "age_days": 1.2,
+    "description": "A GTA VI PC Port",
+    "new": true,
+    "variants": [
+     "gta6recomp",
+     "0marcontreras gta6recomp",
+     "omar gta6recomp"
+    ]
+   },
+   {
+    "repo": "ersinkoc/phonebox",
+    "owner": "ersinkoc",
+    "name": "phonebox",
+    "stars": 3803,
+    "velocity": 312,
+    "delta": 414,
+    "age_days": 12.2,
+    "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widget",
     "new": false
    },
    {
     "repo": "sybil-solutions/inference-optimisation-skill",
     "owner": "sybil-solutions",
     "name": "inference-optimisation-skill",
-    "stars": 1167,
-    "velocity": 453,
-    "delta": 101,
-    "age_days": 2.6,
+    "stars": 1250,
+    "velocity": 402,
+    "delta": 83,
+    "age_days": 3.1,
     "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any ",
     "new": false
    },
@@ -128,114 +336,106 @@
     "repo": "Hut-hzf/ung220z-tool",
     "owner": "Hut-hzf",
     "name": "ung220z-tool",
-    "stars": 1511,
-    "velocity": 389,
-    "delta": 403,
-    "age_days": 3.9,
+    "stars": 1721,
+    "velocity": 390,
+    "delta": 210,
+    "age_days": 4.4,
     "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-    "new": false
-   },
-   {
-    "repo": "tangerineturtle1/NX2navi",
-    "owner": "tangerineturtle1",
-    "name": "NX2navi",
-    "stars": 4325,
-    "velocity": 362,
-    "delta": 7,
-    "age_days": 11.9,
-    "description": "",
-    "new": false
-   },
-   {
-    "repo": "Noniv/abyssal-garden",
-    "owner": "Noniv",
-    "name": "abyssal-garden",
-    "stars": 2436,
-    "velocity": 360,
-    "delta": 61,
-    "age_days": 6.8,
-    "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta ",
     "new": false
    },
    {
     "repo": "Immortal-Protocols/lastbook",
     "owner": "Immortal-Protocols",
     "name": "lastbook",
-    "stars": 2233,
-    "velocity": 351,
-    "delta": 98,
-    "age_days": 6.4,
+    "stars": 2520,
+    "velocity": 366,
+    "delta": 287,
+    "age_days": 6.9,
     "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
     "new": false
    },
    {
-    "repo": "jhaizhou-ops/S2Arm",
-    "owner": "jhaizhou-ops",
-    "name": "S2Arm",
-    "stars": 3631,
-    "velocity": 327,
-    "delta": 38,
-    "age_days": 11.1,
-    "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one ",
-    "new": false
-   },
-   {
-    "repo": "apex-compute/ANR",
-    "owner": "apex-compute",
-    "name": "ANR",
-    "stars": 2673,
-    "velocity": 327,
-    "delta": 21,
-    "age_days": 8.2,
-    "description": "Apex Neural Rendering (ANR) by Apex Compute",
-    "new": false
-   },
-   {
-    "repo": "chuanqisun/spaceship",
-    "owner": "chuanqisun",
-    "name": "spaceship",
-    "stars": 882,
-    "velocity": 322,
-    "delta": 30,
-    "age_days": 2.7,
-    "description": "Steer your ideas in realtime",
-    "new": false
-   },
-   {
-    "repo": "duwqijlk/muse-protocol",
-    "owner": "duwqijlk",
-    "name": "muse-protocol",
-    "stars": 1635,
-    "velocity": 309,
-    "delta": 9,
-    "age_days": 5.3,
-    "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-    "new": false
-   },
-   {
-    "repo": "joshpuckett/allo",
-    "owner": "joshpuckett",
-    "name": "allo",
-    "stars": 1073,
-    "velocity": 296,
-    "delta": 43,
-    "age_days": 3.6,
-    "description": "Allo is your friendly neighborhood typeface, free and open source",
-    "new": false
-   },
-   {
-    "repo": "ersinkoc/phonebox",
-    "owner": "ersinkoc",
-    "name": "phonebox",
-    "stars": 3389,
-    "velocity": 291,
-    "delta": 197,
-    "age_days": 11.7,
-    "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widget",
+    "repo": "tangerineturtle1/NX2navi",
+    "owner": "tangerineturtle1",
+    "name": "NX2navi",
+    "stars": 4330,
+    "velocity": 347,
+    "delta": 5,
+    "age_days": 12.5,
+    "description": "",
     "new": false
    }
   ],
-  "terms": [],
+  "terms": [
+   {
+    "term": "gtavi claudecode",
+    "recent": 1,
+    "variants": [
+     "gtavi claudecode",
+     "bodila51 gtavi claudecode",
+     "codila gtavi claudecode"
+    ],
+    "repo": "Bodila51/gtavi-claudecode",
+    "note": "GitHub breakout Bodila51/gtavi-claudecode ★749 (658/day)",
+    "examples": [
+     "Bodila51/gtavi-claudecode: Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:1"
+    ]
+   },
+   {
+    "term": "linger",
+    "recent": 1,
+    "variants": [
+     "linger",
+     "simplexai-labs linger",
+     "simplexai linger"
+    ],
+    "repo": "simplexai-labs/linger",
+    "note": "GitHub breakout simplexai-labs/linger ★1386 (143/day, +540 in a day)",
+    "examples": [
+     "simplexai-labs/linger: Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing p"
+    ]
+   },
+   {
+    "term": "vividframe gpu",
+    "recent": 1,
+    "variants": [
+     "vividframe gpu",
+     "sourmitocand1987 vividframe gpu"
+    ],
+    "repo": "sourmitocand1987/VividFrame-GPU",
+    "note": "GitHub breakout sourmitocand1987/VividFrame-GPU ★639 (522/day)",
+    "examples": [
+     "sourmitocand1987/VividFrame-GPU: Any source. One real-time GPU enhancement pipeline. · video enhancer · gpu video · real-time video enhancement · hdr · s"
+    ]
+   },
+   {
+    "term": "frameglide",
+    "recent": 1,
+    "variants": [
+     "frameglide",
+     "bothaggsigym1988 frameglide"
+    ],
+    "repo": "bothaggsigym1988/frameglide",
+    "note": "GitHub breakout bothaggsigym1988/frameglide ★603 (489/day)",
+    "examples": [
+     "bothaggsigym1988/frameglide: From a 30 fps console stream to 60–120 fps on your PC. · frame-interpolation · frame-generation · nvidia · windows · dls"
+    ]
+   },
+   {
+    "term": "gta6recomp",
+    "recent": 1,
+    "variants": [
+     "gta6recomp",
+     "0marcontreras gta6recomp",
+     "omar gta6recomp"
+    ],
+    "repo": "0marContreras/gta6recomp",
+    "note": "GitHub breakout 0marContreras/gta6recomp ★542 (458/day)",
+    "examples": [
+     "0marContreras/gta6recomp: A GTA VI PC Port"
+    ]
+   }
+  ],
   "window_days": 14
  },
  "sitemap": {
@@ -261,7 +461,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 150,
+  "pending": 157,
   "window_days": 60
  },
  "keywords": {
