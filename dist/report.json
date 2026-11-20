@@ -1,15 +1,15 @@
 {
  "leads": [
   {
-   "term": "hy4",
+   "term": "inkling 2 mini",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #46"
+    "Hugging Face: new at #21"
    ],
    "examples": [
-    "tencent/Hy4 (image-text-to-text, ♥53)"
+    "thinkingmachines/Inkling-2-Mini (image-text-to-text, ♥95)"
    ],
    "variants": [],
    "posts": [],
@@ -18,121 +18,22 @@
    "one_click": null
   },
   {
-   "term": "leaderboard",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face Spaces: new at #21"
-   ],
-   "examples": [
-    "agent-memory-leaderboard/leaderboard (static, ♥845)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "enterpriseops gym v1.1",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face Spaces: new at #37"
-   ],
-   "examples": [
-    "ServiceNow-AI/enterpriseops-gym-v1.1 (static, ♥19)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "neonclipping",
+   "term": "open source face recognition ultimate",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout iamajmeena/neonclipping ★678 (678/day)"
+    "GitHub breakout nataphong-lab/Open-Source-Face-Recognition-Ultimate ★461 (323/day)"
    ],
    "examples": [
-    "iamajmeena/neonclipping: Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption"
+    "nataphong-lab/Open-Source-Face-Recognition-Ultimate: Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matchi"
    ],
    "variants": [
-    "neonclipping",
-    "iamajmeena neonclipping"
+    "open source face recognition ultimate",
+    "nataphong-lab open source face recognition ultimate"
    ],
    "posts": [],
-   "repo": "iamajmeena/neonclipping",
-   "known": "",
-   "format": "video",
-   "one_click": null
-  },
-  {
-   "term": "blender ai mcp addon",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout bookwjitchieni1986/blender-ai-mcp-addon ★948 (948/day)"
-   ],
-   "examples": [
-    "bookwjitchieni1986/blender-ai-mcp-addon: AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude"
-   ],
-   "variants": [
-    "blender ai mcp addon",
-    "bookwjitchieni1986 blender ai mcp addon"
-   ],
-   "posts": [],
-   "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "kernarium",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout imxieyi/Kernarium ★1493 (117/day, +576 in a day)"
-   ],
-   "examples": [
-    "imxieyi/Kernarium: Run real Linux kernel natively on iOS"
-   ],
-   "variants": [
-    "kernarium",
-    "imxieyi kernarium",
-    "yi kernarium"
-   ],
-   "posts": [],
-   "repo": "imxieyi/Kernarium",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "fastunlock",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout MSNightmare/FastUnlock ★449 (449/day)"
-   ],
-   "examples": [
-    "MSNightmare/FastUnlock: FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability"
-   ],
-   "variants": [
-    "fastunlock",
-    "msnightmare fastunlock",
-    "birb fastunlock"
-   ],
-   "posts": [],
-   "repo": "MSNightmare/FastUnlock",
+   "repo": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
    "known": "",
    "format": "text",
    "one_click": null
@@ -145,34 +46,14 @@
   "first_run": false,
   "terms": [
    {
-    "term": "hy4",
-    "rank": 46,
-    "copies": 1,
-    "examples": [
-     "tencent/Hy4 (image-text-to-text, ♥53)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face: new at #46"
-   },
-   {
-    "term": "leaderboard",
+    "term": "inkling 2 mini",
     "rank": 21,
     "copies": 1,
     "examples": [
-     "agent-memory-leaderboard/leaderboard (static, ♥845)"
+     "thinkingmachines/Inkling-2-Mini (image-text-to-text, ♥95)"
     ],
     "recent": 1,
-    "note": "Hugging Face Spaces: new at #21"
-   },
-   {
-    "term": "enterpriseops gym v1.1",
-    "rank": 37,
-    "copies": 1,
-    "examples": [
-     "ServiceNow-AI/enterpriseops-gym-v1.1 (static, ♥19)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face Spaces: new at #37"
+    "note": "Hugging Face: new at #21"
    }
   ],
   "models": 100,
@@ -186,10 +67,10 @@
     "repo": "erkamyaman/rust-anything",
     "owner": "erkamyaman",
     "name": "rust-anything",
-    "stars": 5676,
-    "velocity": 1480,
-    "delta": 654,
-    "age_days": 3.8,
+    "stars": 6522,
+    "velocity": 1494,
+    "delta": 846,
+    "age_days": 4.4,
     "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
     "new": false
    },
@@ -197,10 +78,10 @@
     "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
     "owner": "krisgfx9",
     "name": "Wireless-Device-Battery-Monitor",
-    "stars": 4815,
-    "velocity": 1364,
-    "delta": 210,
-    "age_days": 3.5,
+    "stars": 5222,
+    "velocity": 1286,
+    "delta": 407,
+    "age_days": 4.1,
     "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t",
     "new": false
    },
@@ -208,138 +89,98 @@
     "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
     "owner": "bookwjitchieni1986",
     "name": "blender-ai-mcp-addon",
-    "stars": 948,
-    "velocity": 948,
-    "delta": null,
-    "age_days": 1.0,
+    "stars": 1546,
+    "velocity": 1227,
+    "delta": 598,
+    "age_days": 1.3,
     "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
-    "new": true,
-    "variants": [
-     "blender ai mcp addon",
-     "bookwjitchieni1986 blender ai mcp addon"
-    ]
-   },
-   {
-    "repo": "gylive/google-ultra",
-    "owner": "gylive",
-    "name": "google-ultra",
-    "stars": 2489,
-    "velocity": 855,
-    "delta": 51,
-    "age_days": 2.9,
-    "description": "",
-    "new": false
-   },
-   {
-    "repo": "simplexai-labs/linger",
-    "owner": "simplexai-labs",
-    "name": "linger",
-    "stars": 2229,
-    "velocity": 219,
-    "delta": 843,
-    "age_days": 10.2,
-    "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing p",
-    "new": false
-   },
-   {
-    "repo": "huami1314/GestaltX",
-    "owner": "huami1314",
-    "name": "GestaltX",
-    "stars": 8587,
-    "velocity": 772,
-    "delta": 58,
-    "age_days": 11.1,
-    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
     "new": false
    },
    {
     "repo": "iamajmeena/neonclipping",
     "owner": "iamajmeena",
     "name": "neonclipping",
-    "stars": 678,
-    "velocity": 678,
-    "delta": null,
-    "age_days": 1.0,
+    "stars": 1213,
+    "velocity": 833,
+    "delta": 535,
+    "age_days": 1.5,
     "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
-    "new": true,
-    "variants": [
-     "neonclipping",
-     "iamajmeena neonclipping"
-    ]
+    "new": false
    },
    {
-    "repo": "Bodila51/gtavi-claudecode",
-    "owner": "Bodila51",
-    "name": "gtavi-claudecode",
-    "stars": 1053,
-    "velocity": 660,
-    "delta": 304,
-    "age_days": 1.6,
-    "description": "Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campaigns, trending videos, best moments, 9:1",
+    "repo": "huami1314/GestaltX",
+    "owner": "huami1314",
+    "name": "GestaltX",
+    "stars": 8633,
+    "velocity": 741,
+    "delta": 46,
+    "age_days": 11.7,
+    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+    "new": false
+   },
+   {
+    "repo": "gylive/google-ultra",
+    "owner": "gylive",
+    "name": "google-ultra",
+    "stars": 2525,
+    "velocity": 734,
+    "delta": 36,
+    "age_days": 3.4,
+    "description": "",
     "new": false
    },
    {
     "repo": "deepseek-ai/chat-demo",
     "owner": "deepseek-ai",
     "name": "chat-demo",
-    "stars": 5071,
-    "velocity": 634,
-    "delta": 51,
-    "age_days": 8.0,
+    "stars": 5116,
+    "velocity": 599,
+    "delta": 45,
+    "age_days": 8.5,
     "description": "Chat Demo",
+    "new": false
+   },
+   {
+    "repo": "simplexai-labs/linger",
+    "owner": "simplexai-labs",
+    "name": "linger",
+    "stars": 2802,
+    "velocity": 262,
+    "delta": 573,
+    "age_days": 10.7,
+    "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing p",
     "new": false
    },
    {
     "repo": "imxieyi/Kernarium",
     "owner": "imxieyi",
     "name": "Kernarium",
-    "stars": 1493,
-    "velocity": 117,
-    "delta": 576,
-    "age_days": 12.7,
+    "stars": 1952,
+    "velocity": 147,
+    "delta": 459,
+    "age_days": 13.3,
     "description": "Run real Linux kernel natively on iOS",
-    "new": true,
-    "variants": [
-     "kernarium",
-     "imxieyi kernarium",
-     "yi kernarium"
-    ]
+    "new": false
    },
    {
     "repo": "MSNightmare/FastUnlock",
     "owner": "MSNightmare",
     "name": "FastUnlock",
-    "stars": 449,
-    "velocity": 449,
-    "delta": null,
-    "age_days": 1.0,
+    "stars": 555,
+    "velocity": 412,
+    "delta": 106,
+    "age_days": 1.3,
     "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
-    "new": true,
-    "variants": [
-     "fastunlock",
-     "msnightmare fastunlock",
-     "birb fastunlock"
-    ]
-   },
-   {
-    "repo": "0marContreras/gta6recomp",
-    "owner": "0marContreras",
-    "name": "gta6recomp",
-    "stars": 708,
-    "velocity": 432,
-    "delta": 166,
-    "age_days": 1.6,
-    "description": "A GTA VI PC Port",
     "new": false
    },
    {
     "repo": "Hut-hzf/ung220z-tool",
     "owner": "Hut-hzf",
     "name": "ung220z-tool",
-    "stars": 1857,
-    "velocity": 381,
-    "delta": 136,
-    "age_days": 4.9,
+    "stars": 1990,
+    "velocity": 368,
+    "delta": 133,
+    "age_days": 5.4,
     "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
     "new": false
    },
@@ -347,78 +188,63 @@
     "repo": "Immortal-Protocols/lastbook",
     "owner": "Immortal-Protocols",
     "name": "lastbook",
-    "stars": 2645,
-    "velocity": 360,
-    "delta": 125,
-    "age_days": 7.3,
+    "stars": 2719,
+    "velocity": 345,
+    "delta": 74,
+    "age_days": 7.9,
     "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+    "new": false
+   },
+   {
+    "repo": "tangerineturtle1/NX2navi",
+    "owner": "tangerineturtle1",
+    "name": "NX2navi",
+    "stars": 4342,
+    "velocity": 323,
+    "delta": 4,
+    "age_days": 13.5,
+    "description": "",
     "new": false
    },
    {
     "repo": "sybil-solutions/inference-optimisation-skill",
     "owner": "sybil-solutions",
     "name": "inference-optimisation-skill",
-    "stars": 1278,
-    "velocity": 359,
-    "delta": 28,
-    "age_days": 3.6,
+    "stars": 1323,
+    "velocity": 323,
+    "delta": 45,
+    "age_days": 4.1,
     "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any ",
     "new": false
+   },
+   {
+    "repo": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "owner": "nataphong-lab",
+    "name": "Open-Source-Face-Recognition-Ultimate",
+    "stars": 461,
+    "velocity": 323,
+    "delta": null,
+    "age_days": 1.4,
+    "description": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matchi",
+    "new": true,
+    "variants": [
+     "open source face recognition ultimate",
+     "nataphong-lab open source face recognition ultimate"
+    ]
    }
   ],
   "terms": [
    {
-    "term": "blender ai mcp addon",
+    "term": "open source face recognition ultimate",
     "recent": 1,
     "variants": [
-     "blender ai mcp addon",
-     "bookwjitchieni1986 blender ai mcp addon"
+     "open source face recognition ultimate",
+     "nataphong-lab open source face recognition ultimate"
     ],
-    "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
-    "note": "GitHub breakout bookwjitchieni1986/blender-ai-mcp-addon ★948 (948/day)",
+    "repo": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "note": "GitHub breakout nataphong-lab/Open-Source-Face-Recognition-Ultimate ★461 (323/day)",
     "examples": [
-     "bookwjitchieni1986/blender-ai-mcp-addon: AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude"
-    ]
-   },
-   {
-    "term": "neonclipping",
-    "recent": 1,
-    "variants": [
-     "neonclipping",
-     "iamajmeena neonclipping"
-    ],
-    "repo": "iamajmeena/neonclipping",
-    "note": "GitHub breakout iamajmeena/neonclipping ★678 (678/day)",
-    "examples": [
-     "iamajmeena/neonclipping: Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption"
-    ]
-   },
-   {
-    "term": "kernarium",
-    "recent": 1,
-    "variants": [
-     "kernarium",
-     "imxieyi kernarium",
-     "yi kernarium"
-    ],
-    "repo": "imxieyi/Kernarium",
-    "note": "GitHub breakout imxieyi/Kernarium ★1493 (117/day, +576 in a day)",
-    "examples": [
-     "imxieyi/Kernarium: Run real Linux kernel natively on iOS"
-    ]
-   },
-   {
-    "term": "fastunlock",
-    "recent": 1,
-    "variants": [
-     "fastunlock",
-     "msnightmare fastunlock",
-     "birb fastunlock"
-    ],
-    "repo": "MSNightmare/FastUnlock",
-    "note": "GitHub breakout MSNightmare/FastUnlock ★449 (449/day)",
-    "examples": [
-     "MSNightmare/FastUnlock: FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability"
+     "nataphong-lab/Open-Source-Face-Recognition-Ultimate: Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matchi"
     ]
    }
   ],
@@ -447,7 +273,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 163,
+  "pending": 165,
   "window_days": 60
  },
  "keywords": {
