@@ -1,15 +1,15 @@
 {
  "leads": [
   {
-   "term": "seedreamstyle h3 6k",
+   "term": "inkling 2 mini",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #45"
+    "Hugging Face: new at #20"
    ],
    "examples": [
-    "Nebsh/Seedreamstyle-H3-6K (text-to-image, ♥78)"
+    "AtomicChat/Inkling-2-Mini-Uncensored-GGUF (image-text-to-text, ♥174)"
    ],
    "variants": [],
    "posts": [],
@@ -18,82 +18,66 @@
    "one_click": null
   },
   {
-   "term": "olala v1.0 mini 7a1b",
+   "term": "leonida",
    "kinds": [
-    "hf"
+    "breakout"
    ],
    "signals": [
-    "Hugging Face: new at #50"
+    "GitHub breakout ItsNotRexed/Leonida ★2124 (2124/day)"
    ],
    "examples": [
-    "OVHaiLLM/Olala-v1.0-mini-7A1B-GGUF (text-generation, ♥73)"
+    "ItsNotRexed/Leonida: Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6"
    ],
-   "variants": [],
+   "variants": [
+    "leonida",
+    "itsnotrexed leonida",
+    "notrexed leonida"
+   ],
    "posts": [],
+   "repo": "ItsNotRexed/Leonida",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "google one tools",
+   "term": "xbox2windows",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout hatsunemiku-ai/google-one-tools ★466 (466/day)"
+    "GitHub breakout R0Y00/Xbox2Windows ★718 (656/day)"
    ],
    "examples": [
-    "hatsunemiku-ai/google-one-tools: "
+    "R0Y00/Xbox2Windows: Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures,"
    ],
    "variants": [
-    "google one tools",
-    "hatsunemiku-ai google one tools"
+    "xbox2windows",
+    "r0y00 xbox2windows",
+    "royoo xbox2windows"
    ],
    "posts": [],
-   "repo": "hatsunemiku-ai/google-one-tools",
+   "repo": "R0Y00/Xbox2Windows",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "mroffice",
+   "term": "xbox emulator",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout XinaTian/MROffice ★1185 (112/day, +449 in a day)"
+    "GitHub breakout omonkeyz/xbox-emulator ★539 (539/day)"
    ],
    "examples": [
-    "XinaTian/MROffice: MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai"
+    "omonkeyz/xbox-emulator: Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)"
    ],
    "variants": [
-    "mroffice",
-    "xinatian mroffice",
-    "xina mroffice"
+    "xbox emulator",
+    "omonkeyz xbox emulator"
    ],
    "posts": [],
-   "repo": "XinaTian/MROffice",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "riemann hypothesis lean",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout CocoSgt/riemann-hypothesis-lean ★350 (350/day)"
-   ],
-   "examples": [
-    "CocoSgt/riemann-hypothesis-lean: Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo."
-   ],
-   "variants": [
-    "riemann hypothesis lean",
-    "cocosgt riemann hypothesis lean"
-   ],
-   "posts": [],
-   "repo": "CocoSgt/riemann-hypothesis-lean",
+   "repo": "omonkeyz/xbox-emulator",
    "known": "",
    "format": "text",
    "one_click": null
@@ -106,24 +90,14 @@
   "first_run": false,
   "terms": [
    {
-    "term": "seedreamstyle h3 6k",
-    "rank": 45,
+    "term": "inkling 2 mini",
+    "rank": 20,
     "copies": 1,
     "examples": [
-     "Nebsh/Seedreamstyle-H3-6K (text-to-image, ♥78)"
+     "AtomicChat/Inkling-2-Mini-Uncensored-GGUF (image-text-to-text, ♥174)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #45"
-   },
-   {
-    "term": "olala v1.0 mini 7a1b",
-    "rank": 50,
-    "copies": 1,
-    "examples": [
-     "OVHaiLLM/Olala-v1.0-mini-7A1B-GGUF (text-generation, ♥73)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face: new at #50"
+    "note": "Hugging Face: new at #20"
    }
   ],
   "models": 100,
@@ -134,13 +108,29 @@
   "first_run": false,
   "repos": [
    {
+    "repo": "ItsNotRexed/Leonida",
+    "owner": "ItsNotRexed",
+    "name": "Leonida",
+    "stars": 2124,
+    "velocity": 2124,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+    "new": true,
+    "variants": [
+     "leonida",
+     "itsnotrexed leonida",
+     "notrexed leonida"
+    ]
+   },
+   {
     "repo": "erkamyaman/rust-anything",
     "owner": "erkamyaman",
     "name": "rust-anything",
-    "stars": 6888,
-    "velocity": 1426,
-    "delta": 366,
-    "age_days": 4.8,
+    "stars": 7299,
+    "velocity": 1371,
+    "delta": 411,
+    "age_days": 5.3,
     "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
     "new": false
    },
@@ -148,10 +138,10 @@
     "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
     "owner": "krisgfx9",
     "name": "Wireless-Device-Battery-Monitor",
-    "stars": 5465,
-    "velocity": 1208,
-    "delta": 243,
-    "age_days": 4.5,
+    "stars": 5761,
+    "velocity": 1147,
+    "delta": 296,
+    "age_days": 5.0,
     "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t",
     "new": false
    },
@@ -159,21 +149,32 @@
     "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
     "owner": "bookwjitchieni1986",
     "name": "blender-ai-mcp-addon",
-    "stars": 1874,
-    "velocity": 1087,
-    "delta": 328,
-    "age_days": 1.7,
+    "stars": 2181,
+    "velocity": 983,
+    "delta": 307,
+    "age_days": 2.2,
     "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
+    "new": false
+   },
+   {
+    "repo": "hatsunemiku-ai/google-one-tools",
+    "owner": "hatsunemiku-ai",
+    "name": "google-one-tools",
+    "stars": 948,
+    "velocity": 948,
+    "delta": 482,
+    "age_days": 1.0,
+    "description": "",
     "new": false
    },
    {
     "repo": "iamajmeena/neonclipping",
     "owner": "iamajmeena",
     "name": "neonclipping",
-    "stars": 1393,
-    "velocity": 726,
-    "delta": 180,
-    "age_days": 1.9,
+    "stars": 1705,
+    "velocity": 706,
+    "delta": 312,
+    "age_days": 2.4,
     "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
     "new": false
    },
@@ -181,21 +182,37 @@
     "repo": "huami1314/GestaltX",
     "owner": "huami1314",
     "name": "GestaltX",
-    "stars": 8673,
-    "velocity": 716,
-    "delta": 40,
-    "age_days": 12.1,
+    "stars": 8724,
+    "velocity": 692,
+    "delta": 51,
+    "age_days": 12.6,
     "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
     "new": false
+   },
+   {
+    "repo": "R0Y00/Xbox2Windows",
+    "owner": "R0Y00",
+    "name": "Xbox2Windows",
+    "stars": 718,
+    "velocity": 656,
+    "delta": null,
+    "age_days": 1.1,
+    "description": "Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures,",
+    "new": true,
+    "variants": [
+     "xbox2windows",
+     "r0y00 xbox2windows",
+     "royoo xbox2windows"
+    ]
    },
    {
     "repo": "gylive/google-ultra",
     "owner": "gylive",
     "name": "google-ultra",
-    "stars": 2555,
-    "velocity": 654,
-    "delta": 30,
-    "age_days": 3.9,
+    "stars": 2590,
+    "velocity": 589,
+    "delta": 35,
+    "age_days": 4.4,
     "description": "",
     "new": false
    },
@@ -203,52 +220,36 @@
     "repo": "deepseek-ai/chat-demo",
     "owner": "deepseek-ai",
     "name": "chat-demo",
-    "stars": 5165,
-    "velocity": 574,
-    "delta": 49,
-    "age_days": 9.0,
+    "stars": 5209,
+    "velocity": 549,
+    "delta": 44,
+    "age_days": 9.5,
     "description": "Chat Demo",
     "new": false
    },
    {
-    "repo": "hatsunemiku-ai/google-one-tools",
-    "owner": "hatsunemiku-ai",
-    "name": "google-one-tools",
-    "stars": 466,
-    "velocity": 466,
+    "repo": "omonkeyz/xbox-emulator",
+    "owner": "omonkeyz",
+    "name": "xbox-emulator",
+    "stars": 539,
+    "velocity": 539,
     "delta": null,
     "age_days": 1.0,
-    "description": "",
+    "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
     "new": true,
     "variants": [
-     "google one tools",
-     "hatsunemiku-ai google one tools"
-    ]
-   },
-   {
-    "repo": "XinaTian/MROffice",
-    "owner": "XinaTian",
-    "name": "MROffice",
-    "stars": 1185,
-    "velocity": 112,
-    "delta": 449,
-    "age_days": 10.6,
-    "description": "MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai",
-    "new": true,
-    "variants": [
-     "mroffice",
-     "xinatian mroffice",
-     "xina mroffice"
+     "xbox emulator",
+     "omonkeyz xbox emulator"
     ]
    },
    {
     "repo": "Hut-hzf/ung220z-tool",
     "owner": "Hut-hzf",
     "name": "ung220z-tool",
-    "stars": 2104,
-    "velocity": 359,
-    "delta": 114,
-    "age_days": 5.9,
+    "stars": 2210,
+    "velocity": 347,
+    "delta": 106,
+    "age_days": 6.4,
     "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
     "new": false
    },
@@ -256,101 +257,76 @@
     "repo": "CocoSgt/riemann-hypothesis-lean",
     "owner": "CocoSgt",
     "name": "riemann-hypothesis-lean",
-    "stars": 350,
-    "velocity": 350,
-    "delta": null,
-    "age_days": 1.0,
+    "stars": 419,
+    "velocity": 347,
+    "delta": 69,
+    "age_days": 1.2,
     "description": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.",
-    "new": true,
-    "variants": [
-     "riemann hypothesis lean",
-     "cocosgt riemann hypothesis lean"
-    ]
-   },
-   {
-    "repo": "MSNightmare/FastUnlock",
-    "owner": "MSNightmare",
-    "name": "FastUnlock",
-    "stars": 610,
-    "velocity": 337,
-    "delta": 55,
-    "age_days": 1.8,
-    "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
-    "new": false
-   },
-   {
-    "repo": "Immortal-Protocols/lastbook",
-    "owner": "Immortal-Protocols",
-    "name": "lastbook",
-    "stars": 2787,
-    "velocity": 334,
-    "delta": 68,
-    "age_days": 8.3,
-    "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
     "new": false
    },
    {
     "repo": "ersinkoc/phonebox",
     "owner": "ersinkoc",
     "name": "phonebox",
-    "stars": 4332,
-    "velocity": 318,
-    "delta": 137,
-    "age_days": 13.6,
+    "stars": 4588,
+    "velocity": 325,
+    "delta": 256,
+    "age_days": 14.1,
     "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widget",
     "new": false
    },
    {
-    "repo": "tangerineturtle1/NX2navi",
-    "owner": "tangerineturtle1",
-    "name": "NX2navi",
-    "stars": 4342,
-    "velocity": 312,
-    "delta": 0,
-    "age_days": 13.9,
-    "description": "",
+    "repo": "Immortal-Protocols/lastbook",
+    "owner": "Immortal-Protocols",
+    "name": "lastbook",
+    "stars": 2851,
+    "velocity": 323,
+    "delta": 64,
+    "age_days": 8.8,
+    "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
     "new": false
    }
   ],
   "terms": [
    {
-    "term": "google one tools",
+    "term": "leonida",
     "recent": 1,
     "variants": [
-     "google one tools",
-     "hatsunemiku-ai google one tools"
+     "leonida",
+     "itsnotrexed leonida",
+     "notrexed leonida"
     ],
-    "repo": "hatsunemiku-ai/google-one-tools",
-    "note": "GitHub breakout hatsunemiku-ai/google-one-tools ★466 (466/day)",
+    "repo": "ItsNotRexed/Leonida",
+    "note": "GitHub breakout ItsNotRexed/Leonida ★2124 (2124/day)",
     "examples": [
-     "hatsunemiku-ai/google-one-tools: "
+     "ItsNotRexed/Leonida: Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6"
     ]
    },
    {
-    "term": "mroffice",
+    "term": "xbox2windows",
     "recent": 1,
     "variants": [
-     "mroffice",
-     "xinatian mroffice",
-     "xina mroffice"
+     "xbox2windows",
+     "r0y00 xbox2windows",
+     "royoo xbox2windows"
     ],
-    "repo": "XinaTian/MROffice",
-    "note": "GitHub breakout XinaTian/MROffice ★1185 (112/day, +449 in a day)",
+    "repo": "R0Y00/Xbox2Windows",
+    "note": "GitHub breakout R0Y00/Xbox2Windows ★718 (656/day)",
     "examples": [
-     "XinaTian/MROffice: MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai"
+     "R0Y00/Xbox2Windows: Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures,"
     ]
    },
    {
-    "term": "riemann hypothesis lean",
+    "term": "xbox emulator",
     "recent": 1,
     "variants": [
-     "riemann hypothesis lean",
-     "cocosgt riemann hypothesis lean"
+     "xbox emulator",
+     "omonkeyz xbox emulator"
     ],
-    "repo": "CocoSgt/riemann-hypothesis-lean",
-    "note": "GitHub breakout CocoSgt/riemann-hypothesis-lean ★350 (350/day)",
+    "repo": "omonkeyz/xbox-emulator",
+    "note": "GitHub breakout omonkeyz/xbox-emulator ★539 (539/day)",
     "examples": [
-     "CocoSgt/riemann-hypothesis-lean: Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo."
+     "omonkeyz/xbox-emulator: Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)"
     ]
    }
   ],
@@ -379,7 +355,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 170,
+  "pending": 173,
   "window_days": 60
  },
  "keywords": {
