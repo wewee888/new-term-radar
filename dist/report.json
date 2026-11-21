@@ -1,15 +1,15 @@
 {
  "leads": [
   {
-   "term": "inkling 2 mini",
+   "term": "seedreamstyle h3 6k",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #21"
+    "Hugging Face: new at #45"
    ],
    "examples": [
-    "thinkingmachines/Inkling-2-Mini (image-text-to-text, ♥95)"
+    "Nebsh/Seedreamstyle-H3-6K (text-to-image, ♥78)"
    ],
    "variants": [],
    "posts": [],
@@ -18,22 +18,82 @@
    "one_click": null
   },
   {
-   "term": "open source face recognition ultimate",
+   "term": "olala v1.0 mini 7a1b",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face: new at #50"
+   ],
+   "examples": [
+    "OVHaiLLM/Olala-v1.0-mini-7A1B-GGUF (text-generation, ♥73)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "google one tools",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout nataphong-lab/Open-Source-Face-Recognition-Ultimate ★461 (323/day)"
+    "GitHub breakout hatsunemiku-ai/google-one-tools ★466 (466/day)"
    ],
    "examples": [
-    "nataphong-lab/Open-Source-Face-Recognition-Ultimate: Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matchi"
+    "hatsunemiku-ai/google-one-tools: "
    ],
    "variants": [
-    "open source face recognition ultimate",
-    "nataphong-lab open source face recognition ultimate"
+    "google one tools",
+    "hatsunemiku-ai google one tools"
    ],
    "posts": [],
-   "repo": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+   "repo": "hatsunemiku-ai/google-one-tools",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "mroffice",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout XinaTian/MROffice ★1185 (112/day, +449 in a day)"
+   ],
+   "examples": [
+    "XinaTian/MROffice: MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai"
+   ],
+   "variants": [
+    "mroffice",
+    "xinatian mroffice",
+    "xina mroffice"
+   ],
+   "posts": [],
+   "repo": "XinaTian/MROffice",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "riemann hypothesis lean",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout CocoSgt/riemann-hypothesis-lean ★350 (350/day)"
+   ],
+   "examples": [
+    "CocoSgt/riemann-hypothesis-lean: Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo."
+   ],
+   "variants": [
+    "riemann hypothesis lean",
+    "cocosgt riemann hypothesis lean"
+   ],
+   "posts": [],
+   "repo": "CocoSgt/riemann-hypothesis-lean",
    "known": "",
    "format": "text",
    "one_click": null
@@ -46,14 +106,24 @@
   "first_run": false,
   "terms": [
    {
-    "term": "inkling 2 mini",
-    "rank": 21,
+    "term": "seedreamstyle h3 6k",
+    "rank": 45,
     "copies": 1,
     "examples": [
-     "thinkingmachines/Inkling-2-Mini (image-text-to-text, ♥95)"
+     "Nebsh/Seedreamstyle-H3-6K (text-to-image, ♥78)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #21"
+    "note": "Hugging Face: new at #45"
+   },
+   {
+    "term": "olala v1.0 mini 7a1b",
+    "rank": 50,
+    "copies": 1,
+    "examples": [
+     "OVHaiLLM/Olala-v1.0-mini-7A1B-GGUF (text-generation, ♥73)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face: new at #50"
    }
   ],
   "models": 100,
@@ -67,10 +137,10 @@
     "repo": "erkamyaman/rust-anything",
     "owner": "erkamyaman",
     "name": "rust-anything",
-    "stars": 6522,
-    "velocity": 1494,
-    "delta": 846,
-    "age_days": 4.4,
+    "stars": 6888,
+    "velocity": 1426,
+    "delta": 366,
+    "age_days": 4.8,
     "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
     "new": false
    },
@@ -78,10 +148,10 @@
     "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
     "owner": "krisgfx9",
     "name": "Wireless-Device-Battery-Monitor",
-    "stars": 5222,
-    "velocity": 1286,
-    "delta": 407,
-    "age_days": 4.1,
+    "stars": 5465,
+    "velocity": 1208,
+    "delta": 243,
+    "age_days": 4.5,
     "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t",
     "new": false
    },
@@ -89,10 +159,10 @@
     "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
     "owner": "bookwjitchieni1986",
     "name": "blender-ai-mcp-addon",
-    "stars": 1546,
-    "velocity": 1227,
-    "delta": 598,
-    "age_days": 1.3,
+    "stars": 1874,
+    "velocity": 1087,
+    "delta": 328,
+    "age_days": 1.7,
     "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
     "new": false
    },
@@ -100,10 +170,10 @@
     "repo": "iamajmeena/neonclipping",
     "owner": "iamajmeena",
     "name": "neonclipping",
-    "stars": 1213,
-    "velocity": 833,
-    "delta": 535,
-    "age_days": 1.5,
+    "stars": 1393,
+    "velocity": 726,
+    "delta": 180,
+    "age_days": 1.9,
     "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
     "new": false
    },
@@ -111,10 +181,10 @@
     "repo": "huami1314/GestaltX",
     "owner": "huami1314",
     "name": "GestaltX",
-    "stars": 8633,
-    "velocity": 741,
-    "delta": 46,
-    "age_days": 11.7,
+    "stars": 8673,
+    "velocity": 716,
+    "delta": 40,
+    "age_days": 12.1,
     "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
     "new": false
    },
@@ -122,10 +192,10 @@
     "repo": "gylive/google-ultra",
     "owner": "gylive",
     "name": "google-ultra",
-    "stars": 2525,
-    "velocity": 734,
-    "delta": 36,
-    "age_days": 3.4,
+    "stars": 2555,
+    "velocity": 654,
+    "delta": 30,
+    "age_days": 3.9,
     "description": "",
     "new": false
    },
@@ -133,66 +203,101 @@
     "repo": "deepseek-ai/chat-demo",
     "owner": "deepseek-ai",
     "name": "chat-demo",
-    "stars": 5116,
-    "velocity": 599,
-    "delta": 45,
-    "age_days": 8.5,
+    "stars": 5165,
+    "velocity": 574,
+    "delta": 49,
+    "age_days": 9.0,
     "description": "Chat Demo",
     "new": false
    },
    {
-    "repo": "simplexai-labs/linger",
-    "owner": "simplexai-labs",
-    "name": "linger",
-    "stars": 2802,
-    "velocity": 262,
-    "delta": 573,
-    "age_days": 10.7,
-    "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing p",
-    "new": false
+    "repo": "hatsunemiku-ai/google-one-tools",
+    "owner": "hatsunemiku-ai",
+    "name": "google-one-tools",
+    "stars": 466,
+    "velocity": 466,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "",
+    "new": true,
+    "variants": [
+     "google one tools",
+     "hatsunemiku-ai google one tools"
+    ]
    },
    {
-    "repo": "imxieyi/Kernarium",
-    "owner": "imxieyi",
-    "name": "Kernarium",
-    "stars": 1952,
-    "velocity": 147,
-    "delta": 459,
-    "age_days": 13.3,
-    "description": "Run real Linux kernel natively on iOS",
-    "new": false
-   },
-   {
-    "repo": "MSNightmare/FastUnlock",
-    "owner": "MSNightmare",
-    "name": "FastUnlock",
-    "stars": 555,
-    "velocity": 412,
-    "delta": 106,
-    "age_days": 1.3,
-    "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
-    "new": false
+    "repo": "XinaTian/MROffice",
+    "owner": "XinaTian",
+    "name": "MROffice",
+    "stars": 1185,
+    "velocity": 112,
+    "delta": 449,
+    "age_days": 10.6,
+    "description": "MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai",
+    "new": true,
+    "variants": [
+     "mroffice",
+     "xinatian mroffice",
+     "xina mroffice"
+    ]
    },
    {
     "repo": "Hut-hzf/ung220z-tool",
     "owner": "Hut-hzf",
     "name": "ung220z-tool",
-    "stars": 1990,
-    "velocity": 368,
-    "delta": 133,
-    "age_days": 5.4,
+    "stars": 2104,
+    "velocity": 359,
+    "delta": 114,
+    "age_days": 5.9,
     "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+    "new": false
+   },
+   {
+    "repo": "CocoSgt/riemann-hypothesis-lean",
+    "owner": "CocoSgt",
+    "name": "riemann-hypothesis-lean",
+    "stars": 350,
+    "velocity": 350,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.",
+    "new": true,
+    "variants": [
+     "riemann hypothesis lean",
+     "cocosgt riemann hypothesis lean"
+    ]
+   },
+   {
+    "repo": "MSNightmare/FastUnlock",
+    "owner": "MSNightmare",
+    "name": "FastUnlock",
+    "stars": 610,
+    "velocity": 337,
+    "delta": 55,
+    "age_days": 1.8,
+    "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
     "new": false
    },
    {
     "repo": "Immortal-Protocols/lastbook",
     "owner": "Immortal-Protocols",
     "name": "lastbook",
-    "stars": 2719,
-    "velocity": 345,
-    "delta": 74,
-    "age_days": 7.9,
+    "stars": 2787,
+    "velocity": 334,
+    "delta": 68,
+    "age_days": 8.3,
     "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+    "new": false
+   },
+   {
+    "repo": "ersinkoc/phonebox",
+    "owner": "ersinkoc",
+    "name": "phonebox",
+    "stars": 4332,
+    "velocity": 318,
+    "delta": 137,
+    "age_days": 13.6,
+    "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widget",
     "new": false
    },
    {
@@ -200,51 +305,52 @@
     "owner": "tangerineturtle1",
     "name": "NX2navi",
     "stars": 4342,
-    "velocity": 323,
-    "delta": 4,
-    "age_days": 13.5,
+    "velocity": 312,
+    "delta": 0,
+    "age_days": 13.9,
     "description": "",
     "new": false
-   },
-   {
-    "repo": "sybil-solutions/inference-optimisation-skill",
-    "owner": "sybil-solutions",
-    "name": "inference-optimisation-skill",
-    "stars": 1323,
-    "velocity": 323,
-    "delta": 45,
-    "age_days": 4.1,
-    "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any ",
-    "new": false
-   },
-   {
-    "repo": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-    "owner": "nataphong-lab",
-    "name": "Open-Source-Face-Recognition-Ultimate",
-    "stars": 461,
-    "velocity": 323,
-    "delta": null,
-    "age_days": 1.4,
-    "description": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matchi",
-    "new": true,
-    "variants": [
-     "open source face recognition ultimate",
-     "nataphong-lab open source face recognition ultimate"
-    ]
    }
   ],
   "terms": [
    {
-    "term": "open source face recognition ultimate",
+    "term": "google one tools",
     "recent": 1,
     "variants": [
-     "open source face recognition ultimate",
-     "nataphong-lab open source face recognition ultimate"
+     "google one tools",
+     "hatsunemiku-ai google one tools"
     ],
-    "repo": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-    "note": "GitHub breakout nataphong-lab/Open-Source-Face-Recognition-Ultimate ★461 (323/day)",
+    "repo": "hatsunemiku-ai/google-one-tools",
+    "note": "GitHub breakout hatsunemiku-ai/google-one-tools ★466 (466/day)",
     "examples": [
-     "nataphong-lab/Open-Source-Face-Recognition-Ultimate: Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matchi"
+     "hatsunemiku-ai/google-one-tools: "
+    ]
+   },
+   {
+    "term": "mroffice",
+    "recent": 1,
+    "variants": [
+     "mroffice",
+     "xinatian mroffice",
+     "xina mroffice"
+    ],
+    "repo": "XinaTian/MROffice",
+    "note": "GitHub breakout XinaTian/MROffice ★1185 (112/day, +449 in a day)",
+    "examples": [
+     "XinaTian/MROffice: MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai"
+    ]
+   },
+   {
+    "term": "riemann hypothesis lean",
+    "recent": 1,
+    "variants": [
+     "riemann hypothesis lean",
+     "cocosgt riemann hypothesis lean"
+    ],
+    "repo": "CocoSgt/riemann-hypothesis-lean",
+    "note": "GitHub breakout CocoSgt/riemann-hypothesis-lean ★350 (350/day)",
+    "examples": [
+     "CocoSgt/riemann-hypothesis-lean: Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo."
     ]
    }
   ],
@@ -273,7 +379,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 165,
+  "pending": 170,
   "window_days": 60
  },
  "keywords": {
