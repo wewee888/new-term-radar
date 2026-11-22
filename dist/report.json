@@ -1,98 +1,22 @@
 {
  "leads": [
   {
-   "term": "omni videos custom",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face Spaces: new at #48"
-   ],
-   "examples": [
-    "CumaSystem/Omni-videos-custom (gradio, ♥115)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "video",
-   "one_click": null
-  },
-  {
-   "term": "sava",
-   "kinds": [
-    "hf"
-   ],
-   "signals": [
-    "Hugging Face: new at #43"
-   ],
-   "examples": [
-    "inworld/sava (voice-activity-detection, ♥79)"
-   ],
-   "variants": [],
-   "posts": [],
-   "known": "",
-   "format": "voice",
-   "one_click": null
-  },
-  {
-   "term": "gta 6 pc release",
+   "term": "tableau desktop win",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout opokukopoku/gta-6-pc-release ★410 (410/day)"
+    "GitHub breakout Nilespand/tableau-desktop-win ★354 (305/day)"
    ],
    "examples": [
-    "opokukopoku/gta-6-pc-release: GTA 6 PC Release: Full Access, Zero Hassle"
+    "Nilespand/tableau-desktop-win: Tableau - business intelligence and data visualization platform for interactive dashboards, data blending and calculated"
    ],
    "variants": [
-    "gta 6 pc release",
-    "opokukopoku gta 6 pc release"
+    "tableau desktop win",
+    "nilespand tableau desktop win"
    ],
    "posts": [],
-   "repo": "opokukopoku/gta-6-pc-release",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "fast anything",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout EL4CTEO/fast-anything ★354 (354/day)"
-   ],
-   "examples": [
-    "EL4CTEO/fast-anything: Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you"
-   ],
-   "variants": [
-    "fast anything",
-    "el4cteo fast anything"
-   ],
-   "posts": [],
-   "repo": "EL4CTEO/fast-anything",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "daw synth fl studio 2026 producer portable x64",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64 ★350 (350/day)"
-   ],
-   "examples": [
-    "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64: DAW & Synth Studio Suite FL Studio 2026.1 Producer All-Plugins Edition Runtime: native 64-bit Windows 10/11 portable x64"
-   ],
-   "variants": [
-    "daw synth fl studio 2026 producer portable x64",
-    "kyle-millerx2098t3 daw synth fl studio 2026 producer portable x64"
-   ],
-   "posts": [],
-   "repo": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
+   "repo": "Nilespand/tableau-desktop-win",
    "known": "",
    "format": "text",
    "one_click": null
@@ -103,28 +27,7 @@
  },
  "hf": {
   "first_run": false,
-  "terms": [
-   {
-    "term": "sava",
-    "rank": 43,
-    "copies": 1,
-    "examples": [
-     "inworld/sava (voice-activity-detection, ♥79)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face: new at #43"
-   },
-   {
-    "term": "omni videos custom",
-    "rank": 48,
-    "copies": 1,
-    "examples": [
-     "CumaSystem/Omni-videos-custom (gradio, ♥115)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face Spaces: new at #48"
-   }
-  ],
+  "terms": [],
   "models": 100,
   "spaces": 100
  },
@@ -136,43 +39,43 @@
     "repo": "ItsNotRexed/Leonida",
     "owner": "ItsNotRexed",
     "name": "Leonida",
-    "stars": 7881,
-    "velocity": 5292,
-    "delta": 5757,
-    "age_days": 1.5,
+    "stars": 13535,
+    "velocity": 6756,
+    "delta": 5654,
+    "age_days": 2.0,
     "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+    "new": false
+   },
+   {
+    "repo": "EL4CTEO/fast-anything",
+    "owner": "EL4CTEO",
+    "name": "fast-anything",
+    "stars": 1687,
+    "velocity": 1371,
+    "delta": 1333,
+    "age_days": 1.2,
+    "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
     "new": false
    },
    {
     "repo": "erkamyaman/rust-anything",
     "owner": "erkamyaman",
     "name": "rust-anything",
-    "stars": 7584,
-    "velocity": 1303,
-    "delta": 285,
-    "age_days": 5.8,
+    "stars": 7905,
+    "velocity": 1248,
+    "delta": 321,
+    "age_days": 6.3,
     "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
-    "new": false
-   },
-   {
-    "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
-    "owner": "krisgfx9",
-    "name": "Wireless-Device-Battery-Monitor",
-    "stars": 5910,
-    "velocity": 1071,
-    "delta": 149,
-    "age_days": 5.5,
-    "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t",
     "new": false
    },
    {
     "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
     "owner": "bookwjitchieni1986",
     "name": "blender-ai-mcp-addon",
-    "stars": 2695,
-    "velocity": 993,
-    "delta": 514,
-    "age_days": 2.7,
+    "stars": 2744,
+    "velocity": 850,
+    "delta": 49,
+    "age_days": 3.2,
     "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
     "new": false
    },
@@ -180,174 +83,140 @@
     "repo": "omonkeyz/xbox-emulator",
     "owner": "omonkeyz",
     "name": "xbox-emulator",
-    "stars": 936,
-    "velocity": 936,
-    "delta": 397,
-    "age_days": 1.0,
+    "stars": 1227,
+    "velocity": 817,
+    "delta": 291,
+    "age_days": 1.5,
     "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-    "new": false
-   },
-   {
-    "repo": "hatsunemiku-ai/google-one-tools",
-    "owner": "hatsunemiku-ai",
-    "name": "google-one-tools",
-    "stars": 1156,
-    "velocity": 825,
-    "delta": 208,
-    "age_days": 1.4,
-    "description": "",
     "new": false
    },
    {
     "repo": "huami1314/GestaltX",
     "owner": "huami1314",
     "name": "GestaltX",
-    "stars": 8762,
-    "velocity": 668,
-    "delta": 38,
-    "age_days": 13.1,
+    "stars": 8805,
+    "velocity": 646,
+    "delta": 43,
+    "age_days": 13.6,
     "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
-    "new": false
-   },
-   {
-    "repo": "R0Y00/Xbox2Windows",
-    "owner": "R0Y00",
-    "name": "Xbox2Windows",
-    "stars": 1041,
-    "velocity": 655,
-    "delta": 323,
-    "age_days": 1.6,
-    "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders",
     "new": false
    },
    {
     "repo": "iamajmeena/neonclipping",
     "owner": "iamajmeena",
     "name": "neonclipping",
-    "stars": 1845,
-    "velocity": 634,
-    "delta": 140,
-    "age_days": 2.9,
+    "stars": 2069,
+    "velocity": 604,
+    "delta": 224,
+    "age_days": 3.4,
     "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
     "new": false
    },
    {
-    "repo": "gylive/google-ultra",
-    "owner": "gylive",
-    "name": "google-ultra",
-    "stars": 2636,
-    "velocity": 538,
-    "delta": 46,
-    "age_days": 4.9,
-    "description": "",
+    "repo": "R0Y00/Xbox2Windows",
+    "owner": "R0Y00",
+    "name": "Xbox2Windows",
+    "stars": 1262,
+    "velocity": 600,
+    "delta": 221,
+    "age_days": 2.1,
+    "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders",
     "new": false
    },
    {
     "repo": "deepseek-ai/chat-demo",
     "owner": "deepseek-ai",
     "name": "chat-demo",
-    "stars": 5246,
-    "velocity": 525,
-    "delta": 37,
-    "age_days": 10.0,
+    "stars": 5277,
+    "velocity": 502,
+    "delta": 31,
+    "age_days": 10.5,
     "description": "Chat Demo",
     "new": false
-   },
-   {
-    "repo": "XinaTian/MROffice",
-    "owner": "XinaTian",
-    "name": "MROffice",
-    "stars": 1843,
-    "velocity": 159,
-    "delta": 448,
-    "age_days": 11.6,
-    "description": "MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai",
-    "new": false
-   },
-   {
-    "repo": "opokukopoku/gta-6-pc-release",
-    "owner": "opokukopoku",
-    "name": "gta-6-pc-release",
-    "stars": 410,
-    "velocity": 410,
-    "delta": null,
-    "age_days": 1.0,
-    "description": "GTA 6 PC Release: Full Access, Zero Hassle",
-    "new": true,
-    "variants": [
-     "gta 6 pc release",
-     "opokukopoku gta 6 pc release"
-    ]
-   },
-   {
-    "repo": "EL4CTEO/fast-anything",
-    "owner": "EL4CTEO",
-    "name": "fast-anything",
-    "stars": 354,
-    "velocity": 354,
-    "delta": null,
-    "age_days": 1.0,
-    "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
-    "new": true,
-    "variants": [
-     "fast anything",
-     "el4cteo fast anything"
-    ]
    },
    {
     "repo": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
     "owner": "kyle-millerx2098t3",
     "name": "daw-synth-fl-studio-2026-producer-portable-x64",
-    "stars": 350,
-    "velocity": 350,
-    "delta": null,
+    "stars": 351,
+    "velocity": 351,
+    "delta": 1,
     "age_days": 1.0,
     "description": "DAW & Synth Studio Suite FL Studio 2026.1 Producer All-Plugins Edition Runtime: native 64-bit Windows 10/11 portable x64",
+    "new": false
+   },
+   {
+    "repo": "Hut-hzf/ung220z-tool",
+    "owner": "Hut-hzf",
+    "name": "ung220z-tool",
+    "stars": 2354,
+    "velocity": 319,
+    "delta": 98,
+    "age_days": 7.4,
+    "description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+    "new": false
+   },
+   {
+    "repo": "sybil-solutions/inference-optimisation-skill",
+    "owner": "sybil-solutions",
+    "name": "inference-optimisation-skill",
+    "stars": 1926,
+    "velocity": 318,
+    "delta": 140,
+    "age_days": 6.1,
+    "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any ",
+    "new": false
+   },
+   {
+    "repo": "Nilespand/tableau-desktop-win",
+    "owner": "Nilespand",
+    "name": "tableau-desktop-win",
+    "stars": 354,
+    "velocity": 305,
+    "delta": null,
+    "age_days": 1.2,
+    "description": "Tableau - business intelligence and data visualization platform for interactive dashboards, data blending and calculated",
     "new": true,
     "variants": [
-     "daw synth fl studio 2026 producer portable x64",
-     "kyle-millerx2098t3 daw synth fl studio 2026 producer portable x64"
+     "tableau desktop win",
+     "nilespand tableau desktop win"
     ]
+   },
+   {
+    "repo": "simplexai-labs/linger",
+    "owner": "simplexai-labs",
+    "name": "linger",
+    "stars": 3789,
+    "velocity": 299,
+    "delta": 216,
+    "age_days": 12.7,
+    "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing p",
+    "new": false
+   },
+   {
+    "repo": "Immortal-Protocols/lastbook",
+    "owner": "Immortal-Protocols",
+    "name": "lastbook",
+    "stars": 2944,
+    "velocity": 299,
+    "delta": 40,
+    "age_days": 9.8,
+    "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+    "new": false
    }
   ],
   "terms": [
    {
-    "term": "gta 6 pc release",
+    "term": "tableau desktop win",
     "recent": 1,
     "variants": [
-     "gta 6 pc release",
-     "opokukopoku gta 6 pc release"
+     "tableau desktop win",
+     "nilespand tableau desktop win"
     ],
-    "repo": "opokukopoku/gta-6-pc-release",
-    "note": "GitHub breakout opokukopoku/gta-6-pc-release ★410 (410/day)",
+    "repo": "Nilespand/tableau-desktop-win",
+    "note": "GitHub breakout Nilespand/tableau-desktop-win ★354 (305/day)",
     "examples": [
-     "opokukopoku/gta-6-pc-release: GTA 6 PC Release: Full Access, Zero Hassle"
-    ]
-   },
-   {
-    "term": "fast anything",
-    "recent": 1,
-    "variants": [
-     "fast anything",
-     "el4cteo fast anything"
-    ],
-    "repo": "EL4CTEO/fast-anything",
-    "note": "GitHub breakout EL4CTEO/fast-anything ★354 (354/day)",
-    "examples": [
-     "EL4CTEO/fast-anything: Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you"
-    ]
-   },
-   {
-    "term": "daw synth fl studio 2026 producer portable x64",
-    "recent": 1,
-    "variants": [
-     "daw synth fl studio 2026 producer portable x64",
-     "kyle-millerx2098t3 daw synth fl studio 2026 producer portable x64"
-    ],
-    "repo": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
-    "note": "GitHub breakout kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64 ★350 (350/day)",
-    "examples": [
-     "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64: DAW & Synth Studio Suite FL Studio 2026.1 Producer All-Plugins Edition Runtime: native 64-bit Windows 10/11 portable x64"
+     "Nilespand/tableau-desktop-win: Tableau - business intelligence and data visualization platform for interactive dashboards, data blending and calculated"
     ]
    }
   ],
@@ -376,7 +245,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 178,
+  "pending": 179,
   "window_days": 60
  },
  "keywords": {
