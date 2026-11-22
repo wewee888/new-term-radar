@@ -1,83 +1,98 @@
 {
  "leads": [
   {
-   "term": "inkling 2 mini",
+   "term": "omni videos custom",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #20"
+    "Hugging Face Spaces: new at #48"
    ],
    "examples": [
-    "AtomicChat/Inkling-2-Mini-Uncensored-GGUF (image-text-to-text, ♥174)"
+    "CumaSystem/Omni-videos-custom (gradio, ♥115)"
    ],
    "variants": [],
    "posts": [],
    "known": "",
-   "format": "image",
+   "format": "video",
    "one_click": null
   },
   {
-   "term": "leonida",
+   "term": "sava",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face: new at #43"
+   ],
+   "examples": [
+    "inworld/sava (voice-activity-detection, ♥79)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "voice",
+   "one_click": null
+  },
+  {
+   "term": "gta 6 pc release",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout ItsNotRexed/Leonida ★2124 (2124/day)"
+    "GitHub breakout opokukopoku/gta-6-pc-release ★410 (410/day)"
    ],
    "examples": [
-    "ItsNotRexed/Leonida: Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6"
+    "opokukopoku/gta-6-pc-release: GTA 6 PC Release: Full Access, Zero Hassle"
    ],
    "variants": [
-    "leonida",
-    "itsnotrexed leonida",
-    "notrexed leonida"
+    "gta 6 pc release",
+    "opokukopoku gta 6 pc release"
    ],
    "posts": [],
-   "repo": "ItsNotRexed/Leonida",
+   "repo": "opokukopoku/gta-6-pc-release",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "xbox2windows",
+   "term": "fast anything",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout R0Y00/Xbox2Windows ★718 (656/day)"
+    "GitHub breakout EL4CTEO/fast-anything ★354 (354/day)"
    ],
    "examples": [
-    "R0Y00/Xbox2Windows: Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures,"
+    "EL4CTEO/fast-anything: Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you"
    ],
    "variants": [
-    "xbox2windows",
-    "r0y00 xbox2windows",
-    "royoo xbox2windows"
+    "fast anything",
+    "el4cteo fast anything"
    ],
    "posts": [],
-   "repo": "R0Y00/Xbox2Windows",
+   "repo": "EL4CTEO/fast-anything",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "xbox emulator",
+   "term": "daw synth fl studio 2026 producer portable x64",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout omonkeyz/xbox-emulator ★539 (539/day)"
+    "GitHub breakout kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64 ★350 (350/day)"
    ],
    "examples": [
-    "omonkeyz/xbox-emulator: Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)"
+    "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64: DAW & Synth Studio Suite FL Studio 2026.1 Producer All-Plugins Edition Runtime: native 64-bit Windows 10/11 portable x64"
    ],
    "variants": [
-    "xbox emulator",
-    "omonkeyz xbox emulator"
+    "daw synth fl studio 2026 producer portable x64",
+    "kyle-millerx2098t3 daw synth fl studio 2026 producer portable x64"
    ],
    "posts": [],
-   "repo": "omonkeyz/xbox-emulator",
+   "repo": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
    "known": "",
    "format": "text",
    "one_click": null
@@ -90,14 +105,24 @@
   "first_run": false,
   "terms": [
    {
-    "term": "inkling 2 mini",
-    "rank": 20,
+    "term": "sava",
+    "rank": 43,
     "copies": 1,
     "examples": [
-     "AtomicChat/Inkling-2-Mini-Uncensored-GGUF (image-text-to-text, ♥174)"
+     "inworld/sava (voice-activity-detection, ♥79)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #20"
+    "note": "Hugging Face: new at #43"
+   },
+   {
+    "term": "omni videos custom",
+    "rank": 48,
+    "copies": 1,
+    "examples": [
+     "CumaSystem/Omni-videos-custom (gradio, ♥115)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face Spaces: new at #48"
    }
   ],
   "models": 100,
@@ -111,26 +136,21 @@
     "repo": "ItsNotRexed/Leonida",
     "owner": "ItsNotRexed",
     "name": "Leonida",
-    "stars": 2124,
-    "velocity": 2124,
-    "delta": null,
-    "age_days": 1.0,
+    "stars": 7881,
+    "velocity": 5292,
+    "delta": 5757,
+    "age_days": 1.5,
     "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
-    "new": true,
-    "variants": [
-     "leonida",
-     "itsnotrexed leonida",
-     "notrexed leonida"
-    ]
+    "new": false
    },
    {
     "repo": "erkamyaman/rust-anything",
     "owner": "erkamyaman",
     "name": "rust-anything",
-    "stars": 7299,
-    "velocity": 1371,
-    "delta": 411,
-    "age_days": 5.3,
+    "stars": 7584,
+    "velocity": 1303,
+    "delta": 285,
+    "age_days": 5.8,
     "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
     "new": false
    },
@@ -138,10 +158,10 @@
     "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
     "owner": "krisgfx9",
     "name": "Wireless-Device-Battery-Monitor",
-    "stars": 5761,
-    "velocity": 1147,
-    "delta": 296,
-    "age_days": 5.0,
+    "stars": 5910,
+    "velocity": 1071,
+    "delta": 149,
+    "age_days": 5.5,
     "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight t",
     "new": false
    },
@@ -149,43 +169,43 @@
     "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
     "owner": "bookwjitchieni1986",
     "name": "blender-ai-mcp-addon",
-    "stars": 2181,
-    "velocity": 983,
-    "delta": 307,
-    "age_days": 2.2,
+    "stars": 2695,
+    "velocity": 993,
+    "delta": 514,
+    "age_days": 2.7,
     "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
+    "new": false
+   },
+   {
+    "repo": "omonkeyz/xbox-emulator",
+    "owner": "omonkeyz",
+    "name": "xbox-emulator",
+    "stars": 936,
+    "velocity": 936,
+    "delta": 397,
+    "age_days": 1.0,
+    "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
     "new": false
    },
    {
     "repo": "hatsunemiku-ai/google-one-tools",
     "owner": "hatsunemiku-ai",
     "name": "google-one-tools",
-    "stars": 948,
-    "velocity": 948,
-    "delta": 482,
-    "age_days": 1.0,
+    "stars": 1156,
+    "velocity": 825,
+    "delta": 208,
+    "age_days": 1.4,
     "description": "",
-    "new": false
-   },
-   {
-    "repo": "iamajmeena/neonclipping",
-    "owner": "iamajmeena",
-    "name": "neonclipping",
-    "stars": 1705,
-    "velocity": 706,
-    "delta": 312,
-    "age_days": 2.4,
-    "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
     "new": false
    },
    {
     "repo": "huami1314/GestaltX",
     "owner": "huami1314",
     "name": "GestaltX",
-    "stars": 8724,
-    "velocity": 692,
-    "delta": 51,
-    "age_days": 12.6,
+    "stars": 8762,
+    "velocity": 668,
+    "delta": 38,
+    "age_days": 13.1,
     "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
     "new": false
    },
@@ -193,26 +213,32 @@
     "repo": "R0Y00/Xbox2Windows",
     "owner": "R0Y00",
     "name": "Xbox2Windows",
-    "stars": 718,
-    "velocity": 656,
-    "delta": null,
-    "age_days": 1.1,
-    "description": "Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures,",
-    "new": true,
-    "variants": [
-     "xbox2windows",
-     "r0y00 xbox2windows",
-     "royoo xbox2windows"
-    ]
+    "stars": 1041,
+    "velocity": 655,
+    "delta": 323,
+    "age_days": 1.6,
+    "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders",
+    "new": false
+   },
+   {
+    "repo": "iamajmeena/neonclipping",
+    "owner": "iamajmeena",
+    "name": "neonclipping",
+    "stars": 1845,
+    "velocity": 634,
+    "delta": 140,
+    "age_days": 2.9,
+    "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
+    "new": false
    },
    {
     "repo": "gylive/google-ultra",
     "owner": "gylive",
     "name": "google-ultra",
-    "stars": 2590,
-    "velocity": 589,
-    "delta": 35,
-    "age_days": 4.4,
+    "stars": 2636,
+    "velocity": 538,
+    "delta": 46,
+    "age_days": 4.9,
     "description": "",
     "new": false
    },
@@ -220,113 +246,108 @@
     "repo": "deepseek-ai/chat-demo",
     "owner": "deepseek-ai",
     "name": "chat-demo",
-    "stars": 5209,
-    "velocity": 549,
-    "delta": 44,
-    "age_days": 9.5,
+    "stars": 5246,
+    "velocity": 525,
+    "delta": 37,
+    "age_days": 10.0,
     "description": "Chat Demo",
     "new": false
    },
    {
-    "repo": "omonkeyz/xbox-emulator",
-    "owner": "omonkeyz",
-    "name": "xbox-emulator",
-    "stars": 539,
-    "velocity": 539,
+    "repo": "XinaTian/MROffice",
+    "owner": "XinaTian",
+    "name": "MROffice",
+    "stars": 1843,
+    "velocity": 159,
+    "delta": 448,
+    "age_days": 11.6,
+    "description": "MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai",
+    "new": false
+   },
+   {
+    "repo": "opokukopoku/gta-6-pc-release",
+    "owner": "opokukopoku",
+    "name": "gta-6-pc-release",
+    "stars": 410,
+    "velocity": 410,
     "delta": null,
     "age_days": 1.0,
-    "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+    "description": "GTA 6 PC Release: Full Access, Zero Hassle",
     "new": true,
     "variants": [
-     "xbox emulator",
-     "omonkeyz xbox emulator"
+     "gta 6 pc release",
+     "opokukopoku gta 6 pc release"
     ]
    },
    {
-    "repo": "Hut-hzf/ung220z-tool",
-    "owner": "Hut-hzf",
-    "name": "ung220z-tool",
-    "stars": 2210,
-    "velocity": 347,
-    "delta": 106,
-    "age_days": 6.4,
-    "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-    "new": false
+    "repo": "EL4CTEO/fast-anything",
+    "owner": "EL4CTEO",
+    "name": "fast-anything",
+    "stars": 354,
+    "velocity": 354,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
+    "new": true,
+    "variants": [
+     "fast anything",
+     "el4cteo fast anything"
+    ]
    },
    {
-    "repo": "CocoSgt/riemann-hypothesis-lean",
-    "owner": "CocoSgt",
-    "name": "riemann-hypothesis-lean",
-    "stars": 419,
-    "velocity": 347,
-    "delta": 69,
-    "age_days": 1.2,
-    "description": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.",
-    "new": false
-   },
-   {
-    "repo": "ersinkoc/phonebox",
-    "owner": "ersinkoc",
-    "name": "phonebox",
-    "stars": 4588,
-    "velocity": 325,
-    "delta": 256,
-    "age_days": 14.1,
-    "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widget",
-    "new": false
-   },
-   {
-    "repo": "Immortal-Protocols/lastbook",
-    "owner": "Immortal-Protocols",
-    "name": "lastbook",
-    "stars": 2851,
-    "velocity": 323,
-    "delta": 64,
-    "age_days": 8.8,
-    "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
-    "new": false
+    "repo": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
+    "owner": "kyle-millerx2098t3",
+    "name": "daw-synth-fl-studio-2026-producer-portable-x64",
+    "stars": 350,
+    "velocity": 350,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "DAW & Synth Studio Suite FL Studio 2026.1 Producer All-Plugins Edition Runtime: native 64-bit Windows 10/11 portable x64",
+    "new": true,
+    "variants": [
+     "daw synth fl studio 2026 producer portable x64",
+     "kyle-millerx2098t3 daw synth fl studio 2026 producer portable x64"
+    ]
    }
   ],
   "terms": [
    {
-    "term": "leonida",
+    "term": "gta 6 pc release",
     "recent": 1,
     "variants": [
-     "leonida",
-     "itsnotrexed leonida",
-     "notrexed leonida"
+     "gta 6 pc release",
+     "opokukopoku gta 6 pc release"
     ],
-    "repo": "ItsNotRexed/Leonida",
-    "note": "GitHub breakout ItsNotRexed/Leonida ★2124 (2124/day)",
+    "repo": "opokukopoku/gta-6-pc-release",
+    "note": "GitHub breakout opokukopoku/gta-6-pc-release ★410 (410/day)",
     "examples": [
-     "ItsNotRexed/Leonida: Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6"
+     "opokukopoku/gta-6-pc-release: GTA 6 PC Release: Full Access, Zero Hassle"
     ]
    },
    {
-    "term": "xbox2windows",
+    "term": "fast anything",
     "recent": 1,
     "variants": [
-     "xbox2windows",
-     "r0y00 xbox2windows",
-     "royoo xbox2windows"
+     "fast anything",
+     "el4cteo fast anything"
     ],
-    "repo": "R0Y00/Xbox2Windows",
-    "note": "GitHub breakout R0Y00/Xbox2Windows ★718 (656/day)",
+    "repo": "EL4CTEO/fast-anything",
+    "note": "GitHub breakout EL4CTEO/fast-anything ★354 (354/day)",
     "examples": [
-     "R0Y00/Xbox2Windows: Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures,"
+     "EL4CTEO/fast-anything: Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you"
     ]
    },
    {
-    "term": "xbox emulator",
+    "term": "daw synth fl studio 2026 producer portable x64",
     "recent": 1,
     "variants": [
-     "xbox emulator",
-     "omonkeyz xbox emulator"
+     "daw synth fl studio 2026 producer portable x64",
+     "kyle-millerx2098t3 daw synth fl studio 2026 producer portable x64"
     ],
-    "repo": "omonkeyz/xbox-emulator",
-    "note": "GitHub breakout omonkeyz/xbox-emulator ★539 (539/day)",
+    "repo": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
+    "note": "GitHub breakout kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64 ★350 (350/day)",
     "examples": [
-     "omonkeyz/xbox-emulator: Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)"
+     "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64: DAW & Synth Studio Suite FL Studio 2026.1 Producer All-Plugins Edition Runtime: native 64-bit Windows 10/11 portable x64"
     ]
    }
   ],
@@ -355,7 +376,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 173,
+  "pending": 178,
   "window_days": 60
  },
  "keywords": {
