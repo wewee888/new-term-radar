@@ -1,22 +1,62 @@
 {
  "leads": [
   {
-   "term": "tableau desktop win",
+   "term": "jeveration",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face: new at #42"
+   ],
+   "examples": [
+    "linlinlinlinsdada/Jeveration (text-to-image, ♥82)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "image",
+   "one_click": null
+  },
+  {
+   "term": "nospeaker",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout Nilespand/tableau-desktop-win ★354 (305/day)"
+    "GitHub breakout os6/nospeaker ★701 (701/day)"
    ],
    "examples": [
-    "Nilespand/tableau-desktop-win: Tableau - business intelligence and data visualization platform for interactive dashboards, data blending and calculated"
+    "os6/nospeaker: make your macbook's trackpad talk using its haptic motor"
    ],
    "variants": [
-    "tableau desktop win",
-    "nilespand tableau desktop win"
+    "nospeaker",
+    "os6 nospeaker",
+    "cody nospeaker"
    ],
    "posts": [],
-   "repo": "Nilespand/tableau-desktop-win",
+   "repo": "os6/nospeaker",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "mobile agent testers",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout pierridotite/mobile-agent-testers ★962 (147/day, +611 in a day)"
+   ],
+   "examples": [
+    "pierridotite/mobile-agent-testers: 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and An"
+   ],
+   "variants": [
+    "mobile agent testers",
+    "pierridotite mobile agent testers",
+    "pierre mobile agent testers"
+   ],
+   "posts": [],
+   "repo": "pierridotite/mobile-agent-testers",
    "known": "",
    "format": "text",
    "one_click": null
@@ -27,7 +67,18 @@
  },
  "hf": {
   "first_run": false,
-  "terms": [],
+  "terms": [
+   {
+    "term": "jeveration",
+    "rank": 42,
+    "copies": 1,
+    "examples": [
+     "linlinlinlinsdada/Jeveration (text-to-image, ♥82)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face: new at #42"
+   }
+  ],
   "models": 100,
   "spaces": 100
  },
@@ -39,10 +90,10 @@
     "repo": "ItsNotRexed/Leonida",
     "owner": "ItsNotRexed",
     "name": "Leonida",
-    "stars": 13535,
-    "velocity": 6756,
-    "delta": 5654,
-    "age_days": 2.0,
+    "stars": 17591,
+    "velocity": 6970,
+    "delta": 4056,
+    "age_days": 2.5,
     "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
     "new": false
    },
@@ -50,10 +101,10 @@
     "repo": "EL4CTEO/fast-anything",
     "owner": "EL4CTEO",
     "name": "fast-anything",
-    "stars": 1687,
-    "velocity": 1371,
-    "delta": 1333,
-    "age_days": 1.2,
+    "stars": 2418,
+    "velocity": 1381,
+    "delta": 731,
+    "age_days": 1.8,
     "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
     "new": false
    },
@@ -61,10 +112,10 @@
     "repo": "erkamyaman/rust-anything",
     "owner": "erkamyaman",
     "name": "rust-anything",
-    "stars": 7905,
-    "velocity": 1248,
-    "delta": 321,
-    "age_days": 6.3,
+    "stars": 8258,
+    "velocity": 1205,
+    "delta": 353,
+    "age_days": 6.9,
     "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
     "new": false
    },
@@ -72,10 +123,10 @@
     "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
     "owner": "bookwjitchieni1986",
     "name": "blender-ai-mcp-addon",
-    "stars": 2744,
-    "velocity": 850,
-    "delta": 49,
-    "age_days": 3.2,
+    "stars": 2758,
+    "velocity": 736,
+    "delta": 14,
+    "age_days": 3.7,
     "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
     "new": false
    },
@@ -83,32 +134,64 @@
     "repo": "omonkeyz/xbox-emulator",
     "owner": "omonkeyz",
     "name": "xbox-emulator",
-    "stars": 1227,
-    "velocity": 817,
-    "delta": 291,
-    "age_days": 1.5,
+    "stars": 1420,
+    "velocity": 702,
+    "delta": 193,
+    "age_days": 2.0,
     "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
     "new": false
+   },
+   {
+    "repo": "os6/nospeaker",
+    "owner": "os6",
+    "name": "nospeaker",
+    "stars": 701,
+    "velocity": 701,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "make your macbook's trackpad talk using its haptic motor",
+    "new": true,
+    "variants": [
+     "nospeaker",
+     "os6 nospeaker",
+     "cody nospeaker"
+    ]
    },
    {
     "repo": "huami1314/GestaltX",
     "owner": "huami1314",
     "name": "GestaltX",
-    "stars": 8805,
-    "velocity": 646,
-    "delta": 43,
-    "age_days": 13.6,
+    "stars": 8829,
+    "velocity": 624,
+    "delta": 24,
+    "age_days": 14.1,
     "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
     "new": false
+   },
+   {
+    "repo": "pierridotite/mobile-agent-testers",
+    "owner": "pierridotite",
+    "name": "mobile-agent-testers",
+    "stars": 962,
+    "velocity": 147,
+    "delta": 611,
+    "age_days": 6.6,
+    "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and An",
+    "new": true,
+    "variants": [
+     "mobile agent testers",
+     "pierridotite mobile agent testers",
+     "pierre mobile agent testers"
+    ]
    },
    {
     "repo": "iamajmeena/neonclipping",
     "owner": "iamajmeena",
     "name": "neonclipping",
-    "stars": 2069,
-    "velocity": 604,
-    "delta": 224,
-    "age_days": 3.4,
+    "stars": 2191,
+    "velocity": 555,
+    "delta": 122,
+    "age_days": 3.9,
     "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
     "new": false
    },
@@ -116,10 +199,10 @@
     "repo": "R0Y00/Xbox2Windows",
     "owner": "R0Y00",
     "name": "Xbox2Windows",
-    "stars": 1262,
-    "velocity": 600,
-    "delta": 221,
-    "age_days": 2.1,
+    "stars": 1366,
+    "velocity": 521,
+    "delta": 104,
+    "age_days": 2.6,
     "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders",
     "new": false
    },
@@ -127,96 +210,85 @@
     "repo": "deepseek-ai/chat-demo",
     "owner": "deepseek-ai",
     "name": "chat-demo",
-    "stars": 5277,
-    "velocity": 502,
-    "delta": 31,
-    "age_days": 10.5,
+    "stars": 5321,
+    "velocity": 483,
+    "delta": 44,
+    "age_days": 11.0,
     "description": "Chat Demo",
     "new": false
    },
    {
-    "repo": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
-    "owner": "kyle-millerx2098t3",
-    "name": "daw-synth-fl-studio-2026-producer-portable-x64",
-    "stars": 351,
-    "velocity": 351,
-    "delta": 1,
-    "age_days": 1.0,
-    "description": "DAW & Synth Studio Suite FL Studio 2026.1 Producer All-Plugins Edition Runtime: native 64-bit Windows 10/11 portable x64",
+    "repo": "XinaTian/MROffice",
+    "owner": "XinaTian",
+    "name": "MROffice",
+    "stars": 2523,
+    "velocity": 200,
+    "delta": 453,
+    "age_days": 12.6,
+    "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, present",
     "new": false
    },
    {
     "repo": "Hut-hzf/ung220z-tool",
     "owner": "Hut-hzf",
     "name": "ung220z-tool",
-    "stars": 2354,
-    "velocity": 319,
-    "delta": 98,
-    "age_days": 7.4,
+    "stars": 2460,
+    "velocity": 312,
+    "delta": 106,
+    "age_days": 7.9,
     "description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+    "new": false
+   },
+   {
+    "repo": "simplexai-labs/linger",
+    "owner": "simplexai-labs",
+    "name": "linger",
+    "stars": 4023,
+    "velocity": 305,
+    "delta": 234,
+    "age_days": 13.2,
+    "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing p",
     "new": false
    },
    {
     "repo": "sybil-solutions/inference-optimisation-skill",
     "owner": "sybil-solutions",
     "name": "inference-optimisation-skill",
-    "stars": 1926,
-    "velocity": 318,
-    "delta": 140,
-    "age_days": 6.1,
-    "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any ",
-    "new": false
-   },
-   {
-    "repo": "Nilespand/tableau-desktop-win",
-    "owner": "Nilespand",
-    "name": "tableau-desktop-win",
-    "stars": 354,
+    "stars": 2011,
     "velocity": 305,
-    "delta": null,
-    "age_days": 1.2,
-    "description": "Tableau - business intelligence and data visualization platform for interactive dashboards, data blending and calculated",
-    "new": true,
-    "variants": [
-     "tableau desktop win",
-     "nilespand tableau desktop win"
-    ]
-   },
-   {
-    "repo": "simplexai-labs/linger",
-    "owner": "simplexai-labs",
-    "name": "linger",
-    "stars": 3789,
-    "velocity": 299,
-    "delta": 216,
-    "age_days": 12.7,
-    "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing p",
-    "new": false
-   },
-   {
-    "repo": "Immortal-Protocols/lastbook",
-    "owner": "Immortal-Protocols",
-    "name": "lastbook",
-    "stars": 2944,
-    "velocity": 299,
-    "delta": 40,
-    "age_days": 9.8,
-    "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+    "delta": 85,
+    "age_days": 6.6,
+    "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any ",
     "new": false
    }
   ],
   "terms": [
    {
-    "term": "tableau desktop win",
+    "term": "nospeaker",
     "recent": 1,
     "variants": [
-     "tableau desktop win",
-     "nilespand tableau desktop win"
+     "nospeaker",
+     "os6 nospeaker",
+     "cody nospeaker"
     ],
-    "repo": "Nilespand/tableau-desktop-win",
-    "note": "GitHub breakout Nilespand/tableau-desktop-win ★354 (305/day)",
+    "repo": "os6/nospeaker",
+    "note": "GitHub breakout os6/nospeaker ★701 (701/day)",
     "examples": [
-     "Nilespand/tableau-desktop-win: Tableau - business intelligence and data visualization platform for interactive dashboards, data blending and calculated"
+     "os6/nospeaker: make your macbook's trackpad talk using its haptic motor"
+    ]
+   },
+   {
+    "term": "mobile agent testers",
+    "recent": 1,
+    "variants": [
+     "mobile agent testers",
+     "pierridotite mobile agent testers",
+     "pierre mobile agent testers"
+    ],
+    "repo": "pierridotite/mobile-agent-testers",
+    "note": "GitHub breakout pierridotite/mobile-agent-testers ★962 (147/day, +611 in a day)",
+    "examples": [
+     "pierridotite/mobile-agent-testers: 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and An"
     ]
    }
   ],
@@ -245,7 +317,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 179,
+  "pending": 182,
   "window_days": 60
  },
  "keywords": {
