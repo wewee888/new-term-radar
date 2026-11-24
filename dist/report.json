@@ -1,62 +1,122 @@
 {
  "leads": [
   {
-   "term": "jeveration",
+   "term": "ling 3.2 air",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #42"
+    "Hugging Face: new at #25"
    ],
    "examples": [
-    "linlinlinlinsdada/Jeveration (text-to-image, ♥82)"
+    "inclusionAI/Ling-3.2-air (?, ♥99)"
    ],
    "variants": [],
    "posts": [],
-   "known": "",
-   "format": "image",
-   "one_click": null
-  },
-  {
-   "term": "nospeaker",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout os6/nospeaker ★701 (701/day)"
-   ],
-   "examples": [
-    "os6/nospeaker: make your macbook's trackpad talk using its haptic motor"
-   ],
-   "variants": [
-    "nospeaker",
-    "os6 nospeaker",
-    "cody nospeaker"
-   ],
-   "posts": [],
-   "repo": "os6/nospeaker",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "mobile agent testers",
+   "term": "memt 1.0 pro",
+   "kinds": [
+    "hf"
+   ],
+   "signals": [
+    "Hugging Face: new at #48"
+   ],
+   "examples": [
+    "MemTensor/MemT-1.0-Pro (text-generation, ♥63)"
+   ],
+   "variants": [],
+   "posts": [],
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "victory",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout pierridotite/mobile-agent-testers ★962 (147/day, +611 in a day)"
+    "GitHub breakout Marvisak/VIctory ★1776 (1776/day)"
    ],
    "examples": [
-    "pierridotite/mobile-agent-testers: 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and An"
+    "Marvisak/VIctory: An attempt at running GTA VI on PC"
    ],
    "variants": [
-    "mobile agent testers",
-    "pierridotite mobile agent testers",
-    "pierre mobile agent testers"
+    "victory",
+    "marvisak victory",
+    "marvis victory"
    ],
    "posts": [],
-   "repo": "pierridotite/mobile-agent-testers",
+   "repo": "Marvisak/VIctory",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "xnulinux",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout AFK-surf/xnulinux ★2050 (570/day, +1565 in a day)"
+   ],
+   "examples": [
+    "AFK-surf/xnulinux: XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)"
+   ],
+   "variants": [
+    "xnulinux",
+    "afk-surf xnulinux",
+    "afk xnulinux"
+   ],
+   "posts": [],
+   "repo": "AFK-surf/xnulinux",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "xcl",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout ivall/xcl ★2189 (686/day)"
+   ],
+   "examples": [
+    "ivall/xcl: Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries"
+   ],
+   "variants": [
+    "xcl",
+    "ivall xcl"
+   ],
+   "posts": [],
+   "repo": "ivall/xcl",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "safe anything",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout erkamyaman/safe-anything ★491 (369/day)"
+   ],
+   "examples": [
+    "erkamyaman/safe-anything: Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, de"
+   ],
+   "variants": [
+    "safe anything",
+    "erkamyaman safe anything",
+    "erkam safe anything"
+   ],
+   "posts": [],
+   "repo": "erkamyaman/safe-anything",
    "known": "",
    "format": "text",
    "one_click": null
@@ -69,14 +129,24 @@
   "first_run": false,
   "terms": [
    {
-    "term": "jeveration",
-    "rank": 42,
+    "term": "ling 3.2 air",
+    "rank": 25,
     "copies": 1,
     "examples": [
-     "linlinlinlinsdada/Jeveration (text-to-image, ♥82)"
+     "inclusionAI/Ling-3.2-air (?, ♥99)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #42"
+    "note": "Hugging Face: new at #25"
+   },
+   {
+    "term": "memt 1.0 pro",
+    "rank": 48,
+    "copies": 1,
+    "examples": [
+     "MemTensor/MemT-1.0-Pro (text-generation, ♥63)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face: new at #48"
    }
   ],
   "models": 100,
@@ -87,24 +157,45 @@
   "first_run": false,
   "repos": [
    {
-    "repo": "ItsNotRexed/Leonida",
-    "owner": "ItsNotRexed",
-    "name": "Leonida",
-    "stars": 17591,
-    "velocity": 6970,
-    "delta": 4056,
-    "age_days": 2.5,
-    "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
-    "new": false
+    "repo": "Marvisak/VIctory",
+    "owner": "Marvisak",
+    "name": "VIctory",
+    "stars": 1776,
+    "velocity": 1776,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "An attempt at running GTA VI on PC",
+    "new": true,
+    "variants": [
+     "victory",
+     "marvisak victory",
+     "marvis victory"
+    ]
+   },
+   {
+    "repo": "AFK-surf/xnulinux",
+    "owner": "AFK-surf",
+    "name": "xnulinux",
+    "stars": 2050,
+    "velocity": 570,
+    "delta": 1565,
+    "age_days": 3.6,
+    "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+    "new": true,
+    "variants": [
+     "xnulinux",
+     "afk-surf xnulinux",
+     "afk xnulinux"
+    ]
    },
    {
     "repo": "EL4CTEO/fast-anything",
     "owner": "EL4CTEO",
     "name": "fast-anything",
-    "stars": 2418,
-    "velocity": 1381,
-    "delta": 731,
-    "age_days": 1.8,
+    "stars": 3121,
+    "velocity": 1292,
+    "delta": 703,
+    "age_days": 2.4,
     "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
     "new": false
    },
@@ -112,86 +203,80 @@
     "repo": "erkamyaman/rust-anything",
     "owner": "erkamyaman",
     "name": "rust-anything",
-    "stars": 8258,
-    "velocity": 1205,
-    "delta": 353,
-    "age_days": 6.9,
+    "stars": 8714,
+    "velocity": 1159,
+    "delta": 456,
+    "age_days": 7.5,
     "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
-    "new": false
-   },
-   {
-    "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
-    "owner": "bookwjitchieni1986",
-    "name": "blender-ai-mcp-addon",
-    "stars": 2758,
-    "velocity": 736,
-    "delta": 14,
-    "age_days": 3.7,
-    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude",
-    "new": false
-   },
-   {
-    "repo": "omonkeyz/xbox-emulator",
-    "owner": "omonkeyz",
-    "name": "xbox-emulator",
-    "stars": 1420,
-    "velocity": 702,
-    "delta": 193,
-    "age_days": 2.0,
-    "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
     "new": false
    },
    {
     "repo": "os6/nospeaker",
     "owner": "os6",
     "name": "nospeaker",
-    "stars": 701,
-    "velocity": 701,
-    "delta": null,
-    "age_days": 1.0,
+    "stars": 1428,
+    "velocity": 938,
+    "delta": 727,
+    "age_days": 1.5,
     "description": "make your macbook's trackpad talk using its haptic motor",
+    "new": false
+   },
+   {
+    "repo": "Hut-hzf/ung220z-tool",
+    "owner": "Hut-hzf",
+    "name": "ung220z-tool",
+    "stars": 3280,
+    "velocity": 383,
+    "delta": 820,
+    "age_days": 8.6,
+    "description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+    "new": false
+   },
+   {
+    "repo": "ivall/xcl",
+    "owner": "ivall",
+    "name": "xcl",
+    "stars": 2189,
+    "velocity": 686,
+    "delta": null,
+    "age_days": 3.2,
+    "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries",
     "new": true,
     "variants": [
-     "nospeaker",
-     "os6 nospeaker",
-     "cody nospeaker"
+     "xcl",
+     "ivall xcl"
     ]
    },
    {
-    "repo": "huami1314/GestaltX",
-    "owner": "huami1314",
-    "name": "GestaltX",
-    "stars": 8829,
-    "velocity": 624,
-    "delta": 24,
-    "age_days": 14.1,
-    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+    "repo": "omonkeyz/xbox-emulator",
+    "owner": "omonkeyz",
+    "name": "xbox-emulator",
+    "stars": 1671,
+    "velocity": 622,
+    "delta": 251,
+    "age_days": 2.7,
+    "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
     "new": false
    },
    {
     "repo": "pierridotite/mobile-agent-testers",
     "owner": "pierridotite",
     "name": "mobile-agent-testers",
-    "stars": 962,
-    "velocity": 147,
-    "delta": 611,
-    "age_days": 6.6,
+    "stars": 1465,
+    "velocity": 203,
+    "delta": 503,
+    "age_days": 7.2,
     "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and An",
-    "new": true,
-    "variants": [
-     "mobile agent testers",
-     "pierridotite mobile agent testers",
-     "pierre mobile agent testers"
-    ]
+    "new": false
    },
    {
     "repo": "iamajmeena/neonclipping",
     "owner": "iamajmeena",
     "name": "neonclipping",
-    "stars": 2191,
-    "velocity": 555,
-    "delta": 122,
-    "age_days": 3.9,
+    "stars": 2306,
+    "velocity": 500,
+    "delta": 115,
+    "age_days": 4.6,
     "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
     "new": false
    },
@@ -199,54 +284,48 @@
     "repo": "R0Y00/Xbox2Windows",
     "owner": "R0Y00",
     "name": "Xbox2Windows",
-    "stars": 1366,
-    "velocity": 521,
-    "delta": 104,
-    "age_days": 2.6,
-    "description": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders",
+    "stars": 1521,
+    "velocity": 463,
+    "delta": 155,
+    "age_days": 3.3,
+    "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-gam",
     "new": false
    },
    {
     "repo": "deepseek-ai/chat-demo",
     "owner": "deepseek-ai",
     "name": "chat-demo",
-    "stars": 5321,
-    "velocity": 483,
-    "delta": 44,
-    "age_days": 11.0,
+    "stars": 5344,
+    "velocity": 457,
+    "delta": 23,
+    "age_days": 11.7,
     "description": "Chat Demo",
     "new": false
    },
    {
-    "repo": "XinaTian/MROffice",
-    "owner": "XinaTian",
-    "name": "MROffice",
-    "stars": 2523,
-    "velocity": 200,
-    "delta": 453,
-    "age_days": 12.6,
-    "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, present",
-    "new": false
-   },
-   {
-    "repo": "Hut-hzf/ung220z-tool",
-    "owner": "Hut-hzf",
-    "name": "ung220z-tool",
-    "stars": 2460,
-    "velocity": 312,
-    "delta": 106,
-    "age_days": 7.9,
-    "description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-    "new": false
+    "repo": "erkamyaman/safe-anything",
+    "owner": "erkamyaman",
+    "name": "safe-anything",
+    "stars": 491,
+    "velocity": 369,
+    "delta": null,
+    "age_days": 1.3,
+    "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, de",
+    "new": true,
+    "variants": [
+     "safe anything",
+     "erkamyaman safe anything",
+     "erkam safe anything"
+    ]
    },
    {
     "repo": "simplexai-labs/linger",
     "owner": "simplexai-labs",
     "name": "linger",
-    "stars": 4023,
-    "velocity": 305,
-    "delta": 234,
-    "age_days": 13.2,
+    "stars": 4190,
+    "velocity": 302,
+    "delta": 167,
+    "age_days": 13.9,
     "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing p",
     "new": false
    },
@@ -254,41 +333,68 @@
     "repo": "sybil-solutions/inference-optimisation-skill",
     "owner": "sybil-solutions",
     "name": "inference-optimisation-skill",
-    "stars": 2011,
-    "velocity": 305,
-    "delta": 85,
-    "age_days": 6.6,
+    "stars": 2144,
+    "velocity": 296,
+    "delta": 133,
+    "age_days": 7.2,
     "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any ",
     "new": false
    }
   ],
   "terms": [
    {
-    "term": "nospeaker",
+    "term": "victory",
     "recent": 1,
     "variants": [
-     "nospeaker",
-     "os6 nospeaker",
-     "cody nospeaker"
+     "victory",
+     "marvisak victory",
+     "marvis victory"
     ],
-    "repo": "os6/nospeaker",
-    "note": "GitHub breakout os6/nospeaker ★701 (701/day)",
+    "repo": "Marvisak/VIctory",
+    "note": "GitHub breakout Marvisak/VIctory ★1776 (1776/day)",
     "examples": [
-     "os6/nospeaker: make your macbook's trackpad talk using its haptic motor"
+     "Marvisak/VIctory: An attempt at running GTA VI on PC"
     ]
    },
    {
-    "term": "mobile agent testers",
+    "term": "xnulinux",
     "recent": 1,
     "variants": [
-     "mobile agent testers",
-     "pierridotite mobile agent testers",
-     "pierre mobile agent testers"
+     "xnulinux",
+     "afk-surf xnulinux",
+     "afk xnulinux"
     ],
-    "repo": "pierridotite/mobile-agent-testers",
-    "note": "GitHub breakout pierridotite/mobile-agent-testers ★962 (147/day, +611 in a day)",
+    "repo": "AFK-surf/xnulinux",
+    "note": "GitHub breakout AFK-surf/xnulinux ★2050 (570/day, +1565 in a day)",
     "examples": [
-     "pierridotite/mobile-agent-testers: 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and An"
+     "AFK-surf/xnulinux: XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)"
+    ]
+   },
+   {
+    "term": "xcl",
+    "recent": 1,
+    "variants": [
+     "xcl",
+     "ivall xcl"
+    ],
+    "repo": "ivall/xcl",
+    "note": "GitHub breakout ivall/xcl ★2189 (686/day)",
+    "examples": [
+     "ivall/xcl: Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries"
+    ]
+   },
+   {
+    "term": "safe anything",
+    "recent": 1,
+    "variants": [
+     "safe anything",
+     "erkamyaman safe anything",
+     "erkam safe anything"
+    ],
+    "repo": "erkamyaman/safe-anything",
+    "note": "GitHub breakout erkamyaman/safe-anything ★491 (369/day)",
+    "examples": [
+     "erkamyaman/safe-anything: Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, de"
     ]
    }
   ],
@@ -317,7 +423,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 182,
+  "pending": 188,
   "window_days": 60
  },
  "keywords": {
