@@ -1,81 +1,83 @@
 {
  "leads": [
   {
-   "term": "ocria nano 1",
+   "term": "ternary bonsai 2.5",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #34"
+    "Hugging Face: new at #32"
    ],
    "examples": [
-    "llamaindex/OCRia-nano-1 (image-to-text, ♥81)"
+    "prism-ml/Ternary-Bonsai-2.5-27B-GGUF (text-generation, ♥86)"
    ],
    "variants": [],
    "posts": [],
    "known": "",
-   "format": "image",
+   "format": "text",
    "one_click": null
   },
   {
-   "term": "portwatch vi",
+   "term": "xcl",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout 4lwayz/portwatch-vi ★1494 (603/day, +970 in a day)"
+    "GitHub breakout xcl-dev/xcl ★7770 (1886/day)"
    ],
    "examples": [
-    "4lwayz/portwatch-vi: Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily."
+    "xcl-dev/xcl: Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries"
    ],
    "variants": [
-    "portwatch vi",
-    "4lwayz portwatch vi"
+    "xcl",
+    "xcl-dev xcl",
+    "xcl xcl"
    ],
    "posts": [],
-   "repo": "4lwayz/portwatch-vi",
+   "repo": "xcl-dev/xcl",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "leonida",
+   "term": "victory fork",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout ubiquitarianism/leonida ★952 (952/day)"
+    "GitHub breakout fxceless/victory-fork ★1524 (1524/day)"
    ],
    "examples": [
-    "ubiquitarianism/leonida: A continuation of Leonida, the Xbox > PC port of GTA VI"
+    "fxceless/victory-fork: Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files."
    ],
    "variants": [
-    "leonida",
-    "ubiquitarianism leonida"
+    "victory fork",
+    "fxceless victory fork",
+    "hyphen victory fork"
    ],
    "posts": [],
-   "repo": "ubiquitarianism/leonida",
+   "repo": "fxceless/victory-fork",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "robrun cheat",
+   "term": "universal game mod manager",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout RyanLebedev6104/robrun-cheat ★534 (534/day)"
+    "GitHub breakout Indigo-0167/universal-game-mod-manager ★453 (427/day)"
    ],
    "examples": [
-    "RyanLebedev6104/robrun-cheat: ROB RUN external-overlay & External runtime-mod — Spatial Bone ESP, Loot Radar & frame-unlocker: native 64-bit Windows 1"
+    "Indigo-0167/universal-game-mod-manager: Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods."
    ],
    "variants": [
-    "robrun cheat",
-    "ryanlebedev6104 robrun cheat"
+    "universal game mod manager",
+    "indigo-0167 universal game mod manager"
    ],
    "posts": [],
-   "repo": "RyanLebedev6104/robrun-cheat",
+   "repo": "Indigo-0167/universal-game-mod-manager",
    "known": "",
    "format": "text",
    "one_click": null
@@ -88,14 +90,14 @@
   "first_run": false,
   "terms": [
    {
-    "term": "ocria nano 1",
-    "rank": 34,
+    "term": "ternary bonsai 2.5",
+    "rank": 32,
     "copies": 1,
     "examples": [
-     "llamaindex/OCRia-nano-1 (image-to-text, ♥81)"
+     "prism-ml/Ternary-Bonsai-2.5-27B-GGUF (text-generation, ♥86)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #34"
+    "note": "Hugging Face: new at #32"
    }
   ],
   "models": 100,
@@ -109,154 +111,141 @@
     "repo": "Marvisak/VIctory",
     "owner": "Marvisak",
     "name": "VIctory",
-    "stars": 7550,
-    "velocity": 7550,
-    "delta": 5774,
+    "stars": 11168,
+    "velocity": 10657,
+    "delta": 3618,
     "age_days": 1.0,
     "description": "An attempt at running GTA VI on PC",
     "new": false
    },
    {
-    "repo": "ivall/xcl",
-    "owner": "ivall",
+    "repo": "xcl-dev/xcl",
+    "owner": "xcl-dev",
     "name": "xcl",
-    "stars": 6002,
-    "velocity": 1662,
-    "delta": 3813,
-    "age_days": 3.6,
+    "stars": 7770,
+    "velocity": 1886,
+    "delta": null,
+    "age_days": 4.1,
     "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries",
-    "new": false
-   },
-   {
-    "repo": "EL4CTEO/fast-anything",
-    "owner": "EL4CTEO",
-    "name": "fast-anything",
-    "stars": 3400,
-    "velocity": 1199,
-    "delta": 279,
-    "age_days": 2.8,
-    "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
-    "new": false
-   },
-   {
-    "repo": "erkamyaman/rust-anything",
-    "owner": "erkamyaman",
-    "name": "rust-anything",
-    "stars": 8983,
-    "velocity": 1131,
-    "delta": 269,
-    "age_days": 7.9,
-    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
-    "new": false
-   },
-   {
-    "repo": "4lwayz/portwatch-vi",
-    "owner": "4lwayz",
-    "name": "portwatch-vi",
-    "stars": 1494,
-    "velocity": 603,
-    "delta": 970,
-    "age_days": 2.5,
-    "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
     "new": true,
     "variants": [
-     "portwatch vi",
-     "4lwayz portwatch vi"
+     "xcl",
+     "xcl-dev xcl",
+     "xcl xcl"
     ]
    },
    {
     "repo": "ubiquitarianism/leonida",
     "owner": "ubiquitarianism",
     "name": "leonida",
-    "stars": 952,
-    "velocity": 952,
-    "delta": null,
+    "stars": 1827,
+    "velocity": 1827,
+    "delta": 875,
     "age_days": 1.0,
-    "description": "A continuation of Leonida, the Xbox > PC port of GTA VI",
-    "new": true,
-    "variants": [
-     "leonida",
-     "ubiquitarianism leonida"
-    ]
-   },
-   {
-    "repo": "os6/nospeaker",
-    "owner": "os6",
-    "name": "nospeaker",
-    "stars": 1607,
-    "velocity": 827,
-    "delta": 179,
-    "age_days": 1.9,
-    "description": "make your macbook's trackpad talk using its haptic motor",
+    "description": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
     "new": false
    },
    {
-    "repo": "Hut-hzf/ung220z-tool",
-    "owner": "Hut-hzf",
-    "name": "ung220z-tool",
-    "stars": 4031,
-    "velocity": 449,
-    "delta": 751,
-    "age_days": 9.0,
-    "description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+    "repo": "fxceless/victory-fork",
+    "owner": "fxceless",
+    "name": "victory-fork",
+    "stars": 1524,
+    "velocity": 1524,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+    "new": true,
+    "variants": [
+     "victory fork",
+     "fxceless victory fork",
+     "hyphen victory fork"
+    ]
+   },
+   {
+    "repo": "4lwayz/portwatch-vi",
+    "owner": "4lwayz",
+    "name": "portwatch-vi",
+    "stars": 2742,
+    "velocity": 918,
+    "delta": 1248,
+    "age_days": 3.0,
+    "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+    "new": false
+   },
+   {
+    "repo": "erkamyaman/rust-anything",
+    "owner": "erkamyaman",
+    "name": "rust-anything",
+    "stars": 9190,
+    "velocity": 1088,
+    "delta": 207,
+    "age_days": 8.4,
+    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
+    "new": false
+   },
+   {
+    "repo": "EL4CTEO/fast-anything",
+    "owner": "EL4CTEO",
+    "name": "fast-anything",
+    "stars": 3582,
+    "velocity": 1071,
+    "delta": 182,
+    "age_days": 3.3,
+    "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
     "new": false
    },
    {
     "repo": "AFK-surf/xnulinux",
     "owner": "AFK-surf",
     "name": "xnulinux",
-    "stars": 2766,
-    "velocity": 688,
-    "delta": 716,
-    "age_days": 4.0,
+    "stars": 3315,
+    "velocity": 732,
+    "delta": 549,
+    "age_days": 4.5,
     "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
     "new": false
    },
    {
-    "repo": "XinaTian/MROffice",
-    "owner": "XinaTian",
-    "name": "MROffice",
-    "stars": 3460,
-    "velocity": 253,
-    "delta": 676,
-    "age_days": 13.7,
-    "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, present",
+    "repo": "os6/nospeaker",
+    "owner": "os6",
+    "name": "nospeaker",
+    "stars": 1745,
+    "velocity": 712,
+    "delta": 138,
+    "age_days": 2.5,
+    "description": "make your macbook's trackpad talk using its haptic motor",
     "new": false
    },
    {
     "repo": "omonkeyz/xbox-emulator",
     "owner": "omonkeyz",
     "name": "xbox-emulator",
-    "stars": 1738,
-    "velocity": 559,
-    "delta": 67,
-    "age_days": 3.1,
+    "stars": 1814,
+    "velocity": 502,
+    "delta": 76,
+    "age_days": 3.6,
     "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
     "new": false
    },
    {
-    "repo": "RyanLebedev6104/robrun-cheat",
-    "owner": "RyanLebedev6104",
-    "name": "robrun-cheat",
-    "stars": 534,
-    "velocity": 534,
-    "delta": null,
-    "age_days": 1.0,
-    "description": "ROB RUN external-overlay & External runtime-mod — Spatial Bone ESP, Loot Radar & frame-unlocker: native 64-bit Windows 1",
-    "new": true,
-    "variants": [
-     "robrun cheat",
-     "ryanlebedev6104 robrun cheat"
-    ]
+    "repo": "Hut-hzf/ung220z-tool",
+    "owner": "Hut-hzf",
+    "name": "ung220z-tool",
+    "stars": 4416,
+    "velocity": 466,
+    "delta": 385,
+    "age_days": 9.5,
+    "description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+    "new": false
    },
    {
     "repo": "R0Y00/Xbox2Windows",
     "owner": "R0Y00",
     "name": "Xbox2Windows",
-    "stars": 1758,
-    "velocity": 474,
-    "delta": 237,
-    "age_days": 3.7,
+    "stars": 1897,
+    "velocity": 450,
+    "delta": 139,
+    "age_days": 4.2,
     "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-gam",
     "new": false
    },
@@ -264,10 +253,10 @@
     "repo": "iamajmeena/neonclipping",
     "owner": "iamajmeena",
     "name": "neonclipping",
-    "stars": 2372,
-    "velocity": 472,
-    "delta": 66,
-    "age_days": 5.0,
+    "stars": 2480,
+    "velocity": 448,
+    "delta": 108,
+    "age_days": 5.5,
     "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
     "new": false
    },
@@ -275,52 +264,69 @@
     "repo": "deepseek-ai/chat-demo",
     "owner": "deepseek-ai",
     "name": "chat-demo",
-    "stars": 5374,
-    "velocity": 444,
-    "delta": 30,
-    "age_days": 12.1,
+    "stars": 5395,
+    "velocity": 428,
+    "delta": 21,
+    "age_days": 12.6,
     "description": "Chat Demo",
     "new": false
+   },
+   {
+    "repo": "Indigo-0167/universal-game-mod-manager",
+    "owner": "Indigo-0167",
+    "name": "universal-game-mod-manager",
+    "stars": 453,
+    "velocity": 427,
+    "delta": null,
+    "age_days": 1.1,
+    "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+    "new": true,
+    "variants": [
+     "universal game mod manager",
+     "indigo-0167 universal game mod manager"
+    ]
    }
   ],
   "terms": [
    {
-    "term": "portwatch vi",
+    "term": "xcl",
     "recent": 1,
     "variants": [
-     "portwatch vi",
-     "4lwayz portwatch vi"
+     "xcl",
+     "xcl-dev xcl",
+     "xcl xcl"
     ],
-    "repo": "4lwayz/portwatch-vi",
-    "note": "GitHub breakout 4lwayz/portwatch-vi ★1494 (603/day, +970 in a day)",
+    "repo": "xcl-dev/xcl",
+    "note": "GitHub breakout xcl-dev/xcl ★7770 (1886/day)",
     "examples": [
-     "4lwayz/portwatch-vi: Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily."
+     "xcl-dev/xcl: Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries"
     ]
    },
    {
-    "term": "leonida",
+    "term": "victory fork",
     "recent": 1,
     "variants": [
-     "leonida",
-     "ubiquitarianism leonida"
+     "victory fork",
+     "fxceless victory fork",
+     "hyphen victory fork"
     ],
-    "repo": "ubiquitarianism/leonida",
-    "note": "GitHub breakout ubiquitarianism/leonida ★952 (952/day)",
+    "repo": "fxceless/victory-fork",
+    "note": "GitHub breakout fxceless/victory-fork ★1524 (1524/day)",
     "examples": [
-     "ubiquitarianism/leonida: A continuation of Leonida, the Xbox > PC port of GTA VI"
+     "fxceless/victory-fork: Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files."
     ]
    },
    {
-    "term": "robrun cheat",
+    "term": "universal game mod manager",
     "recent": 1,
     "variants": [
-     "robrun cheat",
-     "ryanlebedev6104 robrun cheat"
+     "universal game mod manager",
+     "indigo-0167 universal game mod manager"
     ],
-    "repo": "RyanLebedev6104/robrun-cheat",
-    "note": "GitHub breakout RyanLebedev6104/robrun-cheat ★534 (534/day)",
+    "repo": "Indigo-0167/universal-game-mod-manager",
+    "note": "GitHub breakout Indigo-0167/universal-game-mod-manager ★453 (427/day)",
     "examples": [
-     "RyanLebedev6104/robrun-cheat: ROB RUN external-overlay & External runtime-mod — Spatial Bone ESP, Loot Radar & frame-unlocker: native 64-bit Windows 1"
+     "Indigo-0167/universal-game-mod-manager: Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods."
     ]
    }
   ],
@@ -349,7 +355,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 191,
+  "pending": 194,
   "window_days": 60
  },
  "keywords": {
