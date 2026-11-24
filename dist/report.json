@@ -1,122 +1,81 @@
 {
  "leads": [
   {
-   "term": "ling 3.2 air",
+   "term": "ocria nano 1",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #25"
+    "Hugging Face: new at #34"
    ],
    "examples": [
-    "inclusionAI/Ling-3.2-air (?, ♥99)"
+    "llamaindex/OCRia-nano-1 (image-to-text, ♥81)"
    ],
    "variants": [],
    "posts": [],
    "known": "",
-   "format": "text",
+   "format": "image",
    "one_click": null
   },
   {
-   "term": "memt 1.0 pro",
+   "term": "portwatch vi",
    "kinds": [
-    "hf"
+    "breakout"
    ],
    "signals": [
-    "Hugging Face: new at #48"
+    "GitHub breakout 4lwayz/portwatch-vi ★1494 (603/day, +970 in a day)"
    ],
    "examples": [
-    "MemTensor/MemT-1.0-Pro (text-generation, ♥63)"
+    "4lwayz/portwatch-vi: Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily."
    ],
-   "variants": [],
+   "variants": [
+    "portwatch vi",
+    "4lwayz portwatch vi"
+   ],
    "posts": [],
+   "repo": "4lwayz/portwatch-vi",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "victory",
+   "term": "leonida",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout Marvisak/VIctory ★1776 (1776/day)"
+    "GitHub breakout ubiquitarianism/leonida ★952 (952/day)"
    ],
    "examples": [
-    "Marvisak/VIctory: An attempt at running GTA VI on PC"
+    "ubiquitarianism/leonida: A continuation of Leonida, the Xbox > PC port of GTA VI"
    ],
    "variants": [
-    "victory",
-    "marvisak victory",
-    "marvis victory"
+    "leonida",
+    "ubiquitarianism leonida"
    ],
    "posts": [],
-   "repo": "Marvisak/VIctory",
+   "repo": "ubiquitarianism/leonida",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "xnulinux",
+   "term": "robrun cheat",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout AFK-surf/xnulinux ★2050 (570/day, +1565 in a day)"
+    "GitHub breakout RyanLebedev6104/robrun-cheat ★534 (534/day)"
    ],
    "examples": [
-    "AFK-surf/xnulinux: XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)"
+    "RyanLebedev6104/robrun-cheat: ROB RUN external-overlay & External runtime-mod — Spatial Bone ESP, Loot Radar & frame-unlocker: native 64-bit Windows 1"
    ],
    "variants": [
-    "xnulinux",
-    "afk-surf xnulinux",
-    "afk xnulinux"
+    "robrun cheat",
+    "ryanlebedev6104 robrun cheat"
    ],
    "posts": [],
-   "repo": "AFK-surf/xnulinux",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "xcl",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout ivall/xcl ★2189 (686/day)"
-   ],
-   "examples": [
-    "ivall/xcl: Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries"
-   ],
-   "variants": [
-    "xcl",
-    "ivall xcl"
-   ],
-   "posts": [],
-   "repo": "ivall/xcl",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "safe anything",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout erkamyaman/safe-anything ★491 (369/day)"
-   ],
-   "examples": [
-    "erkamyaman/safe-anything: Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, de"
-   ],
-   "variants": [
-    "safe anything",
-    "erkamyaman safe anything",
-    "erkam safe anything"
-   ],
-   "posts": [],
-   "repo": "erkamyaman/safe-anything",
+   "repo": "RyanLebedev6104/robrun-cheat",
    "known": "",
    "format": "text",
    "one_click": null
@@ -129,24 +88,14 @@
   "first_run": false,
   "terms": [
    {
-    "term": "ling 3.2 air",
-    "rank": 25,
+    "term": "ocria nano 1",
+    "rank": 34,
     "copies": 1,
     "examples": [
-     "inclusionAI/Ling-3.2-air (?, ♥99)"
+     "llamaindex/OCRia-nano-1 (image-to-text, ♥81)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #25"
-   },
-   {
-    "term": "memt 1.0 pro",
-    "rank": 48,
-    "copies": 1,
-    "examples": [
-     "MemTensor/MemT-1.0-Pro (text-generation, ♥63)"
-    ],
-    "recent": 1,
-    "note": "Hugging Face: new at #48"
+    "note": "Hugging Face: new at #34"
    }
   ],
   "models": 100,
@@ -160,42 +109,32 @@
     "repo": "Marvisak/VIctory",
     "owner": "Marvisak",
     "name": "VIctory",
-    "stars": 1776,
-    "velocity": 1776,
-    "delta": null,
+    "stars": 7550,
+    "velocity": 7550,
+    "delta": 5774,
     "age_days": 1.0,
     "description": "An attempt at running GTA VI on PC",
-    "new": true,
-    "variants": [
-     "victory",
-     "marvisak victory",
-     "marvis victory"
-    ]
+    "new": false
    },
    {
-    "repo": "AFK-surf/xnulinux",
-    "owner": "AFK-surf",
-    "name": "xnulinux",
-    "stars": 2050,
-    "velocity": 570,
-    "delta": 1565,
+    "repo": "ivall/xcl",
+    "owner": "ivall",
+    "name": "xcl",
+    "stars": 6002,
+    "velocity": 1662,
+    "delta": 3813,
     "age_days": 3.6,
-    "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-    "new": true,
-    "variants": [
-     "xnulinux",
-     "afk-surf xnulinux",
-     "afk xnulinux"
-    ]
+    "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries",
+    "new": false
    },
    {
     "repo": "EL4CTEO/fast-anything",
     "owner": "EL4CTEO",
     "name": "fast-anything",
-    "stars": 3121,
-    "velocity": 1292,
-    "delta": 703,
-    "age_days": 2.4,
+    "stars": 3400,
+    "velocity": 1199,
+    "delta": 279,
+    "age_days": 2.8,
     "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
     "new": false
    },
@@ -203,21 +142,51 @@
     "repo": "erkamyaman/rust-anything",
     "owner": "erkamyaman",
     "name": "rust-anything",
-    "stars": 8714,
-    "velocity": 1159,
-    "delta": 456,
-    "age_days": 7.5,
+    "stars": 8983,
+    "velocity": 1131,
+    "delta": 269,
+    "age_days": 7.9,
     "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
     "new": false
+   },
+   {
+    "repo": "4lwayz/portwatch-vi",
+    "owner": "4lwayz",
+    "name": "portwatch-vi",
+    "stars": 1494,
+    "velocity": 603,
+    "delta": 970,
+    "age_days": 2.5,
+    "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+    "new": true,
+    "variants": [
+     "portwatch vi",
+     "4lwayz portwatch vi"
+    ]
+   },
+   {
+    "repo": "ubiquitarianism/leonida",
+    "owner": "ubiquitarianism",
+    "name": "leonida",
+    "stars": 952,
+    "velocity": 952,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "A continuation of Leonida, the Xbox > PC port of GTA VI",
+    "new": true,
+    "variants": [
+     "leonida",
+     "ubiquitarianism leonida"
+    ]
    },
    {
     "repo": "os6/nospeaker",
     "owner": "os6",
     "name": "nospeaker",
-    "stars": 1428,
-    "velocity": 938,
-    "delta": 727,
-    "age_days": 1.5,
+    "stars": 1607,
+    "velocity": 827,
+    "delta": 179,
+    "age_days": 1.9,
     "description": "make your macbook's trackpad talk using its haptic motor",
     "new": false
    },
@@ -225,176 +194,133 @@
     "repo": "Hut-hzf/ung220z-tool",
     "owner": "Hut-hzf",
     "name": "ung220z-tool",
-    "stars": 3280,
-    "velocity": 383,
-    "delta": 820,
-    "age_days": 8.6,
+    "stars": 4031,
+    "velocity": 449,
+    "delta": 751,
+    "age_days": 9.0,
     "description": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
     "new": false
    },
    {
-    "repo": "ivall/xcl",
-    "owner": "ivall",
-    "name": "xcl",
-    "stars": 2189,
-    "velocity": 686,
-    "delta": null,
-    "age_days": 3.2,
-    "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries",
-    "new": true,
-    "variants": [
-     "xcl",
-     "ivall xcl"
-    ]
+    "repo": "AFK-surf/xnulinux",
+    "owner": "AFK-surf",
+    "name": "xnulinux",
+    "stars": 2766,
+    "velocity": 688,
+    "delta": 716,
+    "age_days": 4.0,
+    "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+    "new": false
+   },
+   {
+    "repo": "XinaTian/MROffice",
+    "owner": "XinaTian",
+    "name": "MROffice",
+    "stars": 3460,
+    "velocity": 253,
+    "delta": 676,
+    "age_days": 13.7,
+    "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, present",
+    "new": false
    },
    {
     "repo": "omonkeyz/xbox-emulator",
     "owner": "omonkeyz",
     "name": "xbox-emulator",
-    "stars": 1671,
-    "velocity": 622,
-    "delta": 251,
-    "age_days": 2.7,
+    "stars": 1738,
+    "velocity": 559,
+    "delta": 67,
+    "age_days": 3.1,
     "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
     "new": false
    },
    {
-    "repo": "pierridotite/mobile-agent-testers",
-    "owner": "pierridotite",
-    "name": "mobile-agent-testers",
-    "stars": 1465,
-    "velocity": 203,
-    "delta": 503,
-    "age_days": 7.2,
-    "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and An",
+    "repo": "RyanLebedev6104/robrun-cheat",
+    "owner": "RyanLebedev6104",
+    "name": "robrun-cheat",
+    "stars": 534,
+    "velocity": 534,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "ROB RUN external-overlay & External runtime-mod — Spatial Bone ESP, Loot Radar & frame-unlocker: native 64-bit Windows 1",
+    "new": true,
+    "variants": [
+     "robrun cheat",
+     "ryanlebedev6104 robrun cheat"
+    ]
+   },
+   {
+    "repo": "R0Y00/Xbox2Windows",
+    "owner": "R0Y00",
+    "name": "Xbox2Windows",
+    "stars": 1758,
+    "velocity": 474,
+    "delta": 237,
+    "age_days": 3.7,
+    "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-gam",
     "new": false
    },
    {
     "repo": "iamajmeena/neonclipping",
     "owner": "iamajmeena",
     "name": "neonclipping",
-    "stars": 2306,
-    "velocity": 500,
-    "delta": 115,
-    "age_days": 4.6,
+    "stars": 2372,
+    "velocity": 472,
+    "delta": 66,
+    "age_days": 5.0,
     "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube caption",
-    "new": false
-   },
-   {
-    "repo": "R0Y00/Xbox2Windows",
-    "owner": "R0Y00",
-    "name": "Xbox2Windows",
-    "stars": 1521,
-    "velocity": 463,
-    "delta": 155,
-    "age_days": 3.3,
-    "description": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-gam",
     "new": false
    },
    {
     "repo": "deepseek-ai/chat-demo",
     "owner": "deepseek-ai",
     "name": "chat-demo",
-    "stars": 5344,
-    "velocity": 457,
-    "delta": 23,
-    "age_days": 11.7,
+    "stars": 5374,
+    "velocity": 444,
+    "delta": 30,
+    "age_days": 12.1,
     "description": "Chat Demo",
-    "new": false
-   },
-   {
-    "repo": "erkamyaman/safe-anything",
-    "owner": "erkamyaman",
-    "name": "safe-anything",
-    "stars": 491,
-    "velocity": 369,
-    "delta": null,
-    "age_days": 1.3,
-    "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, de",
-    "new": true,
-    "variants": [
-     "safe anything",
-     "erkamyaman safe anything",
-     "erkam safe anything"
-    ]
-   },
-   {
-    "repo": "simplexai-labs/linger",
-    "owner": "simplexai-labs",
-    "name": "linger",
-    "stars": 4190,
-    "velocity": 302,
-    "delta": 167,
-    "age_days": 13.9,
-    "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing p",
-    "new": false
-   },
-   {
-    "repo": "sybil-solutions/inference-optimisation-skill",
-    "owner": "sybil-solutions",
-    "name": "inference-optimisation-skill",
-    "stars": 2144,
-    "velocity": 296,
-    "delta": 133,
-    "age_days": 7.2,
-    "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any ",
     "new": false
    }
   ],
   "terms": [
    {
-    "term": "victory",
+    "term": "portwatch vi",
     "recent": 1,
     "variants": [
-     "victory",
-     "marvisak victory",
-     "marvis victory"
+     "portwatch vi",
+     "4lwayz portwatch vi"
     ],
-    "repo": "Marvisak/VIctory",
-    "note": "GitHub breakout Marvisak/VIctory ★1776 (1776/day)",
+    "repo": "4lwayz/portwatch-vi",
+    "note": "GitHub breakout 4lwayz/portwatch-vi ★1494 (603/day, +970 in a day)",
     "examples": [
-     "Marvisak/VIctory: An attempt at running GTA VI on PC"
+     "4lwayz/portwatch-vi: Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily."
     ]
    },
    {
-    "term": "xnulinux",
+    "term": "leonida",
     "recent": 1,
     "variants": [
-     "xnulinux",
-     "afk-surf xnulinux",
-     "afk xnulinux"
+     "leonida",
+     "ubiquitarianism leonida"
     ],
-    "repo": "AFK-surf/xnulinux",
-    "note": "GitHub breakout AFK-surf/xnulinux ★2050 (570/day, +1565 in a day)",
+    "repo": "ubiquitarianism/leonida",
+    "note": "GitHub breakout ubiquitarianism/leonida ★952 (952/day)",
     "examples": [
-     "AFK-surf/xnulinux: XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)"
+     "ubiquitarianism/leonida: A continuation of Leonida, the Xbox > PC port of GTA VI"
     ]
    },
    {
-    "term": "xcl",
+    "term": "robrun cheat",
     "recent": 1,
     "variants": [
-     "xcl",
-     "ivall xcl"
+     "robrun cheat",
+     "ryanlebedev6104 robrun cheat"
     ],
-    "repo": "ivall/xcl",
-    "note": "GitHub breakout ivall/xcl ★2189 (686/day)",
+    "repo": "RyanLebedev6104/robrun-cheat",
+    "note": "GitHub breakout RyanLebedev6104/robrun-cheat ★534 (534/day)",
     "examples": [
-     "ivall/xcl: Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries"
-    ]
-   },
-   {
-    "term": "safe anything",
-    "recent": 1,
-    "variants": [
-     "safe anything",
-     "erkamyaman safe anything",
-     "erkam safe anything"
-    ],
-    "repo": "erkamyaman/safe-anything",
-    "note": "GitHub breakout erkamyaman/safe-anything ★491 (369/day)",
-    "examples": [
-     "erkamyaman/safe-anything: Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, de"
+     "RyanLebedev6104/robrun-cheat: ROB RUN external-overlay & External runtime-mod — Spatial Bone ESP, Loot Radar & frame-unlocker: native 64-bit Windows 1"
     ]
    }
   ],
@@ -423,7 +349,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 188,
+  "pending": 191,
   "window_days": 60
  },
  "keywords": {

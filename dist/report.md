@@ -4,12 +4,12 @@
 
 | Term | Signals | Name score | Known | Search variants | Examples |
 |---|---|---|---|---|---|
-| **ling 3.2 air** | Hugging Face: new at #25 | — | none | — | inclusionAI/Ling-3.2-air (?, ♥99) |
-| **memt 1.0 pro** | Hugging Face: new at #48 | — | none | — | MemTensor/MemT-1.0-Pro (text-generation, ♥63) |
-| **victory** | GitHub breakout Marvisak/VIctory ★1776 (1776/day) | — | none | marvisak victory, marvis victory | Marvisak/VIctory: An attempt at running GTA VI on  |
-| **xnulinux** | GitHub breakout AFK-surf/xnulinux ★2050 (570/day, +1565 in a day) | — | none | afk-surf xnulinux, afk xnulinux | AFK-surf/xnulinux: XNU as a loadable kernel module |
-| **xcl** | GitHub breakout ivall/xcl ★2189 (686/day) | — | none | ivall xcl | ivall/xcl: Xbox Series compatibility layer for Win |
-| **safe anything** | GitHub breakout erkamyaman/safe-anything ★491 (369/day) | — | none | erkamyaman safe anything, erkam safe anything | erkamyaman/safe-anything: Find the holes before so |
+| **ocria nano 1** 🖼 | Hugging Face: new at #34 | — | none | — | llamaindex/OCRia-nano-1 (image-to-text, ♥81) |
+| **portwatch vi** | GitHub breakout 4lwayz/portwatch-vi ★1494 (603/day, +970 in a day) | — | none | 4lwayz portwatch vi | 4lwayz/portwatch-vi: Does GTA VI run on PC yet? A  |
+| **leonida** | GitHub breakout ubiquitarianism/leonida ★952 (952/day) | — | none | ubiquitarianism leonida | ubiquitarianism/leonida: A continuation of Leonida |
+| **robrun cheat** | GitHub breakout RyanLebedev6104/robrun-cheat ★534 (534/day) | — | none | ryanlebedev6104 robrun cheat | RyanLebedev6104/robrun-cheat: ROB RUN external-ove |
+
+🎬 video · 🎙 voice · 🖼 image: what the thing makes, the usual order of what visitors pay for (video > voice > image > text). ⚡ = a post with 1,000+ likes walks through a manual workflow or rides a trend: a one-click tool nobody has built yet. Read the posts before acting on a tag.
 
 ### Topic: AI video
 
@@ -19,21 +19,21 @@ Nothing new on this topic today
 
 | Repo | ★ | Per day | Since yesterday | Age (days) | About |
 |---|---|---|---|---|---|
-| 🆕 [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | 1776 | 1776 | — | 1.0 | An attempt at running GTA VI on PC |
-| 🆕 [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) | 2050 | 570 | +1565 | 3.6 | XNU as a loadable kernel module inside Linux (macOS personal |
-| [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | 3121 | 1292 | +703 | 2.4 | Don't rewrite it in Rust. Rewrite the 5% that's slow: profil |
-| [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 8714 | 1159 | +456 | 7.5 | Rewrite your whole app in Rust, one piece at a time, checked |
-| [os6/nospeaker](https://github.com/os6/nospeaker) | 1428 | 938 | +727 | 1.5 | make your macbook's trackpad talk using its haptic motor |
-| [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool) | 3280 | 383 | +820 | 8.6 | ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议 |
-| 🆕 [ivall/xcl](https://github.com/ivall/xcl) | 2189 | 686 | — | 3.2 | Xbox Series compatibility layer for Windows - runs console g |
-| [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) | 1671 | 622 | +251 | 2.7 | Progress notes for running Xbox Series X/S builds on PC (Tom |
-| [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) | 1465 | 203 | +503 | 7.2 | 20 AI testers on 20 different phones, in parallel, on GitHub |
-| [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | 2306 | 500 | +115 | 4.6 | Paste a link, get captioned 9:16 clips in ~2 min. Free, loca |
-| [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) | 1521 | 463 | +155 | 3.3 | Static recompilation research for Xbox Series X/S software o |
-| [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | 5344 | 457 | +23 | 11.7 | Chat Demo |
-| 🆕 [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | 491 | 369 | — | 1.3 | Find the holes before someone else does. A fast, 100% Rust v |
-| [simplexai-labs/linger](https://github.com/simplexai-labs/linger) | 4190 | 302 | +167 | 13.9 | Linger is An Open-Source Personal Agent That Runs Fully on Y |
-| [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | 2144 | 296 | +133 | 7.2 | Agent skill for hill-climbing local LLM serving speed (decod |
+| [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | 7550 | 7550 | +5774 | 1.0 | An attempt at running GTA VI on PC |
+| [ivall/xcl](https://github.com/ivall/xcl) | 6002 | 1662 | +3813 | 3.6 | Xbox Series compatibility layer for Windows - runs console g |
+| [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | 3400 | 1199 | +279 | 2.8 | Don't rewrite it in Rust. Rewrite the 5% that's slow: profil |
+| [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 8983 | 1131 | +269 | 7.9 | Rewrite your whole app in Rust, one piece at a time, checked |
+| 🆕 [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) | 1494 | 603 | +970 | 2.5 | Does GTA VI run on PC yet? A live tracker of community recom |
+| 🆕 [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida) | 952 | 952 | — | 1.0 | A continuation of Leonida, the Xbox > PC port of GTA VI |
+| [os6/nospeaker](https://github.com/os6/nospeaker) | 1607 | 827 | +179 | 1.9 | make your macbook's trackpad talk using its haptic motor |
+| [Hut-hzf/ung220z-tool](https://github.com/Hut-hzf/ung220z-tool) | 4031 | 449 | +751 | 9.0 | ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议 |
+| [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) | 2766 | 688 | +716 | 4.0 | XNU as a loadable kernel module inside Linux (macOS personal |
+| [XinaTian/MROffice](https://github.com/XinaTian/MROffice) | 3460 | 253 | +676 | 13.7 | MR Office — the open-source editors of the AI office suite c |
+| [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) | 1738 | 559 | +67 | 3.1 | Progress notes for running Xbox Series X/S builds on PC (Tom |
+| 🆕 [RyanLebedev6104/robrun-cheat](https://github.com/RyanLebedev6104/robrun-cheat) | 534 | 534 | — | 1.0 | ROB RUN external-overlay & External runtime-mod — Spatial Bo |
+| [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) | 1758 | 474 | +237 | 3.7 | Static recompilation research for Xbox Series X/S software o |
+| [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | 2372 | 472 | +66 | 5.0 | Paste a link, get captioned 9:16 clips in ~2 min. Free, loca |
+| [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | 5374 | 444 | +30 | 12.1 | Chat Demo |
 
 ### ⑤ Review (terms reported 14 days ago: did they rise in Google Trends?)
 
