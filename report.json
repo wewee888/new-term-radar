@@ -1,123 +1,39 @@
 {
  "leads": [
   {
-   "term": "qwen image 2.1",
+   "term": "looped transformers",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face Spaces: new at #13"
+    "Hugging Face Spaces: new at #35"
    ],
    "examples": [
-    "xyzanonimous5/Qwen-Image-2.1-Studio (gradio, ♥70)"
+    "dlouapre/looped-transformers (docker, ♥18)"
    ],
    "variants": [],
    "posts": [],
-   "known": "",
-   "format": "image",
-   "one_click": null
-  },
-  {
-   "term": "offline file converter windows",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout zero5122/offline-file-converter-windows ★1059 (706/day, +622 in a day)"
-   ],
-   "examples": [
-    "zero5122/offline-file-converter-windows: Free offline file converter for Windows – convert PDF, documents, images, audio and video privately."
-   ],
-   "variants": [
-    "offline file converter windows",
-    "zero5122 offline file converter windows"
-   ],
-   "posts": [],
-   "repo": "zero5122/offline-file-converter-windows",
-   "known": "",
-   "format": "video",
-   "one_click": null
-  },
-  {
-   "term": "ffmpeg video audio converter",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout kai415-debug/ffmpeg-video-audio-converter ★1024 (681/day, +597 in a day)"
-   ],
-   "examples": [
-    "kai415-debug/ffmpeg-video-audio-converter: Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding."
-   ],
-   "variants": [
-    "ffmpeg video audio converter",
-    "kai415-debug ffmpeg video audio converter"
-   ],
-   "posts": [],
-   "repo": "kai415-debug/ffmpeg-video-audio-converter",
-   "known": "",
-   "format": "video",
-   "one_click": null
-  },
-  {
-   "term": "clipboard history manager windows",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout Umbra9179/clipboard-history-manager-windows ★1162 (775/day, +729 in a day)"
-   ],
-   "examples": [
-    "Umbra9179/clipboard-history-manager-windows: Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup."
-   ],
-   "variants": [
-    "clipboard history manager windows",
-    "umbra9179 clipboard history manager windows"
-   ],
-   "posts": [],
-   "repo": "Umbra9179/clipboard-history-manager-windows",
-   "known": "",
-   "format": "image",
-   "one_click": null
-  },
-  {
-   "term": "ztrx",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout Zettrox/ztrx ★1187 (1187/day)"
-   ],
-   "examples": [
-    "Zettrox/ztrx: Run the Xbox Series build of the game natively on Windows PCs with NVIDIA GPUs"
-   ],
-   "variants": [
-    "ztrx",
-    "zettrox ztrx"
-   ],
-   "posts": [],
-   "repo": "Zettrox/ztrx",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "steam achievement manager windows",
+   "term": "victory belobug amd",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout solv4626/steam-achievement-manager-windows ★1063 (706/day, +632 in a day)"
+    "GitHub breakout Belobug/VIctory-Belobug-AMD ★1633 (1633/day)"
    ],
    "examples": [
-    "solv4626/steam-achievement-manager-windows: Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics."
+    "Belobug/VIctory-Belobug-AMD: "
    ],
    "variants": [
-    "steam achievement manager windows",
-    "solv4626 steam achievement manager windows"
+    "victory belobug amd",
+    "belobug victory belobug amd"
    ],
    "posts": [],
-   "repo": "solv4626/steam-achievement-manager-windows",
+   "repo": "Belobug/VIctory-Belobug-AMD",
    "known": "",
    "format": "text",
    "one_click": null
@@ -130,14 +46,14 @@
   "first_run": false,
   "terms": [
    {
-    "term": "qwen image 2.1",
-    "rank": 13,
+    "term": "looped transformers",
+    "rank": 35,
     "copies": 1,
     "examples": [
-     "xyzanonimous5/Qwen-Image-2.1-Studio (gradio, ♥70)"
+     "dlouapre/looped-transformers (docker, ♥18)"
     ],
     "recent": 1,
-    "note": "Hugging Face Spaces: new at #13"
+    "note": "Hugging Face Spaces: new at #35"
    }
   ],
   "models": 100,
@@ -151,10 +67,10 @@
     "repo": "Marvisak/VIctory",
     "owner": "Marvisak",
     "name": "VIctory",
-    "stars": 11860,
-    "velocity": 7936,
-    "delta": 692,
-    "age_days": 1.5,
+    "stars": 12545,
+    "velocity": 6219,
+    "delta": 685,
+    "age_days": 2.0,
     "description": "An attempt at running GTA VI on PC",
     "new": false
    },
@@ -162,21 +78,36 @@
     "repo": "fxceless/victory-fork",
     "owner": "fxceless",
     "name": "victory-fork",
-    "stars": 2521,
-    "velocity": 2521,
-    "delta": 997,
-    "age_days": 1.0,
+    "stars": 3016,
+    "velocity": 2570,
+    "delta": 495,
+    "age_days": 1.2,
     "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
     "new": false
+   },
+   {
+    "repo": "Belobug/VIctory-Belobug-AMD",
+    "owner": "Belobug",
+    "name": "VIctory-Belobug-AMD",
+    "stars": 1633,
+    "velocity": 1633,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "",
+    "new": true,
+    "variants": [
+     "victory belobug amd",
+     "belobug victory belobug amd"
+    ]
    },
    {
     "repo": "xcl-dev/xcl",
     "owner": "xcl-dev",
     "name": "xcl",
-    "stars": 8053,
-    "velocity": 1763,
-    "delta": 283,
-    "age_days": 4.6,
+    "stars": 8289,
+    "velocity": 1629,
+    "delta": 236,
+    "age_days": 5.1,
     "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries",
     "new": false
    },
@@ -184,69 +115,65 @@
     "repo": "ubiquitarianism/leonida",
     "owner": "ubiquitarianism",
     "name": "leonida",
-    "stars": 2062,
-    "velocity": 1466,
-    "delta": 235,
-    "age_days": 1.4,
+    "stars": 2307,
+    "velocity": 1196,
+    "delta": 245,
+    "age_days": 1.9,
     "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
     "new": false
-   },
-   {
-    "repo": "Zettrox/ztrx",
-    "owner": "Zettrox",
-    "name": "ztrx",
-    "stars": 1187,
-    "velocity": 1187,
-    "delta": null,
-    "age_days": 1.0,
-    "description": "Run the Xbox Series build of the game natively on Windows PCs with NVIDIA GPUs",
-    "new": true,
-    "variants": [
-     "ztrx",
-     "zettrox ztrx"
-    ]
    },
    {
     "repo": "erkamyaman/rust-anything",
     "owner": "erkamyaman",
     "name": "rust-anything",
-    "stars": 9392,
-    "velocity": 1056,
-    "delta": 202,
-    "age_days": 8.9,
+    "stars": 9579,
+    "velocity": 1017,
+    "delta": 187,
+    "age_days": 9.4,
     "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
-    "new": false
-   },
-   {
-    "repo": "EL4CTEO/fast-anything",
-    "owner": "EL4CTEO",
-    "name": "fast-anything",
-    "stars": 3766,
-    "velocity": 993,
-    "delta": 184,
-    "age_days": 3.8,
-    "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
     "new": false
    },
    {
     "repo": "4lwayz/portwatch-vi",
     "owner": "4lwayz",
     "name": "portwatch-vi",
-    "stars": 3193,
-    "velocity": 930,
-    "delta": 451,
-    "age_days": 3.4,
+    "stars": 3949,
+    "velocity": 998,
+    "delta": 756,
+    "age_days": 4.0,
     "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+    "new": false
+   },
+   {
+    "repo": "EL4CTEO/fast-anything",
+    "owner": "EL4CTEO",
+    "name": "fast-anything",
+    "stars": 3932,
+    "velocity": 912,
+    "delta": 166,
+    "age_days": 4.3,
+    "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
+    "new": false
+   },
+   {
+    "repo": "AFK-surf/xnulinux",
+    "owner": "AFK-surf",
+    "name": "xnulinux",
+    "stars": 3908,
+    "velocity": 711,
+    "delta": 242,
+    "age_days": 5.5,
+    "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
     "new": false
    },
    {
     "repo": "Indigo-0167/universal-game-mod-manager",
     "owner": "Indigo-0167",
     "name": "universal-game-mod-manager",
-    "stars": 1187,
-    "velocity": 788,
-    "delta": 734,
-    "age_days": 1.5,
+    "stars": 1298,
+    "velocity": 640,
+    "delta": 111,
+    "age_days": 2.0,
     "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
     "new": false
    },
@@ -254,149 +181,70 @@
     "repo": "Umbra9179/clipboard-history-manager-windows",
     "owner": "Umbra9179",
     "name": "clipboard-history-manager-windows",
-    "stars": 1162,
-    "velocity": 775,
-    "delta": 729,
-    "age_days": 1.5,
+    "stars": 1261,
+    "velocity": 624,
+    "delta": 99,
+    "age_days": 2.0,
     "description": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
-    "new": true,
-    "variants": [
-     "clipboard history manager windows",
-     "umbra9179 clipboard history manager windows"
-    ]
+    "new": false
    },
    {
-    "repo": "AFK-surf/xnulinux",
-    "owner": "AFK-surf",
-    "name": "xnulinux",
-    "stars": 3666,
-    "velocity": 737,
-    "delta": 351,
-    "age_days": 5.0,
-    "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+    "repo": "os6/nospeaker",
+    "owner": "os6",
+    "name": "nospeaker",
+    "stars": 1876,
+    "velocity": 548,
+    "delta": 66,
+    "age_days": 3.4,
+    "description": "make your macbook's trackpad talk using its haptic motor",
+    "new": false
+   },
+   {
+    "repo": "zero5122/offline-file-converter-windows",
+    "owner": "zero5122",
+    "name": "offline-file-converter-windows",
+    "stars": 1058,
+    "velocity": 523,
+    "delta": -1,
+    "age_days": 2.0,
+    "description": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
     "new": false
    },
    {
     "repo": "solv4626/steam-achievement-manager-windows",
     "owner": "solv4626",
     "name": "steam-achievement-manager-windows",
-    "stars": 1063,
-    "velocity": 706,
-    "delta": 632,
-    "age_days": 1.5,
+    "stars": 1058,
+    "velocity": 522,
+    "delta": -5,
+    "age_days": 2.0,
     "description": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
-    "new": true,
-    "variants": [
-     "steam achievement manager windows",
-     "solv4626 steam achievement manager windows"
-    ]
-   },
-   {
-    "repo": "zero5122/offline-file-converter-windows",
-    "owner": "zero5122",
-    "name": "offline-file-converter-windows",
-    "stars": 1059,
-    "velocity": 706,
-    "delta": 622,
-    "age_days": 1.5,
-    "description": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
-    "new": true,
-    "variants": [
-     "offline file converter windows",
-     "zero5122 offline file converter windows"
-    ]
+    "new": false
    },
    {
     "repo": "kai415-debug/ffmpeg-video-audio-converter",
     "owner": "kai415-debug",
     "name": "ffmpeg-video-audio-converter",
-    "stars": 1024,
-    "velocity": 681,
-    "delta": 597,
-    "age_days": 1.5,
+    "stars": 1020,
+    "velocity": 503,
+    "delta": -4,
+    "age_days": 2.0,
     "description": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
-    "new": true,
-    "variants": [
-     "ffmpeg video audio converter",
-     "kai415-debug ffmpeg video audio converter"
-    ]
-   },
-   {
-    "repo": "os6/nospeaker",
-    "owner": "os6",
-    "name": "nospeaker",
-    "stars": 1810,
-    "velocity": 624,
-    "delta": 65,
-    "age_days": 2.9,
-    "description": "make your macbook's trackpad talk using its haptic motor",
     "new": false
    }
   ],
   "terms": [
    {
-    "term": "ztrx",
+    "term": "victory belobug amd",
     "recent": 1,
     "variants": [
-     "ztrx",
-     "zettrox ztrx"
+     "victory belobug amd",
+     "belobug victory belobug amd"
     ],
-    "repo": "Zettrox/ztrx",
-    "note": "GitHub breakout Zettrox/ztrx ★1187 (1187/day)",
+    "repo": "Belobug/VIctory-Belobug-AMD",
+    "note": "GitHub breakout Belobug/VIctory-Belobug-AMD ★1633 (1633/day)",
     "examples": [
-     "Zettrox/ztrx: Run the Xbox Series build of the game natively on Windows PCs with NVIDIA GPUs"
-    ]
-   },
-   {
-    "term": "clipboard history manager windows",
-    "recent": 1,
-    "variants": [
-     "clipboard history manager windows",
-     "umbra9179 clipboard history manager windows"
-    ],
-    "repo": "Umbra9179/clipboard-history-manager-windows",
-    "note": "GitHub breakout Umbra9179/clipboard-history-manager-windows ★1162 (775/day, +729 in a day)",
-    "examples": [
-     "Umbra9179/clipboard-history-manager-windows: Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup."
-    ]
-   },
-   {
-    "term": "steam achievement manager windows",
-    "recent": 1,
-    "variants": [
-     "steam achievement manager windows",
-     "solv4626 steam achievement manager windows"
-    ],
-    "repo": "solv4626/steam-achievement-manager-windows",
-    "note": "GitHub breakout solv4626/steam-achievement-manager-windows ★1063 (706/day, +632 in a day)",
-    "examples": [
-     "solv4626/steam-achievement-manager-windows: Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics."
-    ]
-   },
-   {
-    "term": "offline file converter windows",
-    "recent": 1,
-    "variants": [
-     "offline file converter windows",
-     "zero5122 offline file converter windows"
-    ],
-    "repo": "zero5122/offline-file-converter-windows",
-    "note": "GitHub breakout zero5122/offline-file-converter-windows ★1059 (706/day, +622 in a day)",
-    "examples": [
-     "zero5122/offline-file-converter-windows: Free offline file converter for Windows – convert PDF, documents, images, audio and video privately."
-    ]
-   },
-   {
-    "term": "ffmpeg video audio converter",
-    "recent": 1,
-    "variants": [
-     "ffmpeg video audio converter",
-     "kai415-debug ffmpeg video audio converter"
-    ],
-    "repo": "kai415-debug/ffmpeg-video-audio-converter",
-    "note": "GitHub breakout kai415-debug/ffmpeg-video-audio-converter ★1024 (681/day, +597 in a day)",
-    "examples": [
-     "kai415-debug/ffmpeg-video-audio-converter: Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding."
+     "Belobug/VIctory-Belobug-AMD: "
     ]
    }
   ],
@@ -425,7 +273,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 200,
+  "pending": 202,
   "window_days": 60
  },
  "keywords": {
