@@ -1,39 +1,125 @@
 {
  "leads": [
   {
-   "term": "looped transformers",
+   "term": "inkling 2 mini",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face Spaces: new at #35"
+    "Hugging Face: new at #45"
    ],
    "examples": [
-    "dlouapre/looped-transformers (docker, ♥18)"
+    "ggml-org/Inkling-2-Mini-GGUF (image-text-to-text, ♥92)"
    ],
    "variants": [],
    "posts": [],
+   "known": "",
+   "format": "image",
+   "one_click": null
+  },
+  {
+   "term": "victory 7900xtx",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout avatarmanz/VIctory-7900XTX ★1352 (1352/day)"
+   ],
+   "examples": [
+    "avatarmanz/VIctory-7900XTX: Goal: an Xbox Series title (your own dump) at a stable 30+ fps on PC without ray tracing, then higher. Porting, not emul"
+   ],
+   "variants": [
+    "victory 7900xtx",
+    "avatarmanz victory 7900xtx"
+   ],
+   "posts": [],
+   "repo": "avatarmanz/VIctory-7900XTX",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "victory belobug amd",
+   "term": "llm asm",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout Belobug/VIctory-Belobug-AMD ★1633 (1633/day)"
+    "GitHub breakout alesha-pro/llm.asm ★778 (725/day)"
    ],
    "examples": [
-    "Belobug/VIctory-Belobug-AMD: "
+    "alesha-pro/llm.asm: Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (3"
    ],
    "variants": [
-    "victory belobug amd",
-    "belobug victory belobug amd"
+    "llm asm",
+    "alesha-pro llm asm",
+    "alexey llm asm"
    ],
    "posts": [],
-   "repo": "Belobug/VIctory-Belobug-AMD",
+   "repo": "alesha-pro/llm.asm",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "obsidian prism",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout RMvdesi/obsidian-prism ★1578 (170/day, +664 in a day)"
+   ],
+   "examples": [
+    "RMvdesi/obsidian-prism: Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity"
+   ],
+   "variants": [
+    "obsidian prism",
+    "rmvdesi obsidian prism"
+   ],
+   "posts": [],
+   "repo": "RMvdesi/obsidian-prism",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "grh lean",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout lsernau/grh-lean ★623 (623/day)"
+   ],
+   "examples": [
+    "lsernau/grh-lean: A short Lean 4 proof of the Generalized Riemann Hypothesis"
+   ],
+   "variants": [
+    "grh lean",
+    "lsernau grh lean"
+   ],
+   "posts": [],
+   "repo": "lsernau/grh-lean",
+   "known": "",
+   "format": "text",
+   "one_click": null
+  },
+  {
+   "term": "openset llm",
+   "kinds": [
+    "breakout"
+   ],
+   "signals": [
+    "GitHub breakout opensetlabs/openset-llm ★1234 (96/day, +540 in a day)"
+   ],
+   "examples": [
+    "opensetlabs/openset-llm: Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server."
+   ],
+   "variants": [
+    "openset llm",
+    "opensetlabs openset llm",
+    "open openset llm"
+   ],
+   "posts": [],
+   "repo": "opensetlabs/openset-llm",
    "known": "",
    "format": "text",
    "one_click": null
@@ -46,14 +132,14 @@
   "first_run": false,
   "terms": [
    {
-    "term": "looped transformers",
-    "rank": 35,
+    "term": "inkling 2 mini",
+    "rank": 45,
     "copies": 1,
     "examples": [
-     "dlouapre/looped-transformers (docker, ♥18)"
+     "ggml-org/Inkling-2-Mini-GGUF (image-text-to-text, ♥92)"
     ],
     "recent": 1,
-    "note": "Hugging Face Spaces: new at #35"
+    "note": "Hugging Face: new at #45"
    }
   ],
   "models": 100,
@@ -67,10 +153,10 @@
     "repo": "Marvisak/VIctory",
     "owner": "Marvisak",
     "name": "VIctory",
-    "stars": 12545,
-    "velocity": 6219,
-    "delta": 685,
-    "age_days": 2.0,
+    "stars": 12847,
+    "velocity": 5186,
+    "delta": 302,
+    "age_days": 2.5,
     "description": "An attempt at running GTA VI on PC",
     "new": false
    },
@@ -78,10 +164,10 @@
     "repo": "fxceless/victory-fork",
     "owner": "fxceless",
     "name": "victory-fork",
-    "stars": 3016,
-    "velocity": 2570,
-    "delta": 495,
-    "age_days": 1.2,
+    "stars": 3167,
+    "velocity": 1939,
+    "delta": 151,
+    "age_days": 1.6,
     "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
     "new": false
    },
@@ -89,36 +175,58 @@
     "repo": "Belobug/VIctory-Belobug-AMD",
     "owner": "Belobug",
     "name": "VIctory-Belobug-AMD",
-    "stars": 1633,
-    "velocity": 1633,
-    "delta": null,
+    "stars": 1703,
+    "velocity": 1703,
+    "delta": 70,
     "age_days": 1.0,
     "description": "",
-    "new": true,
-    "variants": [
-     "victory belobug amd",
-     "belobug victory belobug amd"
-    ]
+    "new": false
    },
    {
     "repo": "xcl-dev/xcl",
     "owner": "xcl-dev",
     "name": "xcl",
-    "stars": 8289,
-    "velocity": 1629,
-    "delta": 236,
-    "age_days": 5.1,
+    "stars": 8401,
+    "velocity": 1514,
+    "delta": 112,
+    "age_days": 5.5,
     "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries",
+    "new": false
+   },
+   {
+    "repo": "avatarmanz/VIctory-7900XTX",
+    "owner": "avatarmanz",
+    "name": "VIctory-7900XTX",
+    "stars": 1352,
+    "velocity": 1352,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "Goal: an Xbox Series title (your own dump) at a stable 30+ fps on PC without ray tracing, then higher. Porting, not emul",
+    "new": true,
+    "variants": [
+     "victory 7900xtx",
+     "avatarmanz victory 7900xtx"
+    ]
+   },
+   {
+    "repo": "4lwayz/portwatch-vi",
+    "owner": "4lwayz",
+    "name": "portwatch-vi",
+    "stars": 4688,
+    "velocity": 1062,
+    "delta": 739,
+    "age_days": 4.4,
+    "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
     "new": false
    },
    {
     "repo": "ubiquitarianism/leonida",
     "owner": "ubiquitarianism",
     "name": "leonida",
-    "stars": 2307,
-    "velocity": 1196,
-    "delta": 245,
-    "age_days": 1.9,
+    "stars": 2403,
+    "velocity": 1006,
+    "delta": 96,
+    "age_days": 2.4,
     "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
     "new": false
    },
@@ -126,125 +234,175 @@
     "repo": "erkamyaman/rust-anything",
     "owner": "erkamyaman",
     "name": "rust-anything",
-    "stars": 9579,
-    "velocity": 1017,
-    "delta": 187,
-    "age_days": 9.4,
+    "stars": 9771,
+    "velocity": 989,
+    "delta": 192,
+    "age_days": 9.9,
     "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
-    "new": false
-   },
-   {
-    "repo": "4lwayz/portwatch-vi",
-    "owner": "4lwayz",
-    "name": "portwatch-vi",
-    "stars": 3949,
-    "velocity": 998,
-    "delta": 756,
-    "age_days": 4.0,
-    "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
     "new": false
    },
    {
     "repo": "EL4CTEO/fast-anything",
     "owner": "EL4CTEO",
     "name": "fast-anything",
-    "stars": 3932,
-    "velocity": 912,
-    "delta": 166,
-    "age_days": 4.3,
+    "stars": 4081,
+    "velocity": 855,
+    "delta": 149,
+    "age_days": 4.8,
     "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
     "new": false
+   },
+   {
+    "repo": "alesha-pro/llm.asm",
+    "owner": "alesha-pro",
+    "name": "llm.asm",
+    "stars": 778,
+    "velocity": 725,
+    "delta": null,
+    "age_days": 1.1,
+    "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (3",
+    "new": true,
+    "variants": [
+     "llm asm",
+     "alesha-pro llm asm",
+     "alexey llm asm"
+    ]
    },
    {
     "repo": "AFK-surf/xnulinux",
     "owner": "AFK-surf",
     "name": "xnulinux",
-    "stars": 3908,
-    "velocity": 711,
-    "delta": 242,
-    "age_days": 5.5,
+    "stars": 4073,
+    "velocity": 684,
+    "delta": 165,
+    "age_days": 6.0,
     "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
     "new": false
+   },
+   {
+    "repo": "RMvdesi/obsidian-prism",
+    "owner": "RMvdesi",
+    "name": "obsidian-prism",
+    "stars": 1578,
+    "velocity": 170,
+    "delta": 664,
+    "age_days": 9.3,
+    "description": "Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity",
+    "new": true,
+    "variants": [
+     "obsidian prism",
+     "rmvdesi obsidian prism"
+    ]
+   },
+   {
+    "repo": "lsernau/grh-lean",
+    "owner": "lsernau",
+    "name": "grh-lean",
+    "stars": 623,
+    "velocity": 623,
+    "delta": null,
+    "age_days": 1.0,
+    "description": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
+    "new": true,
+    "variants": [
+     "grh lean",
+     "lsernau grh lean"
+    ]
+   },
+   {
+    "repo": "opensetlabs/openset-llm",
+    "owner": "opensetlabs",
+    "name": "openset-llm",
+    "stars": 1234,
+    "velocity": 96,
+    "delta": 540,
+    "age_days": 12.9,
+    "description": "Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.",
+    "new": true,
+    "variants": [
+     "openset llm",
+     "opensetlabs openset llm",
+     "open openset llm"
+    ]
    },
    {
     "repo": "Indigo-0167/universal-game-mod-manager",
     "owner": "Indigo-0167",
     "name": "universal-game-mod-manager",
-    "stars": 1298,
-    "velocity": 640,
-    "delta": 111,
-    "age_days": 2.0,
-    "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
-    "new": false
-   },
-   {
-    "repo": "Umbra9179/clipboard-history-manager-windows",
-    "owner": "Umbra9179",
-    "name": "clipboard-history-manager-windows",
-    "stars": 1261,
-    "velocity": 624,
-    "delta": 99,
-    "age_days": 2.0,
-    "description": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
-    "new": false
-   },
-   {
-    "repo": "os6/nospeaker",
-    "owner": "os6",
-    "name": "nospeaker",
-    "stars": 1876,
-    "velocity": 548,
-    "delta": 66,
-    "age_days": 3.4,
-    "description": "make your macbook's trackpad talk using its haptic motor",
-    "new": false
-   },
-   {
-    "repo": "zero5122/offline-file-converter-windows",
-    "owner": "zero5122",
-    "name": "offline-file-converter-windows",
-    "stars": 1058,
-    "velocity": 523,
-    "delta": -1,
-    "age_days": 2.0,
-    "description": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
-    "new": false
-   },
-   {
-    "repo": "solv4626/steam-achievement-manager-windows",
-    "owner": "solv4626",
-    "name": "steam-achievement-manager-windows",
-    "stars": 1058,
+    "stars": 1300,
     "velocity": 522,
-    "delta": -5,
-    "age_days": 2.0,
-    "description": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
-    "new": false
-   },
-   {
-    "repo": "kai415-debug/ffmpeg-video-audio-converter",
-    "owner": "kai415-debug",
-    "name": "ffmpeg-video-audio-converter",
-    "stars": 1020,
-    "velocity": 503,
-    "delta": -4,
-    "age_days": 2.0,
-    "description": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
+    "delta": 2,
+    "age_days": 2.5,
+    "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
     "new": false
    }
   ],
   "terms": [
    {
-    "term": "victory belobug amd",
+    "term": "victory 7900xtx",
     "recent": 1,
     "variants": [
-     "victory belobug amd",
-     "belobug victory belobug amd"
+     "victory 7900xtx",
+     "avatarmanz victory 7900xtx"
     ],
-    "repo": "Belobug/VIctory-Belobug-AMD",
-    "note": "GitHub breakout Belobug/VIctory-Belobug-AMD ★1633 (1633/day)",
+    "repo": "avatarmanz/VIctory-7900XTX",
+    "note": "GitHub breakout avatarmanz/VIctory-7900XTX ★1352 (1352/day)",
     "examples": [
-     "Belobug/VIctory-Belobug-AMD: "
+     "avatarmanz/VIctory-7900XTX: Goal: an Xbox Series title (your own dump) at a stable 30+ fps on PC without ray tracing, then higher. Porting, not emul"
+    ]
+   },
+   {
+    "term": "llm asm",
+    "recent": 1,
+    "variants": [
+     "llm asm",
+     "alesha-pro llm asm",
+     "alexey llm asm"
+    ],
+    "repo": "alesha-pro/llm.asm",
+    "note": "GitHub breakout alesha-pro/llm.asm ★778 (725/day)",
+    "examples": [
+     "alesha-pro/llm.asm: Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (3"
+    ]
+   },
+   {
+    "term": "obsidian prism",
+    "recent": 1,
+    "variants": [
+     "obsidian prism",
+     "rmvdesi obsidian prism"
+    ],
+    "repo": "RMvdesi/obsidian-prism",
+    "note": "GitHub breakout RMvdesi/obsidian-prism ★1578 (170/day, +664 in a day)",
+    "examples": [
+     "RMvdesi/obsidian-prism: Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity"
+    ]
+   },
+   {
+    "term": "grh lean",
+    "recent": 1,
+    "variants": [
+     "grh lean",
+     "lsernau grh lean"
+    ],
+    "repo": "lsernau/grh-lean",
+    "note": "GitHub breakout lsernau/grh-lean ★623 (623/day)",
+    "examples": [
+     "lsernau/grh-lean: A short Lean 4 proof of the Generalized Riemann Hypothesis"
+    ]
+   },
+   {
+    "term": "openset llm",
+    "recent": 1,
+    "variants": [
+     "openset llm",
+     "opensetlabs openset llm",
+     "open openset llm"
+    ],
+    "repo": "opensetlabs/openset-llm",
+    "note": "GitHub breakout opensetlabs/openset-llm ★1234 (96/day, +540 in a day)",
+    "examples": [
+     "opensetlabs/openset-llm: Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server."
     ]
    }
   ],
@@ -273,7 +431,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 202,
+  "pending": 207,
   "window_days": 60
  },
  "keywords": {
