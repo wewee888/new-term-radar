@@ -1,125 +1,78 @@
 {
  "leads": [
   {
-   "term": "inkling 2 mini",
+   "term": "inkling 2 mini gsq rco",
    "kinds": [
     "hf"
    ],
    "signals": [
-    "Hugging Face: new at #45"
+    "Hugging Face: new at #41"
    ],
    "examples": [
-    "ggml-org/Inkling-2-Mini-GGUF (image-text-to-text, ♥92)"
+    "ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF (text-generation, ♥82)"
    ],
    "variants": [],
    "posts": [],
    "known": "",
-   "format": "image",
+   "format": "text",
    "one_click": null
   },
   {
-   "term": "victory 7900xtx",
+   "term": "minimax h3",
    "kinds": [
-    "breakout"
+    "hf"
    ],
    "signals": [
-    "GitHub breakout avatarmanz/VIctory-7900XTX ★1352 (1352/day)"
+    "Hugging Face: new at #46"
    ],
    "examples": [
-    "avatarmanz/VIctory-7900XTX: Goal: an Xbox Series title (your own dump) at a stable 30+ fps on PC without ray tracing, then higher. Porting, not emul"
+    "Comfy-Org/MiniMax-H3 (?, ♥2856)"
    ],
-   "variants": [
-    "victory 7900xtx",
-    "avatarmanz victory 7900xtx"
-   ],
+   "variants": [],
    "posts": [],
-   "repo": "avatarmanz/VIctory-7900XTX",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "llm asm",
+   "term": "cool fox",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout alesha-pro/llm.asm ★778 (725/day)"
+    "GitHub breakout DoubleGhosty/cool_fox ★645 (645/day)"
    ],
    "examples": [
-    "alesha-pro/llm.asm: Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (3"
+    "DoubleGhosty/cool_fox: cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wine/Vulkan fixes, FPS unlock, Port 5 CBV"
    ],
    "variants": [
-    "llm asm",
-    "alesha-pro llm asm",
-    "alexey llm asm"
+    "cool fox",
+    "doubleghosty cool fox",
+    "ghosty cool fox"
    ],
    "posts": [],
-   "repo": "alesha-pro/llm.asm",
+   "repo": "DoubleGhosty/cool_fox",
    "known": "",
    "format": "text",
    "one_click": null
   },
   {
-   "term": "obsidian prism",
+   "term": "reloc",
    "kinds": [
     "breakout"
    ],
    "signals": [
-    "GitHub breakout RMvdesi/obsidian-prism ★1578 (170/day, +664 in a day)"
+    "GitHub breakout Reukix/Reloc ★733 (613/day)"
    ],
    "examples": [
-    "RMvdesi/obsidian-prism: Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity"
+    "Reukix/Reloc: iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)"
    ],
    "variants": [
-    "obsidian prism",
-    "rmvdesi obsidian prism"
+    "reloc",
+    "reukix reloc"
    ],
    "posts": [],
-   "repo": "RMvdesi/obsidian-prism",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "grh lean",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout lsernau/grh-lean ★623 (623/day)"
-   ],
-   "examples": [
-    "lsernau/grh-lean: A short Lean 4 proof of the Generalized Riemann Hypothesis"
-   ],
-   "variants": [
-    "grh lean",
-    "lsernau grh lean"
-   ],
-   "posts": [],
-   "repo": "lsernau/grh-lean",
-   "known": "",
-   "format": "text",
-   "one_click": null
-  },
-  {
-   "term": "openset llm",
-   "kinds": [
-    "breakout"
-   ],
-   "signals": [
-    "GitHub breakout opensetlabs/openset-llm ★1234 (96/day, +540 in a day)"
-   ],
-   "examples": [
-    "opensetlabs/openset-llm: Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server."
-   ],
-   "variants": [
-    "openset llm",
-    "opensetlabs openset llm",
-    "open openset llm"
-   ],
-   "posts": [],
-   "repo": "opensetlabs/openset-llm",
+   "repo": "Reukix/Reloc",
    "known": "",
    "format": "text",
    "one_click": null
@@ -132,14 +85,24 @@
   "first_run": false,
   "terms": [
    {
-    "term": "inkling 2 mini",
-    "rank": 45,
+    "term": "inkling 2 mini gsq rco",
+    "rank": 41,
     "copies": 1,
     "examples": [
-     "ggml-org/Inkling-2-Mini-GGUF (image-text-to-text, ♥92)"
+     "ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF (text-generation, ♥82)"
     ],
     "recent": 1,
-    "note": "Hugging Face: new at #45"
+    "note": "Hugging Face: new at #41"
+   },
+   {
+    "term": "minimax h3",
+    "rank": 46,
+    "copies": 1,
+    "examples": [
+     "Comfy-Org/MiniMax-H3 (?, ♥2856)"
+    ],
+    "recent": 1,
+    "note": "Hugging Face: new at #46"
    }
   ],
   "models": 100,
@@ -153,256 +116,203 @@
     "repo": "Marvisak/VIctory",
     "owner": "Marvisak",
     "name": "VIctory",
-    "stars": 12847,
-    "velocity": 5186,
-    "delta": 302,
-    "age_days": 2.5,
+    "stars": 13288,
+    "velocity": 4406,
+    "delta": 441,
+    "age_days": 3.0,
     "description": "An attempt at running GTA VI on PC",
-    "new": false
-   },
-   {
-    "repo": "fxceless/victory-fork",
-    "owner": "fxceless",
-    "name": "victory-fork",
-    "stars": 3167,
-    "velocity": 1939,
-    "delta": 151,
-    "age_days": 1.6,
-    "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
-    "new": false
-   },
-   {
-    "repo": "Belobug/VIctory-Belobug-AMD",
-    "owner": "Belobug",
-    "name": "VIctory-Belobug-AMD",
-    "stars": 1703,
-    "velocity": 1703,
-    "delta": 70,
-    "age_days": 1.0,
-    "description": "",
-    "new": false
-   },
-   {
-    "repo": "xcl-dev/xcl",
-    "owner": "xcl-dev",
-    "name": "xcl",
-    "stars": 8401,
-    "velocity": 1514,
-    "delta": 112,
-    "age_days": 5.5,
-    "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries",
     "new": false
    },
    {
     "repo": "avatarmanz/VIctory-7900XTX",
     "owner": "avatarmanz",
     "name": "VIctory-7900XTX",
-    "stars": 1352,
-    "velocity": 1352,
-    "delta": null,
+    "stars": 1833,
+    "velocity": 1833,
+    "delta": 481,
     "age_days": 1.0,
-    "description": "Goal: an Xbox Series title (your own dump) at a stable 30+ fps on PC without ray tracing, then higher. Porting, not emul",
-    "new": true,
-    "variants": [
-     "victory 7900xtx",
-     "avatarmanz victory 7900xtx"
-    ]
+    "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xb",
+    "new": false
+   },
+   {
+    "repo": "Belobug/VIctory-Belobug-AMD",
+    "owner": "Belobug",
+    "name": "VIctory-Belobug-AMD",
+    "stars": 2584,
+    "velocity": 1700,
+    "delta": 881,
+    "age_days": 1.5,
+    "description": "",
+    "new": false
+   },
+   {
+    "repo": "fxceless/victory-fork",
+    "owner": "fxceless",
+    "name": "victory-fork",
+    "stars": 3264,
+    "velocity": 1503,
+    "delta": 97,
+    "age_days": 2.2,
+    "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+    "new": false
+   },
+   {
+    "repo": "xcl-dev/xcl",
+    "owner": "xcl-dev",
+    "name": "xcl",
+    "stars": 8586,
+    "velocity": 1410,
+    "delta": 185,
+    "age_days": 6.1,
+    "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries",
+    "new": false
    },
    {
     "repo": "4lwayz/portwatch-vi",
     "owner": "4lwayz",
     "name": "portwatch-vi",
-    "stars": 4688,
-    "velocity": 1062,
-    "delta": 739,
-    "age_days": 4.4,
+    "stars": 5632,
+    "velocity": 1137,
+    "delta": 944,
+    "age_days": 5.0,
     "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-    "new": false
-   },
-   {
-    "repo": "ubiquitarianism/leonida",
-    "owner": "ubiquitarianism",
-    "name": "leonida",
-    "stars": 2403,
-    "velocity": 1006,
-    "delta": 96,
-    "age_days": 2.4,
-    "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
     "new": false
    },
    {
     "repo": "erkamyaman/rust-anything",
     "owner": "erkamyaman",
     "name": "rust-anything",
-    "stars": 9771,
-    "velocity": 989,
-    "delta": 192,
-    "age_days": 9.9,
-    "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLI",
-    "new": false
-   },
-   {
-    "repo": "EL4CTEO/fast-anything",
-    "owner": "EL4CTEO",
-    "name": "fast-anything",
-    "stars": 4081,
-    "velocity": 855,
-    "delta": 149,
-    "age_days": 4.8,
-    "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
+    "stars": 10172,
+    "velocity": 977,
+    "delta": 401,
+    "age_days": 10.4,
+    "description": "Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with TypeScript, JavaScript,",
     "new": false
    },
    {
     "repo": "alesha-pro/llm.asm",
     "owner": "alesha-pro",
     "name": "llm.asm",
-    "stars": 778,
-    "velocity": 725,
-    "delta": null,
-    "age_days": 1.1,
+    "stars": 1438,
+    "velocity": 892,
+    "delta": 660,
+    "age_days": 1.6,
     "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (3",
-    "new": true,
-    "variants": [
-     "llm asm",
-     "alesha-pro llm asm",
-     "alexey llm asm"
-    ]
-   },
-   {
-    "repo": "AFK-surf/xnulinux",
-    "owner": "AFK-surf",
-    "name": "xnulinux",
-    "stars": 4073,
-    "velocity": 684,
-    "delta": 165,
-    "age_days": 6.0,
-    "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
     "new": false
    },
    {
-    "repo": "RMvdesi/obsidian-prism",
-    "owner": "RMvdesi",
-    "name": "obsidian-prism",
-    "stars": 1578,
-    "velocity": 170,
-    "delta": 664,
-    "age_days": 9.3,
-    "description": "Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity",
-    "new": true,
-    "variants": [
-     "obsidian prism",
-     "rmvdesi obsidian prism"
-    ]
+    "repo": "ubiquitarianism/leonida",
+    "owner": "ubiquitarianism",
+    "name": "leonida",
+    "stars": 2522,
+    "velocity": 861,
+    "delta": 119,
+    "age_days": 2.9,
+    "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+    "new": false
    },
    {
     "repo": "lsernau/grh-lean",
     "owner": "lsernau",
     "name": "grh-lean",
-    "stars": 623,
-    "velocity": 623,
+    "stars": 864,
+    "velocity": 815,
+    "delta": 241,
+    "age_days": 1.1,
+    "description": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
+    "new": false
+   },
+   {
+    "repo": "EL4CTEO/fast-anything",
+    "owner": "EL4CTEO",
+    "name": "fast-anything",
+    "stars": 4209,
+    "velocity": 792,
+    "delta": 128,
+    "age_days": 5.3,
+    "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with you",
+    "new": false
+   },
+   {
+    "repo": "AFK-surf/xnulinux",
+    "owner": "AFK-surf",
+    "name": "xnulinux",
+    "stars": 4226,
+    "velocity": 651,
+    "delta": 153,
+    "age_days": 6.5,
+    "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+    "new": false
+   },
+   {
+    "repo": "DoubleGhosty/cool_fox",
+    "owner": "DoubleGhosty",
+    "name": "cool_fox",
+    "stars": 645,
+    "velocity": 645,
     "delta": null,
     "age_days": 1.0,
-    "description": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
+    "description": "cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wine/Vulkan fixes, FPS unlock, Port 5 CBV",
     "new": true,
     "variants": [
-     "grh lean",
-     "lsernau grh lean"
+     "cool fox",
+     "doubleghosty cool fox",
+     "ghosty cool fox"
     ]
    },
    {
-    "repo": "opensetlabs/openset-llm",
-    "owner": "opensetlabs",
-    "name": "openset-llm",
-    "stars": 1234,
-    "velocity": 96,
-    "delta": 540,
-    "age_days": 12.9,
-    "description": "Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.",
-    "new": true,
-    "variants": [
-     "openset llm",
-     "opensetlabs openset llm",
-     "open openset llm"
-    ]
-   },
-   {
-    "repo": "Indigo-0167/universal-game-mod-manager",
-    "owner": "Indigo-0167",
-    "name": "universal-game-mod-manager",
-    "stars": 1300,
-    "velocity": 522,
-    "delta": 2,
-    "age_days": 2.5,
-    "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+    "repo": "RMvdesi/obsidian-prism",
+    "owner": "RMvdesi",
+    "name": "obsidian-prism",
+    "stars": 2216,
+    "velocity": 226,
+    "delta": 638,
+    "age_days": 9.8,
+    "description": "Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity",
     "new": false
+   },
+   {
+    "repo": "Reukix/Reloc",
+    "owner": "Reukix",
+    "name": "Reloc",
+    "stars": 733,
+    "velocity": 613,
+    "delta": null,
+    "age_days": 1.2,
+    "description": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+    "new": true,
+    "variants": [
+     "reloc",
+     "reukix reloc"
+    ]
    }
   ],
   "terms": [
    {
-    "term": "victory 7900xtx",
+    "term": "cool fox",
     "recent": 1,
     "variants": [
-     "victory 7900xtx",
-     "avatarmanz victory 7900xtx"
+     "cool fox",
+     "doubleghosty cool fox",
+     "ghosty cool fox"
     ],
-    "repo": "avatarmanz/VIctory-7900XTX",
-    "note": "GitHub breakout avatarmanz/VIctory-7900XTX ★1352 (1352/day)",
+    "repo": "DoubleGhosty/cool_fox",
+    "note": "GitHub breakout DoubleGhosty/cool_fox ★645 (645/day)",
     "examples": [
-     "avatarmanz/VIctory-7900XTX: Goal: an Xbox Series title (your own dump) at a stable 30+ fps on PC without ray tracing, then higher. Porting, not emul"
+     "DoubleGhosty/cool_fox: cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wine/Vulkan fixes, FPS unlock, Port 5 CBV"
     ]
    },
    {
-    "term": "llm asm",
+    "term": "reloc",
     "recent": 1,
     "variants": [
-     "llm asm",
-     "alesha-pro llm asm",
-     "alexey llm asm"
+     "reloc",
+     "reukix reloc"
     ],
-    "repo": "alesha-pro/llm.asm",
-    "note": "GitHub breakout alesha-pro/llm.asm ★778 (725/day)",
+    "repo": "Reukix/Reloc",
+    "note": "GitHub breakout Reukix/Reloc ★733 (613/day)",
     "examples": [
-     "alesha-pro/llm.asm: Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (3"
-    ]
-   },
-   {
-    "term": "obsidian prism",
-    "recent": 1,
-    "variants": [
-     "obsidian prism",
-     "rmvdesi obsidian prism"
-    ],
-    "repo": "RMvdesi/obsidian-prism",
-    "note": "GitHub breakout RMvdesi/obsidian-prism ★1578 (170/day, +664 in a day)",
-    "examples": [
-     "RMvdesi/obsidian-prism: Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity"
-    ]
-   },
-   {
-    "term": "grh lean",
-    "recent": 1,
-    "variants": [
-     "grh lean",
-     "lsernau grh lean"
-    ],
-    "repo": "lsernau/grh-lean",
-    "note": "GitHub breakout lsernau/grh-lean ★623 (623/day)",
-    "examples": [
-     "lsernau/grh-lean: A short Lean 4 proof of the Generalized Riemann Hypothesis"
-    ]
-   },
-   {
-    "term": "openset llm",
-    "recent": 1,
-    "variants": [
-     "openset llm",
-     "opensetlabs openset llm",
-     "open openset llm"
-    ],
-    "repo": "opensetlabs/openset-llm",
-    "note": "GitHub breakout opensetlabs/openset-llm ★1234 (96/day, +540 in a day)",
-    "examples": [
-     "opensetlabs/openset-llm: Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server."
+     "Reukix/Reloc: iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)"
     ]
    }
   ],
@@ -431,7 +341,7 @@
  },
  "summary": {
   "by_signal": {},
-  "pending": 207,
+  "pending": 211,
   "window_days": 60
  },
  "keywords": {
